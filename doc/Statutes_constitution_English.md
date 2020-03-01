@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-01T22:32:34.011Z
+date: 2020-03-01T22:34:13.154Z
 tags: documentation
 ---
 
@@ -99,9 +99,12 @@ All Assemblies and Decisions intervention may be dematerialized according to a p
 
 ## Article 12 Jurisdiction
 The Association is represented in court by its President or by any agent that will specially designated.
-The jurisdiction for all actions concerning the association is the court where the association has its seat. 
+The jurisdiction for all actions concerning the association is the court where the association has its seat.
 
 ## Article 13 Dissolution
 The Extraordinary General Assembly shall appoint one or more liquidators to vesting of assets of an association pursuing a similar goal.
 In the absence of such an association Extraordinary General Assembly means an association of a social nature.
-The liquidators perform all declarations and formalities of publication provided by the laws and regulations. 
+The liquidators perform all declarations and formalities of publication provided by the laws and regulations.
+
+
+![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
