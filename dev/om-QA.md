@@ -2,7 +2,7 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-01T20:45:00.027Z
+date: 2020-03-01T21:49:09.997Z
 tags: qa
 ---
 
@@ -41,7 +41,7 @@ We invite everyone to test any OpenMandriva official releases that occur, includ
 - Your Brain
 - Your Computer/Computers
 
-Please read: [How to report a bug]
+Please read: [How to report a bug](/doc/How_to_report_a_bug)
 
 ## Communication
 QA Team daily communication takes place on Freenode IRC channel #openmandriva-cooker, but remember that this is also where developers work so mind your IRC manners.
