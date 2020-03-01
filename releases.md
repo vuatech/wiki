@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-01T19:45:20.106Z
+date: 2020-03-01T19:56:41.967Z
 tags: 
 ---
 
@@ -37,26 +37,12 @@ tags:
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**
+Release: 02 February 2020
 
-#### Alpha
-- Overview
-- Release Notes
-- Errata
-
-#### Beta
-- Overview
-- Release Notes
-- Errata
-
-#### RC
-- Overview
-- Release Notes
-- Errata
-
-#### GA
-- Overview
-- Release Notes
-- Errata
+- [Overview](/releases/omlx41)
+- [What's New](/releases/omlx41/omlx41_new)
+- [Release Notes](/releases/omlx41/omlx41_release_notes)
+- [Errata](/releases/omlx41/omlx41_errata)
 
 
 
