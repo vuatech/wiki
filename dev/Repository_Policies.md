@@ -2,7 +2,7 @@
 title: Repository Policies
 description: 
 published: true
-date: 2020-03-01T19:28:40.866Z
+date: 2020-03-01T19:30:41.789Z
 tags: policies, cooker
 ---
 
@@ -41,7 +41,7 @@ This is the stable release tree. It gets only important updates, such as securit
 People who want the latest version of something should use Rolling instead.
 This means people who use Rock want something that never breaks, special attention must be paid when making any change whatsoever in Rock.
 - Anything sent to Rock must be built in Rolling first. Exception: something where cooker has a newer version of the same thing already, e.g. it can make sense to push LLVM 8.0.1 to Rock if Rock is at 8.0 even when Rolling has already moved on to the 9.0 branch.
-- Developers send packages to `rock/testing` - not `rock/release` - when they think stuff is ready for general consumption. Moving stuff from `rock/testing` to `rock/release` is done by QA, to make sure packages have been tested in the Rolling environment.
+- Developers send packages to `rock/testing` - not `rock/release` - when they think stuff is ready for general consumption. Moving stuff from `rock/testing` to `rock/release` is done by QA, to make sure packages have been tested in the Rock environment.
 - Rock should usually not use beta releases/snapshots of upstream software. Be even more careful about this than Rolling. There are exceptions to this rule, e.g. where upstream is caught in a "release never" cycle, a beta/snapshot is the only one that works in our environment, e.g. "stable" release still uses Qt 4 or Python 2, or there is other good reasons.
 - Updates should usually not change the user interface. People using Rock want something they are familiar with and do not want surprises.
 - **If in doubt, do not do it**. People who want the update for something that is not important should use Rolling
