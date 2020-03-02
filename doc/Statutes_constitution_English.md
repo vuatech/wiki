@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-01T22:34:13.154Z
+date: 2020-03-02T13:40:29.538Z
 tags: documentation
 ---
 
@@ -47,8 +47,11 @@ The membership is lost by:
 ## Article 7 - Administration and representation
 #### 7.1 - Administration Council
 The association is governed by an Administration Council vested with the broadest powers to perform all acts falling within the purpose of the Association that are not reserved to the General Assembly or the President.
+
 The Administration Council is composed of major members elected by the Ordinary General Assembly for a term of two years renewable.
+
 In case of vacancy, the Council provides temporary replacement or Member (s) failed in anticipation of the next General Assembly.
+
 Each Director may be removed by decision of the Ordinary General Assembly.
 The revocation decision is neither motivated nor appealable, and occurs after the person has been invited to submit its observations
 
@@ -103,7 +106,9 @@ The jurisdiction for all actions concerning the association is the court where t
 
 ## Article 13 Dissolution
 The Extraordinary General Assembly shall appoint one or more liquidators to vesting of assets of an association pursuing a similar goal.
+
 In the absence of such an association Extraordinary General Assembly means an association of a social nature.
+
 The liquidators perform all declarations and formalities of publication provided by the laws and regulations.
 
 
