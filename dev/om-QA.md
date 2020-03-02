@@ -2,7 +2,7 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-01T21:49:09.997Z
+date: 2020-03-02T15:47:42.406Z
 tags: qa
 ---
 
@@ -21,7 +21,7 @@ These are not meant to be perfect statements that dictate our work; rather, guid
 
 ## Joining QA
 We welcome everyone to help us test OpenMandriva Lx.
-You can see our Getting Started page for more information about the tools we have at our disposal, and future plans. 
+You can see our [Getting Started](/dev/QA_Getting_Started) page for more information about the tools we have at our disposal, and future plans. 
 
 ## Policies
 QA-Team members need a thorough understanding of:
