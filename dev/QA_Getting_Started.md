@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-02T15:35:06.431Z
+date: 2020-03-02T15:44:48.249Z
 tags: qa
 ---
 
@@ -14,7 +14,7 @@ You will need to use the command line to test more often than not. Make sure you
 
 QA Team daily communication takes place on Freenode IRC @ #openmandriva-cooker but remember that this is also where developers work so mind your IRC manners. Currently OpenMandriva contributor group is small enough that developers and QA work together on IRC. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
-QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the meeting logs to keep up with what is happening. They are announced here.
+QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the meeting logs to keep up with what is happening. They are announced [here](https://forum.openmandriva.org/t/2735).
 TC meetings take place on Freenode IRC @ #openmandriva-cooker.
 
 ### Setting up your OpenMandriva Lx system
@@ -22,12 +22,11 @@ Because you'll probably be working with untested (with our OS at least) software
 
 Pre-release software comes through the testing repositories. Packages in Main repository take precedence over those in other repositories. Packages in Unsupported and Non-Free repositories are responsibility of the package maintainer not OpenMandriva developers.
 
-QA-Team members need a thorough understanding of Release Plan and Repositories and Policies/Repository Policies. There will be more as we better document Openmandriva Lx but we like to keep documentation as simple and light as is feasible.
+QA-Team members need a thorough understanding of [Release Plan and Repositories](/doc/release_plan_and_repositories) and [Repository Policies](/dev/Repository_Policies). There will be more as we better document Openmandriva Lx but we like to keep documentation as simple and light as is feasible.
 
 Workflow for packages is: Cooker > Rolling > Stable repo. Developers/package maintainers are responsible for initiating packages in Cooker and for moving them to Rolling/testing repos. Then QA takes over. Thus all QA Team members are encouraged to maintain a Rolling system where they can do package testing.
 
-You can add the testing repositories with the OpenMandriva *Software Repository Selector* GUI.
-Or from command line:
+You can add the testing repositories with the OpenMandriva *Software Repository Selector* GUI or from command line
 
 For Main repo only:
 
