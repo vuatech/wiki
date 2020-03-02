@@ -2,7 +2,7 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-03-02T14:02:26.273Z
+date: 2020-03-02T14:03:46.147Z
 tags: documentation
 ---
 
@@ -190,3 +190,5 @@ However, these provisions do not apply to the administration and legal documents
 
 ## Dissolution
 In the event of a voluntary, statutory or judicial dissolution, the assets shall be transferred to an association having a similar purpose. If there is no such association, the General Assembly shall select a social association.
+
+![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
