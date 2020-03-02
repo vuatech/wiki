@@ -2,7 +2,7 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-02T15:47:42.406Z
+date: 2020-03-02T15:51:53.555Z
 tags: qa
 ---
 
@@ -49,7 +49,7 @@ Currently OpenMandriva contributor group is small enough that developers and QA 
 There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
 ## Meetings
-QA Team members are encouraged to actively attend weekly TC-Meetings or if unable to attend to read the meeting logs to keep up with what is happening.
+QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the [meeting logs](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/) to keep up with what is happening.
 TC meetings are announced [here](https://forum.openmandriva.org/t/events-and-meetings-calendar/2735) and take place at #openmandriva-cooker. 
 
 
