@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-02T15:46:08.717Z
+date: 2020-03-02T15:52:49.970Z
 tags: documentation, qa
 ---
 
@@ -14,7 +14,7 @@ You will need to use the command line to test more often than not. Make sure you
 
 QA Team daily communication takes place on Freenode IRC @ #openmandriva-cooker but remember that this is also where developers work so mind your IRC manners. Currently OpenMandriva contributor group is small enough that developers and QA work together on IRC. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
-QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the meeting logs to keep up with what is happening. They are announced [here](https://forum.openmandriva.org/t/2735).
+QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the [meeting logs](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/) to keep up with what is happening. They are announced [here](https://forum.openmandriva.org/t/2735).
 TC meetings take place on Freenode IRC @ #openmandriva-cooker.
 
 ### Setting up your OpenMandriva Lx system
