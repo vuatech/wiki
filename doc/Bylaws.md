@@ -2,7 +2,7 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-03-02T14:03:46.147Z
+date: 2020-03-02T14:04:36.433Z
 tags: documentation
 ---
 
@@ -182,7 +182,7 @@ Modern communication means, such as telephone, email, teamwork software, online 
 
 In particular, all such means can be used in the meetings of the Council and in all related processes (in particular, convocation, deliberations, etc.), as well as for voting in all representative bodies.
 
-Moreover, given the international character of the Association, it will be also possible to replace any procedure requiring simultaneous participation (General Assembly or meeting of the Council) by a procedure enabling non-simultaneous participation thanks to a solution applied in certain social enterprise networks. The procedure shall be explained on the Association’s website and shall give the participants the same rights as a traditional procedure requiring simultaneous participation.
+Moreover, given the international character of the Association, it will be also possible to replace any procedure requiring simultaneous participation (General Assembly or meeting of the Council) by a procedure enabling non-simultaneous participation thanks to a solution applied in certain social enterprise networks. The procedure shall be explained on the Association website and shall give the participants the same rights as a traditional procedure requiring simultaneous participation.
 
 Personal digital certificates (e.g. OpenPGP, CAcert certificates) validated by the Council can serve as a digital signature and be used instead of a signature on paper.
 
