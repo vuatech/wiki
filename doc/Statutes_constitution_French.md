@@ -2,7 +2,7 @@
 title: Statutes constitution French
 description: 
 published: true
-date: 2020-03-01T22:58:03.239Z
+date: 2020-03-02T13:41:31.372Z
 tags: documentation
 ---
 
@@ -116,4 +116,6 @@ L'Assemblée Générale Extraordinaire désigne un ou plusieurs liquidateurs afi
 
 En l'absence d'une telle association l'Assemblée Générale Extraordinaire désigne une association à caractère social.
 
-Les liquidateurs effectuent toutes déclarations et formalités de publication prévues par les lois et règlements en vigueur. 
+Les liquidateurs effectuent toutes déclarations et formalités de publication prévues par les lois et règlements en vigueur.
+
+![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
