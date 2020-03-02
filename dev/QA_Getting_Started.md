@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-02T15:52:49.970Z
+date: 2020-03-02T15:55:52.108Z
 tags: documentation, qa
 ---
 
@@ -60,7 +60,7 @@ You can see what packages are waiting to be tested in 'Recent Builds'. Give it a
 The current procedure is that packages require 3 'Accept' votes to move forward, unless there are any 'Reject' votes. If there is even one 'Reject' vote it should be questioned and discussed before moving packages. Also packages that get stuck in Kahinah with no votes for over 7 days can be moved due to QA inaction. Discussion about this takes place on Freenode IRC channel #openmandriva-cooker.
 
 ### Testing new Alpha/Beta/RC ISOs
-This is discussed [here]: OpenMandriva_Release_QA
+This is discussed [here](/dev/Release_QA).
 
 ### Triaging New Bugs with Bugzilla
 This process is in development at this time. (We need to implement something for triaging bug reports.) 
