@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-03-03T18:14:03.137Z
+date: 2020-03-03T18:23:30.161Z
 tags: documentation
 ---
 
@@ -14,6 +14,10 @@ We have these four basic media sources or categories: `/main`, `/unsupported`, `
 Application menu > Software Repository Selector (om-repo-picker)
 
 ![repositories01.jpg](/images/repositories01.jpg)
+
+Or you can select OpenMandriva repo-picker in OM Welcome
+
+![repositories07.jpg](/images/repositories07.jpg)
 
 ### main
 `/main` is the core packages maintained by the OpenMandriva Lx team.
@@ -42,6 +46,11 @@ While we can adjust the packaging of such applications, we do not have the sourc
 
 ![repositories05.jpg](/images/repositories05.jpg)
 
+> Please note: for a few applications, such as Steam, you will need to enable **both non-free and main 32 bit**
+{.is-info}
+
+
+![repositories06.jpg](/images/repositories06.jpg)
 
 ## More in depth
 For a detailed explanation read [OpenMandriva Release Plan and Repositories](/doc/release_plan_and_repositories)
