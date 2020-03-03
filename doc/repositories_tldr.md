@@ -2,13 +2,13 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-03-03T18:23:30.161Z
+date: 2020-03-03T18:24:03.227Z
 tags: documentation
 ---
 
 # Repositories tl;dr
 ## Media Sources
-We have these four basic media sources or categories: `/main`, `/unsupported`, `/restricted` and `/non-free`.
+We have four basic media sources: `/main`, `/unsupported`, `/restricted` and `/non-free`.
 #### How to manage repositories with om-repo-picker
 
 Application menu > Software Repository Selector (om-repo-picker)
