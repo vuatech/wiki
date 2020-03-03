@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-03-03T18:24:03.227Z
+date: 2020-03-03T19:30:37.212Z
 tags: documentation
 ---
 
@@ -51,6 +51,10 @@ While we can adjust the packaging of such applications, we do not have the sourc
 
 
 ![repositories06.jpg](/images/repositories06.jpg)
+
+## After the changes
+When you are done with your changes, run the following command in console
+`$ sudo dnf clean all ; dnf clean all ; dnf repolist`
 
 ## More in depth
 For a detailed explanation read [OpenMandriva Release Plan and Repositories](/doc/release_plan_and_repositories)
