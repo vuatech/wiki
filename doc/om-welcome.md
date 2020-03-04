@@ -2,7 +2,7 @@
 title: OpenMandriva Welcome
 description: 
 published: true
-date: 2020-03-04T19:37:44.925Z
+date: 2020-03-04T19:40:22.378Z
 tags: documentation
 ---
 
@@ -54,7 +54,7 @@ Click on <kbd>Next</kbd>
 
 ![om4.1-welcome-05.jpg](/images/om4.1-welcome-05.jpg)
 
-In this form we will be able to install various applications for different group
+From this page we will be able to install various applications for different group
 
 > **You may need to [enable the relevant repository](/doc/repositories_tldr)**
 {.is-warning}
