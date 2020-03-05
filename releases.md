@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-01T19:56:41.967Z
+date: 2020-03-05T12:17:01.221Z
 tags: 
 ---
 
@@ -54,7 +54,7 @@ Release: 19 June 2019
 .
 
 ### OpenMandriva Lx 3.3
-![omlx3.2-240px.png](/images/omlx3.2-240px.png)
+![omlx3.3-240px.png](/images/omlx3.3-240px.png)
 Codename Einsteinium
 Release: 21 November 2017
 .
