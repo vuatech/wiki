@@ -2,7 +2,7 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-03-06T18:48:34.373Z
+date: 2020-03-06T18:49:05.060Z
 tags: documentation
 ---
 
@@ -22,7 +22,6 @@ tags: documentation
 
 - search repositories for a package:
 `$ sudo dnf search <package_name>`
-
 Note: 'dnf search' will work with partial names as well
 
 - cleanup any files and packages left in cache and to remove repository metadata:
