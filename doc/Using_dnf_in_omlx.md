@@ -2,7 +2,7 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-03-06T18:52:31.270Z
+date: 2020-03-06T18:53:39.238Z
 tags: documentation, dnf
 ---
 
@@ -34,7 +34,8 @@ Note: 'dnf search' will work with partial names as well
 
 `autoremove`
 removes packages installed as dependencies that are no longer required by currently installed programs.
-> Be careful and pay attention when using `dnf autoremove`. It is absolutely possible that this may remove something you don't want to remove. It is a good idea to keep a list of packages that were autoremoved so you know what to re-install if this happens. Note: You can find autoremoved packages in `/var/log/dnf.log`
+> Be careful and pay attention when using `dnf autoremove`. It is absolutely possible that this may remove something you don't want to remove. It is a good idea to keep a list of packages that were autoremoved so you know what to re-install if this happens.
+Note: You can find autoremoved packages in `/var/log/dnf.log`
 {.is-warning}
 
 
