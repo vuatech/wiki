@@ -2,7 +2,7 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-03-06T18:53:39.238Z
+date: 2020-03-06T19:13:31.623Z
 tags: documentation, dnf
 ---
 
@@ -85,3 +85,15 @@ Set best option to False, so that transactions are not limited to best candidate
 
 `-y, --assumeyes`
 Automatically answer yes for all questions
+
+## More
+`$ dnf --help`
+and
+`$ man dnf`
+
+The help menu takes about a minute to a minute and a half to read. The man page takes about 3-5 minutes.
+Both are meant to be available for users to refer to as they use their system and need to find quickly how to do something.
+
+There are also wiki pages and docs about dnf: [Using the DNF software package manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/), [Fedora wiki page](https://fedoraproject.org/wiki/DNF?rd=Dnf), and [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html).
+
+
