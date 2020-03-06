@@ -2,8 +2,8 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-03-06T18:49:05.060Z
-tags: documentation
+date: 2020-03-06T18:49:43.450Z
+tags: documentation, dnf
 ---
 
 # Using dnf in OpenMandriva Lx
