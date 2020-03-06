@@ -2,13 +2,13 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-03-06T18:49:43.450Z
+date: 2020-03-06T18:52:31.270Z
 tags: documentation, dnf
 ---
 
 # Using dnf in OpenMandriva Lx
 
-> For more commands see [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html)
+> For full documentation and more commands see [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html)
 {.is-success}
 
 
