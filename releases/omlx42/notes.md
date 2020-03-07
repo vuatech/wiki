@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-03-07T20:16:58.406Z
+date: 2020-03-07T22:11:01.614Z
 tags: 4.2
 ---
 
@@ -18,7 +18,7 @@ Available ISO files are:
 - znver1 Plasma: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors.
 znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install on any other hardware.
 
-## Recommended Hardware
+## System requirements
 
 OpenMandriva Lx 4.2 requires at least 2.0 GB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
 
@@ -47,7 +47,7 @@ Many Linux distros use Calamares installer and each has it's own implementation 
 
 ## Partitioning
 
-At this time partitioning LVM and Raid setups with Calamares installer are NOT supported.
+At this time partitioning LVM and Raid setups with Calamares installer are not supported.
 **This applies to all partitioning**, all installation on hardware: If you have a UEFI/EFI computer and your BIOS offers a choice when you boot installation media between for example:
 
 `USB some Flash Drive`
@@ -129,7 +129,7 @@ submenu "OpenMandriva (64 bit)" {
 We have now the [om-repo-picker](/images/omlx4.1-repo-picker.jpg) aka Software Repository Selector to select additional repositories for more package availability.
 Do not mix the repositories from different release versions/update channels. This means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
 This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
-**If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install.** And after that fresh install don't do this again.
+**If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install**. After that fresh install do not do this again.
 
 
 ## New Features and Major Changes
