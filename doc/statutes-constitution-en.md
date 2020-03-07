@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-07T11:03:10.447Z
+date: 2020-03-07T11:07:22.851Z
 tags: documentation
 ---
 
