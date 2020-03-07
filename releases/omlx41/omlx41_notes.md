@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-03-07T13:13:28.599Z
+date: 2020-03-07T13:15:07.036Z
 tags: 4.1
 ---
 
@@ -130,7 +130,7 @@ submenu "OpenMandriva (64 bit)" {
 
 We have now the [om-repo-picker](https://wiki.openmandriva.org/en/images/4/46/Repopicker-00.png) aka Software Repository Selector to select additional repositories for more package availability.
 Do not mix the repositories from different release versions/update channels. This means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
-This is explained in more detail in [OpenMandriva Release Plan and Repositories](/en/doc/release_plan_and_repositories). 
+This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install.** And after that fresh install don't do this again.
 
 
@@ -150,7 +150,7 @@ OpenMandriva brand-name applications:
 - Update Configuration (om-update-config): Tool for configuring automatic updates
 
 # Errata
-See [4.1/Errata](/en/releases/omlx41/omlx41_errata).
+See [4.1/Errata](/releases/omlx41/omlx41_errata).
 
 # Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
