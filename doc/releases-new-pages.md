@@ -2,7 +2,7 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-03-07T18:55:42.072Z
+date: 2020-03-07T18:56:33.873Z
 tags: documentation, wiki
 ---
 
@@ -62,7 +62,7 @@ example: /releases/omlx42/omlx42_alpha_errata
 example: /releases/omlx42/omlx42_beta_errata
 example: /releases/omlx42/omlx42_rc_errata
 
-## Notes
+## Addendum
 Pages path while creating pages must be lowercase.
 No punctuation allowed except dashes/hyphens and/or underscores.
 
