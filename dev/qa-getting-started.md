@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-07T12:48:52.051Z
+date: 2020-03-07T13:06:06.550Z
 tags: documentation, qa
 ---
 
@@ -22,7 +22,7 @@ Because you'll probably be working with untested (with our OS at least) software
 
 Pre-release software comes through the testing repositories. Packages in Main repository take precedence over those in other repositories. Packages in Unsupported and Non-Free repositories are responsibility of the package maintainer not OpenMandriva developers.
 
-QA-Team members need a thorough understanding of [Release Plan and Repositories](/doc/release_plan_and_repositories) and [Repository Policies](/dev/Repository_Policies). There will be more as we better document Openmandriva Lx but we like to keep documentation as simple and light as is feasible.
+QA-Team members need a thorough understanding of [Release Plan and Repositories](doc/release-plan-and-repositories) and [Repository Policies](/dev/repository-policies). There will be more as we better document Openmandriva Lx but we like to keep documentation as simple and light as is feasible.
 
 Workflow for packages is: Cooker > Rolling > Stable repo. Developers/package maintainers are responsible for initiating packages in Cooker and for moving them to Rolling/testing repos. Then QA takes over. Thus all QA Team members are encouraged to maintain a Rolling system where they can do package testing.
 
