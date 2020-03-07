@@ -2,8 +2,8 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-02-29T22:06:32.970Z
-tags: 
+date: 2020-03-07T13:17:26.334Z
+tags: 4.2
 ---
 
 # OpenMandriva Lx 4.2  Release Notes
@@ -128,7 +128,7 @@ submenu "OpenMandriva (64 bit)" {
 
 We have now the [om-repo-picker](/images/omlx4.1-repo-picker.jpg) aka Software Repository Selector to select additional repositories for more package availability.
 Do not mix the repositories from different release versions/update channels. This means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
-This is explained in more detail in [OpenMandriva Release Plan and Repositories](/en/doc/release_plan_and_repositories). 
+This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install.** And after that fresh install don't do this again.
 
 
