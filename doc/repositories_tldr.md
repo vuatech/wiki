@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-03-03T19:30:37.212Z
+date: 2020-03-07T10:40:07.723Z
 tags: documentation
 ---
 
@@ -57,4 +57,4 @@ When you are done with your changes, run the following command in console
 `$ sudo dnf clean all ; dnf clean all ; dnf repolist`
 
 ## More in depth
-For a detailed explanation read [OpenMandriva Release Plan and Repositories](/doc/release_plan_and_repositories)
+For a detailed explanation read [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories)
