@@ -2,7 +2,7 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-03-07T22:32:01.287Z
+date: 2020-03-07T22:33:35.229Z
 tags: documentation
 ---
 
@@ -10,7 +10,9 @@ tags: documentation
 
 ## Give time
 
-If you have time, we welcome your help in various areas:
+> **If you have time, we welcome your help in various areas:**
+{.is-info}
+
 
 ### Development
 Check the developers documentation, subscribe to the mailing-lists, join IRC channels, and have a look at the bug-tracking system to get in touch with the developers community and get things done
