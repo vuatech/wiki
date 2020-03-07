@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2
 description: 
 published: true
-date: 2020-03-07T20:19:18.856Z
+date: 2020-03-07T20:20:04.949Z
 tags: 4.2
 ---
 
@@ -13,7 +13,7 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 See [4.2/New](/releases/omlx42/new)
 
 ## Notes
-See [4.2/Release Notes](/releases/omlx42/_notes)
+See [4.2/Release Notes](/releases/omlx42/notes)
 
 ## Errata
 See [4.2/Errata](/releases/omlx42/errata)
