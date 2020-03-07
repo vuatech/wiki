@@ -2,7 +2,7 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-07T13:01:28.267Z
+date: 2020-03-07T13:02:09.511Z
 tags: qa
 ---
 
@@ -27,7 +27,7 @@ You can see our [Getting Started](/dev/QA_Getting_Started) page for more informa
 QA-Team members need a thorough understanding of:
 
 - [Release Plan and Repositories](/doc/release-plan-and-repositories)
-- [Repository Policies](/dev/Repository_Policies)
+- [Repository Policies](/dev/repository-policies)
 - [Current and Future Releases](/releases)
 
 ## Tools
