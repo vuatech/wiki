@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-07T11:07:22.851Z
+date: 2020-03-07T11:14:04.048Z
 tags: documentation
 ---
 
@@ -20,7 +20,7 @@ The purpose of the association OpenMandriva is:
 - promoting free exchange of knowledge and access to all software and development, for personal, commercial, educational or scientific use.
 
 ## Article 4 - Seat
-The address of the seat of the Association is specified in the [Bylaws](bylaws).
+The address of the seat of the Association is specified in the [Bylaws](/doc/bylaws).
 By default it is located at the President's address.
 It is transferable by decision of the Administration Council. 
 
@@ -61,9 +61,9 @@ The Administration Council:
 - Appoints in its own the President and the Bureau
 - Supervises, controls and directs the activities of the President,
 - Approves the consolidated budget and authorizes purchases, transfers and rental for the operation of the Association.
-- Approve or reject amendments to the [Bylaws](bylaws) submitted by members.
+- Approve or reject amendments to the [Bylaws](/doc/bylaws) submitted by members.
 
-Any amendment to the [Bylaws](bylaws) has to be approved unanimously by the Council.
+Any amendment to the [Bylaws](/doc/bylaws) has to be approved unanimously by the Council.
 
 The deliberations of the Administration Council on property acquisitions, exchanges and transfers necessary for the purposes of the association, taking mortgages on these properties, on leases exceeding nine years, transfers of ownership and loans must be approved a priori by the Ordinary General Assembly.
 
@@ -71,8 +71,8 @@ The deliberations of the Administration Council on property acquisitions, exchan
 The Association is represented by a President elected by the Administration Council from among its members by a majority of votes.
 The President may be assisted by Administrators elected under the same conditions as Vice-President, Secretary or Treasurer. 
 
-## Article 8 - [Bylaws](bylaws)
-The [Bylaws](bylaws) complete and accurate the statutes. They are applicable to any Member upon approval by the Administration Council. 
+## Article 8 - [Bylaws](/doc/bylaws)
+The [Bylaws](/doc/bylaws) complete and accurate the statutes. They are applicable to any Member upon approval by the Administration Council. 
 
 ## Article 9 - Resources
 The association can receive all legally authorized resources, including entrance fees and subscriptions, grants and donations. 
@@ -98,7 +98,7 @@ The Procedures of vote of extraordinary General meeting only consist in referend
 - The dissolution may be pronounced if two third of the present members are in favour.
 
 ## Article 11 - Dematerialized Communications
-All Assemblies and Decisions intervention may be dematerialized according to a procedure established by the [Bylaws](bylaws). 
+All Assemblies and Decisions intervention may be dematerialized according to a procedure established by the [Bylaws](/doc/bylaws). 
 
 ## Article 12 Jurisdiction
 The Association is represented in court by its President or by any agent that will specially designated.
