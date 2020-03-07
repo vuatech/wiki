@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha
 description: 
 published: true
-date: 2020-03-07T17:57:48.646Z
+date: 2020-03-07T20:27:10.264Z
 tags: 4.2
 ---
 
@@ -19,5 +19,5 @@ You can download it following this link.
 
 
 ## Release Notes and Errata
-OpenMandriva 4.2 Alpha [Release Notes](/releases/omlx42/omlx42_alpha_notes)
-OpenMandriva 4.2 Alpha [Errata](/releases/omlx42/omlx42_alpha_errata)
+OpenMandriva 4.2 Alpha [Release Notes](/releases/omlx42/alpha/notes)
+OpenMandriva 4.2 Alpha [Errata](/releases/omlx42/alpha/errata)
