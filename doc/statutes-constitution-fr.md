@@ -2,7 +2,7 @@
 title: Statutes constitution French
 description: 
 published: true
-date: 2020-03-07T11:00:00.604Z
+date: 2020-03-07T11:06:19.205Z
 tags: documentation
 ---
 
@@ -74,7 +74,7 @@ L'Association est représentée par un Président élu par le Conseil d'Administ
 Le Président peut être assisté d'Administrateurs élus selon les même conditions aux fonctions de Vice-Président, Secrétaire ou Trésorier. 
 
 ## Article 8 - Réglement intérieur
-Le [Règlement Intérieur](bylaw) complète et précise les Statuts. Il est applicable à tout Membre dès son approbation par le Conseil d'Administration.
+Le [Règlement Intérieur](bylaws) complète et précise les Statuts. Il est applicable à tout Membre dès son approbation par le Conseil d'Administration.
 
 ## Article 9 - Ressources
 L'association peut recevoir toutes les ressources légalement autorisées, dont les droits d'entrée et cotisations, subventions et dons. 
@@ -104,7 +104,7 @@ Statuts peuvent être modifiés si les deux tiers des membres présents sont en 
 La dissolution peut être prononcée si deux tiers des membres présents sont en faveur. 
 
 ## Article 11 – Communications dématérialisées.
-Toutes les Assemblées et Décisions peuvent intervenir de manière dématérialisée, selon une procédure définie par le [Règlement Intérieur](bylaw). 
+Toutes les Assemblées et Décisions peuvent intervenir de manière dématérialisée, selon une procédure définie par le [Règlement Intérieur](bylaws). 
 
 ## Article 12 Attribution de jurisdiction.
 L'Association est représentée en justice par son Président ou par tout mandataire qu'il aura spécialement désigné.
