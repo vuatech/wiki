@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1
 description: 
 published: true
-date: 2020-03-07T13:20:10.164Z
+date: 2020-03-07T20:13:22.917Z
 tags: 4.1
 ---
 
@@ -22,12 +22,12 @@ OpenMandriva Lx 4.1 is a new release from the OpenMandriva Association. [Codenam
 
 
 ## What's New?
-See [4.1/New](/releases/omlx41/omlx41_new)
+See [4.1/New](/releases/omlx41/new)
 
 ## Notes
-See [4.1/Release Notes](/releases/omlx41/omlx41_notes)
+See [4.1/Release Notes](/releases/omlx41/notes)
 
 ## Errata
-See [4.1/Errata](/releases/omlx41/omlx41_errata)
+See [4.1/Errata](/releases/omlx41/errata)
 
 ![header-tr-omlx41.svg](/assets/header-tr-omlx41.svg){.align-abstopright}
