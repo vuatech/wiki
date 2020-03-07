@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-07T17:17:38.106Z
+date: 2020-03-07T20:23:24.210Z
 tags: 
 ---
 
@@ -13,14 +13,14 @@ tags:
 **Codename Argon**
 
 #### Alpha
-- [Overview](/releases/omlx42/omlx42_alpha)
-- [Release Notes](/releases/omlx42/omlx42_alpha_notes)
-- [Errata](/releases/omlx42/omlx42_alpha_errata)
+- [Overview](/releases/omlx42/alpha)
+- [Release Notes](/releases/omlx42/alpha/notes)
+- [Errata](/releases/omlx42/alpha/errata)
 
 #### Beta
-- [Overview](/releases/omlx42/omlx42_beta)
-- [Release Notes](/releases/omlx42/omlx42_beta_notes)
-- [Errata](/releases/omlx42/omlx42_beta_errata)
+- [Overview](/releases/omlx42/beta)
+- [Release Notes](/releases/omlx42/beta/notes)
+- [Errata](/releases/omlx42/beta/errata)
 
 #### RC
 - Overview
@@ -29,9 +29,9 @@ tags:
 
 #### GA
 - [Overview](/releases/omlx42)
-- [What's New](/releases/omlx42/omlx42_new)
-- [Release Notes](/releases/omlx42/omlx42_notes)
-- [Errata](/releases/omlx42/omlx42_errata)
+- [What's New](/releases/omlx42/new)
+- [Release Notes](/releases/omlx42/notes)
+- [Errata](/releases/omlx42/errata)
 <br>
 
 ## Previous release
@@ -41,9 +41,9 @@ tags:
 Release: 02 February 2020
 
 - [Overview](/releases/omlx41)
-- [What's New](/releases/omlx41/omlx41_new)
-- [Release Notes](/releases/omlx41/omlx41_notes)
-- [Errata](/releases/omlx41/omlx41_errata)
+- [What's New](/releases/omlx41/new)
+- [Release Notes](/releases/omlx41/notes)
+- [Errata](/releases/omlx41/errata)
 <br>
 
 
