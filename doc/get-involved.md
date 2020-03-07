@@ -2,7 +2,7 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-03-07T22:27:50.973Z
+date: 2020-03-07T22:32:01.287Z
 tags: documentation
 ---
 
@@ -43,11 +43,8 @@ We need you! Please contact us
 
 ## Spread the Word
 Use our materials to spread the word, our products and values on your blog, website, social network, etc.
-
 Develop new materials for the community to spread the word of OpenMandriva and Free Software
-
 Follow and share our activity and products on Social Networks
-
 Get on the free software promotion and help us in helping all the free software community
 
 ## Talk to us
@@ -55,7 +52,7 @@ Tell us your needs and expectations;
 Tell us the problems you found and help us identify bugs
 
 ## Donate money
-OpenMandriva Association is a no-profit organization, under French law. OMA has its own bank account and is responsible for running and maintaining its servers.
+OpenMandriva Association is a no-profit organization, under French law. OMA has its own bank account and is responsible for running and maintaining its servers
 
 The donated funds are channeled to several domains like:
 Infrastructure
