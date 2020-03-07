@@ -2,7 +2,7 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2020-03-07T09:11:38.475Z
+date: 2020-03-07T09:15:36.889Z
 tags: documentation, wiki
 ---
 
@@ -39,13 +39,13 @@ Accuracy and precision make or break any document.  This axiom applies equally t
 
 Tense is the time in which language takes place. There are three main tenses: past, present, and future. Select an appropriate tense for the document and adhere to it.  For technical documentation, use the present tense whenever possible.  Maintaining the same tense for each statement in a document is vital for clarity.  Keep the same tense for all sequential tasks in a procedure.
 
-### Usage
+## Usage
 
-#### Contractions
+### Contractions
 
 Avoid contractions, the combination of two words with an apostrophe replacing one or more letters.  Contractions reduce the readability of documents and make translation more difficult.  Other cultures and languages interpret contractions differently, and this confusion conflicts with the goals of the OpenMandriva Documentation Project.
 
-#### Pronouns
+### Pronouns
 
 Pronouns are words language uses to replace specific noun phrases. Good writers must strike a balance between over-repeating a noun phrase, and using pronouns to stand in for nouns. A general rule to preserve clarity is to never repeat noun substitution with a pronoun in two consecutive sentences. Readers of technical documents need constant reminders on the exact subject the author is writing about. Prevalent use of pronouns cause readers to guess the subject a sentence is referencing. These assumptions reduce the effectiveness of documentation.
 
@@ -76,11 +76,11 @@ applications, remove security risks, and automatically resolve performance issue
 `CORRECT: Stay current with recommended updates to your operating system. These updates improve functionality of 
 applications, remove security risks, and automatically resolve performance issues solved from bug reports.`
 
-#### Sentence Formation
+### Sentence Formation
 
 Keep sentences as short as possible. Cutting unnecessary words is vital to strengthen meaning. There are a number of common traps technical writers fall into resulting in lengthy sentences.
 
-##### Indirect Discourse
+#### Indirect Discourse
 
 Indirect discourse refers to the use of "that" to attribute a statement, fact, or feeling in a sentence without the use of quotation marks. In regular writing, it weakens statements of fact. Documentation writers can improve the impact of sentences by removing "that" and "which."
 
@@ -88,7 +88,7 @@ Indirect discourse refers to the use of "that" to attribute a statement, fact, o
 
 `CORRECT: Mandriva is an upstream open source operating system for many other open source projects.`
 
-##### Other Unnecessary Word Combinations
+#### Other Unnecessary Word Combinations
 
 Avoid using the unnecessary word "then" following an "if" statement.  When a sentence begins with an "if" statement, follow it with a comma and complete the sentence with a full statement.
 
@@ -98,11 +98,11 @@ Avoid using the unnecessary word "then" following an "if" statement.  When a sen
 
 Many words we use in everyday conversation reduce impact in printed materials because they "leave a way out." These are words preceding verbs and nouns to minimize the sentence's influence. This is not an exhaustive list, but mindful documentation writers will reduce using these words and those of a similar nature.
 
-##### Avoid Reducing Impact With Unnecessary Words
+#### Avoid Reducing Impact With Unnecessary Words
 ''The following words minimize the impact of the verb or noun clause within a sentence. Other words also fit into this category, but this short list is aimed at helping documentation writers identify words of this nature and eliminate them from their writing:'' 
 '''should, could, may, might, perhaps, some, many, most, numerous, few, somewhat, whatever, possibly, can, occasionally, and frequently.'''
 
-##### Sentence Variation
+#### Sentence Variation
 For the strongest impact, keep the first and last sentences of a paragraph as short as possible. Varying sentence length within a paragraph and through the entire document keeps a reader's attention. A short and simple fact is easy to grasp and use to analyze the next sentence's topic. There is nothing wrong with using longer sentences to explain complex ideas and concepts. Try to use a simple synopsis sentence at the end of each paragraph to give readers a reprieve and recap of any important information. A short final sentence stays with the reader to the next section.
 
 #### Capitalization
@@ -141,7 +141,7 @@ The word "and" is to be written out, and this mark only reserved if it is part o
 * Slashes
 Do not use slashes for a short hand version of "he or she" by using he/she, instead use the words "and," "or," or "either." Slashes are commonly used in file paths and using them otherwise will create confusion.
 
-### Other Writing Questions
+## Other Writing Questions
 
 Every writer hits writing obstacles. It becomes difficult to adequately phrase something, or the words just do not "sound right." This is why the Openmandriva Project is a team effort. Call on fellow documentation writers in the mailing list or chat room for help with wording and formatting issues. Another trick professional writers use everyday is time away from the project. Take a break away from the document. Returning to a troublesome spot with fresh eyes is often all that is needed to overcome the writing hindrance.
 
