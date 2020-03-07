@@ -2,7 +2,7 @@
 title: Statutes constitution French
 description: 
 published: true
-date: 2020-03-02T13:41:31.372Z
+date: 2020-03-07T10:58:14.965Z
 tags: documentation
 ---
 
