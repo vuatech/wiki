@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-05T12:17:01.221Z
+date: 2020-03-07T13:22:35.832Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ tags:
 
 #### Alpha
 - [Overview](/releases/omlx42/omlx42_alpha)
-- [Release Notes](/releases/omlx42/omlx42_alpha_release_notes)
+- [Release Notes](/releases/omlx42/omlx42_alpha_notes)
 - [Errata](/releases/omlx42/omlx42_alpha_errata)
 
 #### Beta
@@ -30,7 +30,7 @@ tags:
 #### GA
 - [Overview](/releases/omlx42)
 - [What's New](/releases/omlx42/omlx42_new)
-- [Release Notes](/releases/omlx42/omlx42_release_notes)
+- [Release Notes](/releases/omlx42/omlx42_notes)
 - [Errata](/releases/omlx42/omlx42_errata)
 
 ## Previous release
@@ -41,7 +41,7 @@ Release: 02 February 2020
 
 - [Overview](/releases/omlx41)
 - [What's New](/releases/omlx41/omlx41_new)
-- [Release Notes](/releases/omlx41/omlx41_release_notes)
+- [Release Notes](/releases/omlx41/omlx41_notes)
 - [Errata](/releases/omlx41/omlx41_errata)
 
 
