@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-07T13:32:24.198Z
+date: 2020-03-07T13:58:49.852Z
 tags: 
 ---
 
@@ -32,6 +32,7 @@ tags:
 - [What's New](/releases/omlx42/omlx42_new)
 - [Release Notes](/releases/omlx42/omlx42_notes)
 - [Errata](/releases/omlx42/omlx42_errata)
+<br>
 
 ## Previous release
 ### OpenMandriva Lx 4.1
@@ -43,7 +44,7 @@ Release: 02 February 2020
 - [What's New](/releases/omlx41/omlx41_new)
 - [Release Notes](/releases/omlx41/omlx41_notes)
 - [Errata](/releases/omlx41/omlx41_errata)
-
+<br>
 
 
 ## Older releases
@@ -51,23 +52,23 @@ Release: 02 February 2020
 ![omlx4.0-240px.jpg](/images/omlx4.0-240px.jpg)
 Codename Nitrogen
 Release: 19 June 2019
-.
+<br>
 
 ### OpenMandriva Lx 3.3
 ![omlx3.3-240px.png](/images/omlx3.3-240px.png)
 Codename Einsteinium
 Release: 21 November 2017
-.
+<br>
 
 ### OpenMandriva Lx 2014.2 (The Scion)
 ![omlx2014-240px.png](/images/omlx2014-240px.png)
 Codename Phosphorus
 Release: 29 June 2015
-.
+<br>
 
 ### OpenMandriva Lx 2013
 ![omlx2013-240px.png](/images/omlx2013-240px.png)
 Codename Oxygen
 Release: 22 November 2013
 OpenMandriva Lx 2013.0 is the first release from the OpenMandriva Association, and the successor to Mandriva Linux 2011
-.
+<br>
