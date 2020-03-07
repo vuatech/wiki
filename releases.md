@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-07T13:58:49.852Z
+date: 2020-03-07T17:17:38.106Z
 tags: 
 ---
 
@@ -18,9 +18,9 @@ tags:
 - [Errata](/releases/omlx42/omlx42_alpha_errata)
 
 #### Beta
-- Overview
-- Release Notes
-- Errata
+- [Overview](/releases/omlx42/omlx42_beta)
+- [Release Notes](/releases/omlx42/omlx42_beta_notes)
+- [Errata](/releases/omlx42/omlx42_beta_errata)
 
 #### RC
 - Overview
