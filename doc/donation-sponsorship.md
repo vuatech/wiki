@@ -2,7 +2,7 @@
 title: Donation and Sponsorship
 description: 
 published: true
-date: 2020-03-07T23:32:03.959Z
+date: 2020-03-07T23:33:48.927Z
 tags: 
 ---
 
@@ -22,7 +22,8 @@ We have defined the various donations levels at OpenMandriva as below (all figur
 - Gold € 15,000 to € 49,999
 - Platinum € 50,000 and over
 
-So if you like OpenMandriva and appreciate our work, go ahead and show your love by donating through the button below. If you're interested in becoming a sponsor, please [contact us](mailto:council@openmandriva.org)
+So if you like OpenMandriva and appreciate our work, go ahead and show your love by donating through the button below.
+If you are interested in becoming a sponsor, please [contact us](mailto:council@openmandriva.org)
 
 The donation can also be displayed on our wiki and on our landing page, if you wish.
 
