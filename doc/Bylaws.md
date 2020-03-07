@@ -2,7 +2,7 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-03-02T14:04:36.433Z
+date: 2020-03-07T11:00:48.239Z
 tags: documentation
 ---
 
