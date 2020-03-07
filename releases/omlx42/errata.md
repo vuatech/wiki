@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Errata
 description: 
 published: true
-date: 2020-03-07T20:17:48.808Z
+date: 2020-03-07T20:18:10.491Z
 tags: 4.2
 ---
 
@@ -12,7 +12,7 @@ tags: 4.2
 {.is-info}
 
 
-**It is recommended that you read the latest** [release notes](/en/releases/omlx42/omlx42_notes) **on our wiki**.
+**It is recommended that you read the latest** [release notes](/releases/omlx42/notes) **on our wiki**.
 
 ## Start Content
 
