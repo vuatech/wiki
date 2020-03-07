@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-07T13:06:06.550Z
+date: 2020-03-07T13:07:28.375Z
 tags: documentation, qa
 ---
 
