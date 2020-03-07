@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2020-03-07T20:10:26.601Z
+date: 2020-03-07T20:11:47.429Z
 tags: 4.1
 ---
 
@@ -12,7 +12,7 @@ tags: 4.1
 {.is-info}
 
 
-**It is recommended that you read the latest** [Release Notes](/en/releases/omlx41/omlx41_release_notes) **on our wiki**.
+**It is recommended that you read the latest** [Release Notes](/releases/omlx41/notes) **on our wiki**.
 
 ## NVIDIA Graphics Cards
 This release includes the reverse engineered nouveau driver, which gives moderately good support for most NVIDIA cards. For some dual-screen work it is actually better than NVIDIA binary driver as it supports screen rotation on a second monitor useful for monitors with rotatable screens.
@@ -20,7 +20,7 @@ Users may use drivers from nvidia web site but they are not supported by OpenMan
 Installing and maintaining any proprietary nVidia drivers is solely the users option and responsibility.
 
 ## NVME SSDs
-There is a well known problem with some (especially newer) NVME SSDs and PCIE devices where the SSD may not be recognized. For our *Live* ISO there is a workaround described in [Release Notes](/en/releases/omlx41/omlx41_release_notes).
+There is a well known problem with some (especially newer) NVME SSDs and PCIE devices where the SSD may not be recognized. For our *Live* ISO there is a workaround described in [Release Notes](/releases/omlx41/notes).
 Problem is known and being worked on by OpenMandriva developers and upstream developers.
 The OM Lx 4.1 release includes kernel 5.5.0 and hardware recognition for nvme SSDs should be considerably improved.
 It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
