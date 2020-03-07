@@ -2,13 +2,13 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-03-07T11:00:48.239Z
+date: 2020-03-07T11:04:54.812Z
 tags: documentation
 ---
 
 # Bylaws
 
-The bylaws complete and accurate the statutes [[en]](/doc/Statutes_constitution_English) [[fr]](/doc/Statutes_constitution_French). They are applicable to any Member upon approval by the Administration Council. 
+The bylaws complete and accurate the statutes [[en]](/doc/statutes-constitution-fr) [[fr]](/doc/statutes-constitution-en). They are applicable to any Member upon approval by the Administration Council. 
 
 ## Definitions
 ### Core Values of the Association
