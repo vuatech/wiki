@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-07T13:22:35.832Z
+date: 2020-03-07T13:32:24.198Z
 tags: 
 ---
 
@@ -69,4 +69,5 @@ Release: 29 June 2015
 ![omlx2013-240px.png](/images/omlx2013-240px.png)
 Codename Oxygen
 Release: 22 November 2013
+OpenMandriva Lx 2013.0 is the first release from the OpenMandriva Association, and the successor to Mandriva Linux 2011
 .
