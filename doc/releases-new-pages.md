@@ -2,7 +2,7 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-03-07T19:08:19.660Z
+date: 2020-03-07T19:17:43.570Z
 tags: documentation, wiki
 ---
 
@@ -62,7 +62,7 @@ example: /releases/omlx42/omlx42_alpha_errata
 example: /releases/omlx42/omlx42_beta_errata
 example: /releases/omlx42/omlx42_rc_errata
 
-## Addendum
+## Addendum - Paths
 Paths  must be lowercase.
 No punctuation allowed except dashes/hyphens and/or underscores.
 
@@ -71,6 +71,13 @@ Paths cannot contain the following characters:
 -Period (reserved for file extensions)
 -Unsafe URL characters (such as punctuation marks, quotes, math symbols, etc.)
 
-As we often have to write release version number (4.0, 4.1, 4.2, etc.) while creating new pages just convert it into `40`, `41`, `42`, etc. by omitting the dot in the path.
+As we often have to write release version number (4.0, 4.1, 4.2, etc.), while creating new pages just convert it into `40`, `41`, `42`, etc. by omitting the dot in the path.
+
+Use dashed to separate the words.
+Use underscores to separate the relative subpages. Example:
+`/releases/omlx42/omlx42_alpha`
+`/releases/omlx42/omlx42_beta_notes`
+`/releases/omlx42/omlx42_rc_errata`
+
 
 
