@@ -2,7 +2,7 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-02T15:51:53.555Z
+date: 2020-03-07T12:57:41.836Z
 tags: qa
 ---
 
