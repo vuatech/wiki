@@ -2,7 +2,7 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2020-03-07T09:08:09.534Z
+date: 2020-03-07T09:11:38.475Z
 tags: documentation, wiki
 ---
 
@@ -12,6 +12,7 @@ tags: documentation, wiki
 The following sections provide guidelines for both sentence composition and syntax usage. Follow these guidelines to ensure your document's tone is consistent with that of other OpenMandriva documentation.
 
 ### Composition
+
 #### Voice
 Instructions and rules use an *active voice*, presenting confidence to the reader without sounding demanding.  An active voice provides clear direction.  It shows the reader what to do and gives expected results.  Active voice leaves the reader with the impression an author stands behind the written work.
 
@@ -87,8 +88,6 @@ Indirect discourse refers to the use of "that" to attribute a statement, fact, o
 
 `CORRECT: Mandriva is an upstream open source operating system for many other open source projects.`
 
-
-
 ##### Other Unnecessary Word Combinations
 
 Avoid using the unnecessary word "then" following an "if" statement.  When a sentence begins with an "if" statement, follow it with a comma and complete the sentence with a full statement.
@@ -103,7 +102,6 @@ Many words we use in everyday conversation reduce impact in printed materials be
 ''The following words minimize the impact of the verb or noun clause within a sentence. Other words also fit into this category, but this short list is aimed at helping documentation writers identify words of this nature and eliminate them from their writing:'' 
 '''should, could, may, might, perhaps, some, many, most, numerous, few, somewhat, whatever, possibly, can, occasionally, and frequently.'''
 
-
 ##### Sentence Variation
 For the strongest impact, keep the first and last sentences of a paragraph as short as possible. Varying sentence length within a paragraph and through the entire document keeps a reader's attention. A short and simple fact is easy to grasp and use to analyze the next sentence's topic. There is nothing wrong with using longer sentences to explain complex ideas and concepts. Try to use a simple synopsis sentence at the end of each paragraph to give readers a reprieve and recap of any important information. A short final sentence stays with the reader to the next section.
 
@@ -114,7 +112,6 @@ In sentences, capitalize the first word.  Do not start sentences with a command,
 `INCORRECT: <code>smolt</code> provides hardware profiling.`
 
 `CORRECT: The <code>smolt</code> package provides hardware profiling.`
-
 
 In headings, always capitalize the first word regardless of the type of speech. All subsequent words are also capitalized other than articles ("a," "an," or "the"), short prepositions ("in," "of," "for," "with," "at," "on"), or  conjunctions ("and," "but," "or").  
 
