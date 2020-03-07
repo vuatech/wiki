@@ -2,8 +2,8 @@
 title: Official Naming Policy
 description: 
 published: true
-date: 2020-03-01T13:00:00.388Z
-tags: 
+date: 2020-03-07T10:49:21.016Z
+tags: documentation, policies
 ---
 
 ![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}# Official Naming Policy
