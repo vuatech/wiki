@@ -2,12 +2,12 @@
 title: Artwork
 description: 
 published: true
-date: 2020-03-08T08:12:54.122Z
+date: 2020-03-08T08:14:37.552Z
 tags: documentation
 ---
 
 <div style="height: 80px; width: 100%; background:#2080BB; text-align:right; min-height:36px;">
-<img src="//assets/header-artwork.png">
+<img src="/assets/header-artwork.png">
 </div>
 <div style="margin: 6px 0; height: 2px; width: 100%; background-color: #E2266E;"></div>
 
