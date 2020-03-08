@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-03-07T10:52:42.651Z
+date: 2020-03-08T12:55:19.091Z
 tags: documentation
 ---
 
@@ -46,7 +46,7 @@ While we can adjust the packaging of such applications, we do not have the sourc
 
 ![repositories05.jpg](/images/repositories05.jpg)
 
-> Please note: for a few applications, such as Steam, you will need to enable **both non-free and main 32 bit**
+> Please note: for a few applications, such as Steam, you will need to enable **both `non-free` and `main 32bit`**
 {.is-info}
 
 
