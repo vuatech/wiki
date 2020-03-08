@@ -2,7 +2,7 @@
 title: Artwork
 description: 
 published: true
-date: 2020-03-08T08:22:53.353Z
+date: 2020-03-08T08:58:03.985Z
 tags: documentation
 ---
 
@@ -33,21 +33,19 @@ tags: documentation
 
 ## OpenMandriva Color palette
 
-2080BB Eastern Blue	
 
-40A5DA Shakespeare	
+|      |            |
+|------|------------|
+|2080BB|Eastern Blue|
+|40A5DA|Shakespeare |
+|005C9D|Endeavour   |
+|21242B|Shark       |
+|AFB3BD|Bombay      |
+|E2266E|Cerise red  |
+|FFFFFF|white       |
+|000000|black       |
 
-005C9D Endeavour	
 
-21242B Shark	
-
-AFB3BD Bombay	
-
-E2266E Cerise red	
-
-FFFFFF white	
-
-000000 black
 
 ## Chwido
 
