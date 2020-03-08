@@ -2,7 +2,7 @@
 title: Artwork
 description: 
 published: true
-date: 2020-03-08T08:58:03.985Z
+date: 2020-03-08T09:12:50.266Z
 tags: documentation
 ---
 
@@ -12,7 +12,7 @@ tags: documentation
 <div style="margin: 6px 0; height: 2px; width: 100%; background-color: #E2266E;"></div>
 
 
-# Artwork
+# Artwork 
 <br>
 
 ## Logo
