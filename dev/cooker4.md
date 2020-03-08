@@ -2,12 +2,24 @@
 title: Cocker 4.2
 description: 
 published: true
-date: 2020-03-01T00:19:03.484Z
+date: 2020-03-08T11:15:44.938Z
 tags: 
 ---
 
-![chwido-icon.svg](/assets/chwido-icon.svg){.align-abstopright}# Header
-Your content here
+![chwido-icon.svg](/assets/chwido-icon.svg){.align-abstopright}
+
+
+
+## *And so, my fellow: ask not what OpenMandriva can do for you; ask what you can do for OpenMandriva.*
+
+
+
+<br>
+
+> Documentation is being worked on! Some pages may be incomplete or not exist yet.
+
+<br>
+
 
 
 <blockquote class="is-warning"><p><img class="emoji" src="https://twemoji.maxcdn.com/v/12.1.3/72x72/26a0.png"> Documentation is being worked on! Some pages may be incomplete or not exist yet.</p></blockquote>
@@ -21,4 +33,4 @@ Your content here
 {.is-success}
 
 
-Read [Release Notes](/en/releases/omlx41/omlx41_release_notes) OMLx 4.1
+Read [Release Notes](/releases/omlx41/notes) OMLx 4.1
