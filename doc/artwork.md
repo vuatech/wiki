@@ -2,7 +2,7 @@
 title: Artwork
 description: 
 published: true
-date: 2020-03-08T08:21:00.180Z
+date: 2020-03-08T08:22:53.353Z
 tags: documentation
 ---
 
@@ -25,11 +25,11 @@ tags: documentation
 
 ## OpenMandriva Style Sheet Logo
 
-![oma-style-sheet-logo-24052013.png](/art/oma-style-sheet-logo-24052013.png =600x)
+[![oma-style-sheet-logo-24052013.png](/art/oma-style-sheet-logo-24052013.png =600x)](/art/oma-style-sheet-logo-24052013.png)
 
 ## OpenMandriva Style Sheet Font
 
-![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)
+[![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)](/art/oma-style-sheet-font-24052013.png)
 
 ## OpenMandriva Color palette
 
