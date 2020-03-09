@@ -2,7 +2,7 @@
 title: How to solve the most common cause of incorrect time in dual boot with windows systems
 description: 
 published: true
-date: 2020-03-09T19:25:27.676Z
+date: 2020-03-09T19:26:37.022Z
 tags: documentation, howto
 ---
 
@@ -56,8 +56,9 @@ Warning: The system is configured to read the RTC time in the local time zone.
 
 This is correct.
 *(The warning can be ignored)*
-
 <br>
+
 ### Definitions:
-RTC = Real Time Clock also called hardware clock or hwclock
-TZ = Time Zone
+
+`RTC` = Real Time Clock also called hardware clock or hwclock
+`TZ` = Time Zone
