@@ -2,7 +2,7 @@
 title: How to get a list of all packages included in the ISO
 description: 
 published: true
-date: 2020-03-09T19:56:46.846Z
+date: 2020-03-09T20:01:18.065Z
 tags: documentation, howto
 ---
 
@@ -32,3 +32,5 @@ rpm -qa --last > pkglist-last.txt
 ```
 
 \-
+See also
+[How to get a list of the latest updates](/doc/guides/howto-latest-updates)
