@@ -2,7 +2,7 @@
 title: How to install Steam in OpenMandriva
 description: 
 published: true
-date: 2020-03-09T20:59:51.458Z
+date: 2020-03-09T21:04:41.194Z
 tags: documentation, howto
 ---
 
@@ -12,11 +12,11 @@ tags: documentation, howto
 ## To install Steam in OpenMandriva Lx please perform the following steps:
 
 ### Start Software Repository Selector
-from Application menu
+- from Application menu
 
 ![install-steam-01.jpg](/images/install-steam-01.jpg)
 
-#### or from OM Welcome
+- or from OM Welcome
 
 ![repositories07.jpg](/images/repositories07.jpg)
 
@@ -27,6 +27,8 @@ from Application menu
 ### as well as `/non-free` repository
 
 ![install-steam-03.jpg](/images/install-steam-03.jpg)
+
+Click <kbd>OK</kbd> to apply
 
 > You will be asked for root password
 {.is-warning}
