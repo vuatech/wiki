@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-03-07T20:08:10.177Z
+date: 2020-03-09T18:36:24.304Z
 tags: 4.1
 ---
 
@@ -150,7 +150,7 @@ OpenMandriva brand-name applications:
 - Update Configuration (om-update-config): Tool for configuring automatic updates
 
 # Errata
-See [4.1/Errata](/releases/omlx41/omlx41_errata).
+See [4.1/Errata](/releases/omlx41/errata).
 
 # Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
