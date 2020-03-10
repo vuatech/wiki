@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-10T15:29:23.259Z
+date: 2020-03-10T15:36:58.846Z
 tags: documentation, howto
 ---
 
@@ -11,20 +11,20 @@ tags: documentation, howto
 OpenMandriva installer is [Calamares](http://calamares.io/).
 It is easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic.
 Calamares includes an advanced partitioning feature, with support for both manual and automated partitioning operations.
-To do pretty much anything you need with partitions you want to select “Manual Partitioning”.
+To do pretty much anything you need with partitions you want to select <kbd>Manual partitioning</kbd>
 
 ![root-home-swap-01.jpg](/images/root-home-swap-01.jpg)
 
-Notice that if you accept the default “Erase disk” it will create a `/boot/efi` and `/` partition only.
+Notice that if you accept the default <kbd>Erase disk</kbd> it will create a `/boot/efi` and `/` partition only.
 The installer by default no longer automatically creates a swap partition because on most all modern computers swap is not used anymore.
 
-Select “Manual Partitioning”
+Select ***Manual Partitioning***
 
 ![root-home-swap-02.jpg](/images/root-home-swap-02.jpg)
 
 This example is in VirtualBox. First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. The `/boot/efi` partition should be labeled `esp` and `boot`.
 
-The first step is to select “New Partition Table”.
+The first step is to select <kbd>New Partition Table</kbd>
 If the system is efi or uefi boot it must be a `GPT` partition set up.
 If it is legacy boot you can select either `MBR` or `GPT`.
 
@@ -34,7 +34,7 @@ Next we will create `/boot/efi`, `/`, `/home`, and swap in that order.
 The only critical factor in the order is that the `/boot/efi` needs to be first the others can be in any order. `/boot/efi` is typically a 300 MB partition and needs to be fat16 or fat32 to work. Or in some other installers its file system type will be called vfat.
 
 So we create them one at a time.
-Select “create”
+Select <kbd>Create</kbd>
 
 ![root-home-swap-04.jpg](/images/root-home-swap-04.jpg)
 
@@ -51,7 +51,7 @@ Swap may still be used on computers doing very intense level of mathematical or 
 {.is-info}
 
 
-This is a screen-shot of what the “create” dialog window should look like for your `/boot/efi` partition on a U`EFI/EFI` system:
+This is a screen-shot of what the <kbd>Create</kbd> dialog window should look like for your `/boot/efi` partition on a U`EFI/EFI` system:
 
 ![root-home-swap-06.jpg](/images/root-home-swap-06.jpg)
 
