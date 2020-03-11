@@ -2,40 +2,13 @@
 title: Cooker
 description: Markdown page
 published: true
-date: 2020-03-01T09:27:43.477Z
+date: 2020-03-11T21:34:44.723Z
 tags: 
 ---
 
-![header-tr-cooker.svg](/assets/header-tr-cooker.svg){.align-abstopright}
-<div style="height: 80px; width: 100%; background:#2080BB; text-align:right; min-height:36px;">
-<img src="/images/header-cooker.png">
-</div>
-<div style="margin: 6px 0; height: 2px; width: 100%; background-color: #E2266E;"></div>
-
-# Header
-Your content here
-
-> abe careful 
-{.is-warning}
-
-This is a long text, yeess very very long.
-
-> How are you?
-{.is-success}
-
-
-
-![chwido-icon.svg](/assets/chwido-icon.svg =96x)
----
-
-<kbd>ctrl + C</kbd>
-
-
----
-
-
--
-
+# To be filled
+WIP
+----
 ## Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
 
