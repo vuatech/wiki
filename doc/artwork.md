@@ -2,7 +2,7 @@
 title: Artwork
 description: 
 published: true
-date: 2020-03-08T09:12:50.266Z
+date: 2020-03-11T23:50:16.792Z
 tags: documentation
 ---
 
@@ -18,6 +18,16 @@ tags: documentation
 ## Logo
 
 [![oma-logo-22042013-300pp.png](/art/oma-logo-22042013-300pp.png =200x)](/art/oma-logo-22042013-300pp.png)
+![openmandriva-logo-gr.svg](/logo/openmandriva-logo-gr.svg) ![openmandriva-logo-wh.svg](/logo/openmandriva-logo-wh.svg) ![openmandriva-logo-blu.svg](/logo/openmandriva-logo-blu.svg)
+
+\-
+
+![openmandriva-blu.svg](/logo/openmandriva-blu.svg)
+
+![openmandriva-wh.svg](/logo/openmandriva-wh.svg)
+
+![openmandriva-bk.svg](/logo/openmandriva-bk.svg)
+
 
 ## Gradient color
 
