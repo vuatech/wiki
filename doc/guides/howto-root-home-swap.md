@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T01:58:16.997Z
+date: 2020-03-12T02:12:03.887Z
 tags: documentation, howto
 ---
 
@@ -23,7 +23,7 @@ Select ***Manual Partitioning***
 
 ![screenshot_20200311_210737.png](/screenshot_20200311_210737.png)
 
-This example is in VirtualBox. First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. If you use MBR partition table you do not need to create a /boot/efi' parition.
+First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. If you use MBR partition table you do not need to create a /boot/efi' parition.
 The `/boot/efi` partition should be labeled with `boot`.
 
 The first step is to select <kbd>New Partition Table</kbd>
