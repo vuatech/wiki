@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-10T15:52:14.595Z
+date: 2020-03-12T01:36:04.949Z
 tags: documentation, howto
 ---
 
@@ -14,7 +14,7 @@ Calamares includes an advanced partitioning feature, with support for both manua
 
 To do pretty much anything you need with partitions you want to select <kbd>Manual partitioning</kbd>
 
-![root-home-swap-01.jpg](/images/root-home-swap-01.jpg)
+![screenshot_20200311_210630.png](/screenshot_20200311_210630.png)
 
 Notice that if you accept the default <kbd>Erase disk</kbd> it will create a `/boot/efi` and `/` partition only.
 The installer by default no longer automatically creates a swap partition because on most all modern computers swap is not used anymore.
@@ -23,11 +23,11 @@ Select ***Manual Partitioning***
 
 ![root-home-swap-02.jpg](/images/root-home-swap-02.jpg)
 
-This example is in VirtualBox. First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting.
-The `/boot/efi` partition should be labeled `esp` and `boot`.
+This example is in VirtualBox. First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. If you use MBR partition table you do not need to create a /boot/efi' parition.
+The `/boot/efi` partition should be labeled with `boot`.
 
 The first step is to select <kbd>New Partition Table</kbd>
-If the system is efi or uefi boot it must be a `GPT` partition set up.
+If the system is efi or uefi boot it must be a `GPT` partition table.
 If it is legacy boot you can select either `MBR` or `GPT`.
 
 ![root-home-swap-03.jpg](/images/root-home-swap-03.jpg)
@@ -42,7 +42,7 @@ Select <kbd>Create</kbd>
 
 ![root-home-swap-04.jpg](/images/root-home-swap-04.jpg)
 
-Follow the steps in the dialog box and you willll end up with something like this
+Follow the steps in the dialog box and you will end up with something like this
 
 ![root-home-swap-05.jpg](/images/root-home-swap-05.jpg)
 
