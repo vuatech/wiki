@@ -2,7 +2,7 @@
 title: Terms of services
 description: 
 published: true
-date: 2020-03-12T14:05:40.967Z
+date: 2020-03-12T14:13:43.829Z
 tags: documentation
 ---
 
@@ -104,6 +104,7 @@ You understand and agree that OpenMandriva association can not be held responsib
 1. This data is not sold or transferred to third parties.
 
 <br>
+
 > Note: these TOS are strongly inspired (for not saying almost copied from) [the one from the association Framasoft](https://n1.framasoft.org/nav/html/cgu.html) which promotes free software and provide services based on it.
 {.is-info}
 
