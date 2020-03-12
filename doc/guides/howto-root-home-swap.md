@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T07:35:25.465Z
+date: 2020-03-12T08:15:54.191Z
 tags: documentation, howto
 ---
 
@@ -18,14 +18,14 @@ Calamares includes an advanced partitioning feature, with support for both manua
 
 To do pretty much anything you need with partitions you want to select <kbd>Manual partitioning</kbd>
 
-![screenshot_20200311_210630.png](/screenshot_20200311_210630.png)
+xxxx
 
 Notice that if you accept the default <kbd>Erase disk</kbd> it will create a `/boot/efi` and `/` partition only.
 The installer by default no longer automatically creates a swap partition because on most all modern computers swap is not used anymore.
 
 Select ***Manual Partitioning***
 
-![screenshot_20200311_210737.png](/screenshot_20200311_210737.png)
+xxxxxxxx
 
 First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. If you use MBR partition table you do not need to create a `/boot/efi` parition.
 The `/boot/efi` partition should be labeled with `boot`. (The partitioner will automatically lable it a `esp`.)
@@ -34,7 +34,7 @@ The first step is to select <kbd>New Partition Table</kbd>
 If the system is efi or uefi boot it must be a `GPT` partition table.
 If it is legacy boot you can select either `MBR` or `GPT`. If you don't know which to use select the more up to date `GPT`. Also if user has multiple hard drives or ssd's they all need to have the same partition table type or there can be problems. So all `GPT` or all `MBR`
 
-![screenshot_20200311_210953.png](/screenshot_20200311_210953.png)
+xxxxx
 
 Next we will create `/boot/efi`, `/`, `/home`, and swap in that order.
 The only critical factor in the order is that the `/boot/efi` needs to be first the others can be in any order.
@@ -44,11 +44,11 @@ The only critical factor in the order is that the `/boot/efi` needs to be first 
 So we create them one at a time.
 Select <kbd>Create</kbd>
 
-![screenshot_20200311_211037.png](/screenshot_20200311_211037.png)
+xxxxx
 
 Follow the steps in the dialog box and you will end up with something like this
 
-![screenshot_20200311_212621.png](/screenshot_20200311_212621.png)
+xxxx
 
 If you have what you want select <kbd>Next</kbd> and when installed your new system will have the separate root, home, and swap partitions.
 
@@ -61,6 +61,6 @@ Swap also may still be used on computers doing very intense level of mathematica
 
 This is a screenshot of what the <kbd>Create</kbd> dialog window should look like for your `/boot/efi` partition on `UEFI/EFI` system:
 
-![screenshot_20200311_212400.png](/screenshot_20200311_212400.png)
+xxxxx
 
 \-
