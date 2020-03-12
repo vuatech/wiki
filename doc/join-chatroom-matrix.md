@@ -2,22 +2,23 @@
 title: Join OpenMandriva chat room with Matrix
 description: 
 published: true
-date: 2020-03-12T13:28:18.263Z
+date: 2020-03-12T13:34:10.825Z
 tags: documentation
 ---
 
 # Newcomer guide: join OpenMandriva chat room with Matrix
 
-Here is a quick guide to create an account in Matrix. If you are looking for general guide please go here. One of the main advantage of Matrix is to keep conversations logs even when you’re not connected.
+Here is a quick guide to create an account in Matrix. If you are looking for general guide please go [here](/doc/chat-faq).
+One of the main advantage of Matrix is to keep conversations logs even when you’re not connected.
 
-You can create an account with any matrix client, but for simplicity we’ll use in this guide the web version of Riot client. Riot is the most commonly used client, is multi-language, easy to use and very complete client, available on almost all devices (Android, iOS, desktop, web…).
+You can create an account with any [matrix client](https://matrix.org/docs/projects/try-matrix-now.html), but for simplicity we’ll use in this guide the web version of Riot client. Riot is the most commonly used client, is multi-language, easy to use and very complete client, available on [almost all devices](https://about.riot.im/) (Android, iOS, desktop, web…).
 
 If you already have a Matrix account, you can jump to paragraph XYZ
 
 
 ## Registration
 
-### Register an account on the Riot web page
+### Register an account on the [Riot web page](https://riot.im/app/)
 
 ![chatroom-matrix-01.png](/images/chatroom-matrix-01.png)
 
@@ -67,7 +68,7 @@ If you already have a Matrix account, you can jump to paragraph XYZ
 
 ![chatroom-matrix-11.png](/images/chatroom-matrix-11.png)
 
-### Enjoy! And connect with your account on any device
+### Enjoy! And connect with your account on [any device](https://about.riot.im/)
 
 ![chatroom-matrix-12.png](/images/chatroom-matrix-12.png)
 
