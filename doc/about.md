@@ -2,7 +2,7 @@
 title: About
 description: 
 published: true
-date: 2020-03-12T10:47:36.033Z
+date: 2020-03-12T10:49:19.079Z
 tags: documentation
 ---
 
@@ -35,3 +35,5 @@ We would love to see you as part of this large family. So if you want to know a 
 - Governance
 - Community Pods
 - How to contribute?
+
+![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
