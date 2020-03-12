@@ -2,7 +2,7 @@
 title: Chat with OpenMandriva
 description: Chat with OpenMandriva team: guide and FAQ
 published: true
-date: 2020-03-12T12:22:08.264Z
+date: 2020-03-12T12:38:09.532Z
 tags: documentation
 ---
 
@@ -47,6 +47,7 @@ If you are hesitating between the two protocols, you may certainly want to go wi
 
 Important notice: If you prefer to use IRC, due to important spam in Freenode servers, where we are hosted, please register and identify your nicknames to NickServ, or you will not be able to talk.
 
+<!--
 ## Matrix questions
 
 ### How to see my nickname in IRC channel ?
@@ -56,4 +57,4 @@ Important notice: If you prefer to use IRC, due to important spam in Freenode se
 ## IRC questions
 
 ### How to register nickname ?
-
+-->
