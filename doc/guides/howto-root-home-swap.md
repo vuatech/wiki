@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T02:22:51.156Z
+date: 2020-03-12T02:33:19.904Z
 tags: documentation, howto
 ---
 
@@ -50,7 +50,7 @@ If you have what you want select <kbd>Next</kbd> and when installed your new sys
 
 Note that `/boot/efi` is a the top of the list in first place. This is necessary.
 
-> Note that your swap partition is probably never going to be used. Only a small minority of users these days really need a swap partition. Those that do need swap already know who you are and can adapt accordingly. Usually swap would be needed by really old computers with not enough RAM to run Lx 3 to begin with. How much RAM is enough? In my opinion 4 GB. We do have users running Lx 3 with 1 GB but I would not recommend that. The Release Notes for Lx 3.03 do say 2 GB (min 1.5 GB). And I would go with 2 GB as a minimum myself. Upgrading the amount of memory in a computer, whether it’s a desktop, tower, or laptop, notebook, is both easy and not that expensive these days. So if your computer is short on memory do consider upgrading.
+> Note that your swap partition is probably never going to be used. Only a small minority of users these days really need a swap partition. Those that do need swap already know who you are and can adapt accordingly. Usually swap would be needed by really old computers with not enough RAM to run Lx 4 to begin with. How much RAM is enough? In my opinion 4 GB. We do have users running Lx 4 with 2 GB. The Release Notes for Lx 4.0 and 4.1 do say 2 GB (min 1.5 GB). And I would go with 2 GB as a minimum myself. Upgrading the amount of memory in a computer, whether it’s a desktop, tower, or laptop, notebook, is both easy and not that expensive these days. So if your computer is short on memory do consider upgrading.
 Swap may still be used on computers doing very intense level of mathematical or scientific calculating or maybe really intense graphic applications.
 {.is-info}
 
@@ -60,4 +60,3 @@ This is a screenshot of what the <kbd>Create</kbd> dialog window should look lik
 ![screenshot_20200311_212400.png](/screenshot_20200311_212400.png)
 
 \-
-
