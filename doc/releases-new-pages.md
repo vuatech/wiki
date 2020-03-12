@@ -2,7 +2,7 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-03-12T00:53:03.295Z
+date: 2020-03-12T00:53:43.046Z
 tags: documentation, wiki
 ---
 
@@ -64,7 +64,6 @@ example: /releases/omlx42/rc/errata
 
 ## Addendum - Paths
 Paths  must be lowercase. Use dashed to separate the words.
-No need for full title of the page in the path: it can, and should when possible, be shortened.
 No punctuation allowed except dashes/hyphens and/or underscores.
 
 Paths cannot contain the following characters:
