@@ -2,7 +2,7 @@
 title: About
 description: 
 published: true
-date: 2020-03-12T10:49:19.079Z
+date: 2020-03-12T11:14:13.287Z
 tags: documentation
 ---
 
@@ -32,7 +32,7 @@ There is much more to OpenMandriva that matters: its people and their expectatio
 
 We would love to see you as part of this large family. So if you want to know a bit more about us please check the following links:
 
-- Governance
+- [Governance](/doc/governance)
 - Community Pods
 - How to contribute?
 
