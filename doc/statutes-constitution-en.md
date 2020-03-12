@@ -2,11 +2,16 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-07T11:14:04.048Z
+date: 2020-03-12T11:21:50.930Z
 tags: documentation
 ---
 
 # Statutes constitution English
+
+
+> This is the translation of the [French statutes](/doc/statutes-constitution-fr), for convenience. French version is however the only legal document.
+{.is-info}
+
 
 ## Article 1 - Creation
 An association governed by the law of July 1, 1901 as amended is formed between the members of the present statutes.
