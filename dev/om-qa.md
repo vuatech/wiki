@@ -2,11 +2,11 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-07T13:02:52.558Z
+date: 2020-03-12T10:23:57.747Z
 tags: qa
 ---
 
-# OpenMandriva Quality Assurance
+![header-tr-qa.png](/assets/header-tr-qa.png){.align-abstopright}# OpenMandriva Quality Assurance
 
 The goal of the Quality Assurance group is to ensure not only that bugs do not make their way to the public through testing and standards, but that they may be easily resolved through triaging to their respective packages and maintainers.
 
