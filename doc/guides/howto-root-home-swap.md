@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T01:36:04.949Z
+date: 2020-03-12T01:58:16.997Z
 tags: documentation, howto
 ---
 
@@ -21,7 +21,7 @@ The installer by default no longer automatically creates a swap partition becaus
 
 Select ***Manual Partitioning***
 
-![root-home-swap-02.jpg](/images/root-home-swap-02.jpg)
+![screenshot_20200311_210737.png](/screenshot_20200311_210737.png)
 
 This example is in VirtualBox. First we see how to set up an efi system with separate `/`, `/home` and swap partitions as well as the necessary `/boot/efi` for the efi booting. If you use MBR partition table you do not need to create a /boot/efi' parition.
 The `/boot/efi` partition should be labeled with `boot`.
@@ -30,7 +30,7 @@ The first step is to select <kbd>New Partition Table</kbd>
 If the system is efi or uefi boot it must be a `GPT` partition table.
 If it is legacy boot you can select either `MBR` or `GPT`.
 
-![root-home-swap-03.jpg](/images/root-home-swap-03.jpg)
+![screenshot_20200311_210953.png](/screenshot_20200311_210953.png)
 
 Next we will create `/boot/efi`, `/`, `/home`, and swap in that order.
 The only critical factor in the order is that the `/boot/efi` needs to be first the others can be in any order.
@@ -40,11 +40,11 @@ The only critical factor in the order is that the `/boot/efi` needs to be first 
 So we create them one at a time.
 Select <kbd>Create</kbd>
 
-![root-home-swap-04.jpg](/images/root-home-swap-04.jpg)
+![screenshot_20200311_211037.png](/screenshot_20200311_211037.png)
 
 Follow the steps in the dialog box and you will end up with something like this
 
-![root-home-swap-05.jpg](/images/root-home-swap-05.jpg)
+![screenshot_20200311_212621.png](/screenshot_20200311_212621.png)
 
 If you have what you want select <kbd>Next</kbd> and when installed your new system will have the separate root, home, and swap partitions.
 
@@ -57,7 +57,7 @@ Swap may still be used on computers doing very intense level of mathematical or 
 
 This is a screenshot of what the <kbd>Create</kbd> dialog window should look like for your `/boot/efi` partition on `UEFI/EFI` system:
 
-![root-home-swap-06.jpg](/images/root-home-swap-06.jpg)
+![screenshot_20200311_212400.png](/screenshot_20200311_212400.png)
 
 \-
 
