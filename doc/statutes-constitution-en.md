@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-03-12T11:21:50.930Z
+date: 2020-03-12T11:26:25.084Z
 tags: documentation
 ---
 
@@ -76,7 +76,7 @@ The deliberations of the Administration Council on property acquisitions, exchan
 The Association is represented by a President elected by the Administration Council from among its members by a majority of votes.
 The President may be assisted by Administrators elected under the same conditions as Vice-President, Secretary or Treasurer. 
 
-## Article 8 - [Bylaws](/doc/bylaws)
+## Article 8 - Bylaws
 The [Bylaws](/doc/bylaws) complete and accurate the statutes. They are applicable to any Member upon approval by the Administration Council. 
 
 ## Article 9 - Resources
