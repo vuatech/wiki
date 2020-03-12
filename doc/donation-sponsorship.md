@@ -2,7 +2,7 @@
 title: Donation and Sponsorship
 description: 
 published: true
-date: 2020-03-07T23:33:48.927Z
+date: 2020-03-12T11:38:32.349Z
 tags: 
 ---
 
@@ -28,14 +28,10 @@ If you are interested in becoming a sponsor, please [contact us](mailto:council@
 The donation can also be displayed on our wiki and on our landing page, if you wish.
 
 <br>
-<html>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5HN54N5BADLS4">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</html>
+
+![om-donate.svg](/images/om-donate.svg)
+[Donate](https://www.openmandriva.org/en/documentation/association/Donate)
+
 <br>
 
 If a donator agrees, we are glad to display the name on this page.
