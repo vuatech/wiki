@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T02:56:17.613Z
+date: 2020-03-12T02:57:37.335Z
 tags: documentation, howto
 ---
 
@@ -12,7 +12,7 @@ OpenMandriva installer is [Calamares](http://calamares.io/).
 It is easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic.
 Calamares includes an advanced partitioning feature, with support for both manual and automated partitioning operations.
 
-*Note*: When we say Lx 4 that is meant to include all 4 verisons like 4.0 4.1, and 4.2.
+*Note*: When we say Lx 4 that is meant to include all 4 verisons like 4.0, 4.1, and 4.2.
 
 To do pretty much anything you need with partitions you want to select <kbd>Manual partitioning</kbd>
 
