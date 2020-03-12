@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-12T01:07:25.903Z
+date: 2020-03-12T01:08:43.434Z
 tags: documentation, qa
 ---
 
@@ -53,7 +53,7 @@ Now that your system is set up, it's time to vote for the packages. Do they work
 
 We use a system called [Kahinah](https://kahinah.rxu.tech/), which uses voting to determine which packages to push to the stable repository or not.
 
-First, login to Kahinah. Use your Github login.
+Login to Kahinah. Use your Github login.
 
 You can see what packages are waiting to be tested in 'Recent Builds'. Give it a thumbs up or thumbs down, and let us know why.
 
