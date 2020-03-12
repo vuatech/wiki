@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2020-03-07T13:09:22.412Z
+date: 2020-03-12T01:07:25.903Z
 tags: documentation, qa
 ---
 
@@ -18,7 +18,7 @@ QA Team members are encouraged to actively attend weekly TC meetings or if unabl
 TC meetings take place on Freenode IRC @ #openmandriva-cooker.
 
 ### Setting up your OpenMandriva Lx system
-Because you'll probably be working with untested (with our OS at least) software, we strongly urge you to use a dedicated or virtual machine for testing. For QA work on hardware (recommended if at all possible) it is recommended to have Rolling installed on a separate partition so you have a 'stable' system on another partition in case something breaks during testing.
+Because you will probably be working with untested (with our OS at least) software, we strongly urge you to use a dedicated or virtual machine for testing. For QA work on hardware (recommended if at all possible) it is recommended to have Rolling installed on a separate partition so you have a 'stable' system on another partition in case something breaks during testing.
 
 Pre-release software comes through the testing repositories. Packages in Main repository take precedence over those in other repositories. Packages in Unsupported and Non-Free repositories are responsibility of the package maintainer not OpenMandriva developers.
 
@@ -53,7 +53,7 @@ Now that your system is set up, it's time to vote for the packages. Do they work
 
 We use a system called [Kahinah](https://kahinah.rxu.tech/), which uses voting to determine which packages to push to the stable repository or not.
 
-First, login to Kahinah. This uses your Github login.
+First, login to Kahinah. Use your Github login.
 
 You can see what packages are waiting to be tested in 'Recent Builds'. Give it a thumbs up or thumbs down, and let us know why.
 
