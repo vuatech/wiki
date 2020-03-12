@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T08:37:38.710Z
+date: 2020-03-12T09:00:32.114Z
 tags: documentation, howto
 ---
 
@@ -32,7 +32,7 @@ The `/boot/efi` partition should be labeled with `boot`. (The partitioner will a
 
 The first step is to select <kbd>New Partition Table</kbd>
 If the system is efi or uefi boot it must be a `GPT` partition table.
-If it is legacy boot you can select either `MBR` or `GPT`. If you don't know which to use select the more up to date `GPT`. Also if user has multiple hard drives or ssd's they all need to have the same partition table type or there can be problems. So all `GPT` or all `MBR`
+If it is legacy boot you can select either `MBR` or `GPT`. If you don't know which to use select the more up to date `GPT`. Also if user has multiple hard drives or SSDs they all need to have the same partition table type or there can be problems. So all `GPT` or all `MBR`
 
 ![root-home-swap-03.png](/images/root-home-swap-03.png)
 
