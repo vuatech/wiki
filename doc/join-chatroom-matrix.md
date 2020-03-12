@@ -2,7 +2,7 @@
 title: Join OpenMandriva chat room with Matrix
 description: 
 published: true
-date: 2020-03-12T13:34:10.825Z
+date: 2020-03-12T13:35:40.302Z
 tags: documentation
 ---
 
@@ -13,7 +13,7 @@ One of the main advantage of Matrix is to keep conversations logs even when you�
 
 You can create an account with any [matrix client](https://matrix.org/docs/projects/try-matrix-now.html), but for simplicity we’ll use in this guide the web version of Riot client. Riot is the most commonly used client, is multi-language, easy to use and very complete client, available on [almost all devices](https://about.riot.im/) (Android, iOS, desktop, web…).
 
-If you already have a Matrix account, you can jump to paragraph XYZ
+If you already have a Matrix account, you can jump to [paragraph](/doc/join-chatroom-matrix#the-interesting-part-joining-openmandriva-rooms)
 
 
 ## Registration
