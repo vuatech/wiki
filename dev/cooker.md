@@ -2,7 +2,7 @@
 title: Cooker
 description: Markdown page
 published: true
-date: 2020-03-11T21:34:44.723Z
+date: 2020-03-12T10:25:08.693Z
 tags: 
 ---
 
@@ -16,3 +16,4 @@ If you feel that your talents do not lie in the realm of software, then the Open
 
 It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/donate) to keep the lights on! 
 
+![header-tr-cooker.png](/assets/header-tr-cooker.png){.align-abstopright}
