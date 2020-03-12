@@ -2,7 +2,7 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T08:26:48.777Z
+date: 2020-03-12T08:37:38.710Z
 tags: documentation, howto
 ---
 
@@ -48,7 +48,7 @@ Select <kbd>Create</kbd>
 
 Follow the steps in the dialog box and you will end up with something like this
 
-![root-home-swap-05.png](/images/root-home-swap-05.png)
+![root-home-swap-06.png](/images/root-home-swap-06.png)
 
 If you have what you want select <kbd>Next</kbd> and when installed your new system will have the separate root, home, and swap partitions.
 
@@ -64,6 +64,5 @@ This is a screenshot of what the <kbd>Create</kbd> dialog window should look lik
 ![root-home-swap-05.png](/images/root-home-swap-05.png)
 
 \-
-
 
 
