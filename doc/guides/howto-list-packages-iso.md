@@ -2,8 +2,8 @@
 title: How to get a list of all packages included in the ISO
 description: 
 published: true
-date: 2020-03-09T20:01:18.065Z
-tags: documentation, howto
+date: 2020-03-13T07:56:01.082Z
+tags: documentation, howto, user-guide
 ---
 
 # How to get a list of all packages included in the ISO
