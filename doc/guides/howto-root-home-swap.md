@@ -2,8 +2,8 @@
 title: How to have root, home, and swap partitions created during OM Lx installation
 description: 
 published: true
-date: 2020-03-12T18:06:39.603Z
-tags: documentation, howto
+date: 2020-03-13T10:59:06.035Z
+tags: documentation, howto, user-guide, advanced
 ---
 
 # How to have root, home, and swap partitions created during OM Lx installation
