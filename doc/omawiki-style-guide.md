@@ -2,7 +2,7 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-03-13T11:57:56.018Z
+date: 2020-03-13T12:35:16.152Z
 tags: policies, wiki, howto
 ---
 
@@ -40,6 +40,10 @@ Paths cannot contain the following characters:
 
 As we often have to write release version number (4.0, 4.1, 4.2, etc.), while creating new pages just convert it into `40`, `41`, `42`, etc. by omitting the dot in the path.
 
+If the page is called "*How to foo bar whatever*" the path must be `/doc/guides/howto-something`
+No `how-to`, no `howtos`, no `how-tos`, etc.
+  
 
+  
 
 
