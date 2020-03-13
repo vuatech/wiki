@@ -2,8 +2,8 @@
 title: How to solve the most common cause of incorrect time in dual boot with windows systems
 description: 
 published: true
-date: 2020-03-09T19:26:37.022Z
-tags: documentation, howto
+date: 2020-03-13T11:04:23.285Z
+tags: documentation, howto, user-guide
 ---
 
 # How to solve the most common cause of incorrect time in dual boot with windows systems
