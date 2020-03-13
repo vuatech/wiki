@@ -2,7 +2,7 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-03-13T12:38:01.479Z
+date: 2020-03-13T18:13:45.334Z
 tags: documentation, policies, wiki, howto
 ---
 
@@ -31,6 +31,7 @@ When at all possible, rename your image filename to something meaningful related
 ### Paths
 Paths  must be lowercase. Use dashed to separate the words.
 No punctuation allowed except dashes/hyphens and/or underscores.
+-- Note: even if *technically* permitted, OpenMandriva wiki standard is to use dashes instead of underscores.
 No need for full title of the page in the path: it can, and should when possible, be shortened.
 
 Paths cannot contain the following characters:
