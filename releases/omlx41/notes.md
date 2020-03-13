@@ -2,12 +2,12 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-03-09T18:36:24.304Z
+date: 2020-03-13T16:49:12.932Z
 tags: 4.1
 ---
 
 # OpenMandriva Lx 4.1  Release Notes
-The OpenMandriva Lx teams are pleased to announce the availability of **OpenMandriva Lx 4.1**.
+The OpenMandriva Lx teams are pleased to announce the availability of **OpenMandriva Lx 4.1**. [Codename](/en/releases/codename) Mercury
 
 ## Available Media
 
@@ -128,9 +128,10 @@ submenu "OpenMandriva (64 bit)" {
 
 ## About Repositories
 
-We have now the [om-repo-picker](https://wiki.openmandriva.org/en/images/4/46/Repopicker-00.png) aka Software Repository Selector to select additional repositories for more package availability.
-Do not mix the repositories from different release versions/update channels. This means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
-This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
+We have now the [om-repo-picker](/en/doc/repositories-tldr) aka Software Repository Selector to select additional repositories for more package availability.
+
+Do not mix the repositories from different release versions/update channels. It means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
+This is explained in more detail in [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install.** And after that fresh install don't do this again.
 
 
