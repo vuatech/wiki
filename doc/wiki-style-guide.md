@@ -2,7 +2,7 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2020-03-07T10:47:14.681Z
+date: 2020-03-13T11:32:15.212Z
 tags: documentation, wiki
 ---
 
@@ -190,8 +190,16 @@ You do not have to write to impress an English professor, or show off your exper
 Write with your target audience in mind, and it will be your documentation contributions with the highest visits of users in need of answers.
 
 
-----
+
 *Credits:
 Taken from* [Fedora Project Style Guide](http://Fedoraproject.org/wiki/Docs_Project_Style_Guide_-_General_Guidelines)
+
+----
+## OpenMandriva wiki specific style guide
+
+Read also [OpenMandriva wiki specific style guide](/en/doc/omawiki-style-guide)
+
+
+
 
 
