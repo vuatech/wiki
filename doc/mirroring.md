@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-03-14T19:10:14.516Z
+date: 2020-03-14T19:17:05.768Z
 tags: documentation
 ---
 
@@ -39,7 +39,8 @@ Users should generally not use this server unless they need src.rpm packages, de
 Mirrors should also avoid to sync from this server as there is much more data in it.
 
 ## Adding the urls to our lists
-* Mirmon: send the url of your mirror to the workshop team (your mail will eventually be held for moderation, the first time). We will add it to the lists.
+* Mirmon: send the url of your mirror to the workshop team (your mail will eventually be held for moderation, the first time).
+We will add it to the lists.
 * Media list: for each release (cooker, 4.0, rock (4.1), rolling, ...) the record is set as:
 
 ```
@@ -53,7 +54,7 @@ country=Brasil,city=Curitiba,latitude=-13.58,longitude=-51.85,bw=1GB,version=201
 
 Please send also the relevant details for your mirror.
 
-## Synchronize your mirro
+## Synchronize your mirror
 * You may use **rsync** (`man rsync` for details)
 
 ```
