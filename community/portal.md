@@ -2,7 +2,7 @@
 title: Portal
 description: 
 published: true
-date: 2020-03-16T15:25:48.972Z
+date: 2020-03-16T17:32:19.306Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ Your content here
 
 ## Resources & useful links
 
-- [OpenMandriva main website](https://www.openmandriva.org)
+- [OpenMandriva official website](https://www.openmandriva.org)
 - [OpenMandriva News](https://www.openmandriva.org/en/news/)
 - OpenMandriva Old Blog (archive)
 - [Wiki *(this wiki)*](https://wiki.openmandriva.org)
@@ -20,14 +20,22 @@ Your content here
 - [Issue Tracking System](https://issues.openmandriva.org/)
 - [Gallery](https://gallery.openmandriva.org/)
 - Chwido
-- *OpenMandriva Social Networks*
+- OpenMandriva Social Networks
+ [Facebook](https://www.facebook.com/OpenMandriva)
+ [Twitter](https://twitter.com/OpenMandrivaOrg)
+ [Reddit](https://www.reddit.com/r/OpenMandriva/)
+ [Diaspora](https://joindiaspora.com/u/openmandriva)
+ [Mastodon](https://hostux.social/@OpenMandriva)
+ [SeenThis](https://seenthis.net/people/openmandriva)
+ [Movim](https://fi.movim.eu/?contact/openmandriva%40movim.eu)
 
 - [ABF](https://abf.openmandriva.org/)
 - [Mirrors](https://downloads.openmandriva.org/mm)
 - [Kahinah](https://kahinah.rxu.tech/)
 
-- *Sources*
-  - [OpenMandrivaSoftware](https://github.com/OpenMandrivaSoftware/)
-  - [OpenMandrivaAssociation](https://github.com/OpenMandrivaAssociation/)
-  
-  
+- Sources
+ [OpenMandrivaSoftware](https://github.com/OpenMandrivaSoftware/)
+ [OpenMandrivaAssociation](https://github.com/OpenMandrivaAssociation/)
+{.links-list}
+
+\- 
