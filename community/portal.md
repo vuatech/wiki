@@ -2,7 +2,7 @@
 title: Portal
 description: 
 published: true
-date: 2020-03-16T18:00:52.284Z
+date: 2020-03-16T18:22:04.105Z
 tags: 
 ---
 
@@ -13,8 +13,7 @@ Your content here
 
 - [OpenMandriva official website](https://www.openmandriva.org)
 - [OpenMandriva News](https://www.openmandriva.org/en/news/)
-- OpenMandriva Old Blog (archive)
-- [Wiki *(this wiki)*](/home)
+- [OpenMandriva Old Blog (archive)](https://arc.openmandriva.org/blog/)
 - [Openmandriva on IRC](/en/doc/chat-faq)
 - [Forum](https://forum.openmandriva.org/)
 - [Issue Tracking System](https://issues.openmandriva.org/)
