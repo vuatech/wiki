@@ -2,14 +2,11 @@
 title: Portal
 description: 
 published: true
-date: 2020-04-09T19:07:54.924Z
+date: 2020-04-10T21:25:44.893Z
 tags: 
 ---
 
-# Header
-Your content here
-
-## Resources & useful links
+# Resources & useful links
 
 - [OpenMandriva official website](https://www.openmandriva.org)
 - [OpenMandriva News](https://www.openmandriva.org/en/news/)
