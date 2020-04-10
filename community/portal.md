@@ -2,7 +2,7 @@
 title: Portal
 description: 
 published: true
-date: 2020-04-10T21:26:28.599Z
+date: 2020-04-10T21:41:07.781Z
 tags: 
 ---
 
@@ -15,6 +15,7 @@ tags:
 - [Forum](https://forum.openmandriva.org/)
 - [Issue Tracking System](https://issues.openmandriva.org/)
 - [Gallery](https://gallery.openmandriva.org/)
+- [Chwido](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/)
 - OpenMandriva Social Networks
  [Facebook](https://www.facebook.com/OpenMandriva)
  [Twitter](https://twitter.com/OpenMandrivaOrg)
