@@ -2,8 +2,8 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-04-10T19:38:28.836Z
-tags: 
+date: 2020-04-10T23:12:06.120Z
+tags: documentation, policies, wiki, howto
 ---
 
 # OpenMandriva wiki specific style guide
@@ -29,7 +29,7 @@ Images file name should not contain:
 When at all possible, rename your image filename to something meaningful related to the page or to what you are showing.
 
 ### Paths
-Paths  must be lowercase. Use dashed to separate the words.
+Paths  must be lowercase. Use dashes to separate the words.
 No punctuation allowed except dashes/hyphens and/or underscores.
 -- Note: even if *technically* permitted, OpenMandriva wiki standard is to use dashes instead of underscores.
 No need for full title of the page in the path: it can, and should when possible, be shortened.
