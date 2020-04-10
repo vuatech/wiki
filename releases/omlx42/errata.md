@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Errata
 description: OMLx 4.2 Errata
 published: true
-date: 2020-04-10T21:13:54.408Z
+date: 2020-04-10T21:14:09.881Z
 tags: 4.2
 ---
 
