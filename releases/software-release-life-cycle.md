@@ -2,8 +2,8 @@
 title: Software release life cycle
 description: 
 published: true
-date: 2020-03-07T12:53:06.623Z
-tags: releases, qa
+date: 2020-03-07T12:53:07.732Z
+tags: 
 ---
 
 # Software release life cycle

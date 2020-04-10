@@ -2,14 +2,12 @@
 title: OMA wiki
 description: This is the OpenMandriva Wiki, a free documentation project that you can improve
 published: true
-date: 2020-03-16T12:03:52.306Z
+date: 2020-04-10T18:34:43.857Z
 tags: 
 ---
 
 # OpenMandriva Wiki
 
-> Warning! This wiki is under complete refactor
-{.is-warning}
 
 
 Latest Release: OMLx 4.1

@@ -2,8 +2,8 @@
 title: Terms of services
 description: 
 published: true
-date: 2020-03-12T14:13:43.829Z
-tags: documentation
+date: 2020-03-12T14:13:45.070Z
+tags: 
 ---
 
 # Terms of services

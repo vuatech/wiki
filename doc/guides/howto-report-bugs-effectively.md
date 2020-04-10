@@ -2,8 +2,8 @@
 title: How to Report Bugs Effectively
 description: 
 published: true
-date: 2020-03-09T15:28:30.212Z
-tags: documentation, howto
+date: 2020-03-09T15:28:31.415Z
+tags: 
 ---
 
 # How to Report Bugs Effectively

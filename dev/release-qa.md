@@ -2,8 +2,8 @@
 title: OpenMandriva Release QA
 description: 
 published: true
-date: 2020-03-07T12:51:36.690Z
-tags: releases, policies, qa
+date: 2020-03-07T12:51:37.873Z
+tags: 
 ---
 
 # OpenMandriva Release QA

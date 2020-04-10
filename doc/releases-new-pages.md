@@ -2,8 +2,8 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-03-12T00:53:43.046Z
-tags: documentation, wiki
+date: 2020-03-12T00:53:44.283Z
+tags: 
 ---
 
 # Releases pages creation documentation

@@ -2,8 +2,8 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-03-11T21:53:07.411Z
-tags: 4.2
+date: 2020-03-11T21:53:08.873Z
+tags: 
 ---
 
 # OpenMandriva Lx 4.2 New

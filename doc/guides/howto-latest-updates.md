@@ -2,8 +2,8 @@
 title: How to get a list of the latest updates
 description: 
 published: true
-date: 2020-03-13T07:55:02.094Z
-tags: documentation, howto, user-guide
+date: 2020-03-13T07:55:04.233Z
+tags: 
 ---
 
 # How to get a list of the latest updates

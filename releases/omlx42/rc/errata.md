@@ -2,8 +2,8 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-03-07T21:27:45.940Z
-tags: 4.2
+date: 2020-03-07T21:27:47.316Z
+tags: 
 ---
 
 # OpenMandriva Lx 4.2 RC - Known Issues

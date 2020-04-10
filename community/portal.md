@@ -2,7 +2,7 @@
 title: Portal
 description: 
 published: true
-date: 2020-03-16T18:22:04.105Z
+date: 2020-04-09T19:07:54.924Z
 tags: 
 ---
 
@@ -18,7 +18,6 @@ Your content here
 - [Forum](https://forum.openmandriva.org/)
 - [Issue Tracking System](https://issues.openmandriva.org/)
 - [Gallery](https://gallery.openmandriva.org/)
-- Chwido
 - OpenMandriva Social Networks
  [Facebook](https://www.facebook.com/OpenMandriva)
  [Twitter](https://twitter.com/OpenMandrivaOrg)
@@ -26,7 +25,6 @@ Your content here
  [Diaspora](https://joindiaspora.com/u/openmandriva)
  [Mastodon](https://hostux.social/@OpenMandriva)
  [SeenThis](https://seenthis.net/people/openmandriva)
- [Movim](https://fi.movim.eu/?contact/openmandriva%40movim.eu)
 
 - [ABF](https://abf.openmandriva.org/)
 - [Mirrors](https://downloads.openmandriva.org/mm)

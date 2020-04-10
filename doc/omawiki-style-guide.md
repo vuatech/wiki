@@ -2,8 +2,8 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-03-13T18:13:45.334Z
-tags: documentation, policies, wiki, howto
+date: 2020-03-13T18:13:46.565Z
+tags: 
 ---
 
 # OpenMandriva wiki specific style guide

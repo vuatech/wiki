@@ -2,11 +2,13 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-03-12T10:23:57.747Z
-tags: qa
+date: 2020-04-10T19:05:06.136Z
+tags: 
 ---
 
-![header-tr-qa.png](/assets/header-tr-qa.png){.align-abstopright}# OpenMandriva Quality Assurance
+![header-tr-qa.png](/assets/header-tr-qa.png){.align-abstopright}
+
+# OpenMandriva Quality Assurance
 
 The goal of the Quality Assurance group is to ensure not only that bugs do not make their way to the public through testing and standards, but that they may be easily resolved through triaging to their respective packages and maintainers.
 
@@ -49,7 +51,11 @@ Currently OpenMandriva contributor group is small enough that developers and QA 
 There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
 ## Meetings
-QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the [meeting logs](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/) to keep up with what is happening.
+QA Team members are encouraged to actively attend weekly TC meetings to keep up with what is happening.
 TC meetings are announced [here](https://forum.openmandriva.org/t/events-and-meetings-calendar/2735) and take place at #openmandriva-cooker. 
 
+
+.
+
+.
 

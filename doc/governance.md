@@ -2,8 +2,8 @@
 title: Governance
 description: 
 published: true
-date: 2020-03-12T11:18:11.811Z
-tags: documentation
+date: 2020-03-12T11:18:13.034Z
+tags: 
 ---
 
 # Governance

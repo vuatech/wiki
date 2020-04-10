@@ -2,8 +2,8 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-03-07T22:34:29.168Z
-tags: documentation
+date: 2020-03-07T22:34:30.522Z
+tags: 
 ---
 
 # How to contribute to OpenMandriva

@@ -2,13 +2,14 @@
 title: Releases
 description: 
 published: true
-date: 2020-03-12T20:12:17.852Z
+date: 2020-04-10T17:32:02.419Z
 tags: 
 ---
 
 # OpenMandriva Releases
 
 ## Current release
+<!-- 
 ### OpenMandriva Lx 4.2
 **Codename Argon**
 
@@ -35,6 +36,7 @@ tags:
 <br>
 
 ## Previous release
+ -->
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**

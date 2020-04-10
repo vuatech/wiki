@@ -2,8 +2,8 @@
 title: OpenMandriva Welcome
 description: 
 published: true
-date: 2020-03-04T19:40:22.378Z
-tags: documentation
+date: 2020-03-04T19:40:23.880Z
+tags: 
 ---
 
 # OpenMandriva Welcome

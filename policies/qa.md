@@ -2,8 +2,8 @@
 title: Quality Assurance
 description: Policies for QA
 published: true
-date: 2020-03-02T09:47:24.215Z
-tags: qa, development
+date: 2020-03-02T09:47:28.488Z
+tags: 
 ---
 
 OpenMandriva Quality Assurance {#openmandriva_quality_assurance}

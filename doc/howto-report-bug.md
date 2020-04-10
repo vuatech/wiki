@@ -2,8 +2,8 @@
 title: How to report a bug
 description: 
 published: true
-date: 2020-03-07T12:46:37.753Z
-tags: documentation, qa
+date: 2020-03-07T12:46:39.003Z
+tags: 
 ---
 
 # How to report a bug
