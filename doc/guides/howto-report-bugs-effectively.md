@@ -2,7 +2,7 @@
 title: How to Report Bugs Effectively
 description: 
 published: true
-date: 2020-03-09T15:28:31.415Z
+date: 2020-04-10T19:38:56.118Z
 tags: 
 ---
 

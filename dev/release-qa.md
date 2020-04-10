@@ -2,7 +2,7 @@
 title: OpenMandriva Release QA
 description: 
 published: true
-date: 2020-03-07T12:51:37.873Z
+date: 2020-04-10T19:38:09.580Z
 tags: 
 ---
 

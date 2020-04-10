@@ -2,7 +2,7 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-03-13T18:13:46.565Z
+date: 2020-04-10T19:38:28.836Z
 tags: 
 ---
 

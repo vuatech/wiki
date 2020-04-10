@@ -2,7 +2,7 @@
 title: Quality Assurance
 description: Policies for QA
 published: true
-date: 2020-03-02T09:47:28.488Z
+date: 2020-04-10T19:38:42.937Z
 tags: 
 ---
 

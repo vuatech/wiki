@@ -2,7 +2,7 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2020-03-07T10:36:06.989Z
+date: 2020-04-10T19:38:30.145Z
 tags: 
 ---
 

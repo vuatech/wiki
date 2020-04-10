@@ -2,7 +2,7 @@
 title: OMA wiki
 description: This is the OpenMandriva Wiki, a free documentation project that you can improve
 published: true
-date: 2020-04-10T18:34:43.857Z
+date: 2020-04-10T19:37:59.272Z
 tags: 
 ---
 

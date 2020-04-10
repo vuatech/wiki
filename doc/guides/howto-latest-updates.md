@@ -2,7 +2,7 @@
 title: How to get a list of the latest updates
 description: 
 published: true
-date: 2020-03-13T07:55:04.233Z
+date: 2020-04-10T19:38:52.253Z
 tags: 
 ---
 

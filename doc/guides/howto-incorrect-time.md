@@ -2,7 +2,7 @@
 title: How to solve the most common cause of incorrect time in dual boot with windows systems
 description: 
 published: true
-date: 2020-03-13T12:12:50.778Z
+date: 2020-04-10T19:38:49.139Z
 tags: 
 ---
 

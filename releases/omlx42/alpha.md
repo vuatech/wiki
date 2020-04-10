@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha
 description: 
 published: true
-date: 2020-03-12T01:12:46.808Z
+date: 2020-04-10T19:39:03.917Z
 tags: 
 ---
 

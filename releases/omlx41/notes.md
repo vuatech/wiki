@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-03-13T16:49:14.278Z
+date: 2020-04-10T19:39:02.660Z
 tags: 
 ---
 
