@@ -2,7 +2,7 @@
 title: Come ottenere un elenco degli ultimi aggiornamenti
 description: 
 published: true
-date: 2020-04-15T09:35:45.412Z
+date: 2020-04-15T09:35:59.638Z
 tags: howto, user-guide, troubleshooting
 ---
 
