@@ -2,7 +2,7 @@
 title: Come ottenere una lista di tutti i pacchetti presenti nella ISO
 description: 
 published: true
-date: 2020-04-15T09:39:34.796Z
+date: 2020-04-15T09:39:52.813Z
 tags: howto, user-guide, troubleshooting
 ---
 
