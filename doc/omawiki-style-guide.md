@@ -2,7 +2,7 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-04-10T23:12:06.120Z
+date: 2020-04-15T08:27:53.179Z
 tags: documentation, policies, wiki, howto
 ---
 
@@ -43,7 +43,15 @@ As we often have to write release version number (4.0, 4.1, 4.2, etc.), while cr
 
 If the page is called "*How to foo bar whatever*" the path must be `/doc/guides/howto-something`
 No `how-to`, no `howtos`, no `how-tos`, etc.
+
+### Translation workflow
+For the best organization, keep the original English path unchanged, just change the language code prefix. So `en/home` will become `fr/home`, `it/home`, etc.
+As another example `/en/doc/guides/howto-list-packages-iso` will become `/it/doc/guides/howto-list-packages-iso` and your translated **page title** (which is quite another thing from path) will be "*Come ottenere una lista di tutti i pacchetti presenti nella ISO*"
+Keep in mind that the path is a convention, the page title can be whatever in own language.
   
+\-
+
+
 
   
 
