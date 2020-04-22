@@ -2,7 +2,7 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-04-15T08:50:34.912Z
+date: 2020-04-22T16:52:59.603Z
 tags: documentation, policies, wiki, howto
 ---
 
@@ -48,7 +48,7 @@ No `how-to`, no `howtos`, no `how-tos`, etc.
 For the best organization, keep the original English path unchanged, just change the language code prefix. So `en/home` will become `fr/home`, `it/home`, etc.
 As another example `/en/doc/guides/howto-list-packages-iso` will become `/it/doc/guides/howto-list-packages-iso` and your translated **page title** (which is quite another thing from path) will be "*Come ottenere una lista di tutti i pacchetti presenti nella ISO*"
 Keep in mind that the path is a convention, the page title can be whatever in own language.
-The above action however is simplified and automatically performed by clicking the *Language* icon on top right of the page.
+The above action however is simplified and automatically performed by clicking the *Language* <i class="v-icon mdi mdi-web"></i> icon on top right of the page.
   
 \-
 
