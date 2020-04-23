@@ -2,8 +2,8 @@
 title: How to configure printer in OMLx
 description: 
 published: true
-date: 2020-04-10T19:38:54.730Z
-tags: 
+date: 2020-04-23T19:39:15.545Z
+tags: documentation, howto, user-guide
 ---
 
 # How to configure printer in OMLx
