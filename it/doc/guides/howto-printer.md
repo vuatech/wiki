@@ -2,7 +2,7 @@
 title: Come configurare la stampante in OMLx
 description: 
 published: true
-date: 2020-04-23T20:06:22.317Z
+date: 2020-04-23T20:10:31.499Z
 tags: documentation, howto, user-guide
 ---
 
@@ -13,8 +13,8 @@ Se la stampante è stata configurata automaticamente e si dispone del driver cor
 
 Se non lo fosse, spegni la stampante.
 
-Apri *Impostazioni della stampante* aka `system-config-printer` , e rimuovi la stampante.
-Se il driver corretto invece non è stato installato automaticamente, dovrai installare un pacchetto supplementare.
+Apri *Impostazioni della stampante* aka `system-config-printer`, e rimuovi la stampante.
+Se il driver corretto non è stato installato automaticamente, dovrai installare un pacchetto supplementare.
 
 In OpenMandriva Lx molto probabilmente sarà un pacchetto "task-printing" specifico per la tua stampante.
 I pacchetti sono:
