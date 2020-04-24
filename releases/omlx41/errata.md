@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2020-04-24T16:39:16.241Z
+date: 2020-04-24T16:47:03.336Z
 tags: 4.1
 ---
 
@@ -61,7 +61,9 @@ In OpenMandriva Lx this is most likely to be a 'task-printing' package specific 
 - task-printing-misc
 
 Install the package that matches your brand or the misc package if none do. Example using okidata:
-`$ sudo dnf install task-printing-okidata`
+```
+$ sudo dnf install task-printing-okidata
+```
 Now turn printer on again and it should then automatically configure itself (sometimes you might need to reboot for auto config to work).
 
 If not seek help [here](https://forum.openmandriva.org/c/en/support)
