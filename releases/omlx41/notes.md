@@ -2,8 +2,8 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-04-10T19:39:02.660Z
-tags: 
+date: 2020-04-24T18:51:01.115Z
+tags: 4.1
 ---
 
 # OpenMandriva Lx 4.1  Release Notes
@@ -134,6 +134,14 @@ Do not mix the repositories from different release versions/update channels. It 
 This is explained in more detail in [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install.** And after that fresh install don't do this again.
 
+## OpenMandriva repositories and software availability
+
+OMLx installed operating systems have the main repository enabled by default.
+
+There are also repositories called unsupported, restricted, and non-free. For maximum availability of all software user will need to enable these. 
+The various repositories are explained [here](/en/doc/release-plan-and-repositories)
+
+User may use the graphical utility [Software Repository Selector](/en/doc/repositories-tldr) to select or unselect what they wish to use.
 
 ## New Features and Major Changes
 
