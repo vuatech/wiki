@@ -2,8 +2,8 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2020-04-10T19:38:59.956Z
-tags: 
+date: 2020-04-24T16:39:16.241Z
+tags: 4.1
 ---
 
 # OpenMandriva Lx 4.1 Errata - Known Issues
@@ -65,5 +65,17 @@ Install the package that matches your brand or the misc package if none do. Exam
 Now turn printer on again and it should then automatically configure itself (sometimes you might need to reboot for auto config to work).
 
 If not seek help [here](https://forum.openmandriva.org/c/en/support)
+
+## Discover
+With regard to software in the repositories, Discover may not display all available packages.
+This is due to its cache not being cleared and repositories list not being fetched at the first start.
+Workaround is: run the commands
+```
+$ sudo rm -rf /var/cache/PackageKit/* /var/cache/app-info/*
+$ sudo pkcon refresh force
+```
+If you want to explore also additional repositories packages you will need to enable them by mean of [Software Repository Selector](/en/doc/repositories-tldr) and refresh cache again.
+
+
 
 
