@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-04-26T08:18:56.799Z
+date: 2020-04-26T08:40:21.589Z
 tags: 4.1
 ---
 
@@ -89,9 +89,9 @@ In order to do this you must first delete the partition and recreate it as the t
 
 ## Recommended file system type for manual installation
 
-Strongly recommended is EXT4 file system type as we have seen fewer problems and this works on wide range of hardware.
-For flash memory-based storage devices (basically SSDs) we make available F2FS and reports are mostly positive.
-Users may use XFS or BTRFS although there have been some problems reported with BTRFS.
+Strongly recommended is [ext4](https://en.wikipedia.org/wiki/Ext4) file system type as we have seen fewer problems and this works on wide range of hardware.
+For flash memory-based storage devices (basically SSDs) we make available [F2FS](https://en.wikipedia.org/wiki/F2FS) and reports are mostly positive.
+Users may use [XFS](https://en.wikipedia.org/wiki/XFS) or [Btrfs](https://en.wikipedia.org/wiki/Btrfs) although there have been some problems reported with BTRFS.
 No other file system type should be used for installation partition.
 
 ## Booting from USB
