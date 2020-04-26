@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-04-26T08:04:37.752Z
+date: 2020-04-26T08:12:59.284Z
 tags: 4.1
 ---
 
@@ -11,7 +11,7 @@ The OpenMandriva Lx teams are pleased to announce the availability of **OpenMand
 
 ## Available Media
 
-This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/en/documentation/openmandriva-lx/article/download-omlx-4-1). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
+This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/en/download). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
 *Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 Available ISO files are:
