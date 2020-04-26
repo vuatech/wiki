@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-04-26T08:12:59.284Z
+date: 2020-04-26T08:17:17.895Z
 tags: 4.1
 ---
 
@@ -65,7 +65,7 @@ On UEFI computers in multi-boot situation with multiple storage drives if you al
 ## NVME SSDs
 
 Some NVME SSDs may not be recognized by OMLx 4.1 *Live* ISO.
-The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.1/Errata#NVME SSDs](/en/releases/omlx41/omlx41_errata#nvme-ssds).
+The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.1/Errata#NVME SSDs](/en/releases/omlx41/errata#nvme-ssds).
 The OM Lx 4.1 release includes kernel 5.5.0 and hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
 
 ## Installer and EFI Support
