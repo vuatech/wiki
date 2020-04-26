@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2020-04-24T16:47:03.336Z
+date: 2020-04-26T08:01:51.123Z
 tags: 4.1
 ---
 
@@ -77,6 +77,21 @@ $ sudo rm -rf /var/cache/PackageKit/* /var/cache/app-info/*
 $ sudo pkcon refresh force
 ```
 If you want to explore also additional repositories packages you will need to enable them by mean of [Software Repository Selector](/en/doc/repositories-tldr) and refresh cache again.
+
+## Multiboot
+In the 'real world' multiboot works well most of the time but when there are problems sometimes the solution is a workaround rather than a fix. These are just realities of multiboot.
+
+Also it is not currently possible for OpenMandriva QA to test our bootloader with every file system type on every Linux distro, or even on "Top 10" Linux distros. The fact is that whether multi-booting with Windows or other Linux distros we rely exclusively on users' reports to know what does and what does not work regarding multi-booting.  
+
+One known problem encountered with OM Lx bootloader is that OM Lx grub2 does not create boot entries for openSUSE systems that use btrfs file system. OM Lx grub2 does work with openSUSE systems that use ext4 file system.
+This is because openSUSE uses custom syntax for their btrfs patches for openSUSE os-prober and grub2 packages that are not compatible with OM Lx code. It is not presently known if OM Lx bootloader does/does not work with openSUSE with any other file system types such as XFS or F2FS.
+
+The workaround is for users to switch boot-loaders in UEFI firmware settings or BIOS.
+Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva system.
+As users report multiboot issues we will fix what we are able to. Issues we are unable to fix we will report in Errata for our OM Lx Releases.
+
+
+
 
 
 
