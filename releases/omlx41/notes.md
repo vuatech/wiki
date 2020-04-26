@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Release Notes
 description: 
 published: true
-date: 2020-04-24T18:51:01.115Z
+date: 2020-04-26T07:39:00.485Z
 tags: 4.1
 ---
 
@@ -86,6 +86,13 @@ We would welcome any feedback in this area.
 Please note that Calamares cannot convert one partition type to another and preserve partition data.
 If you run Calamares from the live image it is not possible to change an existing partition type. Trying to do this generates an error message. 
 In order to do this you must first delete the partition and recreate it as the type that you wish.
+
+## Recommended file system type for installation
+
+Strongly recommended is EXT4 file system type as we have seen fewer problems and this works on wide range of hardware.
+For flash memory-based storage devices (basically SSDs) we make available F2FS and reports are mostly positive.
+Users may use XFS or BTRFS although there have been some problems reported with BTRFS.
+No other file system type should be used for installation partition.
 
 ## Booting from USB
 
