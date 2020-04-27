@@ -2,8 +2,8 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2020-04-10T19:38:34.003Z
-tags: 
+date: 2020-04-27T12:15:02.429Z
+tags: documentation, association, legal
 ---
 
 # Statutes constitution English
