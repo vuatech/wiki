@@ -2,7 +2,7 @@
 title: How to update channel
 description: 
 published: true
-date: 2020-04-28T08:52:21.886Z
+date: 2020-04-28T09:09:45.491Z
 tags: documentation, howto, user-guide, advanced
 ---
 
@@ -30,7 +30,11 @@ You can also select OpenMandriva repo-picker in OM Welcome
 
 ![repositories02.jpg](/images/repositories02.jpg)
 
-- Select 'Rolling' from drop-down menu, confirm by click on OK and when prompted enter your root password. This will take a while so be patient.
+- Select 'Rolling' from drop-down menu
+
+![update-channel-rolling.jpg](/images/update-channel-rolling.jpg)
+
+confirm by click on OK and when prompted enter your root password. This will take a while so be patient.
 
 By this action you have now changed the repositories from Rock to Rolling so you want to perform a system upgrade (`distro-sync`).
 
