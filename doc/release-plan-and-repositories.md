@@ -2,7 +2,7 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2020-04-28T07:43:12.825Z
+date: 2020-04-28T07:44:19.373Z
 tags: documentation
 ---
 
@@ -12,7 +12,7 @@ Before making any change regarding release or update channels if you are even a 
 
 ## Release
 A release is a group of software packages put together to form an operating system.
-Each release is distinguished by its "version", like *Mandriva 2009*, W*indows XP*, *OpenMandriva Lx 2014*, *OpenMandriva Lx 4.0*, ect.
+Each release is distinguished by its "version", like *Mandriva 2009*, *Windows XP*, *OpenMandriva Lx 2014*, *OpenMandriva Lx 4.0*, ect.
 Releases are also called *Update Channels*.
 Release, Rock, Rolling and Cooker are all different release versions/update channels of OpenMandriva Lx. The emphasis is on the word different.
 **They must not be combined**.
