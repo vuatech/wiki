@@ -2,8 +2,8 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2020-04-10T19:38:30.145Z
-tags: 
+date: 2020-04-28T07:43:12.825Z
+tags: documentation
 ---
 
 # OpenMandriva Release Plan and Repositories
@@ -22,7 +22,7 @@ Repositories are servers which contain sets of packages, literally .rpm files.
 On OpenMandriva operating system software is packaged in .rpm files which contain the programs and libraries you need. These files can be downloaded and also some are included in .iso files as a specific "release version" for user installation.
 Each OpenMandriva release version has its own repositories.
 They are not interchangeable, **do not mix them**.
-Users generally accesses these files with package management tools like [DNF](https://wiki.openmandriva.org/en/How_to_manage_software_with_DNF), or previously URPM.
+Users generally accesses these files with package management tools like [DNF](/en/doc/using-dnf), or previously URPM.
 There are GUI tools for this also like dnfdragora, Discover, and previously RpmDrake.
 
 ## Release Plan
