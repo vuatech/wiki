@@ -2,14 +2,14 @@
 title: How to update channel
 description: 
 published: true
-date: 2020-04-28T08:42:49.215Z
+date: 2020-04-28T08:43:38.568Z
 tags: documentation, howto, user-guide, advanced
 ---
 
 # How to update channel
 ## How to upgrade from Rock to Rolling
 
-To users new to OpenMandriva Lx we suggest to start with Rock stable release to learn how the system work then, if you wish so, migrate to Rolling.
+To users new to OpenMandriva Lx we suggest to start with Rock stable release to learn how the system works then, if you wish so, migrate to Rolling.
 
 A 'Rolling' user should be able to use command line and know basics of [dnf](/en/doc/using-dnf) package manager.
 Also the user needs to read and understand [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories).
