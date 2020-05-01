@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Note di rilascio
 description: 
 published: true
-date: 2020-05-01T14:56:41.443Z
+date: 2020-05-01T16:21:55.335Z
 tags: 4.1
 ---
 
@@ -11,12 +11,12 @@ Il Team di OpenMandriva Lx è lieto di annunciare la disponibilità di **OpenMan
 
 ## Available Media
 
-This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/en/download). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
-*Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
+Questa release è disponibile come live media DVD o USB flash drive (chiavetta di memoria), scaricabile in formato ISO file. Si possono trovare alla nostra [pagina downloads](https://www.openmandriva.org/en/download). L'installazione da chiavetta USB è di solito notevolmente più veloce. Come sempre, la velocità dipende da molti fattori.
+*Live media* significa che potrai avviare OpenMandriva Lx direttamente da DVD o memory stick (vedi in seguito) e provare il sistema prima di installare.
 
-Available ISO files are:
-- [KDE Plasma](https://www.kde.org/plasma-desktop) desktop only full featured (includes the most common used functionalities, multimedia and office software).
-- znver1 Plasma: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors.
+Immagini ISO disponibili:
+- [KDE Plasma](https://www.kde.org/plasma-desktop) desktop completo (include una vasta scelta dei programmi più usati, multimedia e software per l'ufficio).
+- znver1 Plasma: inoltre abbiamo una versione specifica per i moderni processori AMD (Ryzen, ThreadRipper, EPYC) che ha una performance superiore a quella della versione generica (x86_64) sfruttando le nuove funzionalità di questi processori.
 znver1 è disponibile solamente per i seguenti processori (Ryzen, Thread Ripper, EPYC), non installare su nessun altro tipo di hardware.
 
 ## Raccomandazioni per l'Hardware
@@ -31,14 +31,14 @@ OpenMandriva Lx4.1 richiede un minimo di 2.0 GB di memoria e almeno 10 GB di spa
 
 ## Connessione Internet
 
-L'installer Calamares controlla se c'è una connessione internet disponibile, ma OpenMandriva Lx 4 verrà installato senza problemi anche se la connessione non è disponibile. Installare semplicemente come faresti normalmente e procedere ad utilizzare il sistema normalmente è perfettamente OK.
-Aggiornare un sistema del genere richiederà di essere temporaneamente connessi a Internet oppure si possono scaricare i pacchetti in un altro sistema e trasferirli al sistema installato e procedere a installare i pacchetti aggiornati.
-Ma fino a che non  si è connessi a Internet si può semplicemente usare il sistema senza aggiornarlo per quanto vogliamo.
+L'installer Calamares controlla se c'è una connessione internet disponibile, ma OpenMandriva Lx 4 verrà installato senza problemi anche senza connessione. Installa come faresti normalmente e procedi ad utilizzare il sistema. E' perfettamente OK.
+Aggiornare un sistema del genere richiederà di essere temporaneamente connessi a internet oppure si possono scaricare i pacchetti in un altro sistema e trasferirli al sistema installato e procedere a installare i pacchetti aggiornati.
+Ma fino a che non  si è connessi a internet si può semplicemente usare il sistema senza aggiornarlo per quanto vogliamo.
 
 ## Macchine Virtuali
 Per ora l'unico software di virtualizzazione su cui le ISO di OMLx sono state testate è VirtualBox. I requisiti hardware sono gli stessi anche quando si sta usando una macchina virtuale.
-Per quanto riguarda VirtualBox bisogna che tu abbia a disposizione un minimo di 2048 MB di memoria altrimenti OpenMandriva fallirà il processo di boot.
-Ancora per quanto riguarda VirtualBox è consigliato installare in una macchina virtuale nuova, perchè provare a installare il sistema in una già esistente potrebbe occasinalmente non funzionare.
+Per quanto riguarda VirtualBox dovrai impostare un minimo di 2048 MB di memoria altrimenti OpenMandriva fallirà il processo di boot.
+Ancora per quanto riguarda VirtualBox è consigliato installare in una macchina virtuale nuova, perchè provare a installare il sistema in una già esistente potrebbe occasionalmente non funzionare.
 
 ## Installer Calamares
 
@@ -50,41 +50,42 @@ Tante distribuzioni Linux usano Calamares come installer e ciascuna ha la sua im
 
 ## Partizionamento
 
-Per ora il partizionamento LVM e i setup Raid con l'installer Calamares non sono supportati. **Ciò si applica a tutti i partizionamenti**, tutte le installazioni su hardware: Se si possiede un computer con sistema UEFI/EFI e il tuo BIOS offre una scelta nel momento di boot ad esempio:
+Per ora il partizionamento LVM e i setup Raid con l'installer Calamares non sono supportati. **Ciò si applica a tutti i partizionamenti**, tutte le installazioni su hardware: Se possiedi un computer con sistema UEFI/EFI e il tuo BIOS offre una scelta al momento del boot ad esempio:
 
 `Chiavetta USB`
 `Chiavetta USB UEFI`
-or 
+o 
 `supporto DVD`
 `supporto DVD UEFI`
 
-In questi casi devi avviare scegliendo l'opzione UEFI. Ma sappi che non tutti i computer fanno ciò. Alcuni con BIOS più spartane offriranno solo un opzione e quasi sempre sarà quella corretta. Quindi per esempio se su un notebook non vedi le possibilità scritte sopra non preoccuparti. Se hai unità di memoria multiple ciò che devi fare è avere lo stesso tipo di tabelle di partizionamento. Devono essere o tutte gpt o tutte mbr per fare si che tutto funzioni correttamente.
-Su sistemi UEFI in situazioni di multi-boot con unità di memoria multiple se si ha già una partizione `/boot/efi` esistente bisogna usare quella. Il partizionatore non creerà un'altra partizione `/boot/efi` con flag appropriate e quindi l'installazione risulterà in un errore di bootloader non installato. Non formattare bisogna solo settare il mount point a `/boot/efi`. Uno può avere tanti bootloader per sistemi operativi diversi nella stessa partizione `/boot/efi`. Se c'è bisogno di cambiare bootloader, ciò si fa nelle impostazioni del BIOS.
+in questi casi devi avviare scegliendo l'opzione UEFI. Ma sappi che non tutti i computer sono uguali. Alcuni con BIOS più spartane offriranno solo un opzione e quasi sempre sarà quella corretta. Quindi per esempio se su un notebook non vedi le possibilità descritte sopra non preoccuparti. Se hai unità di memoria multiple ciò che devi fare è avere lo stesso tipo di tabelle di partizionamento. Devono essere o tutte gpt o tutte mbr per fare si che tutto funzioni correttamente.
+Su sistemi UEFI in situazioni di multi-boot con unità di memoria multiple se si ha già una partizione `/boot/efi` esistente bisogna usare quella. Il partizionatore non creerà un'altra partizione `/boot/efi` con flag appropriate e quindi l'installazione risulterà in un errore di bootloader non installato. Non formattare, devi solo impostare il punto di mount a `/boot/efi`. Si possono avere tanti bootloader per sistemi operativi diversi nella stessa partizione `/boot/efi`. Se c'è bisogno di cambiare bootloader, si fa nelle impostazioni del BIOS.
 
 ## NVME SSDs
 
 Alcune SSD NVME potrebbero non essere riconosciute dalla live ISO di OMLx4.1.
-La *Live* ISO ha 2 stratagemmi per ciò sotto "Troubleshooting" nel Menù di Grub 2. Sono `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. Speriamo che ciò funzioni per l'hardware della maggior parte delle persone. Il problema è conosciuto e gli sviluppatori di OMLx4 ci stanno lavorando su. Vedi di più in 4.1/Errata.
-La release di OMLx4.1 include kernel 5.5.0 e riconoscimento hardware per SSD NVME dovrebbe essere considerevolmente migliorato. Si sa che alcune SSD NVME che nella versione precedente non erano riconosciute ora lo sono con questa versione del kernel. Questo problema è molto specifico per alcuni tipi di hardware particolare.
+La *Live* ISO ha 2 stratagemmi per questo sotto "Troubleshooting" nel menu di Grub2.
+Sono `(PCIE ASPM=OFF)` e `(NVME APST=OFF)`. Confidiamo che funzioni per l'hardware della maggior parte delle persone. Il problema è conosciuto e gli sviluppatori di OMLx4 ci stanno lavorando. Vedi di più in [4.1/Errata](/en/releases/omlx41/errata#nvme-ssds).
+La release di OMLx4.1 include kernel 5.5.0 e riconoscimento hardware per SSD NVME dovrebbe essere considerevolmente migliorato. Ci risulta che alcune SSD NVME che nella versione precedente non erano riconosciute con questa versione del kernel ora lo sono. Questo problema è molto specifico per alcuni tipi di hardware particolare.
 
 ## Installer e Supporto EFI
 
 Questa release di OpenMandriva Lx supporta il boot e l'installazione con e senza  [UEFI](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface).
 Si noti che il secure boot NON è supportato.
-Se si desidera effettuare un installazione EFI su un disco MBR già esistenete sarà necessario convertire la tabella delle partizioni presente sul disco usando lo schema di partizionamento GPT. Per fare ciò è necessario utilizzare il programma gdisk. Una tipica invocazione potrebbe essere gdisk `gdisk /dev/sda` : la partizione esistente verrà convertita in schema GPT in memoria.Attenzione che facendo ciò potrebbe verificarsi una perdita di dati, il disco non sarà alterato fino a che la tabella delle partizioni viene scritta prmendo <kbd>w</kbd>. Consigliamo di effettuare un backup dei tuoi dati importanti prima di procedere con questo tipo di operazioni.
-Ci potrebberoi essere occasioni nelle quali la conversione non può essere effettuata, questo è solitamente dovuto a spazio insufficiente per scrivere la tabella delle partizioni all'inizio o alla fine del disco. Potrebbe essere necessario eliminare oppure ridimensionare una partizione per fare spazio, gparted è il tuo migliore amico in queste circostanze.
-C'è ancora il bisogno di creare una partizione efi per contenere l'equipaggiamento di boot, questa partizione va creata mentre si usa  l'installer Calamares. Quando l'installer raggiunge il momento del partizionamento la partizione di root (/) dovrebbe essere rimossa e una piccola partizione da 330MB in FAT32 o FAT16 deve essere creata all'inizio del disco. Se lo spazio su disco è critico si può usare una partizione più piccola ma bisogna assicurarsi che sia settata come FAT16 o FAT32 in Calamares altrimenti l'installazione non andrà a buon fine.
+Se si desidera effettuare un installazione EFI su un disco MBR già esistenete sarà necessario convertire la tabella delle partizioni presente sul disco usando lo schema di partizionamento GPT. Per fare ciò è necessario utilizzare il programma gdisk. Una tipica invocazione potrebbe essere gdisk `gdisk /dev/sda` : la partizione esistente verrà convertita in schema GPT in memoria.Attenzione che facendo ciò potrebbe verificarsi una perdita di dati, il disco non sarà alterato fino a che la tabella delle partizioni viene scritta premendo il tasto <kbd>w</kbd>. Consigliamo di effettuare sempre un backup dei tuoi dati importanti prima di procedere con questo tipo di operazioni.
+Potrebbero esserci occasioni nelle quali la conversione non può essere effettuata, ciò è solitamente dovuto a spazio insufficiente per scrivere la tabella delle partizioni all'inizio o alla fine del disco. Potrebbe essere necessario eliminare oppure ridimensionare una partizione per fare spazio, gparted è il tuo migliore amico in queste circostanze.
+Occorre creare una partizione efi per contenere l'equipaggiamento di boot, questa partizione va creata mentre si usa l'installer Calamares. Quando l'installer raggiunge il momento del partizionamento la partizione di root (/) dovrebbe essere rimossa e una piccola partizione da 330MB in FAT32 o FAT16 deve essere creata all'inizio del disco. Se lo spazio su disco è critico si può usare una partizione più piccola ma bisogna assicurarsi che sia impostata come FAT16 o FAT32 in Calamares altrimenti l'installazione non andrà a buon fine.
 Se non seguirai queste indicazioni l'installazione del boot loader fallirà. Successivamente partiziona il disco in maniera normale.
 Per favore condividete le vostre esperienze nei forum così che noi abbiamo modo di migliorare questo aspetto dell'installazione.
 Se stai installando in dual booting con Windows 8, 8.1, 10 o altri sistemi operativi EFI, come precauzione per favore assicurati di avere dischi di recupero e di avere un backup dei tuoi dati importanti. 
-Il nostro testing è stato limitato a questa configurazione, ma sono stata effettuate installazioni con successo senza problemi.
+Il nostro testing è stato limitato con questa configurazione, ma sono stata effettuate installazioni con successo senza problemi.
 Ogni tipo di feedback che riguarda quest'area è bene accetto.
 
 ## Cambiare tipo di partizione 
 
-Per favore si noti che Calamares non può convertire da un tipo di partizione a un'altra e conservare i dati delle partizioni.
-Se fai partire Calamares in Live non è possibile cambiare il tipo di partizione di una partizione esistente. Provare a eseguire questa operazione genererà un messaggio di errore.
-In modo da fare ciò bisgna prima eliminare la partizione e crearne una nuova con il tipo di partizione desiderato.
+Per favore nota che Calamares non può convertire da un tipo di partizione a un'altra e conservare i dati delle partizioni.
+Se fai partire Calamares in Live non è possibile cambiare il tipo di partizione di una partizione esistente. Se provi ad eseguire questa operazione, ti apparirà un messaggio di errore.
+Perchè vada a buon fine, devi prima eliminare la partizione e crearne una nuova con il tipo di partizione desiderato.
 
 ## File system raccomandati per installazione manuale
 
@@ -103,7 +104,7 @@ Per installarlo utilizzare il seguente comando:
 
 `sudo dnf --refresh install rosa-imagewriter`
 
-Oppure, se non hai ancora OpenMandriva Lx, puoi ottenere i link di download per ROSA Image Writer a [questa pagina](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter)
+Oppure, se non hai ancora OpenMandriva Lx, puoi trovare i link per il download di ROSA Image Writer a [questa pagina](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter)
 La capacità minima consigliata è di 4 GB. La memoria persistente non è necessaria.
 Si noti che ciò **cancellerà** tutto il contenuto della vostra USB.
 
@@ -117,7 +118,7 @@ In alternativa puoi scrivere l'immagine nella tua USB usando dd:
 
 Sostituisci `<iso_name>` con il percorso per l'ISO e `<usb_drive>` con la partizione del dispositivo USB, ad esempio `/dev/sdb`.
 
-SUSE Studio ImageWriter è stato testato e funziona per bruciare le ISO su unità di memoria USB.
+SUSE Studio ImageWriter è stato testato e funziona per scrivere le immagini ISO su unità di memoria USB.
 
 ## Avvio da file ISO
 
@@ -141,15 +142,15 @@ Adesso abbiamo [om-repo-picker](/en/doc/repositories-tldr) aka Software Reposito
 
 Non mischiare le repositories da release versioni o canali di aggiornamento diversi. Per esempio **non usare le repository Cooker su un sistema Rock**. Se usi Rock usa solo le repository Rock.
 Ciò è spiegato nel dettaglio in [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories). 
-Se mischi relese/repositories per i canali di aggiornamento e guasti il sistema la soluzione è reinstallare il sistema operativo da zero. E dopo aver reinstallato tutto non farlo più.
+Se mischi relese/repositories per i canali di aggiornamento e guasti il sistema l'unica soluzione sarà di reinstallare il sistema operativo da zero. Dopo aver reinstallato, non commettere più lo stesso errore.
 
 ## Repository di OpenMandriva e disponibilità di software
 
-Il sistema OMLx quando installato ha la repository main abilitata di default.
+Il sistema OMLx quando installato ha la repository `main` abilitata di default.
 
-Ci sono anche repository chiamate `unsupported`, `restricted` e `non-free`.
+Ci sono anche repository supplementari chiamate `unsupported`, `restricted` e `non-free`.
 Per avere la massima disponibilità di software gli utenti dovranno abilitare queste repo.
-Le varie repo sono spiegate [qui](/doc/release-plan-and-repositories)
+Trovi la spiegazione dei differenti repository [qui](/en/doc/release-plan-and-repositories)
 
 Gli utenti possono usare l'utility grafica Software Repository Selector per selezionare e deselezionare ciò che desiderano utilizzare.
 
