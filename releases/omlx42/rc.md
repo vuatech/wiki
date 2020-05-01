@@ -2,16 +2,16 @@
 title: OpenMandriva Lx 4.2 RC
 description: 
 published: true
-date: 2020-04-10T19:39:10.512Z
-tags: 
+date: 2020-05-01T10:25:53.105Z
+tags: 4.2
 ---
 
 # OpenMandriva Lx 4.2 RC
 
-This is the RC version of next OpenMandriva Lx 4.2.
+This is the R**C** version of next OpenMandriva Lx 4.2.
 
 It is recommended that you read the latest release notes on our wiki.
-You can download it following this link.
+You can download it following [this link](https://sourceforge.net/projects/openmandriva/files/release/4.2/).
 
 > Warning: This is a development product, and it is not aimed to be used in a production environment. It is released for testing and bug hunting. It can, and probably will, have problems. If you download and test this product, please report your findings and problems in the [Forum](http://forum.openmandriva.org/) and in our [issue tracking system](http://issues.openmandriva.org/).
 Thank you.
@@ -19,5 +19,5 @@ Thank you.
 
 
 ## Release Notes and Errata
-OpenMandriva 4.2 RC [Release Notes](/releases/omlx42/rc/notes)
-OpenMandriva 4.2 RC [Errata](/releases/omlx42/rc/errata)
+OpenMandriva 4.2 RC [Release Notes](/en/releases/omlx42/rc/notes)
+OpenMandriva 4.2 RC [Errata](/en/releases/omlx42/rc/errata)
