@@ -2,15 +2,15 @@
 title: OMA wiki
 description: This is the OpenMandriva Wiki, a free documentation project that you can improve
 published: true
-date: 2020-04-26T08:42:35.247Z
+date: 2020-05-01T23:06:46.455Z
 tags: 
 ---
 
-# OpenMandriva Wiki
+# OpenMandriva Lx
 
 
 
-Latest Release: OMLx 4.1
+## Latest Release: OMLx 4.1
 Release date: 02 February 2020
 
 ![omlx4.1-desktop.jpg](/images/omlx4.1-desktop.jpg =400x)
@@ -20,7 +20,7 @@ Release date: 02 February 2020
 [![Download OpenMandriva Lx](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/openmandriva/files/latest/download)
 [Downloads](https://www.openmandriva.org/en/download)
 
-## What is OpenMandriva Lx?
+### What is OpenMandriva Lx?
 OpenMandriva Lx is an exciting free Desktop Operating System which aims to stimulate and interest first time and advanced users alike. It has the breadth and depth of an advanced system but is designed to be simple and straightforward in use.
 
 ## Association
