@@ -2,22 +2,22 @@
 title: Governance
 description: 
 published: true
-date: 2020-05-02T09:31:02.141Z
+date: 2020-05-02T09:36:07.571Z
 tags: documentation, association
 ---
 
 # Governance
 
-L' Associazione OpenMandriva *(OMA)* è composta da un numero di organi: il Consiglio, il Comitato Consultivo, il Comitato Tecnico e l'Assemblea dei Membri.
+L' **Associazione OpenMandriva** *(OMA)* è composta da un numero di organi: il Consiglio, il Comitato Consultivo, il Comitato Tecnico e l'Assemblea dei Membri.
 
 Il Consiglio delinea gli obiettivi generali, la struttura e i processi per OMA.
-Lo [Statuto](/doc/statutes-constitution-fr) e il [Regolamento interno](/doc/bylaws) di OMA documentano le politiche e le procedure dell'Associazione come organizzazione non-profit della legge francese 1901.
+Lo [Statuto](/en/doc/statutes-constitution-fr) e il [Regolamento interno](/en/doc/bylaws) di OMA documentano le politiche e le procedure dell'Associazione come organizzazione non-profit della legge francese 1901.
 
 ## Il Consiglio
 Il Consiglio tende a incontrarsi 2 volte al mese @ conferenza IRC (#openmandriva @ freenode) per discutere vari temi riguardanti le regolari attività dell'Associazione e la distribuzione OpenMandriva Lx.
 Le minute di queste conferenze sono pubblicate qui in modo da garantire l'accesso pubblico. Il Consiglio di OpenMandriva utilizza metodi decisionali collaborativi.
 
-Il consiglio deve pubblicare pubblicamente ogni anno l'attività e il resoconto.
+Il consiglio deve rendere pubblici ogni anno l'attività e il resoconto.
 
 La lista degli attuali membri del Consiglio può essere consultata nella pagina dell'associazione.
 Il Presidente  è Bernard Rosenkränzer, il Bureau (il rappresentante legale dell'associazione che risponde alle autorità francesi) è Raphaël Jadot, il Segretario è Kate Lebedeff e il Tesoriere è Jean-Claude Vainer.
