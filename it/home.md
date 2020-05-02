@@ -2,7 +2,7 @@
 title: OMA wiki
 description: Questo è il wiki di OpenMandriva
 published: true
-date: 2020-05-02T13:40:56.920Z
+date: 2020-05-02T13:41:42.597Z
 tags: 
 ---
 
@@ -25,7 +25,9 @@ OpenMandriva Lx è un sistema operativo desktop gratuito che mira a stimolare e 
 OpenMandriva è anche il nome di una comunità globale di persone che sono appassionate di [free software](http://en.wikipedia.org/wiki/Free_software) e vogliono condurre nella creazione e nella diffusione di codice e contenuti liberi lavorando assieme.
 
 # L' Associazione
-L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 come French NGO, [Association de loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901). Rappresenta la Comunità di OpenMandriva, sponsorizza e facilita la realizzazione della distribuzione OpenMandriva Lx.
+L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 come French NGO, [Association de loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901). 
+
+Rappresenta la Comunità di OpenMandriva, sponsorizza e facilita la realizzazione della distribuzione OpenMandriva Lx.
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
 
