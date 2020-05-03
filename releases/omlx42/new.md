@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-05-01T10:09:40.933Z
+date: 2020-05-03T07:48:57.734Z
 tags: 4.2
 ---
 
@@ -24,9 +24,9 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### Display subsystem
 
-- Xorg 1.20.5
+- Xorg 1.20.8
 - Wayland 1.18.0 [*(more information)*](https://wayland.freedesktop.org/releases.html)
-- Mesa 20.0.6 [*(more information)*](http://www.mesa3d.org/)
+- Mesa 20.1 [*(more information)*](http://www.mesa3d.org/)
 
 ### Core
 
