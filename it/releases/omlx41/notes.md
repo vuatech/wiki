@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Note di rilascio
 description: 
 published: true
-date: 2020-05-01T16:21:55.335Z
+date: 2020-05-03T07:28:13.209Z
 tags: 4.1
 ---
 
@@ -65,7 +65,7 @@ Su sistemi UEFI in situazioni di multi-boot con unità di memoria multiple se si
 
 Alcune SSD NVME potrebbero non essere riconosciute dalla live ISO di OMLx4.1.
 La *Live* ISO ha 2 stratagemmi per questo sotto "Troubleshooting" nel menu di Grub2.
-Sono `(PCIE ASPM=OFF)` e `(NVME APST=OFF)`. Confidiamo che funzioni per l'hardware della maggior parte delle persone. Il problema è conosciuto e gli sviluppatori di OMLx4 ci stanno lavorando. Vedi di più in [4.1/Errata](/en/releases/omlx41/errata#nvme-ssds).
+Sono `(PCIE ASPM=OFF)` e `(NVME APST=OFF)`. Confidiamo che funzioni per l'hardware della maggior parte delle persone. Il problema è conosciuto e gli sviluppatori di OMLx4 ci stanno lavorando. Vedi di più in [4.1/Errata](/releases/omlx41/errata#nvme-ssds).
 La release di OMLx4.1 include kernel 5.5.0 e riconoscimento hardware per SSD NVME dovrebbe essere considerevolmente migliorato. Ci risulta che alcune SSD NVME che nella versione precedente non erano riconosciute con questa versione del kernel ora lo sono. Questo problema è molto specifico per alcuni tipi di hardware particolare.
 
 ## Installer e Supporto EFI
