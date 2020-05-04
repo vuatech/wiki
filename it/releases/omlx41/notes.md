@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Note di rilascio
 description: 
 published: true
-date: 2020-05-03T07:28:13.209Z
+date: 2020-05-04T09:04:29.601Z
 tags: 4.1
 ---
 
@@ -168,6 +168,20 @@ Cambiamenti Importanti:
 Applicazioni di brand-name OpenMandriva:
 - Desktop Presets (om-feeling-like): Strumento per personalizzare l'aspetto del tuo desktop Plasma OpenMandriva in modo che tu possa renderlo più simile ad altri sistemi che sei abituato a utilizzare.
 - Update Configuration (om-update-config): Strumento per configurare aggiornamenti automatici.
+
+## Aggiornamento da una versione precedente
+Attualmente si consiglia una nuova installazione.
+Se vuoi tentare comunque l'aggiornamento, assicurati di avere un backup di tutti i tuoi dati.
+
+Si prega di notare:
+Gli strumenti grafici come Discover e dnfdragora non aggiorneranno OMLx 4.0 a OMLx 4.1. Se lo farai, il sistema si guasterà.
+Nessuno di questi gestori di pacchetti GUI è in grado di fare questo tipo di aggiornamento chiamato "aggiornamento della distribuzione".
+E' necessario un `dnf --allowerasing disto-sync` non un `dnf upgrade`. Inoltre ci sono problemi di dipendenze che richiedono che venga digitato un comando unico da console come segue:
+ ```
+$ sudo dnf remove java-12-openjdk && sudo dnf --refresh --best --allowerasing distro-sync
+```
+
+Più dettagli [qui](https://forum.openmandriva.org/t/3313)
 
 # Errata
 Vedi [4.1/Errata](/releases/omlx41/errata).
