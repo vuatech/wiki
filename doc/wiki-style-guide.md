@@ -2,8 +2,8 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2020-04-10T19:38:39.298Z
-tags: 
+date: 2020-05-04T22:36:55.975Z
+tags: documentation, wiki
 ---
 
 # Wiki Style Guide
@@ -147,15 +147,6 @@ Do not start sentences with a command, package, or option name.
 `INCORRECT: <code>smolt</code> provides hardware profiling.`
 
 `CORRECT: The <code>smolt</code> package provides hardware profiling.`
-
-In headings, always capitalize the first word regardless of the type of speech.
-All subsequent words are also capitalized other than articles ("a," "an," or "the"), short prepositions ("in," "of," "for," "with," "at," "on"), or  conjunctions ("and," "but," "or").  
-
-Examples:
-* Avoid Using Contractions in Technical Writing
-* Try to Do the Right Thing
-* Find the Right Way to Say What You Mean
-* The Grass is Always Greener on the Other Side of the Fence
 
 #### Punctuation
 
