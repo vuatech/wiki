@@ -2,7 +2,7 @@
 title: Piano di Rilascio e Repository
 description: 
 published: true
-date: 2020-05-02T19:51:47.899Z
+date: 2020-05-04T09:28:29.789Z
 tags: documentation
 ---
 
@@ -137,7 +137,7 @@ In ogni file di repository elencato sopra abbiamo quattro fonti media di base o 
 
 - **unsupported**
 
-`/unsupported` rappresenta i pacchetti *mantenuti dalla comunità*. Non sono supportati dal team OpenMandriva e sta ai mantenitori di questi pacchetti se aggiornarli o meno. Ci sono tanti pacchetti in unsupported che non si riuscirà a installare o che sarà possibile installare ma non funzioneranno a dovere. Gli utenti sono liberi di utilizzare qualsiasi cosa che verificano sia funzionante in questo repository.
+`/unsupported` rappresenta i pacchetti *mantenuti dalla comunità*. Non sono supportati dal team OpenMandriva e sta ai mantenitori di questi pacchetti se aggiornarli o meno. Ci possono essere pacchetti che non si installano e altri che riescono ad essere installati però non funzionano correttamente. Gli utenti sono liberi di utilizzare qualsiasi cosa che verificano sia funzionante in questo repository.
 
 - **restricted**
 
