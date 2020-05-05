@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.1 Note di rilascio
 description: 
 published: true
-date: 2020-05-04T09:04:29.601Z
+date: 2020-05-05T06:15:55.866Z
 tags: 4.1
 ---
 
@@ -173,8 +173,9 @@ Applicazioni di brand-name OpenMandriva:
 Attualmente si consiglia una nuova installazione.
 Se vuoi tentare comunque l'aggiornamento, assicurati di avere un backup di tutti i tuoi dati.
 
-Si prega di notare:
-Gli strumenti grafici come Discover e dnfdragora non aggiorneranno OMLx 4.0 a OMLx 4.1. Se lo farai, il sistema si guasterà.
+> Si prega di notare: Gli strumenti grafici come Discover e dnfdragora non aggiorneranno OMLx 4.0 a OMLx 4.1. **Se lo farai, il sistema si guasterà**.
+{.is-danger}
+
 Nessuno di questi gestori di pacchetti GUI è in grado di fare questo tipo di aggiornamento chiamato "aggiornamento della distribuzione".
 E' necessario un `dnf --allowerasing disto-sync` non un `dnf upgrade`. Inoltre ci sono problemi di dipendenze che richiedono che venga digitato un comando unico da console come segue:
  ```
