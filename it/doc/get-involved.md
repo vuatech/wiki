@@ -2,70 +2,73 @@
 title: Come contribuire a OpenMandriva
 description: 
 published: true
-date: 2020-05-02T13:52:13.357Z
+date: 2020-05-06T10:55:07.628Z
 tags: 
 ---
 
 # Come puoi contribuire a OpenMandriva
 
-## Give time
+## Dona tempo
 
-> **If you have time, we welcome your help in various areas:**
+> **Se hai tempo, saremo lieti di ricevere il tuo aiuto in vari settori:**
 {.is-info}
 
 
-### Development
-Check the developers documentation, subscribe to the mailing-lists, join IRC channels, and have a look at the bug-tracking system to get in touch with the developers community and get things done
+### Sviluppo
+Controlla la documentazione degli sviluppatori, iscriviti alle mailing-list, entra nei canali IRC e dai un'occhiata al sistema di segnalazione dei bug per entrare in contatto con la comunità degli sviluppatori e contribuire
 
-### Writing
-Help us improve the documentation, wiki materials and communication
+### Pubblicazione
+Aiutaci a migliorare la documentazione, il materiale wiki e la comunicazione
 
-### Translation
-Translators, help us translate web materials, OpenMandriva Lx and other projects
+### Traduzioni
+Aiutaci a tradurre materiale web, la distribuzione OpenMandriva Lx e altri progetti
 
-### Keep the Community alive
-Participate in the forum, write your experience with OMLx, share your knowledge, publish your desktop screenshots, help the users, ...or even just chat
+### Mantenere viva la comunità
+Partecipa al forum. Scrivi la tua esperienza con OMLx, condividi le tue conoscenze, pubblica le tue schermate del desktop, aiuta gli utenti, ...oppure solo per fare quattro chiacchiere
 
-### Issue reporting and Bug triaging
-Report bugs to the developers or help with the triage
+### Segnalazione di problemi e triage di bug
+Fai segnalazioni di bug agli sviluppatori o aiuta con il triage
 
 ### Quality Assurance
-Join the QA Team, test new software and report back to the developers so to improve our distribution and make it perfect
+Unisciti al Team QA, prova il nuovo software e riferisci agli sviluppatori in modo da migliorare la nostra distribuzione e farla diventare perfetta
 
 ### Design
-Designers are required for this website, web services, Association, and products just like OpenMandriva Lx
+Ci servono artisti per il sito web, servizi web e prodotti come OpenMandriva Lx
 
-### Infrastructure
-System administrators are required for web services sysadmin
+### Infrastruttura
+Ci servono sysadmin per i servizi web
 
-## Contribute materials & infrastructure
-Do you have old computers, machines, etc., that our developers can use? New platforms you would like to see OpenMandriva on?
-Want to set up a mirror, donate some servers?
-We need you! Please contact us
+## Dona materiali e infrastrutture
+Possiedi vecchi computer, dispositivi, ecc. che i nostri sviluppatori potrebbero utilizzare? Hai nuove piattaforme su cui vorresti vedere OpenMandriva?
+Vuoi impostare un mirror, donare spazio su server?
+Abbiamo bisogno di te! Contattaci
 
 ## Spread the Word
-Use our materials to spread the word, our products and values on your blog, website, social network, etc.
-Develop new materials for the community to spread the word of OpenMandriva and Free Software
-Follow and share our activity and products on Social Networks
-Get on the free software promotion and help us in helping all the free software community
+Utilizza i nostri materiali per condividere notizie, i nostri prodotti e i nostri valori sul tuo blog, sito web, social network, ecc.
+Sviluppa nuovo materiale dalla comunità per diffondere informazioni su OpenMandriva e Software Libero
+Segui e condividi la nostra attività e i nostri prodotti sui Social Network
+Partecipa alla promozione del software libero e aiutaci ad aiutare tutta la comunità del software libero
 
-## Talk to us
-Tell us your needs and expectations;
-Tell us the problems you found and help us identify bugs
+## Parla con noi
+Comunica le tue esigenze e le tue aspettative
+Raccontaci i problemi che hai trovato e aiutaci a identificare i bug
 
-## Donate money
-OpenMandriva Association is a no-profit organization, under French law.
-OMA has its own bank account and is responsible for running and maintaining its servers
+## Dona denaro
+L'Associazione OpenMandriva è un'organizzazione senza scopo di lucro, secondo la legge francese.
+OMA ha un proprio conto bancario ed è responsabile del funzionamento e della manutenzione dei suoi server.
 
-The donated funds are channeled to several domains like:
-Infrastructure
-Domain names and other related fees
-Branding and marketing
-Managing expenses
-If needed any counseling, legal or other
-Supporting other free software organizations that support us with their software
-Participation in events promoting Free Software
+I fondi donati vengono inoltrati alle diverse aree, ad esempio:
+Infrastruttura
+Nomi di dominio e altre spese correlate
+Branding e marketing
+Gestione delle spese
+Se necessario, consulenza legale o di altro tipo
+Sostenere altre organizzazioni di software libero che ci supportano con il loro software
+Partecipazione ad eventi per la promozione del Software Libero
 
-[Donate](https://www.openmandriva.org/donate/) to OpenMandriva Association: there is no minimum donation, all the help is welcome
+[Dona](https://www.openmandriva.org/donate/) all'Associazione OpenMandriva: non c'è un minimo di donazione, tutto l'aiuto è più che benvenuto
 
-For more information please Contact us
+Per maggiori informazioni contattaci
+
+.
+.
