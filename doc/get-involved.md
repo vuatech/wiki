@@ -2,7 +2,7 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-05-07T08:34:10.998Z
+date: 2020-05-07T08:37:30.685Z
 tags: documentation
 ---
 
@@ -15,7 +15,7 @@ tags: documentation
 
 
 ### Development
-Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, join IRC channels, and have a look at the [bug-tracking system](http://issues.openmandriva.org/) to get in touch with the developers community and get things done
+Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, [join IRC channels](/doc/chat-faq), and have a look at the [bug-tracking system](http://issues.openmandriva.org/) to get in touch with the developers community and get things done
 
 ### Writing
 Help us improve the [documentation](https://wiki.openmandriva.org/t/documentation?sort=title), wiki materials and communication
