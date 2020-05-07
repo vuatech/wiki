@@ -2,7 +2,7 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-05-07T08:37:30.685Z
+date: 2020-05-07T10:24:00.205Z
 tags: documentation
 ---
 
@@ -44,7 +44,7 @@ Want to set up a mirror, donate some servers?
 We need you! Please contact us
 
 ## Spread the Word
-Use our materials to spread the word, our products and values on your blog, website, social network, etc.
+Use our [materials](/doc/artwork) to spread the word, our products and values on your blog, website, social network, etc.
 Develop new materials for the community to spread the word of OpenMandriva and Free Software
 [Follow](/community/portal) and share our activity and products on Social Networks
 Get on the free software promotion and help us in helping all the free software community
