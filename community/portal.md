@@ -2,7 +2,7 @@
 title: Portal
 description: 
 published: true
-date: 2020-04-10T21:41:07.781Z
+date: 2020-05-07T08:21:52.815Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ tags:
 - [OpenMandriva Old Blog (archive)](https://arc.openmandriva.org/blog/)
 - [Openmandriva on IRC/Matrix](/en/doc/chat-faq)
 - [Forum](https://forum.openmandriva.org/)
+- [Transifex](https://www.transifex.com/openmandriva/public/)
 - [Issue Tracking System](https://issues.openmandriva.org/)
 - [Gallery](https://gallery.openmandriva.org/)
 - [Chwido](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/)
