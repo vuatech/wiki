@@ -2,8 +2,8 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-04-10T19:38:18.646Z
-tags: 
+date: 2020-05-07T08:34:10.998Z
+tags: documentation
 ---
 
 # How to contribute to OpenMandriva
@@ -15,28 +15,28 @@ tags:
 
 
 ### Development
-Check the developers documentation, subscribe to the mailing-lists, join IRC channels, and have a look at the bug-tracking system to get in touch with the developers community and get things done
+Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, join IRC channels, and have a look at the [bug-tracking system](http://issues.openmandriva.org/) to get in touch with the developers community and get things done
 
 ### Writing
-Help us improve the documentation, wiki materials and communication
+Help us improve the [documentation](https://wiki.openmandriva.org/t/documentation?sort=title), wiki materials and communication
 
 ### Translation
-Translators, help us translate web materials, OpenMandriva Lx and other projects
+Translators, help us [translate](https://www.transifex.com/openmandriva/public/) web materials, OpenMandriva Lx and other projects
 
 ### Keep the Community alive
-Participate in the forum, write your experience with OMLx, share your knowledge, publish your desktop screenshots, help the users, ...or even just chat
+Participate in the [forum](https://forum.openmandriva.org/), write your experience with OMLx, share your knowledge, publish your desktop screenshots, help the users ...or even just chat
 
 ### Issue reporting and Bug triaging
-Report bugs to the developers or help with the triage
+[Report bugs](http://issues.openmandriva.org/) to the developers or help with the triage
 
 ### Quality Assurance
-Join the QA Team, test new software and report back to the developers so to improve our distribution and make it perfect
+Join the [QA Team](/dev/om-qa), test new software and report back to the developers so to improve our distribution and make it perfect
 
 ### Design
 Designers are required for this website, web services, Association, and products just like OpenMandriva Lx
 
 ### Infrastructure
-System administrators are required for web services sysadmin
+System administrators are required for web services
 
 ## Contribute materials & infrastructure
 Do you have old computers, machines, etc., that our developers can use? New platforms you would like to see OpenMandriva on?
@@ -46,11 +46,11 @@ We need you! Please contact us
 ## Spread the Word
 Use our materials to spread the word, our products and values on your blog, website, social network, etc.
 Develop new materials for the community to spread the word of OpenMandriva and Free Software
-Follow and share our activity and products on Social Networks
+[Follow](/community/portal) and share our activity and products on Social Networks
 Get on the free software promotion and help us in helping all the free software community
 
 ## Talk to us
-Tell us your needs and expectations;
+[Tell us](https://forum.openmandriva.org/) your needs and expectations;
 Tell us the problems you found and help us identify bugs
 
 ## Donate money
