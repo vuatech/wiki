@@ -2,7 +2,7 @@
 title: Cooker
 description: 
 published: true
-date: 2020-05-08T17:57:03.468Z
+date: 2020-05-08T19:24:14.153Z
 tags: cooker
 ---
 
@@ -19,7 +19,12 @@ The OpenMandriva Lx distribution is made possible by two major fields of technic
 You are invited to help in both fields and will find the guidelines and rules at these pages. 
 
 ## Using Cooker
-There are several ways to upgrade your system to Cooker. However, as Cooker is a moving target, it will most likely break your system. Please be aware that we cannot support systems on Cooker due to its nature. 
+Advanced users feeling skilled enough to play and experiment with unstable releases, or developers for testing purpose, can download the latest cooker snapshot ISO files here:
+
+- [x86_64 iso](https://abf.openmandriva.org/platforms/cooker/products/4)
+- [znver1 iso](https://abf.openmandriva.org/platforms/cooker/products/53)
+
+Please be aware that we cannot support systems on Cooker due to its nature.
 
 ## Communication
 We can be found:
