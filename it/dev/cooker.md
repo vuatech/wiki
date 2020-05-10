@@ -2,7 +2,7 @@
 title: Cooker
 description: 
 published: true
-date: 2020-05-10T09:09:16.700Z
+date: 2020-05-10T09:11:03.147Z
 tags: cooker
 ---
 
@@ -37,6 +37,7 @@ noi solitamente non facciamo supporto tecnico, quindi per favore usa lo [strumen
 ### Linee guida per la comunicazione
 Il canale IRC #openmandriva-cooker e la mailing list Cooker sono solo per comunicazioni e discussioni di tipo tecnico. Nonostante sia totalmente legittimo chiedere informazioni tecniche li, per piacere non dimenticarti della netiquette.
 
-
+\-
+![header-tr-cooker.png](/assets/header-tr-cooker.png){.align-abstopright}
 
 
