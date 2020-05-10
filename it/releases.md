@@ -1,8 +1,8 @@
 ---
 title: OpenMandriva Releases
-description: Rilasci
+description: 
 published: true
-date: 2020-05-10T17:42:05.707Z
+date: 2020-05-10T17:45:34.766Z
 tags: 
 ---
 
