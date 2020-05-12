@@ -1,12 +1,12 @@
 ---
-title: Come creare le partizioni root, home e swap durante l'installazione di OMLx
+title: Come creare le partizioni root home e swap durante l'installazione di OMLx
 description: 
 published: true
-date: 2020-05-01T21:35:10.169Z
+date: 2020-05-12T11:05:15.166Z
 tags: documentation, howto, user-guide, advanced
 ---
 
-# Come creare le partizioni root, home e swap durante l'installazione di OMLx
+# Come creare le partizioni root home e swap durante l'installazione di OMLx
 
 L'installer di OpenMandriva è  [Calamares](http://calamares.io/).
 Facile da utilizzare, bello, pragmatico, inclusivo e  indipendente dalla distribuzione.
