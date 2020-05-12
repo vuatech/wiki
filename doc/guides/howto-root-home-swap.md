@@ -1,12 +1,12 @@
 ---
-title: How to have root, home, and swap partitions created during OM Lx installation
+title: How to create root home and swap partitions during OMLx installation
 description: 
 published: true
-date: 2020-04-10T19:38:57.405Z
-tags: 
+date: 2020-05-12T11:03:55.770Z
+tags: documentation, howto, user-guide, advanced
 ---
 
-# How to have root, home, and swap partitions created during OM Lx installation
+# How to create root home and swap partitions during OMLx installation
 
 OpenMandriva installer is [Calamares](http://calamares.io/).
 It is easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic.
