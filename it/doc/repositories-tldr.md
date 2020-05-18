@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-04T09:58:53.652Z
+date: 2020-05-18T08:33:26.905Z
 tags: documentation, user-guide
 ---
 
@@ -25,6 +25,10 @@ Oppure puoi lanciare Software Repository Selector nella schermata di benvenuto d
 Esso include tutto quello che c'è nell'immagine di installazione insieme ad alcune applicazioni che sono considerate importanti. `/main/release` dovrebbero sempre essere abilitati.
 
 ![repositories02.jpg](/images/repositories02.jpg)
+
+**Per l'uso comune gli utenti non dovrebbero mai abilitare i repository** `/testing` **nella release stabile**.
+
+![repositories02x.jpg](/images/repositories02x.jpg)
 
 ### unsupported
 `/unsupported` rappresenta i pacchetti mantenuti dalla comunità.
