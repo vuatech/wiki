@@ -2,8 +2,8 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-04-10T19:38:32.703Z
-tags: 
+date: 2020-05-18T08:27:57.935Z
+tags: documentation, user-guide
 ---
 
 # Repositories tl;dr
@@ -24,6 +24,10 @@ Or you can select OpenMandriva repo-picker in OM Welcome
 This includes anything featured in the install images as well as many more applications considered important. `/main/release` repository should always be enabled.
 
 ![repositories02.jpg](/images/repositories02.jpg)
+
+**Common users should never enable** `/testing` **repos in stable release**.
+
+![repositories02x.jpg](/images/repositories02x.jpg)
 
 ### unsupported
 `/unsupported` represents community maintained packages. They are not supported by the core OpenMandriva Lx team and depend on package maintainers to update it.
