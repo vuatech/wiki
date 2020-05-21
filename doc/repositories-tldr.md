@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-18T08:27:57.935Z
+date: 2020-05-21T22:40:27.703Z
 tags: documentation, user-guide
 ---
 
@@ -54,7 +54,7 @@ While we can adjust the packaging of such applications, we do not have the sourc
 {.is-info}
 
 
-![repositories06.jpg](/images/repositories06.jpg)
+![repositories06.jpg](/images/repositories08.jpg)
 
 ## After the changes
 When you are done with your changes, run the following command in console
