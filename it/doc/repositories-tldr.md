@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-18T08:33:26.905Z
+date: 2020-05-21T22:41:53.135Z
 tags: documentation, user-guide
 ---
 
@@ -55,7 +55,7 @@ Il permesso di usare questi pacchetti varia a seconda delle leggi locali. OpenMa
 {.is-info}
 
 
-![repositories06.jpg](/images/repositories06.jpg)
+![repositories06.jpg](/images/repositories08.jpg)
 
 ## Dopo le modifiche
 Quando hai finito di applicare le modifiche, lancia il seguente comando nel terminale
