@@ -2,7 +2,7 @@
 title: Bots
 description: All the OpenMandriva bots and their commands
 published: true
-date: 2020-05-29T14:28:37.039Z
+date: 2020-05-29T14:32:13.049Z
 tags: documentation, infra, chwido
 ---
 
@@ -14,7 +14,7 @@ Chwido is the name of one developer's dog, a little ratter. Being unofficial mas
 
 ## Chwido in discussion rooms
 
-Chwido is an IRC bot, but visible on both IRC channels and Matrix rooms. It is based on Sopel and can use all its commands. It has also some additional commands.
+Chwido is an IRC bot, but visible on both IRC channels and Matrix rooms. It is based on [Sopel](https://sopel.chat/docs/) and can use all its commands. It has also some additional commands.
 
 Here are the commands you can use:
 
