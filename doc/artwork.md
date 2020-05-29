@@ -2,8 +2,8 @@
 title: Artwork
 description: 
 published: true
-date: 2020-04-10T19:38:13.429Z
-tags: 
+date: 2020-05-29T07:22:23.621Z
+tags: documentation
 ---
 
 <div style="height: 80px; width: 100%; background:#2080BB; text-align:right; min-height:36px;">
@@ -60,6 +60,8 @@ Full logo - Black
 [![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)](/art/oma-style-sheet-font-24052013.png)
 
 ## OpenMandriva Color palette
+
+![omacolorpalettevnt.png](/art/omacolorpalettevnt.png =400x)
 
 
 |      |            |
