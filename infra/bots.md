@@ -2,7 +2,7 @@
 title: Bots
 description: All the OpenMandriva bots and their commands
 published: true
-date: 2020-05-29T14:26:23.657Z
+date: 2020-05-29T14:27:24.653Z
 tags: documentation, infra, chwido
 ---
 
@@ -10,7 +10,9 @@ tags: documentation, infra, chwido
 ![chwido-icon.svg](/assets/chwido-icon.svg =84x){.align-left}
 Chwido is the name of one developer's dog, a little ratter. Being unofficial mascot of OpenMandriva, he is active in our forum and in our discussion rooms. Technically he's divided into two bots.
 
-## Chwido in discussion rooms.
+<br>
+
+## Chwido in discussion rooms
 
 Chwido is an IRC bot, but visible on both IRC channels and Matrix rooms. It's based on Sopel and can use all its commands. It has also some additional commands.
 
