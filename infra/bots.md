@@ -2,8 +2,8 @@
 title: Bots
 description: All the OpenMandriva bots and their commands
 published: true
-date: 2020-04-10T19:38:41.575Z
-tags: 
+date: 2020-05-29T14:26:23.657Z
+tags: documentation, infra, chwido
 ---
 
 # Chwido
