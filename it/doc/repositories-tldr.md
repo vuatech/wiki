@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-21T22:41:53.135Z
+date: 2020-05-31T14:40:07.428Z
 tags: documentation, user-guide
 ---
 
@@ -32,7 +32,8 @@ Esso include tutto quello che c'è nell'immagine di installazione insieme ad alc
 
 ### unsupported
 `/unsupported` rappresenta i pacchetti mantenuti dalla comunità.
-Non sono supportati dal team OpenMandriva e sta ai mantenitori di questi pacchetti se aggiornarli o meno. Ci possono essere pacchetti che non si installano e altri che riescono ad essere installati però non funzionano correttamente. Gli utenti sono liberi di utilizzare qualsiasi cosa che verificano sia funzionante in questo repository.
+Non sono supportati dal team OpenMandriva e sta ai mantenitori di questi pacchetti se aggiornarli o meno.
+Ci possono essere molti pacchetti utili e aggiornati, così come molti che non si installano o altri che si installano ma non funzionano correttamente. Gli utenti sono liberi di utilizzare qualsiasi cosa che verificano sia funzionante in questo repository.
 #### Come abilitare il repository unsupported con om-repo-picker
 
 ![repositories03.jpg](/images/repositories03.jpg)
