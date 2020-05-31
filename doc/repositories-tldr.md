@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-21T22:40:27.703Z
+date: 2020-05-31T14:37:54.014Z
 tags: documentation, user-guide
 ---
 
@@ -31,7 +31,7 @@ This includes anything featured in the install images as well as many more appli
 
 ### unsupported
 `/unsupported` represents community maintained packages. They are not supported by the core OpenMandriva Lx team and depend on package maintainers to update it.
-There may be many packages that will not install and others that install but do not work properly. Users are welcome to use whatever they find in this repository that is working.
+There may be many useful and up-to-date packages, as well as many that will not install or others that install but do not work properly. Users are welcome to use whatever they find in this repository that is working.
 #### How to enable unsupported repo in om-repo-picker
 
 ![repositories03.jpg](/images/repositories03.jpg)
