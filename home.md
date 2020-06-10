@@ -2,8 +2,9 @@
 title: OMA wiki
 description: This is the OpenMandriva Wiki, a free documentation project that you can improve
 published: true
-date: 2020-05-02T13:59:50.149Z
+date: 2020-06-10T08:36:43.108Z
 tags: 
+editor: markdown
 ---
 
 # OpenMandriva Lx
@@ -12,6 +13,8 @@ tags:
 
 ## Latest Release: OMLx 4.1
 Release date: 02 February 2020
+* **OMLx 4.1 2020.05**
+ Release date: 31 May 2020
 
 ![omlx4.1-desktop.jpg](/images/omlx4.1-desktop.jpg =400x)
 
