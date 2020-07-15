@@ -2,8 +2,9 @@
 title: OpenMandriva Lx 4.2
 description: 
 published: true
-date: 2020-05-01T10:29:43.498Z
+date: 2020-07-15T09:35:22.749Z
 tags: 4.2
+editor: markdown
 ---
 
 # Overview
@@ -20,3 +21,5 @@ See [4.2/Release Notes](/en/releases/omlx42/notes)
 
 ## Errata
 See [4.2/Errata](/en/releases/omlx42/errata)
+
+![header-tr-omlx42.svg](/assets/header-tr-omlx42.svg){.align-abstopright}
