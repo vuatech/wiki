@@ -1,13 +1,13 @@
 ---
 title: Notes tl;dr
-description: 
+description: OMLx 4.1 Notes tl;dr
 published: true
-date: 2020-06-13T07:46:23.080Z
+date: 2020-07-15T10:09:51.396Z
 tags: releases, 4.1
 editor: markdown
 ---
 
-# Notes tl;dr
+# OMLx 4.1 Notes tl;dr
 
 > **It is recommended that you read the extended version of** [OpenMandriva Lx 4.1 Release Notes](/releases/omlx41/notes) **as well as the** [OpenMandriva Lx 4.1 Errata](/releases/omlx41/errata) **at our wiki**
 {.is-info}
