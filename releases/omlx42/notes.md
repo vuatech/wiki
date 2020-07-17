@@ -2,12 +2,15 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-04-10T19:39:09.046Z
-tags: 
+date: 2020-07-17T20:39:53.973Z
+tags: 4.2
+editor: markdown
 ---
 
 # OpenMandriva Lx 4.2  Release Notes
 The OpenMandriva Lx teams are pleased to announce the availability of OpenMandriva Lx 4.2.
+
+**It is recommended that you read the** [latest release notes](https://wiki.openmandriva.org/en/releases/omlx42/alpha/notes) **on our wiki**.
 
 ## Available Media
 This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/Download-and-install). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
