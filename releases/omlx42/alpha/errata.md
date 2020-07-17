@@ -2,8 +2,9 @@
 title: OpenMandriva Lx 4.2 Alpha Errata
 description: 
 published: true
-date: 2020-04-10T19:39:11.741Z
-tags: 
+date: 2020-07-17T20:51:16.680Z
+tags: 4.2
+editor: markdown
 ---
 
 # OpenMandriva Lx 4.2 Alpha Errata - Known Issues
@@ -11,4 +12,4 @@ tags:
 {.is-info}
 
 
-It is recommended that you read the latest release notes on our wiki.
+It is recommended that you read the latest [release notes](https://wiki.openmandriva.org/en/releases/omlx42/alpha/notes) on our wiki.
