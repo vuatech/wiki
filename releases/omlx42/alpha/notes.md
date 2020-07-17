@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha Release Notes
 description: 
 published: true
-date: 2020-07-17T20:49:05.545Z
+date: 2020-07-17T20:52:50.965Z
 tags: 4.2
 editor: markdown
 ---
@@ -144,10 +144,7 @@ Major changes:
 - The kernel has been updated to 5.7.8
 - Qt has been updated to 5.15.0
 - Plasma has been updated: Frameworks 5.72.0, Plasma Desktop 5.19.3, Applications 20.04.3
-- item
-- item
-- item
-- end of items
+- 
 
 
 # Errata
