@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha Release Notes
 description: 
 published: true
-date: 2020-07-17T20:46:44.170Z
+date: 2020-07-17T20:49:05.545Z
 tags: 4.2
 editor: markdown
 ---
@@ -68,7 +68,7 @@ On UEFI computers in multi-boot situation with multiple storage drives if you al
 
 Some NVME SSDs may not be recognized by OMLx 4.2 *Live* ISO.
 The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.2/Errata#NVME SSDs](/releases/omlx42/errata#nvme-ssds).
-The OM Lx 4.2 release includes kernel xxxx and hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
+Hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
 
 ## Installer and EFI Support
 
