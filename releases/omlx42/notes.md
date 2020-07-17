@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-07-17T21:07:56.954Z
+date: 2020-07-17T21:12:43.272Z
 tags: 4.2
 editor: markdown
 ---
@@ -140,13 +140,10 @@ This is explained in more detail in [OpenMandriva Release Plan and Repositories]
 In order to keep current with latest changes in Linux, computer security issues, and computer code writing there are major changes in OMLx 4.2.
 
 Major changes:
-- The kernel has been updated to xxxx
-- Qt has been updated to xxxx
-- Plasma has been updated: Frameworks xxx, Plasma Desktop xxx, Applications xxx
-- item
-- item
-- item
-- end of items
+- 
+- 
+- 
+- *Read more in* [What's New](/en/releases/omlx42/new)
 
 
 # Errata
