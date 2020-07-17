@@ -2,14 +2,14 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-07-15T09:52:42.244Z
+date: 2020-07-17T20:30:57.693Z
 tags: 4.2
 editor: markdown
 ---
 
 # OpenMandriva Lx 4.2 New
 
-It is recommended that you read the latest [release notes](/releases/omlx42/notes) on our wiki.
+It is recommended that you read the latest [release notes](/releases/omlx42/alpha/notes) on our wiki.
 
 ## What's New in OpenMandriva Lx 4.2?
 OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codename](/releases/codename) Argon.
