@@ -2,15 +2,16 @@
 title: OpenMandriva Lx 4.1 Novità
 description: 
 published: true
-date: 2020-05-06T06:27:45.028Z
+date: 2020-07-17T20:18:46.169Z
 tags: 4.1
+editor: markdown
 ---
 
 # OpenMandriva Lx 4.1 Novità
 
 Si raccomanda di leggere le ultime [Note di rilascio](/releases/omlx41/notes) sul nostro wiki.
 
-## Che cosa c'è di nuovo in OpenMandriva? Lx 4.1?
+## Che cosa c'è di nuovo in OpenMandriva Lx 4.1?
 OpenMandriva Lx 4.1 è una nuova release da parte della Associatione OpenMandriva. [Nome in codice](/en/releases/codename) Mercury.
 
 ## Caratteristiche Principali
