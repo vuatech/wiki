@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-07-17T20:39:53.973Z
+date: 2020-07-17T21:07:56.954Z
 tags: 4.2
 editor: markdown
 ---
@@ -17,7 +17,7 @@ This release is available as a live media DVD or USB flash drive (memory stick),
 *Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 Available ISO files are:
-- [KDE Plasma](https://www.kde.org/plasma-desktop) desktop only full featured (includes the most common used functionalities, multimedia and office software).
+- x86_64 [KDE Plasma](https://www.kde.org/plasma-desktop) desktop full featured (includes the most common used functionalities, multimedia and office software).
 - znver1 Plasma: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors.
 znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install on any other hardware.
 
