@@ -2,19 +2,19 @@
 title: OpenMandriva Lx 4.2 Alpha Release Notes
 description: 
 published: true
-date: 2020-07-17T21:06:37.484Z
+date: 2020-07-26T18:32:25.121Z
 tags: 4.2
 editor: markdown
 ---
 
 # OpenMandriva Lx 4.2 Alpha Release Notes
 
-> Warning: This is an [alpha](/releases/software-release-life-cycle#alpha) product,  and it is not aimed to be used in a production environment. It is released for testing and bug hunting. It can, and probably will, have problems. If you download and test this product, please report your findings and problems in the [Forum](http://forum.openmandriva.org/) and in our [issue tracking system](http://issues.openmandriva.org/).
+> Warning: This is an [alpha](/releases/software-release-life-cycle#alpha) product,  and it is not aimed to be used in a production environment. It is released for testing and bug hunting. It can, and probably will, have problems. If you download and test this product, please report your findings and problems at our [Forum](http://forum.openmandriva.org/) or at [Github Issues](https://github.com/OpenMandrivaAssociation/OpenMandrivaAssociation.github.io/issues).
 {.is-warning}
 
 
 ## Available Media
-This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/Download-and-install). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
+This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/en/download). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
 *Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 Available ISO files are:
