@@ -2,8 +2,9 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-31T14:37:54.014Z
+date: 2020-07-27T17:43:16.854Z
 tags: documentation, user-guide
+editor: markdown
 ---
 
 # Repositories tl;dr
@@ -50,7 +51,7 @@ While we can adjust the packaging of such applications, we do not have the sourc
 
 ![repositories05.jpg](/images/repositories05.jpg)
 
-> Please note: for a few applications, such as Steam, you will need to enable **both `non-free` and `main 32bit`**
+> Please note: in OMLx 4.1, for a few applications, such as Steam, you will need to enable **both `non-free` and `main 32bit`**
 {.is-info}
 
 
