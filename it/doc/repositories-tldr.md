@@ -2,8 +2,9 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-05-31T14:40:07.428Z
+date: 2020-07-27T17:44:47.476Z
 tags: documentation, user-guide
+editor: markdown
 ---
 
 # Repositories tl;dr
@@ -52,7 +53,7 @@ Il permesso di usare questi pacchetti varia a seconda delle leggi locali. OpenMa
 
 ![repositories05.jpg](/images/repositories05.jpg)
 
-> Per favore nota che per alcune applicazioni come ad esempio Steam sarà necessario abilitare **sia `non-free` che `main 32bit`**
+> Per favore nota che in OMLx 4.1 per alcune applicazioni, come ad esempio Steam, sarà necessario abilitare **sia `non-free` che `main 32bit`**
 {.is-info}
 
 
