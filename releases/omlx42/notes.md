@@ -2,16 +2,17 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-07-17T21:12:43.272Z
+date: 2020-07-27T19:40:37.317Z
 tags: 4.2
 editor: markdown
 ---
 
 # OpenMandriva Lx 4.2  Release Notes
-The OpenMandriva Lx teams are pleased to announce the availability of OpenMandriva Lx 4.2.
+<!--The OpenMandriva Lx teams are pleased to announce the availability of OpenMandriva Lx 4.2.-->
 
-**It is recommended that you read the** [latest release notes](https://wiki.openmandriva.org/en/releases/omlx42/alpha/notes) **on our wiki**.
+**Please read the current release [release notes](https://wiki.openmandriva.org/en/releases/omlx42/alpha/notes)**.
 
+<!--
 ## Available Media
 This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our [downloads page](https://www.openmandriva.org/Download-and-install). USB flash drive installation is usually noticeably faster. As always speed depends on many factors.
 *Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
@@ -67,7 +68,7 @@ On UEFI computers in multi-boot situation with multiple storage drives if you al
 
 Some NVME SSDs may not be recognized by OMLx 4.2 *Live* ISO.
 The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.2/Errata#NVME SSDs](/releases/omlx42/errata#nvme-ssds).
-The OM Lx 4.2 release includes kernel xxxx and hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
+Hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
 
 ## Installer and EFI Support
 
@@ -145,7 +146,7 @@ Major changes:
 - 
 - *Read more in* [What's New](/en/releases/omlx42/new)
 
-
+-->
 # Errata
 See [4.2/Errata](/en/releases/omlx42/errata).
 
