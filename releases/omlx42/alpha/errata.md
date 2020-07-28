@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha Errata
 description: 
 published: true
-date: 2020-07-28T10:25:58.182Z
+date: 2020-07-28T10:30:38.595Z
 tags: 4.2
 editor: markdown
 ---
@@ -113,7 +113,7 @@ Bugs filed at OpenMandriva Issue Tracker:
 
 - [Samba works not](https://issues.openmandriva.org/show_bug.cgi?id=2609)
 
-Bug filed at Github Issues:
+Bugs filed at Github Issues:
 
 - [User has to enter password twice for wifi (NM applet broken) #53](https://github.com/OpenMandrivaAssociation/OpenMandrivaAssociation.github.io/issues/53)
 
