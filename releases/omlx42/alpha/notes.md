@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha Release Notes
 description: 
 published: true
-date: 2020-07-26T18:32:25.121Z
+date: 2020-07-28T07:13:36.392Z
 tags: 4.2
 editor: markdown
 ---
@@ -135,6 +135,14 @@ Do not mix the repositories from different release versions/update channels. Thi
 This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install**. After that fresh install do not do this again.
 
+## How to install new packages
+While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra software, we strongly suggest to install packages from command line:
+`$ sudo dnf --refresh install <package_name>`
+
+## How to update the system
+Please note development releases ’Update channel’ is set to Rolling by default.
+The best adviced command to upgrade Rolling system is:
+`$ sudo dnf clean all ; sudo dnf --allowerasing distro-sync`
 
 ## New Features and Major Changes
 
