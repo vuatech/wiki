@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Alpha Errata
 description: 
 published: true
-date: 2020-07-27T17:56:01.174Z
+date: 2020-07-28T10:25:58.182Z
 tags: 4.2
 editor: markdown
 ---
@@ -89,5 +89,32 @@ This is because openSUSE uses custom syntax for their btrfs patches for openSUSE
 The workaround is for users to switch boot-loaders in UEFI firmware settings or BIOS.
 Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix we will report in Errata for our OM Lx Releases.
+
+## Known issues currently being worked on
+
+Our bug tracking sistem got some problems so we are asking that new bug reports be filed at our [Forum](https://forum.openmandriva.org/) or 
+at [Github Issues](https://github.com/OpenMandrivaAssociation/OpenMandrivaAssociation.github.io/issues)
+
+Bugs filed at OpenMandriva Issue Tracker:
+
+- [Cooker Host: VirtualBox 6.1.12 VM's do not start](https://issues.openmandriva.org/show_bug.cgi?id=2634)
+
+- [VBox plasma desktop crash (virtualbox-guest-additions)](https://issues.openmandriva.org/show_bug.cgi?id=2633)
+
+- [Login sound not played (or not correctly) Plasma 5.19.3, KF 5.72.0](https://issues.openmandriva.org/show_bug.cgi?id=2629)
+
+- [Change to mount point in KDE Partition Manager are not written to /etc/fstab (ALL OM Lx versions)](https://issues.openmandriva.org/show_bug.cgi?id=2628)
+
+- [OM-Control-Center does not work with Wayland (Cooker)](https://issues.openmandriva.org/show_bug.cgi?id=2625)
+
+- [Upgrade one branch kernel to another branch kernel of same version number fails](https://issues.openmandriva.org/show_bug.cgi?id=2619)
+
+- [grub2-editor (kcm_grub2) "Failed to save GRUB settings." DBus backend error. (ALL OM Lx versions)](https://issues.openmandriva.org/show_bug.cgi?id=2618)
+
+- [Samba works not](https://issues.openmandriva.org/show_bug.cgi?id=2609)
+
+Bug filed at Github Issues:
+
+- [User has to enter password twice for wifi (NM applet broken) #53](https://github.com/OpenMandrivaAssociation/OpenMandrivaAssociation.github.io/issues/53)
 
 
