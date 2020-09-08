@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-07-17T20:30:57.693Z
+date: 2020-09-08T07:41:15.280Z
 tags: 4.2
 editor: markdown
 ---
@@ -18,38 +18,38 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### KDE
 
-- Frameworks 5.72.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.72.0.php)
-- Plasma 5.19.3 [*(more information)*](https://www.kde.org/announcements/plasma-5.19.3.php)
-- Applications 20.04.3 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.04.3.php)
+- Frameworks 5.74.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.74.0.php)
+- Plasma 5.19.4 [*(more information)*](https://www.kde.org/announcements/plasma-5.19.4.php)
+- Applications 20.08.1 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.08.1.php)
 - Qt 5.15.0 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
 
-- Xorg 1.20.8
-- Wayland 1.20.8 [*(more information)*](https://wayland.freedesktop.org/releases.html)
-- Mesa 20.1 [*(more information)*](http://www.mesa3d.org/)
+- Xorg 1.20.9
+- Wayland 1.20.9 [*(more information)*](https://wayland.freedesktop.org/releases.html)
+- Mesa 20.2 [*(more information)*](http://www.mesa3d.org/)
 
 ### Core
 
-- Kernel 5.7.8 [*(more information)*](https://www.kernel.org/)
-- systemd 245 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
+- Kernel 5.8.6 [*(more information)*](https://www.kernel.org/)
+- systemd 246 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 10.0.1 [*(more information)*](http://llvm.org/)
-- gcc 10.1 [*(more information)*](https://gcc.gnu.org/)
-- glibc 2.31 [*(more information)*](http://www.gnu.org/software/libc/)
+- gcc 10.2 [*(more information)*](https://gcc.gnu.org/)
+- glibc 2.32 [*(more information)*](http://www.gnu.org/software/libc/)
 - Java 14
 - Zstandard - new real-time compression algorithm, providing high compression ratios implemented in our kernel, provides faster boot
 
 ### Installer
 
-- Calamares 3.2.26 [*(more information)*](https://calamares.io)
+- Calamares 3.2.29 [*(more information)*](https://calamares.io)
 
 ### Applications
 
-- LibreOffice 7.0.0
+- LibreOffice 7.0.1
 - Falkon 3.1
 - Firefox 78
 - Chromium 83
-- Krita 4.2.9
+- Krita 4.3.0
 - Calligra Suite 3.2.1
 - Digikam 7.0
 - SMPlayer 20.6.0
