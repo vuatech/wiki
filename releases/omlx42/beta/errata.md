@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Beta Errata
 description: 
 published: true
-date: 2020-09-08T08:02:35.191Z
+date: 2020-09-08T10:27:39.901Z
 tags: 4.2
 editor: markdown
 ---
@@ -19,7 +19,7 @@ Users may use drivers from nvidia web site but they are not supported by OpenMan
 Installing and maintaining any proprietary nVidia drivers is solely the users option and responsibility.
 
 ## NVME SSDs
-There is a well known problem with some (especially newer) NVME SSDs and PCIE devices where the SSD may not be recognized. For our *Live* ISO there is a workaround described in [Release Notes](/releases/omlx41/notes).
+There is a well known problem with some (especially newer) NVME SSDs and PCIE devices where the SSD may not be recognized.
 Problem is known and being worked on by OpenMandriva developers and upstream developers.
 Hardware recognition for nvme SSDs should be considerably improved. 
 It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
