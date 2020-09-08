@@ -2,13 +2,14 @@
 title: Releases
 description: 
 published: true
-date: 2020-04-10T19:38:00.549Z
+date: 2020-09-08T07:02:40.789Z
 tags: 
+editor: markdown
 ---
 
 # OpenMandriva Releases
 
-## Current release
+## Current stable release
 <!-- 
 ### OpenMandriva Lx 4.2
 **Codename Argon**
