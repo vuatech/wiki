@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Beta Release Notes
 description: 
 published: true
-date: 2020-09-08T07:58:27.699Z
+date: 2020-09-08T10:32:30.309Z
 tags: 4.2
 editor: markdown
 ---
@@ -24,7 +24,7 @@ znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not ins
 
 ## System requirements
 
-OpenMandriva Lx 4.2 requires at least 2.0 GB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
+OpenMandriva Lx 4.2 requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
 
 > Important Note: Graphics Hardware: 
 > The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or above.
@@ -38,7 +38,7 @@ Updating such a system would require being temporarily connected to the internet
 
 ## Virtual Machines
 At this time the only virtualization software that OMLx ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines.
-For VirtualBox however you must **always** have at least 2048 MB of memory or OpenMandriva Lx will fail to boot.
+For VirtualBox you must **always** have at least 2048 MB of memory or OpenMandriva Lx will fail to boot.
 Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 
 ## Calamares installer
