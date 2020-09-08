@@ -2,7 +2,7 @@
 title: Notes tl;dr
 description: OMLx 4.2 Notes tl;dr
 published: true
-date: 2020-09-08T09:53:20.482Z
+date: 2020-09-08T10:22:48.348Z
 tags: 4.2, releases
 editor: markdown
 ---
@@ -18,14 +18,14 @@ This release is available as a live media DVD or USB flash drive (memory stick),
 *Live media* means you are able to run OpenMandriva Lx straight from a DVD or memory stick and try it before installing it.
 
 ##  Recommended Hardware
-OpenMandriva Lx requires at least 2.0 GB of memory and at least 10 GB of hard drive space.
+OpenMandriva Lx requires at least 2048 MB of memory and at least 10 GB of hard drive space.
 
 ## Internet Connection
 Calamares Installer checks if an Internet connection is available, but OpenMandriva Lx will install just fine even without. Simply install as you normally would and proceed to use your new system as normal.
 
 ## Virtual Machines
 At this time the only virtualization software that OMLx ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines.
-For VirtualBox however you must always have at least 2048 MB of memory or the system will fail to boot.
+For VirtualBox you must always have at least 2048 MB of memory or the system will fail to boot.
 
 ## Installer and EFI Support
 This release of OpenMandriva Lx supports booting and installation with and without UEFI.
@@ -62,19 +62,31 @@ While graphical tools (Discover, dnfdragora, etc.) are useful to find out availa
  <br>
  
 ## Errata
-#### NVIDIA Graphics Cards
+-- **NVIDIA Graphics Cards**
 This release includes the reverse engineered nouveau driver.
-Users may use drivers from nvidia web site but they are not supported by OpenMandriva. Installing and maintaining any proprietary drivers is solely the users option and responsibility. 
-#### NVME SSDs
+Users may use drivers from nvidia web site but they are not supported by OpenMandriva. Installing and maintaining any proprietary drivers is solely the users option and responsibility.
+
+-- **NVME SSDs**
 Some NVME SSDs may not be recognized by OMLx 4.2 Live ISO.
 The Live ISO has 2 different workarounds. See more in [4.2/Errata#NVME SSDs](https://wiki.openmandriva.org/en/releases/omlx42/errata#nvme-ssds).
-#### GEOIP
+
+-- **GEOIP**
 Installer automatically GEOIP setting may not set the timezone correctly.
+
+-- **Discover**
+Discover may not display all available packages. As a workaround run the following commands:
+`$ sudo rm -rf /var/cache/PackageKit/* /var/cache/app-info/*`
+`$ sudo pkcon refresh force`
+
+-- **How to configure printer**
+OMLx provides some 'task-printing' packages specific to your printer brand if the printer is not automatically configured.
+Install the package that matches your brand or the misc package if none do.
+
 
 <br>
 
 ## Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}If you want to help the project and support OpenMandriva, please consider [joining our team](https://www.openmandriva.org/en/article/get-involved) or making a [donation](https://www.openmandriva.org/donate) to keep the lights on!
 
-\-
+
  
