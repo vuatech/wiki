@@ -2,7 +2,7 @@
 title: Notes tl;dr
 description: OMLx 4.2 Notes tl;dr
 published: true
-date: 2020-09-08T09:35:37.732Z
+date: 2020-09-08T09:53:20.482Z
 tags: 4.2, releases
 editor: markdown
 ---
@@ -58,17 +58,23 @@ Use the graphical utility [Software Repository Selector](https://wiki.openmandri
 
 While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra software, we strongly suggest to install packages from command line
  `sudo dnf --refresh install <package_name>`
+
+ <br>
  
 ## Errata
 #### NVIDIA Graphics Cards
 This release includes the reverse engineered nouveau driver.
-Users may use drivers from nvidia web site but they are not supported by OpenMandriva. Installing and maintaining any proprietary nVidia drivers is solely the users option and responsibility. 
+Users may use drivers from nvidia web site but they are not supported by OpenMandriva. Installing and maintaining any proprietary drivers is solely the users option and responsibility. 
 #### NVME SSDs
 Some NVME SSDs may not be recognized by OMLx 4.2 Live ISO.
 The Live ISO has 2 different workarounds. See more in [4.2/Errata#NVME SSDs](https://wiki.openmandriva.org/en/releases/omlx42/errata#nvme-ssds).
 #### GEOIP
 Installer automatically GEOIP setting may not set the timezone correctly.
 
+<br>
+
+## Helping the project
+![om-donate.svg](/images/om-donate.svg){.align-left}If you want to help the project and support OpenMandriva, please consider [joining our team](https://www.openmandriva.org/en/article/get-involved) or making a [donation](https://www.openmandriva.org/donate) to keep the lights on!
 
 \-
  
