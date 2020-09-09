@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-09-08T08:37:26.983Z
+date: 2020-09-09T17:28:13.588Z
 tags: 4.2
 editor: markdown
 ---
@@ -21,7 +21,7 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 - Frameworks 5.74.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.74.0.php)
 - Plasma 5.19.4 [*(more information)*](https://www.kde.org/announcements/plasma-5.19.4.php)
 - Applications 20.08.1 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.08.1.php)
-- Qt 5.15.0 [*(more information)*](https://www.qt.io)
+- Qt 5.15.1 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
 
