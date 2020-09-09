@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Beta Release Notes
 description: 
 published: true
-date: 2020-09-08T10:36:28.338Z
+date: 2020-09-09T17:31:59.640Z
 tags: 4.2
 editor: markdown
 ---
@@ -150,7 +150,7 @@ In order to keep current with latest changes in Linux, computer security issues,
 
 Major changes:
 - The kernel has been updated to 5.8.6
-- Qt has been updated to 5.15.0
+- Qt has been updated to 5.15.1
 - Plasma has been updated: Frameworks 5.74.0, Plasma Desktop 5.19.4, Applications 20.08.1
 - *Read more in* [What's New](/en/releases/omlx42/new)
 
