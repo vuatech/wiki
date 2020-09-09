@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Beta Errata
 description: 
 published: true
-date: 2020-09-09T17:18:24.632Z
+date: 2020-09-09T17:26:55.301Z
 tags: 4.2
 editor: markdown
 ---
@@ -93,7 +93,7 @@ As users report multiboot issues we will fix what we are able to. Issues we are 
 
 ## Known issues currently being worked on
 
-## Login to Plasma desktop in VirtualBox
+### Login to Plasma desktop in VirtualBox
 In VirtualBox quick logout and/or login may cause Plasma desktop to a black screen.
 The bug affects primarily live mode but it has been noticed sometimes also for the installed system.
 As a workaround, wait at least 5 seconds at sddm logout screen and same goes for login.
