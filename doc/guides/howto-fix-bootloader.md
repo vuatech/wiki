@@ -2,7 +2,7 @@
 title: How to fix broken bootloader
 description: 
 published: true
-date: 2020-09-10T21:59:11.289Z
+date: 2020-09-10T22:06:13.109Z
 tags: documentation, howto, user-guide
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Then to install the grub2 bootloader to the drive you wish to boot from:
 ```
 $ sudo grub2-install /dev/xxx
 ```
-Where you replace the “xxx” with the name of the drive you want to, or were booting OMLx from, like `sda` or if it is a nvme drive something like `nvme0n1`.
+Where you replace the “*xxx*” with the name of the drive you want to, or were booting OMLx from, like `sda` or if it is a nvme drive something like `nvme0n1`.
 
 To do this obviously you need access to your OMLx system. It you do not have easy access you can try [Rescatux](https://sourceforge.net/p/rescatux/) or [Super Grub2 Disk](https://sourceforge.net/p/supergrub2/). For this task you may want to try Super Grub2 Disk first.
 
@@ -43,5 +43,8 @@ $ sudo os-prober
 
 ### Useful readings
 [Grub2 manual](https://www.gnu.org/software/grub/manual/grub/html_node/index.html)
+[How to Rescue a Non-booting GRUB 2 on Linux](https://www.linux.com/training-tutorials/how-rescue-non-booting-grub-2-linux/)
 Some man pages: [1](https://aty.sdsu.edu/bibliog/latex/debian/grub2rescue.html) [2](https://www.gnu.org/software/grub/manual/grub/html_node/GRUB-only-offers-a-rescue-shell.html)
+
+
 
