@@ -2,9 +2,10 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-09-09T17:28:13.588Z
+date: 2020-11-29T11:50:33.155Z
 tags: 4.2
 editor: markdown
+dateCreated: 2020-02-27T16:27:56.804Z
 ---
 
 # OpenMandriva Lx 4.2 New
@@ -18,10 +19,10 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### KDE
 
-- Frameworks 5.74.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.74.0.php)
-- Plasma 5.19.4 [*(more information)*](https://www.kde.org/announcements/plasma-5.19.4.php)
-- Applications 20.08.1 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.08.1.php)
-- Qt 5.15.1 [*(more information)*](https://www.qt.io)
+- Frameworks 5.76.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.76.0.php)
+- Plasma 5.20.3 [*(more information)*](https://www.kde.org/announcements/plasma-5.20.3.php)
+- Applications 20.11.90 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.11.90.php)
+- Qt 5.15.2 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
 
@@ -31,27 +32,27 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### Core
 
-- Kernel 5.8.6 [*(more information)*](https://www.kernel.org/)
-- systemd 246 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
-- LLVM/clang 10.0.1 [*(more information)*](http://llvm.org/)
+- Kernel 5.9.11 [*(more information)*](https://www.kernel.org/)
+- systemd 247 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
+- LLVM/clang 11.0 [*(more information)*](http://llvm.org/)
 - gcc 10.2 [*(more information)*](https://gcc.gnu.org/)
 - glibc 2.32 [*(more information)*](http://www.gnu.org/software/libc/)
-- Java 14
+- Java 15
 - Zstandard - new real-time compression algorithm, providing high compression ratios implemented in our kernel, provides faster boot
 
 ### Installer
 
-- Calamares 3.2.29 [*(more information)*](https://calamares.io)
+- Calamares 3.2.33 [*(more information)*](https://calamares.io)
 
 ### Applications
 
-- LibreOffice 7.0.1
+- LibreOffice 7.1.0
 - Falkon 3.1
-- Firefox 78
-- Chromium 83
-- Krita 4.3.0
+- Firefox 83
+- Chromium 87
+- Krita 4.4.1
 - Calligra Suite 3.2.1
-- Digikam 7.0
+- Digikam 7.1
 - SMPlayer 20.6.0
 - VLC 3.0.11
   
