@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-14T20:06:57.684Z
+date: 2020-12-14T22:05:53.650Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -35,7 +35,7 @@ They serve as origin for all other mirrors, and as fallback mirrors if Mirrorbit
 `http://mirror.yandex.ru/openmandriva/` (Russia)
 `http://distro.ibiblio.org/openmandriva/` (USA)
 
-### Setting up a mirror
+## Setting up a mirror
 If you want to support us by setting up a mirror for OpenMandriva Lx, please choose one of the three T1 servers as origin with, for instance, one of the following command samples:
 For example with command 
 `rsync -av rsync://openmandriva.c3sl.ufpr.br/openmandriva/ /local/path`
