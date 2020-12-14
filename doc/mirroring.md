@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-14T19:41:52.812Z
+date: 2020-12-14T19:43:05.692Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -17,7 +17,7 @@ https://mirmon.openmandriva.org/
 
 ### Mirrorbits
 You can see where the mirrors are distributed around the world.
-http://mirror.openmandriva.org:8080?mirrorlist
+http://mirror.openmandriva.org:8080?mirrorstats
 
 ## Get the closest mirror
 Mirrorbits can redirect automatically to the closest mirror, for instance
