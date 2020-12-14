@@ -2,30 +2,43 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-04-10T19:38:23.811Z
-tags: 
+date: 2020-12-14T19:40:06.141Z
+tags: documentation
+editor: markdown
+dateCreated: 2020-03-14T19:10:14.516Z
 ---
 
 # Mirroring
-## List of active mirrors (Mirmon)
-`http://downloads.openmandriva.org/mm/`
+## List of mirrors
 
-## Lists of mirrors for configuring the media
-`http://downloads.openmandriva.org/mirrors/`
+### Mirmon (Mirrors manager)
+From here you can see if a mirror is regularly up to date
+https://mirmon.openmandriva.org/
+
+### Mirrorbits
+You can see where the mirrors are distributed around the world.
+http://mirror.openmandriva.org:8080?mirrorlist
+
+## Get the closest mirror
+Mirrorbits can redirect automatically to the closest mirror, for instance
+- Immediate redirection: http://mirror.openmandriva.org:8080/release_current/README.txt 
+- Visual representation http://mirror.openmandriva.org:8080/release_current/README.txt?mirrorlist
 
 ## Setting up a mirror
 Please follow this process:
 * Use one of our T-1 mirrors,
 
-`http://mirror.yandex.ru/openmandriva/`
-`http://distro.ibiblio.org/openmandriva/`
+`http://openmandriva.c3sl.ufpr.br` (Brazil)
+`http://mirror.yandex.ru/openmandriva/` (Russia)
+`http://distro.ibiblio.org/openmandriva/` (USA)
 
 For example with command 
+`rsync -av rsync://openmandriva.c3sl.ufpr.br/openmandriva/ /local/path`
 `rsync -av rsync://mirror.yandex.ru/openmandriva/ /local/path`
 `rsync -av distro.ibiblio.org::openmandriva/ /local/path/`
-> Don't forget the ''TIME'' file. It is needed for Mirmon to work correctly
+> Don't forget the ''TIME.txt'' file. It is needed by Mirmon and Mirrobits to work correctly.
 >
-> At least '''300GB''' of free disk space is needed
+> At least '''500GB''' of free disk space is needed
 {.is-warning}
 
 
