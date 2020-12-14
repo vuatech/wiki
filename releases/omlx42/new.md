@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-11-29T11:50:33.155Z
+date: 2020-12-14T23:32:33.401Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-27T16:27:56.804Z
@@ -19,20 +19,20 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### KDE
 
-- Frameworks 5.76.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.76.0.php)
-- Plasma 5.20.3 [*(more information)*](https://www.kde.org/announcements/plasma-5.20.3.php)
+- Frameworks 5.77.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.77.0.php)
+- Plasma 5.20.4 [*(more information)*](https://www.kde.org/announcements/plasma-5.20.4.php)
 - Applications 20.11.90 [*(more information)*](https://www.kde.org/announcements/announce-applications-20.11.90.php)
 - Qt 5.15.2 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
 
-- Xorg 1.20.9
-- Wayland 1.20.9 [*(more information)*](https://wayland.freedesktop.org/releases.html)
-- Mesa 20.2 [*(more information)*](http://www.mesa3d.org/)
+- Xorg 1.20.10
+- Wayland 1.20.10 [*(more information)*](https://wayland.freedesktop.org/releases.html)
+- Mesa 20.3 [*(more information)*](http://www.mesa3d.org/)
 
 ### Core
 
-- Kernel 5.9.11 [*(more information)*](https://www.kernel.org/)
+- Kernel 5.9.14 [*(more information)*](https://www.kernel.org/)
 - systemd 247 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 11.0 [*(more information)*](http://llvm.org/)
 - gcc 10.2 [*(more information)*](https://gcc.gnu.org/)
