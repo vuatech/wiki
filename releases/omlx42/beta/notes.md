@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Beta Release Notes
 description: 
 published: true
-date: 2020-11-29T11:56:13.463Z
+date: 2020-12-14T23:34:40.885Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-03-07T17:10:54.689Z
@@ -150,9 +150,9 @@ The best adviced command to upgrade Rolling system is:
 In order to keep current with latest changes in Linux, computer security issues, and computer code writing there are major changes in OMLx 4.2.
 
 Major changes:
-- The kernel has been updated to 5.9.11
+- The kernel has been updated to 5.9.14
 - Qt has been updated to 5.15.2
-- Plasma has been updated: Frameworks 5.76.0, Plasma Desktop 5.20.3, Applications 20.11.90
+- Plasma has been updated: Frameworks 5.77.0, Plasma Desktop 5.20.4, Applications 20.11.90
 - *Read more in* [What's New](/en/releases/omlx42/new)
 
 
