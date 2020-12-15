@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-15T01:23:39.257Z
+date: 2020-12-15T01:25:06.682Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -48,7 +48,7 @@ If you want to support us by setting up a mirror for OpenMandriva Lx, please cho
 
 ## T0 mirror
 
-Our T0 mirror, ABF, is where packages are compiled and distributed. There are much packages on it than on our other mirrors, such as source and debug packages, old release packages etc. 
+Our T0 mirror, ABF, is where packages are compiled and distributed. There are much  packages on it than on our other mirrors, such as source and debug packages, old release packages, personal repositories etc. 
 
 Its content can be explored with this address:
 
