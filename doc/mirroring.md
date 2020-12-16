@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-16T22:53:24.881Z
+date: 2020-12-16T22:54:05.995Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -20,7 +20,7 @@ You can see where the mirrors are distributed around the world.
 - http://mirror.openmandriva.org?mirrorstats
 
 ## Get the closest mirror
-Mirrorbits can redirect automatically to the closest mirror, here is an example with a simple txt file available on repositories:
+Mirrorbits can redirect automatically to the closest mirror from your location, here is an example with a simple txt file available on repositories:
 - Immediate redirection: http://mirror.openmandriva.org/release_current/README.txt 
 - Visual representation http://mirror.openmandriva.org/release_current/README.txt?mirrorlist
 
