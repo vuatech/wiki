@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-16T22:16:03.705Z
+date: 2020-12-16T22:17:17.857Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -31,7 +31,7 @@ They serve as origin for all other mirrors, and as fallback mirrors if Mirrorbit
 
 ### T1 Mirrors list
 
-We now have three T1, still
+We have three T1 mirrors
 - **Yandex, Moscow, Russia**
 -- URL http://mirror.yandex.ru/openmandriva/
 -- `rsync://mirror.yandex.org/openmandriva/`
