@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-15T01:25:06.682Z
+date: 2020-12-16T22:16:03.705Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -31,9 +31,19 @@ They serve as origin for all other mirrors, and as fallback mirrors if Mirrorbit
 
 ### T1 Mirrors list
 
-`http://openmandriva.c3sl.ufpr.br` (Brazil)
-`http://mirror.yandex.ru/openmandriva/` (Russia)
-`http://distro.ibiblio.org/openmandriva/` (USA)
+We now have three T1, still
+- **Yandex, Moscow, Russia**
+-- URL http://mirror.yandex.ru/openmandriva/
+-- `rsync://mirror.yandex.org/openmandriva/`
+-- coord: 55.7522, 37.6156
+- **The University of North Carolina, Chapel Hill, USA** 
+-- URL: http://distro.ibiblio.org/openmandriva/
+-- `rsync://distro.ibiblio.org/openmandriva/`
+-- coord: 37.751, -97.822
+- **The Federal University of Paraná, Brazil**
+-- URL: http://openmandriva.c3sl.ufpr.br
+-- `rsync://openmandriva.c3sl.ufpr.br/openmandriva/`
+-- coord: 22.8305, -43.2192
 
 ## Setting up a mirror
 If you want to support us by setting up a mirror for OpenMandriva Lx, please choose one of the three T1 servers as origin with, for instance, one of the following command samples:
