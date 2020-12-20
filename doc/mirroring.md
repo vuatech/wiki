@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-16T22:54:05.995Z
+date: 2020-12-20T10:31:50.695Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -35,9 +35,11 @@ We have three T1 mirrors
 - **Yandex, Moscow, Russia**
 -- URL http://mirror.yandex.ru/openmandriva/
 -- `rsync://mirror.yandex.org/openmandriva/`
+-- ftp://mirror.yandex.ru/openmandriva/
 -- coord: 55.7522, 37.6156
 - **The University of North Carolina, Chapel Hill, USA** 
 -- URL: http://distro.ibiblio.org/openmandriva/
+-- ftp://distro.ibiblio.org/openmandriva/
 -- `rsync://distro.ibiblio.org/openmandriva/`
 -- coord: 37.751, -97.822
 - **The Federal University of Paraná, Brazil**
