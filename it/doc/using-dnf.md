@@ -2,7 +2,7 @@
 title: Usare dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-05-01T06:41:46.683Z
+date: 2020-04-27T12:06:14.071Z
 tags: documentation, dnf, user-guide
 ---
 
@@ -95,4 +95,5 @@ Per leggere il menù di help ci vogliono 1 minuto, 1 minuto e mezzo. Per leggere
 Entrambe sono progettate per essere disponibili agli utenti per essere consultate nel caso gli utenti debbano trovare velocemente il modo di fare qualcosa mentre stanno usando il loro sistema.
 
 Ci sono anche altre wiki e documentazioni riguardanti dnf: [Using the DNF software package manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/), [Fedora wiki page](https://fedoraproject.org/wiki/DNF?rd=Dnf), and [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html).
+
 
