@@ -2,7 +2,7 @@
 title: Guida specifica allo stile della wiki di OpenMandriva
 description: 
 published: true
-date: 2020-05-10T10:00:59.389Z
+date: 2020-04-22T16:52:59.603Z
 tags: documentation, policies, wiki, howto
 ---
 
@@ -49,6 +49,11 @@ Per la migliore organizzazione mantieni il percorso originale inglese senza modi
 Come altro esempio `/en/doc/guides/howto-list-packages-iso` diventerà `/it/doc/guides/howto-list-packages-iso` e **il titolo** della tua pagina tradotta (che è tutt'altra cosa rispetto al percorso) sarà "*Come ottenere una lista di tutti i pacchetti presenti nella ISO*"
 Tieni a mente che il percorso è una convenzione, il titolo della pagina può essere qualsiasi cosa nella tua lingua.
 L'azione di cui sopra è comunque semplificata e viene eseguita automaticamente cliccando sull'icona *Language* <i class="v-icon mdi mdi-web"></i> in alto a destra della pagina.
-  
+
 \-
+
+
+
+
+
 
