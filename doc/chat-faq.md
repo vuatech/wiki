@@ -3,7 +3,7 @@ title: Chat with OpenMandriva
 description: Chat with OpenMandriva team: guide and FAQ
 published: true
 date: 2020-03-12T13:37:32.180Z
-tags: 
+tags: documentation
 ---
 
 # Chat with OpenMandriva team: guide and FAQ
