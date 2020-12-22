@@ -2,14 +2,16 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-07-27T17:43:16.854Z
-tags: documentation, user-guide
+date: 2020-12-22T09:01:37.460Z
+tags: 
 editor: markdown
+dateCreated: 2020-05-04T09:57:56.449Z
 ---
 
 # Repositories tl;dr
 ## Sorgenti Media
 Abbiamo quattro sorgenti media di base: `/main`, `/unsupported`, `/restricted` e `/non-free`.
+
 #### Come gestire i repository con om-repo-picker
 
 Menu delle applicazioni > Selettore dei repository Software Repository Selector (om-repo-picker)
@@ -64,3 +66,9 @@ Quando hai finito di applicare le modifiche, lancia il seguente comando nel term
 
 ## Leggi di più
 Per una spiegazione dettagliata leggi  [Piano di Rilascio e Repository](/doc/release-plan-and-repositories)
+
+\-
+
+
+
+
