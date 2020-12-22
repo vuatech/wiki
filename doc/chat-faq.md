@@ -47,7 +47,6 @@ If you are hesitating between the two protocols, you may certainly want to go wi
 
 Important notice: If you prefer to use IRC, due to important spam in Freenode servers, where we are hosted, please register and identify your nicknames to NickServ, or you will not be able to talk.
 
-<!--
 ## Matrix questions
 
 ### How to see my nickname in IRC channel ?
@@ -57,4 +56,3 @@ Important notice: If you prefer to use IRC, due to important spam in Freenode se
 ## IRC questions
 
 ### How to register nickname ?
--->
