@@ -2,8 +2,10 @@
 title: Chat with OpenMandriva
 description: Chat with OpenMandriva team: guide and FAQ
 published: true
-date: 2020-03-12T13:37:32.180Z
-tags: documentation
+date: 2020-12-22T16:27:27.199Z
+tags: documentation, chat
+editor: markdown
+dateCreated: 2020-03-12T11:50:57.466Z
 ---
 
 # Chat with OpenMandriva team: guide and FAQ
@@ -15,8 +17,6 @@ tags: documentation
 
 > If you are a newcomer just want a quick and easy way to join OpenMandriva chat rooms, please follow this [tutorial](/doc/join-chatroom-matrix).
 {.is-info}
-
-
 
 ## Generic questions
 
@@ -46,13 +46,3 @@ You can access the discussion rooms (or discussions channels if you prefer IRC v
 If you are hesitating between the two protocols, you may certainly want to go with Matrix. Please follow this quick guide to create a account.
 
 Important notice: If you prefer to use IRC, due to important spam in Freenode servers, where we are hosted, please register and identify your nicknames to NickServ, or you will not be able to talk.
-
-## Matrix questions
-
-### How to see my nickname in IRC channel ?
-
-### How to change my nickname in IRC channel ?
-
-## IRC questions
-
-### How to register nickname ?
