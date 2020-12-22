@@ -2,8 +2,10 @@
 title: Guida allo stile del wiki
 description: 
 published: true
-date: 2020-05-04T22:36:55.975Z
-tags: documentation, wiki
+date: 2020-12-22T08:52:41.043Z
+tags: 
+editor: markdown
+dateCreated: 2020-05-04T22:40:16.308Z
 ---
 
 # Guida allo stile del wiki
@@ -82,7 +84,8 @@ Evita la maggior parte dei pronomi personali nella documentazione, inclusi i seg
 Evita anche:
 * Pronomi rafforzativi come "lui stesso" o "tu fattelo da solo"
 * Resisti all'uso eccessivo di "tu", "tuo" e "di qualcuno"
-* Occasionalmente certe situazioni richiedono l'utilizzo del pronome "tu" e forme affini perchè la frase risulti chiara.
+
+Occasionalmente certe situazioni richiedono l'utilizzo del pronome "tu" e forme affini perchè la frase risulti chiara.
 Mantenere l'uso della voce attiva è fondamentale per evitare i pronomi personali. "Tu" e "tuo" sono parole appropriate per indicare azione o possesso da parte del lettore.
 I pronomi indefiniti come "questo" o "quello" senza nulla davanti rendono difficile per il lettore seguire ciò che l'autore intende esprimere.
 Favorisci la scrittura di una frase con un nome preciso quando possibile invece di utilizzare parole vaghe come "questo", "quello" e affini.
@@ -99,15 +102,15 @@ Usa pronomi indefiniti per spezzare frasi lunghe per migliorare la chiarezza, ma
 `CORRETTO: Stai al passo con gli aggiornamenti per il tuo sistema operativo.
 Questi aggiornamenti migliorano le funzionalità delle applicazioni, rimuovono rischi di sicurezza e aggiustano  automaticamente i problemi di performance aggiustati a partire da segnalazioni di bug.`
 
-Formazione della frase
+### Formazione della frase
 
-### Scrivi frasi che siano il più corte possibile.
+Scrivi frasi che siano il più corte possibile.
 Eliminare parole non necessarie è vitale per rafforzare il significato.
 Ci sono svariate trappole per gli scrittori di documentazione tecnica con il risultato di lunghe frasi.
 
-Discorso Indiretto
+#### Discorso Indiretto
 
-#### Il discorso indiretto si riferisce all'uso di "quello" per attribuire un affermazione, fatto o sentimento in una frase senza l'uso di un punto di domanda.
+Il discorso indiretto si riferisce all'uso di "quello" per attribuire un affermazione, fatto o sentimento in una frase senza l'uso di un punto di domanda.
 Nella scrittura normale indebolisce le affermazioni di fatto.
 Gli scrittori di documentazione possono migliorare l'impatto delle frasi rimuovendo "quello" e "quale".
 
@@ -115,9 +118,9 @@ Gli scrittori di documentazione possono migliorare l'impatto delle frasi rimuove
 
 `CORRETTO: Mandriva è un sistema operativo open source fonte di molti altri progetti open source.`
 
-Altre Combinazioni di Parole non Necessarie
+#### Altre Combinazioni di Parole non Necessarie
 
-#### Evita l'utilizzo di parole non necessarie come la parola "quindi" seguita da una fare con il se.
+Evita l'utilizzo di parole non necessarie come la parola "quindi" seguita da una fare con il se.
 Quando una frase inizia con "se", alla fine della frase metti una virgola e completa la frase con un'affermazione.
 
 `SCORRETTO: Se un client e-mail non riceve o manda messaggi, quindi controlla sotto il menù file e verifica che la modalità "Lavoro Offline" non sia selezionata.`
@@ -127,20 +130,19 @@ Quando una frase inizia con "se", alla fine della frase metti una virgola e comp
 Tante parole che usiamo nella conversazione quotidiana riducono l'impatto su materiali stampati perchè "lasciano una via d'uscita".
 Queste sono parole che precedono verbi e nomi per minimizzare l'influenza della frase. Questa non è una lista esaustiva ma, scrittori di documentazione responsabili ridurrebbero l'utilizzo di queste parole e di altre parole di natura simile.
 
-Evita le Parole Inutili che Riducono l'impatto
-
-#### Le seguenti parole minimizzano l'impatto del verbo o predicato nominale in una frase.
+#### Evita le Parole Inutili che Riducono l'impatto
+Le seguenti parole minimizzano l'impatto del verbo o predicato nominale in una frase.
 Altre parole entrano anch'esse in questa categoria, ma questa breve lista ha lo scopo di aiutare coloro che scrivono la documentazione a eliminare queste parole dal loro modo di scrivere: **dovrebbe, potrebbe, forse, qualche, tanti, la maggior parte, pochi, in quache maniera, possibilmente, può occasionalmente e frequentemente**.
-Variazioni alla Frase
 
-#### Per avere l'impatto più forte, tieni la prima e l'ultima frase di un paragrafo il più corte possibile.
+#### Variazioni alla Frase
+Per avere l'impatto più forte, tieni la prima e l'ultima frase di un paragrafo il più corte possibile.
 Cambiare la lunghezza della frase all'interno di un paragrafo e lungo l'intero documento tiene alta l'attenzione del lettore.
 Un fatto corto e semplice è facile da capire e usare per analizzare la materia della frase successiva.
 Non c'è nulla di male nell'usare frasi più lunghe per spiegare idee e concetti complessi. Prova ad utilizzare una semplice frase riassuntiva alla fine di ogni paragrafo per dare ai lettori un piccolo ripasso delle informazioni importanti.
 Una breve frase finale accompagna il lettore alla sezione successiva.
-Lettere Maiuscole
 
-#### Nelle frasi metti la maiuscola alla prima parola.
+#### Lettere Maiuscole
+Nelle frasi metti la maiuscola alla prima parola.
 Non iniziare frasi con un comando, pacchetto o opzione.
 
 `SCORRETTO: <code>smolt</code> fornisce il profiling dell'hardware.`
@@ -149,8 +151,9 @@ Non iniziare frasi con un comando, pacchetto o opzione.
 
 ùùùùùùùùùùùùùùùù
 
-#### Punteggiatura
 
+
+#### Punteggiatura
 La punteggiatura è un componente cruciale per la comprensione del testo.
 Una virgola messa al posto sbagliato oppure un segno di punteggiatura possono cambiare interamente il significato della frase.
 I segni di punteggiatura sono i fissaggi nella cassetta degli attrezzi dello scrittore. I lettori sono abbituati ai regolari chiodi e viti, come virgole e punti. Inizia a usare segni di punteggiatura non comuni come punto e virgola, puntini di sospensione o quei segni non familiari e il lettore probabilmente si distrarrà facilmente.
@@ -173,7 +176,6 @@ Le parole "and" o "e" devono essere scritte per intero, questo carattere si può
 Non usare gli slash come versione accorciata di "lui o lei" usando lui/lei, usa invece le parole "e", "o" oppure "entarambi". Gli slash sono comunemente utilizzati nei percorsi dei file e usarli in altro modo potrebbe creare confusione.
 
 ## Altre Domande sulla Scrittura
-
 Ogni scrittore incontra i suoi ostacoli. Diventa difficile metter in una frase qualcosa, oppure le parole "non suonano bene".
 Per questo motivo il progetto OpenMandriva è un lavoro di squadra. Contatta gli scrittori della documentazione nella mailing list o nella chat per aiutarli con le parole oppure con la forma del testo.
 Un altro trucco professionale che gli scrittori usano quotidianamente è quello di stare lontani dal progetto per qualche tempo. Prenditi una pausa dalla scrittura del documento. Ritornare su un punto critico con occhi freschi è spesso ciò che serve per superare gli ostacoli nella scrittura.
@@ -183,16 +185,11 @@ Non devi scrivere per impressionare un professore di italiano, oppure per mostra
 Scrivi con il tuo obiettivo in mente e la tua documentazione sarà la più visitata dagli utenti che hanno bisogno di risposte.
 
 
-
 *Crediti:
 Tratto da* [Fedora Project Style Guide](http://Fedoraproject.org/wiki/Docs_Project_Style_Guide_-_General_Guidelines)
 
 ----
 ## Stile specifico per il wiki di OpenMandriva
-
 Leggi anche [OpenMandriva wiki specific style guide](/en/doc/omawiki-style-guide)
-
-
-
 
 
