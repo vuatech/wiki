@@ -2,8 +2,10 @@
 title: Repository Policies
 description: 
 published: true
-date: 2020-04-10T19:38:10.883Z
-tags: 
+date: 2020-12-23T12:38:59.266Z
+tags: policies, cooker, qa
+editor: markdown
+dateCreated: 2020-03-01T19:28:40.866Z
 ---
 
 # Repository Policies
@@ -19,7 +21,7 @@ To make sure you do not "surprise" other developers by breaking everything for t
 - sending an email to the cooker ML and waiting for others' positive reply
 
 Changes that need coordination include, but are not limited to:
-- switching out a major system component for something else (e.g. Xorg > wayland, Qt 5 > Qt 6, wpa_supplicant > iwd, systemd > any other init system, ...); any such change should be tested in a personal repository first.
+- switching out a major system component for something else (e.g. Xorg with wayland, Qt 5 with Qt 6, wpa_supplicant with iwd, systemd with any other init system, ...); any such change should be tested in a personal repository first.
 - update that will require a load of rebuilds (e.g. updating libpng to a version with a new soname)
 - dropping a package used by many things (e.g. dropping qt5 when qt6 is out and has been stabilized)
 - changes that are likely to break other people's hardware
