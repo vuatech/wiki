@@ -2,8 +2,10 @@
 title: Codename
 description: Nome in codice
 published: true
-date: 2020-05-10T10:09:40.219Z
-tags: releases
+date: 2020-12-21T23:53:48.361Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-10T10:09:40.218Z
 ---
 
 ### Questa è la lista dei nomi in codice proposti per OpenMandriva Lx partendo da 2013.0:

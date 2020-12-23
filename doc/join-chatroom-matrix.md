@@ -2,8 +2,10 @@
 title: Join OpenMandriva chat room with Matrix
 description: 
 published: true
-date: 2020-04-10T19:38:22.562Z
+date: 2020-12-21T23:52:07.412Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-12T13:23:59.469Z
 ---
 
 # Newcomer guide: join OpenMandriva chat room with Matrix

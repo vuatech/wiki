@@ -2,8 +2,10 @@
 title: Piano di Rilascio e Repository
 description: 
 published: true
-date: 2020-05-04T09:28:29.789Z
-tags: documentation
+date: 2020-12-21T23:53:38.954Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-02T19:51:47.899Z
 ---
 
 # OpenMandriva Piano di Rilascio e Repository

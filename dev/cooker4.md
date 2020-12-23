@@ -2,8 +2,10 @@
 title: Cocker 4.2
 description: 
 published: true
-date: 2020-04-10T19:38:05.743Z
+date: 2020-12-21T23:51:42.235Z
 tags: 
+editor: undefined
+dateCreated: 2020-02-26T23:37:04.050Z
 ---
 
 ![chwido-icon.svg](/assets/chwido-icon.svg){.align-abstopright}

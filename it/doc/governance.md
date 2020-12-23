@@ -2,9 +2,9 @@
 title: Governance
 description: 
 published: true
-date: 2020-12-22T09:12:15.063Z
+date: 2020-12-22T09:12:16.925Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-05-02T09:31:02.141Z
 ---
 

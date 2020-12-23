@@ -2,8 +2,10 @@
 title: Bots
 description: 
 published: true
-date: 2020-05-02T09:00:09.523Z
-tags: documentation, infra
+date: 2020-12-21T23:53:46.589Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-02T09:00:09.523Z
 ---
 
 # Chwido

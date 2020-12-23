@@ -2,9 +2,10 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2020-07-27T17:43:16.854Z
-tags: documentation, user-guide
-editor: markdown
+date: 2020-12-21T23:52:22.737Z
+tags: 
+editor: undefined
+dateCreated: 2020-03-03T17:34:57.632Z
 ---
 
 # Repositories tl;dr

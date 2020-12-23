@@ -2,9 +2,9 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2020-12-22T16:27:27.199Z
-tags: documentation, chat
-editor: markdown
+date: 2020-12-22T16:36:02.622Z
+tags: 
+editor: undefined
 dateCreated: 2020-03-12T11:50:57.466Z
 ---
 

@@ -2,9 +2,10 @@
 title: OpenMandriva Lx 4.1 Novità
 description: 
 published: true
-date: 2020-07-17T20:18:46.169Z
-tags: 4.1
-editor: markdown
+date: 2020-07-17T20:18:48.233Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-06T06:27:45.028Z
 ---
 
 # OpenMandriva Lx 4.1 Novità

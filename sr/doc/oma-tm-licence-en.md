@@ -2,8 +2,10 @@
 title: OpenMandriva TM лиценца СР
 description: 
 published: true
-date: 2020-04-10T19:38:27.596Z
+date: 2020-12-22T00:27:18.025Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:27:16.233Z
 ---
 
 # Уговор о лиценци

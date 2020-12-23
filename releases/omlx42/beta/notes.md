@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 Beta Release Notes
 description: 
 published: true
-date: 2020-12-14T23:34:40.885Z
-tags: 4.2
-editor: markdown
+date: 2020-12-14T23:34:42.941Z
+tags: 
+editor: undefined
 dateCreated: 2020-03-07T17:10:54.689Z
 ---
 

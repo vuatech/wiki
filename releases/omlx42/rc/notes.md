@@ -2,8 +2,10 @@
 title: OpenMandriva Lx 4.2 RC Release Notes
 description: 
 published: true
-date: 2020-04-10T19:39:17.906Z
+date: 2020-12-21T23:54:14.400Z
 tags: 
+editor: undefined
+dateCreated: 2020-02-27T16:20:12.172Z
 ---
 
 # OpenMandriva Lx 4.2 RC Release Notes

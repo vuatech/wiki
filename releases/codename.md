@@ -2,8 +2,10 @@
 title: Codename
 description: 
 published: true
-date: 2020-04-10T19:38:44.153Z
+date: 2020-12-21T23:52:42.499Z
 tags: 
+editor: undefined
+dateCreated: 2020-02-27T19:10:26.091Z
 ---
 
 ### Here is the list of proposed codenames for OpenMandriva releases starting from 2013.0:

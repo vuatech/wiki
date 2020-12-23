@@ -2,8 +2,10 @@
 title: Chat con OpenMandriva
 description: Chat con il team di OpenMandriva: guida e FAQ
 published: true
-date: 2020-05-06T10:03:51.894Z
-tags: documentation, chat
+date: 2020-05-10T11:02:37.587Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-06T10:03:51.894Z
 ---
 
 # Chat con il team di OpenMandriva: guida e FAQ

@@ -2,8 +2,10 @@
 title: Terms of services
 description: 
 published: true
-date: 2020-04-10T19:38:36.673Z
+date: 2020-12-21T23:52:28.651Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-12T14:05:40.967Z
 ---
 
 # Terms of services

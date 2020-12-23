@@ -2,8 +2,10 @@
 title: Come configurare la stampante in OMLx
 description: 
 published: true
-date: 2020-04-23T20:10:31.499Z
-tags: documentation, howto, user-guide
+date: 2020-12-21T23:54:06.974Z
+tags: 
+editor: undefined
+dateCreated: 2020-04-23T20:06:22.317Z
 ---
 
 # Come configurare la stampante in OMLx

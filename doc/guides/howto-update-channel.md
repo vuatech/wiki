@@ -2,8 +2,10 @@
 title: How to update channel
 description: 
 published: true
-date: 2020-04-28T09:09:45.491Z
-tags: documentation, howto, user-guide, advanced
+date: 2020-12-21T23:53:08.713Z
+tags: 
+editor: undefined
+dateCreated: 2020-04-28T08:42:49.215Z
 ---
 
 # How to update channel

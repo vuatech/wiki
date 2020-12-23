@@ -2,8 +2,10 @@
 title: OpenMandriva Welcome
 description: 
 published: true
-date: 2020-04-10T19:38:26.329Z
+date: 2020-12-21T23:52:13.064Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-04T19:37:44.925Z
 ---
 
 # OpenMandriva Welcome

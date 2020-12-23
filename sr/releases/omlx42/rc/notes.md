@@ -2,8 +2,10 @@
 title: OpenMandriva Lx 4.2 RC Напомене о Издању
 description: 
 published: true
-date: 2020-04-10T19:39:17.906Z
+date: 2020-12-22T00:27:41.472Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:27:39.702Z
 ---
 
 # OpenMandriva Lx 4.2 RC Напмене о издању

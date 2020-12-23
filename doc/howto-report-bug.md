@@ -2,8 +2,10 @@
 title: How to report a bug
 description: 
 published: true
-date: 2020-04-10T19:38:21.260Z
+date: 2020-12-21T23:52:05.453Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-01T21:44:55.485Z
 ---
 
 # How to report a bug

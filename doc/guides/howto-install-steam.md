@@ -2,8 +2,10 @@
 title: How to install Steam in OpenMandriva
 description: 
 published: true
-date: 2020-04-10T19:38:50.429Z
+date: 2020-12-21T23:52:56.854Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-09T20:59:51.458Z
 ---
 
 # How to install Steam in OpenMandriva

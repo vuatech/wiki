@@ -2,8 +2,10 @@
 title: How to Report Bugs Effectively
 description: 
 published: true
-date: 2020-04-10T19:38:56.118Z
+date: 2020-12-21T23:53:04.893Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-09T15:27:16.367Z
 ---
 
 # How to Report Bugs Effectively

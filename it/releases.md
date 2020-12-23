@@ -2,8 +2,10 @@
 title: Releases
 description: 
 published: true
-date: 2020-05-11T17:25:01.143Z
+date: 2020-12-21T23:52:38.982Z
 tags: 
+editor: undefined
+dateCreated: 2020-05-10T17:42:05.707Z
 ---
 
 # OpenMandriva Releases

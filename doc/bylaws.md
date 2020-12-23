@@ -2,8 +2,10 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-04-27T12:10:03.532Z
-tags: documentation, association, legal
+date: 2020-12-21T23:51:56.064Z
+tags: 
+editor: undefined
+dateCreated: 2020-03-02T14:02:26.273Z
 ---
 
 # Bylaws

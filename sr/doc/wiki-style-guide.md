@@ -2,8 +2,10 @@
 title: Стилски водич за вики
 description: 
 published: true
-date: 2020-05-04T22:36:55.975Z
-tags: документација, вики
+date: 2020-12-22T13:00:25.496Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:27:26.719Z
 ---
 
 # Стилски водич за вики

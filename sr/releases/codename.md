@@ -2,8 +2,10 @@
 title: Кодно име
 description: 
 published: true
-date: 2020-04-10T19:38:44.153Z
+date: 2020-12-22T00:27:33.772Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:27:31.945Z
 ---
 
 ### Овде се налази листа предложених кодних имена за OpenMandriva издања почевши од 2013.0:

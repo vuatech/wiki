@@ -2,8 +2,10 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-04-10T19:38:31.399Z
+date: 2020-12-21T23:52:20.803Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-07T18:55:42.072Z
 ---
 
 # Releases pages creation documentation

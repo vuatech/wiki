@@ -2,8 +2,10 @@
 title: Come creare le partizioni root home e swap durante l'installazione di OMLx
 description: 
 published: true
-date: 2020-05-12T11:05:15.166Z
-tags: documentation, howto, user-guide, advanced
+date: 2020-12-21T23:54:08.843Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-01T21:35:10.169Z
 ---
 
 # Come creare le partizioni root home e swap durante l'installazione di OMLx

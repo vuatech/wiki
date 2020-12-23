@@ -2,8 +2,10 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-05-02T21:51:00.325Z
-tags: documentation
+date: 2020-12-21T23:53:33.234Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-02T21:51:00.325Z
 ---
 
 # Mirroring

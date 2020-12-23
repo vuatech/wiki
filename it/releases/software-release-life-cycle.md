@@ -2,8 +2,10 @@
 title: Ciclo di vita dei rilasci
 description: 
 published: true
-date: 2020-05-10T01:08:17.559Z
-tags: releases, qa
+date: 2020-12-21T23:53:53.829Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-10T01:08:17.559Z
 ---
 
 # Ciclo di vita dei rilasci

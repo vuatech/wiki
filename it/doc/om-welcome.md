@@ -2,8 +2,10 @@
 title: Schermata di Benvenuto OpenMandriva Welcome
 description: 
 published: true
-date: 2020-05-04T10:44:31.388Z
-tags: documentation, user-guide
+date: 2020-12-21T23:53:35.082Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-04T10:44:31.388Z
 ---
 
 # OpenMandriva Welcome - Schermata di Benvenuto

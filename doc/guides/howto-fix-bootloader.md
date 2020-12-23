@@ -2,9 +2,10 @@
 title: How to fix broken bootloader
 description: 
 published: true
-date: 2020-09-10T22:06:13.109Z
-tags: documentation, howto, user-guide
-editor: markdown
+date: 2020-12-21T23:52:53.252Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-10T21:59:11.289Z
 ---
 
 # How to fix broken boot loader

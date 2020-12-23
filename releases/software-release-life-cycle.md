@@ -2,8 +2,10 @@
 title: Software release life cycle
 description: 
 published: true
-date: 2020-04-10T19:38:47.908Z
+date: 2020-12-21T23:52:47.915Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-01T20:11:00.112Z
 ---
 
 # Software release life cycle

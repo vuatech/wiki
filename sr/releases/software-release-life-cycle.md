@@ -2,8 +2,10 @@
 title: Животни циклус издања софтвера
 description: 
 published: true
-date: 2020-04-10T19:38:47.908Z
+date: 2020-12-22T00:27:44.040Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:27:42.251Z
 ---
 
 # Животни циклус издања софтвера

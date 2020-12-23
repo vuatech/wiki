@@ -2,8 +2,10 @@
 title: Cooker
 description: 
 published: true
-date: 2020-05-08T19:24:14.153Z
-tags: cooker
+date: 2020-12-21T23:51:40.230Z
+tags: 
+editor: undefined
+dateCreated: 2020-02-26T22:33:18.166Z
 ---
 
 # Cooker

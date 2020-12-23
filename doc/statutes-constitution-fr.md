@@ -2,8 +2,10 @@
 title: Statutes constitution French
 description: 
 published: true
-date: 2020-04-27T12:13:50.425Z
-tags: documentation, association, legal
+date: 2020-12-21T23:52:26.712Z
+tags: 
+editor: undefined
+dateCreated: 2020-03-01T22:58:03.239Z
 ---
 
 # Statutes constitution French

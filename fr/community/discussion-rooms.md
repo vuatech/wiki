@@ -2,8 +2,10 @@
 title: Chambres de discussion
 description: 
 published: true
-date: 2020-04-10T23:42:24.834Z
+date: 2020-12-21T23:53:12.314Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-21T23:53:10.613Z
 ---
 
 # Entête

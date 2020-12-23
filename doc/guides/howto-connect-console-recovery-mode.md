@@ -2,9 +2,10 @@
 title: How to connect to internet in console mode or recovery mode
 description: 
 published: true
-date: 2020-07-07T08:04:15.837Z
-tags: documentation, howto, user-guide
-editor: markdown
+date: 2020-12-21T23:52:51.436Z
+tags: 
+editor: undefined
+dateCreated: 2020-07-07T08:04:15.837Z
 ---
 
 # How to connect to internet in console mode or recovery mode

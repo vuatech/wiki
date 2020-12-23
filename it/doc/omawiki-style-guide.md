@@ -2,9 +2,9 @@
 title: Guida specifica allo stile della wiki di OpenMandriva
 description: 
 published: true
-date: 2020-12-22T09:07:59.821Z
+date: 2020-12-22T09:08:04.369Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-05-10T10:00:59.389Z
 ---
 

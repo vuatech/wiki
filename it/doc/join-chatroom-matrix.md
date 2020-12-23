@@ -2,8 +2,10 @@
 title: Entra nella chat room di OpenMandriva con Matrix
 description: Guida per principianti
 published: true
-date: 2020-05-10T11:02:35.166Z
-tags: documentation, chat
+date: 2020-12-21T23:53:31.402Z
+tags: 
+editor: undefined
+dateCreated: 2020-05-10T11:02:35.166Z
 ---
 
 # Entra nella chat room di OpenMandriva con Matrix

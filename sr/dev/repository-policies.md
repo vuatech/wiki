@@ -2,8 +2,10 @@
 title: Принципи репозиторијума
 description: 
 published: true
-date: 2020-04-10T19:38:10.883Z
+date: 2020-12-22T13:00:20.733Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T13:00:18.872Z
 ---
 
 # Принципи репозиторијума

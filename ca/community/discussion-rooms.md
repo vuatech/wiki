@@ -2,8 +2,10 @@
 title: Cambra de discussió
 description: 
 published: true
-date: 2020-04-10T23:42:24.834Z
+date: 2020-12-22T00:12:04.490Z
 tags: 
+editor: undefined
+dateCreated: 2020-12-22T00:12:02.764Z
 ---
 
 # Capçalera

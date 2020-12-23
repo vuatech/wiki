@@ -2,8 +2,10 @@
 title: Artwork
 description: 
 published: true
-date: 2020-05-29T07:22:23.621Z
-tags: documentation
+date: 2020-12-21T23:51:53.968Z
+tags: 
+editor: undefined
+dateCreated: 2020-03-08T07:52:00.113Z
 ---
 
 <div style="height: 80px; width: 100%; background:#2080BB; text-align:right; min-height:36px;">

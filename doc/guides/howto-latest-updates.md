@@ -2,8 +2,10 @@
 title: How to get a list of the latest updates
 description: 
 published: true
-date: 2020-04-10T19:38:52.253Z
+date: 2020-12-21T23:52:59.249Z
 tags: 
+editor: undefined
+dateCreated: 2020-03-09T19:41:11.057Z
 ---
 
 # How to get a list of the latest updates
