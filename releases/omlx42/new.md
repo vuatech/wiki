@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 New
 description: 
 published: true
-date: 2020-12-18T11:48:53.201Z
-tags: 
-editor: undefined
+date: 2020-12-24T18:52:41.610Z
+tags: 4.2
+editor: markdown
 dateCreated: 2020-02-27T16:27:56.804Z
 ---
 
@@ -32,7 +32,7 @@ OpenMandriva Lx 4.2 is a new release from the OpenMandriva Association. [Codenam
 
 ### Core
 
-- Kernel 5.9.14 [*(more information)*](https://www.kernel.org/)
+- Kernel 5.10.2 [*(more information)*](https://www.kernel.org/)
 - systemd 247 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 11.0 [*(more information)*](http://llvm.org/)
 - gcc 10.2 [*(more information)*](https://gcc.gnu.org/)
