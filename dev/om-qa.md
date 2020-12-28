@@ -2,9 +2,9 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-12-21T23:51:44.152Z
-tags: 
-editor: undefined
+date: 2020-12-28T14:15:25.365Z
+tags: qa
+editor: markdown
 dateCreated: 2020-03-01T20:38:27.627Z
 ---
 
@@ -33,6 +33,8 @@ QA-Team members need a thorough understanding of:
 - [Release Plan and Repositories](/doc/release-plan-and-repositories)
 - [Repository Policies](/dev/repository-policies)
 - [Current and Future Releases](/releases)
+
+See also [OpenMandriva Release QA](/dev/release-qa)
 
 ## Tools
 We use a variety of tools to help us with our work. However, none compare to the actual task of checking by hand and doing it with actual computers, as those are the true use cases.
