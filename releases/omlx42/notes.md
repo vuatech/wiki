@@ -2,20 +2,20 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2020-09-09T17:30:34.414Z
-tags: 
-editor: undefined
+date: 2020-12-28T22:14:32.508Z
+tags: 4.2
+editor: markdown
 dateCreated: 2020-02-27T16:02:09.863Z
 ---
 
 # OpenMandriva Lx 4.2  Release Notes
 <!--The OpenMandriva Lx teams are pleased to announce the availability of OpenMandriva Lx 4.2.-->
 
-**Please read the current release [release notes](https://wiki.openmandriva.org/en/releases/omlx42/beta/notes)**.
+**Please read the current release [release notes](https://wiki.openmandriva.org/releases/omlx42/rc/notes)**.
 
 
 # Errata
-See [4.2/Errata](/en/releases/omlx42/errata).
+See [4.2/Errata](/releases/omlx42/errata).
 
 # Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
