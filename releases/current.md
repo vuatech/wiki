@@ -2,9 +2,9 @@
 title: Current releases
 description: 
 published: true
-date: 2020-12-22T09:52:10.690Z
-tags: 
-editor: undefined
+date: 2020-12-28T22:07:57.162Z
+tags: releases
+editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
 ---
 
@@ -21,9 +21,9 @@ dateCreated: 2020-09-08T07:13:51.704Z
 
 
 ## Current development release
-### ![omlx4.2b-240px.png](/images/omlx4.2b-240px.png =64x) OpenMandriva Lx 4.2 Argon (*Beta*)
-- [Overview](/releases/omlx42/beta)
+### ![omlx4.2b-240px.png](/images/omlx4.2b-240px.png =64x) OpenMandriva Lx 4.2 Argon (*RC*)
+- [Overview](/releases/omlx42/rc)
 - [What's New](/releases/omlx42/new)
-- [Release Notes](/releases/omlx42/beta/notes)
-- [Errata](/releases/omlx42/beta/errata)
+- [Release Notes](/releases/omlx42/rc/notes)
+- [Errata](/releases/omlx42/rc/errata)
 <br>
