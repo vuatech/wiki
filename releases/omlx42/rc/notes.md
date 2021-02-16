@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 RC Release Notes
 description: 
 published: true
-date: 2020-12-28T22:03:28.112Z
-tags: 4.2
-editor: markdown
+date: 2021-01-02T13:18:17.304Z
+tags: 
+editor: undefined
 dateCreated: 2020-02-27T16:20:12.172Z
 ---
 
@@ -22,6 +22,8 @@ Available ISO files are:
 - x86_64 [KDE Plasma](https://www.kde.org/plasma-desktop) desktop full featured (includes the most common used functionalities, multimedia and office software).
 - znver1 Plasma: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors.
 znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install on any other hardware.
+
+Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)
 
 ## System requirements
 

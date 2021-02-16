@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 RC Errata
 description: 
 published: true
-date: 2020-12-28T22:05:51.287Z
-tags: 4.2
-editor: markdown
+date: 2021-01-09T18:55:39.018Z
+tags: 
+editor: undefined
 dateCreated: 2020-03-07T21:27:45.940Z
 ---
 
@@ -90,6 +90,16 @@ This is because openSUSE uses custom syntax for their btrfs patches for openSUSE
 The workaround is for users to switch boot-loaders in UEFI firmware settings or BIOS.
 Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix we will report in Errata for our OM Lx Releases.
+
+## Zypper
+The package zypper-needs-restarting will conflict with dnf-utils if installed.
+As a workaround remove dnf-utils.
+
+## Bluetooth
+For bluetooth devices user will need to enable systemd bluetooth.service. Open Konsole and run:
+```
+sudo systemctl start bluetooth ; sudo systemctl enable bluetooth
+```
 
 <br>
 

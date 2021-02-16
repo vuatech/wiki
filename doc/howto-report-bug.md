@@ -2,9 +2,9 @@
 title: How to report a bug
 description: 
 published: true
-date: 2020-12-28T23:54:38.498Z
-tags: documentation, qa
-editor: markdown
+date: 2020-12-28T23:54:40.508Z
+tags: 
+editor: undefined
 dateCreated: 2020-03-01T21:44:55.485Z
 ---
 

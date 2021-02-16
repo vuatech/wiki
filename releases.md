@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2020-12-21T23:51:32.848Z
+date: 2021-02-12T23:57:47.527Z
 tags: 
 editor: undefined
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -11,26 +11,12 @@ dateCreated: 2020-02-27T22:08:23.833Z
 # OpenMandriva Releases
 
 ## Current stable release
-<!-- 
+
 ### OpenMandriva Lx 4.2
+![omlx4.2-240px.png](/images/omlx4.2-240px.png)
 **Codename Argon**
+Release: 12 February 2021
 
-#### Alpha
-- [Overview](/releases/omlx42/alpha)
-- [Release Notes](/releases/omlx42/alpha/notes)
-- [Errata](/releases/omlx42/alpha/errata)
-
-#### Beta
-- [Overview](/releases/omlx42/beta)
-- [Release Notes](/releases/omlx42/beta/notes)
-- [Errata](/releases/omlx42/beta/errata)
-
-#### RC
-- [Overview](/releases/omlx42/rc)
-- [Release Notes](/releases/omlx42/rc/notes)
-- [Errata](/releases/omlx42/rc/errata)
-
-#### GA
 - [Overview](/releases/omlx42)
 - [What's New](/releases/omlx42/new)
 - [Release Notes](/releases/omlx42/notes)
@@ -38,7 +24,7 @@ dateCreated: 2020-02-27T22:08:23.833Z
 <br>
 
 ## Previous release
- -->
+ 
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**
@@ -49,7 +35,6 @@ Release: 02 February 2020
 - [Release Notes](/releases/omlx41/notes)
 - [Errata](/releases/omlx41/errata)
 <br>
-
 
 ## Older releases
 ### OpenMandriva Lx 4.0
