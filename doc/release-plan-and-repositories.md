@@ -2,9 +2,9 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2020-12-21T23:52:18.898Z
-tags: 
-editor: undefined
+date: 2021-02-18T23:54:50.930Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-02-28T17:02:32.116Z
 ---
 
@@ -14,7 +14,7 @@ Before making any change regarding release or update channels if you are even a 
 
 ## Release
 A release is a group of software packages put together to form an operating system.
-Each release is distinguished by its "version", like *Mandriva 2009*, *Windows XP*, *OpenMandriva Lx 2014*, *OpenMandriva Lx 4.0*, ect.
+Each release is distinguished by its "version", like *Mandriva 2009*, *Windows XP*, *OpenMandriva Lx 2014*, *OpenMandriva Lx 4.2*, ect.
 Releases are also called *Update Channels*.
 Release, Rock, Rolling and Cooker are all different release versions/update channels of OpenMandriva Lx. The emphasis is on the word different.
 **They must not be combined**.
@@ -55,11 +55,11 @@ It is designed to be a working, usable system. Rolling users need to be able to 
 
 -   **Rock (Stable)**
 
-Rock repositories consist of a symbolic link to the latest stable version of OpenMandriva. Currently Rock is linked to OM Lx 4.0. However when OMLx 4.1 is released, Rock will automatically be switched to OM Lx 4.1.
+Rock repositories consist of a symbolic link to the latest stable version of OpenMandriva. Currently Rock is linked to OM Lx 4.2. However when OMLx 4.3 is released, Rock will automatically be switched to OM Lx 4.3.
 
 -   **Release (Stable)**
 
-Release repositories are the latest stable versions of OpenMandriva Lx currently OM Lx 4.0 and 4.1. Release repositories stay with the same release. If you install OM Lx 4.0 and used Release repository instead of Rock you will stay with 4.0 repository.
+Release repositories are the latest stable versions of OpenMandriva Lx currently OM Lx 4.1 and 4.2. Release repositories stay with the same release. If you install OM Lx 4.2 and used Release repository instead of Rock you will stay with 4.2 repository.
 The Release/Stable version would be the most stable and suitable for users that like things to stay as they are and just work. Package upgrades will be limited mostly to bug fixes, and security updates.
 Keep in mind that any version will eventually reach EOL (End Of Life) and there will be no more updates of any kind.
 
@@ -78,7 +78,7 @@ Using OM Lx x86\_64 example
 Each Release above has its own repositories. They are not interchangeable, do not mix them.
 
 These are the repository files for OpenMandriva Lx x86\_64.
-The i686 files are there only for the occasional install of 32-bit applications like Wine, Steam, or gaming apps.
+The i686 files are there only for the occasional install of 32-bit applications like Wine, Steam, or gaming apps **in 4.1**.
 It is recommended to enable them only for installing and upgrading those specific packages and otherwise to leave them disabled. Otherwise weird, baffling and unforeseen problems may occur.
 Keep in mind that any developers still developing for 32-bit "only" are monumentally behind the times as far as technical progress in Linux.
 
