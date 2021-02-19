@@ -2,9 +2,9 @@
 title: How to install Steam in OpenMandriva
 description: 
 published: true
-date: 2020-12-21T23:52:56.854Z
-tags: 
-editor: undefined
+date: 2021-02-19T00:04:32.410Z
+tags: documentation, howto, user-guide
+editor: markdown
 dateCreated: 2020-03-09T20:59:51.458Z
 ---
 
@@ -23,6 +23,7 @@ dateCreated: 2020-03-09T20:59:51.458Z
 ![repositories07.jpg](/images/repositories07.jpg)
 
 ### Enable `/main 32bit` repository
+*(This does not apply to 4.2 or newer releases)*
 
 ![install-steam-02.jpg](/images/install-steam-02.jpg)
 
