@@ -2,9 +2,9 @@
 title: Portal
 description: 
 published: true
-date: 2020-12-21T23:51:38.360Z
+date: 2021-02-19T16:03:06.348Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-03-16T15:25:48.972Z
 ---
 
@@ -28,7 +28,7 @@ dateCreated: 2020-03-16T15:25:48.972Z
  [SeenThis](https://seenthis.net/people/openmandriva)
 
 - [ABF](https://abf.openmandriva.org/)
-- [Mirrors](https://downloads.openmandriva.org/mm)
+- [Mirrors](http://mirror.openmandriva.org/README.txt?mirrorlist) - [Mirrors monitor instance](https://mirmon.openmandriva.org/)
 - [Kahinah](https://kahinah.rxu.tech/)
 
 - Sources
