@@ -2,9 +2,9 @@
 title: How to update channel
 description: 
 published: true
-date: 2020-12-21T23:53:08.713Z
-tags: 
-editor: undefined
+date: 2021-02-19T15:07:00.765Z
+tags: documentation, howto, user-guide, advanced
+editor: markdown
 dateCreated: 2020-04-28T08:42:49.215Z
 ---
 
@@ -22,19 +22,19 @@ To upgrade to Rolling:
 
 Application menu > Software Repository Selector
 
-![repositories01.jpg](/images/repositories01.jpg)
+![om4.2-repopicker-01.jpg](/images/om4.2-repopicker-01.jpg)
 
 You can also select OpenMandriva repo-picker in OM Welcome
 
-![repositories07.jpg](/images/repositories07.jpg)
+![om4.2-repopicker-02.jpg](/images/om4.2-repopicker-02.jpg)
 
 - Go to the very first section 'Update channel'.
 
-![repositories02.jpg](/images/repositories02.jpg)
+![om4.2-repopicker-03.jpg](/images/om4.2-repopicker-03.jpg)
 
 - Select 'Rolling' from drop-down menu
 
-![update-channel-rolling.jpg](/images/update-channel-rolling.jpg)
+![om4.2-repopicker-04.jpg](/images/om4.2-repopicker-04.jpg)
 
 confirm by click on OK and when prompted enter your root password. This will take a while so be patient.
 
@@ -42,7 +42,7 @@ By this action you have now changed the repositories from Rock to Rolling so you
 
 - To upgrade your system open Konsole and run the commands:
 ```
-$ sudo dnf clean all ; dnf clean all
+$ sudo dnf clean all ; dnf clean all ; dnf repolist
 $ sudo dnf --allowerasing distro-sync
 ```
 
