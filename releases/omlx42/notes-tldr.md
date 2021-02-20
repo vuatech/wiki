@@ -2,9 +2,9 @@
 title: Notes tl;dr
 description: OMLx 4.2 Notes tl;dr
 published: true
-date: 2020-12-21T23:53:59.558Z
-tags: 
-editor: undefined
+date: 2021-02-20T22:04:50.042Z
+tags: 4.2, releases
+editor: markdown
 dateCreated: 2020-07-15T10:08:13.956Z
 ---
 
@@ -38,12 +38,12 @@ Please note that Calamares cannot convert one partition type to another and pres
 If you run Calamares from the live image it is not possible to change an existing partition type. You will need to first delete the partition and recreate it as the type that you wish.
 
 ## Booting from USB
-To transfer the live/installation image you may use *ROSA Image Writer* or via *dd*.
-- ROSA Image Writer is available in our repos
+To transfer the live/installation image you may use *rosa-imagewriter* or via *dd*.
+- rosa-imagewriter is available in our repos
  `sudo dnf --refresh install rosa-imagewriter`
  or you can get it [here](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter)
  
-- You may alternatively dd the image to your USB stick:
+- you may alternatively dd the image to your USB stick:
  `sudo dd if=<iso_name> of=<usb_drive> bs=4M`
  Replace `<iso_name>` with the path to the ISO and `<usb_drive>` with the device node of the USB drive, i.e. `/dev/sdb`.
 
@@ -73,11 +73,6 @@ The Live ISO has 2 different workarounds. See more in [4.2/Errata#NVME SSDs](htt
 
 -- **GEOIP**
 Installer automatically GEOIP setting may not set the timezone correctly.
-
--- **Discover**
-Discover may not display all available packages. As a workaround run the following commands:
-`$ sudo rm -rf /var/cache/PackageKit/* /var/cache/app-info/*`
-`$ sudo pkcon refresh force`
 
 -- **How to configure printer**
 OMLx provides some 'task-printing' packages specific to your printer brand if the printer is not automatically configured.
