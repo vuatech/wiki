@@ -2,7 +2,7 @@
 title: OpenMandriva Repositories tl;dr
 description: 
 published: true
-date: 2021-02-19T00:01:45.966Z
+date: 2021-02-20T13:49:35.342Z
 tags: documentation, user-guide
 editor: markdown
 dateCreated: 2020-03-03T17:34:57.632Z
@@ -15,42 +15,42 @@ We have four basic media sources: `/main`, `/unsupported`, `/restricted` and `/n
 
 Application menu > Software Repository Selector (om-repo-picker)
 
-![repositories01.jpg](/images/repositories01.jpg)
+![om4.2-repopicker-01.jpg](/images/om4.2-repopicker-01.jpg)
 
 Or you can select OpenMandriva repo-picker in OM Welcome
 
-![repositories07.jpg](/images/repositories07.jpg)
+![om4.2-repopicker-02h.jpg](/images/om4.2-repopicker-02h.jpg)
 
 ### main
 `/main` is the core packages maintained by the OpenMandriva Lx team.
 This includes anything featured in the install images as well as many more applications considered important. `/main/release` repository should always be enabled.
 
-![repositories02.jpg](/images/repositories02.jpg)
+![om4.2-repositories01.jpg](/images/om4.2-repositories01.jpg)
 
 **Common users should never enable** `/testing` **repos in stable release**.
 
-![repositories02x.jpg](/images/repositories02x.jpg)
+![om4.2-repositories02.jpg](/images/om4.2-repositories02.jpg)
 
 ### unsupported
 `/unsupported` represents community maintained packages. They are not supported by the core OpenMandriva Lx team and depend on package maintainers to update it.
 There may be many useful and up-to-date packages, as well as many that will not install or others that install but do not work properly. Users are welcome to use whatever they find in this repository that is working.
 #### How to enable unsupported repo in om-repo-picker
 
-![repositories03.jpg](/images/repositories03.jpg)
+![om4.2-repositories03.jpg](/images/om4.2-repositories03.jpg)
 
 ### restricted
 `/restricted` contains libraries that are not installed by default due to legal concerns, such as patent issues.
 The usage of these packages vary by country. OpenMandriva Lx is not responsible for their usage. If you believe that their usage is disallowed in your country please disable the restricted repositories.
 #### How to enable restricted repo in om-repo-picker
 
-![repositories04.jpg](/images/repositories04.jpg)
+![om4.2-repositories04.jpg](/images/om4.2-repositories04.jpg)
 
 ### non-free
 `/non-free` contains applications and drivers that are distributed but do not meet the definitions of Free Software.
 While we can adjust the packaging of such applications, we do not have the source code and therefore can not fix problems caused by anything in this repository.
 #### How to enable non-free repo in om-repo-picker
 
-![repositories05.jpg](/images/repositories05.jpg)
+![om4.2-repositories05.jpg](/images/om4.2-repositories05.jpg)
 
 > Please note: in OMLx 4.1, for a few applications, such as Steam, you will need to enable **both `non-free` and `main 32bit`**
 This does not apply to 4.2 or newer releases.
@@ -65,3 +65,6 @@ When you are done with your changes, run the following command in console
 
 ## More in depth
 For a detailed explanation read [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories)
+
+\- 
+
