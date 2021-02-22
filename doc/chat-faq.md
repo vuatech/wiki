@@ -2,9 +2,9 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2021-01-27T18:14:40.144Z
-tags: 
-editor: undefined
+date: 2021-02-22T09:21:47.717Z
+tags: documentation, chat
+editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
 ---
 
@@ -15,7 +15,7 @@ dateCreated: 2020-03-12T11:50:57.466Z
 
 ## Where to join the team?
 
-There are two places where you can meet OpenMandriva team. You can access them using one of the protocols below
+There are several places where you can meet OpenMandriva team. You can access them using one of the protocols below. IRC and Matrix are transparently bridged, for Telegram the conversation is forwarded by a bot called *Iron Bridge*
 
 - Generic discussions
   1.    Matrix room: [#openmandriva:matrix.org](https://matrix.to/#/#openmandriva:matrix.org)
@@ -24,6 +24,7 @@ There are two places where you can meet OpenMandriva team. You can access them u
 - Develoment (Cooker) discussions  
   1.    Matrix room: [#openmandriva-cooker:matrix.org](https://matrix.to/#/#oma:matrix.org)
   1.    IRC channel: #openmandriva-cooker @freenode
+  1.    Telegram group: https://t.me/openmandrivaCooker
         
 ## Meetings
 
