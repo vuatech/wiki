@@ -2,7 +2,7 @@
 title: Bug report tool for OpenMandriva Lx
 description: 
 published: true
-date: 2021-03-08T17:17:16.207Z
+date: 2021-03-08T17:19:01.814Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2021-03-08T17:17:16.207Z
@@ -46,7 +46,7 @@ Then all will be packed into an archive and will create the file omv-bug-report.
 It will help speed up the work of bug squasher and simplify the work of the bug reporter by quickly providing detailed information.
 
 ## Read your file content
-The file is compressed with zst. You can extract the file and read the content with the command `unzst`
+The file is compressed with zst. You can extract the file and read the content with the command `unzstd`
 ```
 $ unzstd omv-bug-report.log.zst
 ```
