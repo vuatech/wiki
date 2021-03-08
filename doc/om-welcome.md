@@ -2,8 +2,8 @@
 title: OpenMandriva Welcome
 description: 
 published: true
-date: 2021-03-08T17:33:05.117Z
-tags: documentation
+date: 2021-03-08T17:33:34.735Z
+tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
 ---
