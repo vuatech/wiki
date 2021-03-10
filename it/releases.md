@@ -2,16 +2,28 @@
 title: Releases
 description: 
 published: true
-date: 2020-12-21T23:52:38.982Z
+date: 2021-03-10T17:18:00.740Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-05-10T17:42:05.707Z
 ---
 
 # OpenMandriva Releases
-### Rilasci
 
-## Release attuale
+## Release attuale stabile
+### OpenMandriva Lx 4.2
+![omlx4.2-240px.png](/images/omlx4.2-240px.png)
+**Codename Argon**
+Data di rilascio: 12 Febbraio 2021
+
+- [Overview](/releases/omlx42)
+- [Novità](/releases/omlx42/new)
+- [Note di rilascio](/releases/omlx42/notes)
+- [Errata](/releases/omlx42/errata)
+<br>
+
+
+## Precedenti rilasci:
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**
@@ -23,8 +35,6 @@ Data di rilascio: 02 Febbraio 2020
 - [Errata](/releases/omlx41/errata)
 <br>
 
-
-## Precedenti rilasci:
 ### OpenMandriva Lx 4.0
 ![omlx4.0-240px.jpg](/images/omlx4.0-240px.jpg)
 Codename Nitrogen
