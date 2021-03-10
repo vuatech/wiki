@@ -2,9 +2,9 @@
 title: Releases
 description: 
 published: true
-date: 2021-02-12T23:57:47.527Z
+date: 2021-03-10T17:24:02.476Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
 ---
 
@@ -23,7 +23,7 @@ Release: 12 February 2021
 - [Errata](/releases/omlx42/errata)
 <br>
 
-## Previous release
+## Previous releases
  
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
@@ -36,7 +36,6 @@ Release: 02 February 2020
 - [Errata](/releases/omlx41/errata)
 <br>
 
-## Older releases
 ### OpenMandriva Lx 4.0
 ![omlx4.0-240px.jpg](/images/omlx4.0-240px.jpg)
 Codename Nitrogen
