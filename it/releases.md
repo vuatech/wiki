@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2021-03-10T17:18:00.740Z
+date: 2021-03-10T17:20:26.635Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-10T17:42:05.707Z
@@ -18,8 +18,8 @@ Data di rilascio: 12 Febbraio 2021
 
 - [Overview](/releases/omlx42)
 - [Novità](/releases/omlx42/new)
-- [Note di rilascio](/releases/omlx42/notes)
-- [Errata](/releases/omlx42/errata)
+- [Note di rilascio](/en/releases/omlx42/notes)
+- [Errata](/en/releases/omlx42/errata)
 <br>
 
 
