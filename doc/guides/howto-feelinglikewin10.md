@@ -2,13 +2,13 @@
 title: How to feeling like Windows 10 (Desktop Presets)
 description: 
 published: true
-date: 2021-03-14T21:03:54.274Z
+date: 2021-03-14T21:31:51.833Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-03-14T21:03:54.274Z
 ---
 
-# How to feeling like macOS Mojave (Desktop Presets)
+# How to feeling like Windows 10 (Desktop Presets)
 > Desktop Presets (om-feeling-like) is a tool to customize the appearance of your OpenMandriva Plasma desktop to look and feel similar to other systems you may be used to.
 {.is-info}
 
