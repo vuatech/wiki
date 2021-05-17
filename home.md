@@ -1,10 +1,10 @@
 ---
-title: OMA wiki
-description: This is the OpenMandriva Wiki, a free documentation project that you can improve
+title: 
+description: 
 published: true
-date: 2021-02-13T00:18:00.601Z
+date: 2021-05-17T09:08:11.256Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
 ---
 
