@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 Alpha Release Notes
 description: 
 published: true
-date: 2020-07-28T07:13:38.643Z
-tags: 
-editor: undefined
+date: 2021-09-10T01:00:32.240Z
+tags: 4.2
+editor: markdown
 dateCreated: 2020-03-07T19:54:49.634Z
 ---
 
@@ -107,7 +107,7 @@ At least 4 GB of flash drive capacity is recommended. Persistent storage is not 
 ### - Via dd
 
 You may alternatively dd the image to your USB stick:
-`$ sudo dd if=<iso_name> of=<usb_drive> bs=4M`
+`$ sudo dd if=<iso_name> of=<usb_drive> bs=4M status=progress conf=fsync`
 
 Replace `<iso_name>` with the path to the ISO and `<usb_drive>` with the device node of the USB drive, i.e. `/dev/sdb`.
 
