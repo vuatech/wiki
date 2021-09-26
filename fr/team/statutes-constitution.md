@@ -2,7 +2,7 @@
 title: Constitution et statuts
 description: 
 published: true
-date: 2021-09-26T21:07:15.407Z
+date: 2021-09-26T21:07:36.577Z
 tags: documentation, association, legal
 editor: markdown
 dateCreated: 2020-03-01T22:58:03.239Z
