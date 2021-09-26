@@ -2,7 +2,7 @@
 title: About
 description: 
 published: true
-date: 2021-09-26T19:00:06.478Z
+date: 2021-09-26T19:00:58.437Z
 tags: documentation, association
 editor: markdown
 dateCreated: 2020-03-12T10:47:36.033Z
@@ -15,7 +15,7 @@ It manages some free software projects including OpenMandriva Lx, a GNU/Linux op
 
 OpenMandriva is also the name of a worldwide community of people who are passionate about [free software](http://en.wikipedia.org/wiki/Free_software) and want to lead in the creation and spreading of free code & content by working together as a community.
 
-## Why OpenMandriva?
+# Why OpenMandriva?
 We are a 100% community-driven association that believes in the values of free software & collaboration.
 
 We fight to protect these values and promote solutions anyone can use, change and distribute. OpenMandriva believes in creating, improving, promoting and distributing free software in general, and its projects in particular. We also crave for promoting free exchange of knowledge and equality of opportunity in software access and development, as well as in education, science and research. Our products are developed with passion by the community and aim to be flexible in use by all.
@@ -36,7 +36,6 @@ We would love to see you as part of this large family. So if you want to know a 
 
 - [Governance](/team/governance)
 - [How to contribute](/team/get-involved)
-- Community Pods
 
 
 ![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
