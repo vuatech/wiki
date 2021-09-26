@@ -2,15 +2,13 @@
 title: About
 description: 
 published: true
-date: 2020-12-21T23:51:52.103Z
-tags: 
-editor: undefined
+date: 2021-09-26T19:00:06.478Z
+tags: documentation, association
+editor: markdown
 dateCreated: 2020-03-12T10:47:36.033Z
 ---
 
-# About
-
-## What is OpenMandriva?
+# What is OpenMandriva?
 OpenMandriva Association was established on December 12, 2012 under 1901 French law.
 
 It manages some free software projects including OpenMandriva Lx, a GNU/Linux operating system, that is a free alternative to the wide world known Microsoft Windows and Apple MacOS.
@@ -24,20 +22,20 @@ We fight to protect these values and promote solutions anyone can use, change an
 
 OpenMandriva represents the paradigm: from community to community, with passion, fun and dedication.
 
-## OpenMandriva Values
+# OpenMandriva Values
 The founding values of OpenMandriva are development, equality, co-operation, openness, freedom, group achievement, independence, and solidarity.
 
 These values reflect what we believe in and are the main identity of our community. They represent open development of software, equality between all the community members - from simple users to programmers to patrons - cooperation and solidarity between all. 
 
 We all as a community will achieve our objectives and help to build products that are good for all.
 
-## Things that Matter
+# Things that Matter
 There is much more to OpenMandriva that matters: its people and their expectations.
 
 We would love to see you as part of this large family. So if you want to know a bit more about us please check the following links:
 
-- [Governance](/doc/governance)
-- [How to contribute](/doc/get-involved)
+- [Governance](/team/governance)
+- [How to contribute](/team/get-involved)
 - Community Pods
 
 
