@@ -1,8 +1,8 @@
 ---
-title: 
+title: OMA Wiki
 description: 
 published: true
-date: 2021-09-26T21:19:50.656Z
+date: 2021-09-26T22:20:30.007Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
