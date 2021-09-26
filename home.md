@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2021-09-25T23:54:40.121Z
+date: 2021-09-26T00:05:24.549Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -22,7 +22,7 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 
 - [About *Who are we and what is OpenMandriva Lx*](/distribution/about/)
 - [Download Now *Get OpenMandriva Lx*](/distribution/download/)
-- [Learn more *about this release, including what's new and the release notes.*](/distribution/omlx42/) 
+- [Learn more *about this release, including what's new and the release notes.*](/distribution/omlx42) 
 {.links-list}
 
 ## Getting Started
