@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2021-09-26T20:37:55.433Z
+date: 2021-09-26T21:19:50.656Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -37,7 +37,7 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 
 - [The Basics *Learn how to use it.*](/distribution/guide/intro)
 - [Usage *Dive deeper in the environment*](/distribution/guide/structure)
-- [Software management *How to add and remove software.*](/distribution/guide/softwares)
+- [Software management *How to add and remove software.*](/distribution/guide/software-management)
 - [How-tos *Convenient list of guides and how-to.*](/distribution/guide/how-tos)
 {.links-list}
 
