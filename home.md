@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2021-09-27T11:46:16.120Z
+date: 2021-09-27T11:48:20.868Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -67,17 +67,5 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 - [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](/team/donate/)
 {.links-list}
 
-# What is OpenMandriva Lx?
-OpenMandriva Lx is a unique and independent distribution, direct descendant of Mandriva Linux
-
-A free Desktop Operating System which aims to stimulate and interest first time and advanced users alike. It has the breadth and depth of an advanced system but is designed to be simple and straightforward in use.
-
-# The Association
-
-The OpenMandriva Association's goal is to develop a pragmatic distribution that provides the best user experience for everyone, from newbies to developers. We will achieve our objectives for the best balance between the most modern features and stability.
-
-Our roots are in Mandrake and its traditions, we are a worldwide community of people who are passionate about free software working together and take our technical and strategic decisions in a collaborative manner. We do not just build a Linux distro, we exchange knowledge and make new friends. Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/documentation/association/About) to know who are us and what we are doing.
-
-The OpenMandriva Association sponsors and facilitates the maintenance and distribution of the OpenMandriva distribution. As a French NGO (1901 French Law), [Association de loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901), it is in charge of representing the OpenMandriva community and channeling and attracting resources and contributors.
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
