@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2021-09-27T11:52:28.565Z
+date: 2021-09-27T13:11:30.522Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -50,9 +50,14 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 
 # Join the team
 
+## The OpenMandriva Association
+- [:book: The Association *Who we are and what we do.*](/team/association)
+{.links-list}
+
 ## Developers
 
 - [:book: Getting Started *How to join the development team.*](/team/dev)
+- [:woman_cook: Cooker *The development environment distribution.*](/team/dev/cooker)
 - [:closed_book: Modules *Learn how to create a package.*](/team/dev/packages/)
 {.links-list}
 
@@ -66,6 +71,8 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 - [:bulb: Suggest a New Feature *We need your ideas!*](/team/contact/requests)
 - [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](/team/donate/)
 {.links-list}
+
+# Policies
 
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
