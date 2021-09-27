@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2021-09-26T22:20:30.007Z
+date: 2021-09-27T11:46:16.120Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -22,7 +22,7 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 
 - [About *Who are we and what is OpenMandriva Lx*](/distribution/about/)
 - [Download Now *Get OpenMandriva Lx*](/distribution/download/)
-- [Learn more *about this release, including what's new and the release notes.*](/distribution/omlx42) 
+- [Learn more *about this release, including what's new and the release notes.*](/distribution/releases/omlx42) 
 {.links-list}
 
 ## Getting Started
@@ -64,7 +64,7 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 - [:question: Question, comments or just chat *We're not far away.*](/team/contact/)
 - [:fire: Report an issue *Help us improve the distribution and websites.*](/team/contact/issues)
 - [:bulb: Suggest a New Feature *We need your ideas!*](/team/contact/requests)
-- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](/team/contact/donate/)
+- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](/team/donate/)
 {.links-list}
 
 # What is OpenMandriva Lx?
