@@ -2,9 +2,9 @@
 title: Cooker
 description: 
 published: true
-date: 2020-12-21T23:51:40.230Z
-tags: 
-editor: undefined
+date: 2021-09-28T16:57:09.272Z
+tags: cooker
+editor: markdown
 dateCreated: 2020-02-26T22:33:18.166Z
 ---
 
@@ -41,11 +41,5 @@ IRC channel #openmandriva-cooker and Cooker mailing list are for technical commu
 
 
 
-# Helping the project
-![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
-
-If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations. New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [Forum](http://forum.openmandriva.org/).
-
-It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/donate) to keep the lights on! 
 
 ![header-tr-cooker.png](/assets/header-tr-cooker.png){.align-abstopright}
