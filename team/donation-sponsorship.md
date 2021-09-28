@@ -2,9 +2,9 @@
 title: Donation and Sponsorship
 description: 
 published: true
-date: 2020-12-21T23:51:57.872Z
+date: 2021-09-28T16:59:46.770Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-03-07T07:59:44.916Z
 ---
 
@@ -15,27 +15,9 @@ We at OpenMandriva enjoy working to bring to you a first-class and well-maintain
 We work passionately as part of and for a thriving open source community.
 As we are not a commercial organization, we do not do paid work and contribute to the project in our free time.
 
-You can support us financially by donating: your contribution could be as little as buying us a glass of beer to as much as being enough to make you qualify as a sponsor.
+# Helping the project
+![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
 
-We have defined the various donations levels at OpenMandriva as below (all figures in Euros):
+If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations. New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [Forum](http://forum.openmandriva.org/).
 
-- Bronze € 1,000 to € 4,999
-- Silver € 5,000 to € 14,999
-- Gold € 15,000 to € 49,999
-- Platinum € 50,000 and over
-
-So if you like OpenMandriva and appreciate our work, go ahead and show your love by donating through the button below.
-If you are interested in becoming a sponsor, please [contact us](mailto:council@openmandriva.org)
-
-The donation can also be displayed on our wiki and on our landing page, if you wish.
-
-<br>
-
-![om-donate.svg](/images/om-donate.svg)
-[Donate](https://www.openmandriva.org/en/documentation/association/Donate)
-
-<br>
-
-If a donator agrees, we are glad to display the name on this page.
-When you make a donation, please specify if you want your name to be open or not.
-At the same time we always respect if you wish to stay anonymous, as many supporters do for their own reasons.
+It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/donate) to keep the lights on! 
