@@ -1,14 +1,14 @@
 ---
-title: Donation and Sponsorship
+title: Donation
 description: 
 published: true
-date: 2021-09-28T16:59:46.770Z
+date: 2021-09-30T06:55:28.176Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-07T07:59:44.916Z
 ---
 
-# Donation and Sponsorship
+# Donation
 
 We at OpenMandriva enjoy working to bring to you a first-class and well-maintained Linux distribution.
 
