@@ -2,7 +2,7 @@
 title: Requirements
 description: What do you need for OpenMandriva Lx installation
 published: true
-date: 2021-09-30T07:22:53.124Z
+date: 2021-09-30T07:22:59.849Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-30T07:22:36.791Z
