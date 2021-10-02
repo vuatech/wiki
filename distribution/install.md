@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Install OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2021-10-02T20:04:09.339Z
+date: 2021-10-02T21:15:07.397Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-02T20:03:48.871Z
