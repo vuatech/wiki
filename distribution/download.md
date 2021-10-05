@@ -2,7 +2,7 @@
 title: Download
 description: Get OpenMandriva Lx
 published: true
-date: 2021-10-05T15:33:16.452Z
+date: 2021-10-05T15:34:49.518Z
 tags: guide, installation
 editor: markdown
 dateCreated: 2021-10-05T15:02:19.327Z
@@ -22,7 +22,9 @@ We have our own high speed seeder. 
 
 Torrent releases can be download [from archive.org](https://archive.org/details/@oma_infra). We started hosting our releases on archive.org from Lx 4.2. Older releases can be found on [SourceForge](https://sourceforge.net/projects/openmandriva/files/release/obsolete/).
 
-We host the latest release with high speed seeder to guarantee a quick downloads. Previous downloads may be slower depending only on archive.org and other available peer seeders.
+> We host the latest release with high speed seeder to guarantee a quick downloads. Previous downloads may be slower depending only on archive.org and other available peer seeders.
+{.is-info}
+
 
 -   [X86\_64](https://archive.org/download/openmandriva-lx-4.2-plasma-x86_64/openmandriva-lx-4.2-plasma-x86_64_archive.torrent) 
 -   [znver1](https://archive.org/download/openmandriva-lx-4.2-plasma.znver1/openmandriva-lx-4.2-plasma.znver1_archive.torrent) 
@@ -38,9 +40,9 @@ We host the latest release with high speed seeder to guarantee a quick downloads
 
 Latest x86\_64 and znver releases are available on our friend mirrors. The redirector will find the mirror closest to you
 
--   [x86\_64](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/OpenMandrivaLx.4.2-final-plasma.x86_64.iso) ([checksum](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/checksum.txt) [stats](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/OpenMandrivaLx.4.2-final-plasma.x86_64.iso?stats)) 
--   [znver1](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso) ([checksum](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/checksum.txt) [stats](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso?stats))
--   [Pinephone](http://abf-downloads.openmandriva.org/release_current/4.2/Pinephone/pinephone.img) ([stats](http://abf-downloads.openmandriva.org/release_current/4.2/Pinephone/pinephone.img?stats))
+-   [x86\_64](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/OpenMandrivaLx.4.2-final-plasma.x86_64.iso) ([checksum](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/checksum.txt) [stats](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.x86_64/OpenMandrivaLx.4.2-final-plasma.x86_64.iso?stats)) 
+-   [znver1](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso) ([checksum](http://abf-downloads.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/checksum.txt) [stats](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso?stats))
+-   [Pinephone](https://mirror.openmandriva.org/release_current/4.2/Pinephone/pinephone.img) ([stats](https://mirror.openmandriva.org/release_current/4.2/Pinephone/pinephone.img?stats))
 
 # Direct Download from SourceForge
 
