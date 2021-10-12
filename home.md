@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2021-10-12T20:21:32.035Z
+date: 2021-10-12T21:18:41.531Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -37,8 +37,8 @@ Release date:  [12 February 2021](https://www.openmandriva.org/en/news/article/o
 
 - [The Basics *Learn how to use it.*](/distribution/guide/intro)
 - [Usage *Dive deeper in the environment*](/distribution/guide/structure)
-- [Software management *How to add and remove software.*](/distribution/guide/software-management)
-- [How-tos *Convenient list of guides and how-to.*](/distribution/guide/how-tos)
+- [Software management *How to add and remove software.*](/distribution/guides/software-management)
+- [How-tos *Convenient list of guides and how-to.*](/distribution/guides/how-tos)
 {.links-list}
 
 ## Administration
