@@ -2,7 +2,7 @@
 title: How-tos
 description: 
 published: true
-date: 2021-10-12T20:08:36.372Z
+date: 2021-10-12T20:10:40.349Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:32:39.647Z
@@ -17,6 +17,7 @@ dateCreated: 2021-09-27T13:32:39.647Z
 ## Settings
 * [How to set user avatar](/en/distribution/guides/how-tos/user-avatar)
 * [How to solve the most common cause of incorrect time in dual boot with windows systems](/en/distribution/guides/how-tos/incorrect-time)
+* [How to upgrade from Rock to Rolling](/en/distribution/guides/how-tos/howto-update-channel)
 
 ## Hardware
 * [How to configure printer in OMLx](/en/distribution/guides/how-tos/printer)
