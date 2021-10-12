@@ -2,7 +2,7 @@
 title: How-tos
 description: 
 published: true
-date: 2021-10-12T20:10:40.349Z
+date: 2021-10-12T20:11:54.260Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:32:39.647Z
@@ -13,6 +13,7 @@ dateCreated: 2021-09-27T13:32:39.647Z
 ## Software
 * [How to have a list of latest updates](/en/distribution/guides/how-tos/latest-updates)
 * [How to install Steam](/en/distribution/guides/how-tos/install-steam)
+* [How to update system](/en/distribution/guides/how-tos/howto-update-system)
 
 ## Settings
 * [How to set user avatar](/en/distribution/guides/how-tos/user-avatar)
