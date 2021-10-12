@@ -2,7 +2,7 @@
 title: Install OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2021-10-02T21:15:07.397Z
+date: 2021-10-12T21:04:03.378Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-02T20:03:48.871Z
@@ -99,3 +99,7 @@ Once done, click Done and restart your computer (you also can check “Restart n
 ![image](https://forum.openmandriva.org/uploads/default/optimized/2X/8/8d89ea930a3998a90533d7cedb6b354d8840725d_2_690x455.png)
 
 Once your computer restart you can enjoy using OpenMandriva Lx.
+
+# Notes
+
+[Original source (forum)](https://forum.openmandriva.org/t/how-to-install-openmandriva-lx-4-3/4223?u=raphael)
