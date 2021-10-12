@@ -2,7 +2,7 @@
 title: Software management
 description: Install and remove software
 published: true
-date: 2021-09-27T13:31:21.417Z
+date: 2021-10-12T21:04:56.751Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:31:21.417Z
@@ -14,20 +14,20 @@ TODO: Description of different software
 
 ## Beginner
 
-### Graphical interface: OM Welcome
-### Using graphical interface: Discover
-### Graphical interface: DNFDragora
+* Graphical interface: OM Welcome
+* Using graphical interface: Discover
+* Graphical interface: DNFDragora
 
 ## Advanced
-### Command line: DNF
-### Graphical interface: DNFdrake (beta)
-### Command line: zypper
+* [Command line: DNF](/en/distribution/guides/software-management/DNF)
+* Graphical interface: DNFdrake (beta)
+* Command line: zypper
 
 # Software not provided by OpenMandriva
 
 ## Beginner
 
-### AppImage
+* AppImage
 
 ## Advanced
 
