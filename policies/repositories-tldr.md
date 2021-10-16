@@ -1,9 +1,9 @@
 ---
-title: OpenMandriva Repositories tl;dr
+title: Software Repository Selector
 description: 
 published: true
-date: 2021-10-16T22:25:49.498Z
-tags: documentation, user-guide, tools
+date: 2021-10-16T22:26:53.023Z
+tags: documentation, howto, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-03T17:34:57.632Z
 ---
