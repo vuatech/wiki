@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 Beta Errata
 description: 
 published: true
-date: 2020-09-09T17:26:57.310Z
-tags: 
-editor: undefined
+date: 2021-11-18T03:09:05.686Z
+tags: 4.2
+editor: markdown
 dateCreated: 2020-03-07T17:15:26.926Z
 ---
 
@@ -47,7 +47,7 @@ Installer automatically GEOIP setting may not set the timezone correctly.
 
 ## How to configure printer
 Turn your printer on and see if it is automatically configured. Pay attention to whether the right driver was installed. If printer was auto configured and you have correct driver then great, you are all set.
-If it was not, turn off your printer. Open *Printer Settings* aka `system-config-printer` and remove your printer.
+If it was not, turn off your printer. Open *Printer Settings* aka SystemSettings>Printers and remove your printer. You can also acess the *Printer Settings* from Konsole (terminal) with `kcmshell5 kcm_printer_manager`.
 If the correct driver was not installed by default we will need to add a software package.
 
 The next step is to determine what software to add for your printer.
