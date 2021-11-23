@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Errata
 description: OMLx 4.2 Errata
 published: true
-date: 2021-11-18T03:18:52.710Z
+date: 2021-11-23T18:42:21.230Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-26T23:58:47.215Z
@@ -15,7 +15,7 @@ dateCreated: 2020-02-26T23:58:47.215Z
 
 <br>
 
-**Please read also [OMLx 4.2 Release Notes](/en/releases/omlx42/notes)**.
+**Please read also [OMLx 4.2 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx42/notes)**.
 
 
 ## NVIDIA Graphics Cards
