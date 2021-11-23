@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Errata
 description: OMLx 4.2 Errata
 published: true
-date: 2021-11-23T18:42:21.230Z
+date: 2021-11-23T18:51:16.029Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-26T23:58:47.215Z
@@ -79,6 +79,11 @@ If not seek help [here](https://forum.openmandriva.org/c/en/support)
 
 ## Discover
 If you want to explore also additional repositories packages you will need to enable them by mean of [Software Repository Selector](/en/doc/repositories-tldr) and to refresh cache.
+
+
+## Firefox localization
+
+For languages other than English in Firefox Web Browser you need to set the language you wish to use in Firefox settings under Language and Appearance.
 
 ## Multiboot
 In the 'real world' multiboot works well most of the time but when there are problems sometimes the solution is a workaround rather than a fix. These are just realities of multiboot.
