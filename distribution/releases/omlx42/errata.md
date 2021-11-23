@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2 Errata
 description: OMLx 4.2 Errata
 published: true
-date: 2021-11-23T18:51:16.029Z
+date: 2021-11-23T19:28:24.709Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-26T23:58:47.215Z
@@ -15,7 +15,7 @@ dateCreated: 2020-02-26T23:58:47.215Z
 
 <br>
 
-**Please read also [OMLx 4.2 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx42/notes)**.
+**Please read also [OMLx 4.2 Release Notes](/distribution/releases/omlx42/notes)**.
 
 
 ## NVIDIA Graphics Cards
@@ -78,7 +78,7 @@ Now turn printer on again and it should then automatically configure itself (som
 If not seek help [here](https://forum.openmandriva.org/c/en/support)
 
 ## Discover
-If you want to explore also additional repositories packages you will need to enable them by mean of [Software Repository Selector](/en/doc/repositories-tldr) and to refresh cache.
+If you want to explore also additional repositories packages you will need to enable them by mean of [Software Repository Selector](/policies/repositories-tldr) and to refresh cache.
 
 
 ## Firefox localization
