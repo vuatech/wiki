@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2021-11-23T19:15:13.771Z
+date: 2021-11-23T19:24:05.538Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-27T16:02:09.863Z
@@ -67,7 +67,7 @@ On UEFI computers in multi-boot situation with multiple storage drives if you al
 ## NVME SSDs
 
 Some NVME SSDs may not be recognized by OMLx 4.2 *Live* ISO.
-The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.2/Errata#NVME SSDs](https://wiki.openmandriva.org/en/distribution/releases/omlx42/errata#nvme-ssds).
+The *Live* ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are `(PCIE ASPM=OFF)` and `(NVME APST=OFF)`. We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in [4.2/Errata#NVME SSDs](/distribution/releases/omlx42/errata#nvme-ssds).
 Hardware recognition for nvme SSDs should be considerably improved. It is known that some Samsung nvme SSDs that were not previously recognized are now with this kernel version. This issue is of course very hardware specific.
 
 ## Installer and EFI Support
@@ -132,7 +132,7 @@ submenu "OpenMandriva (64 bit)" {
 
 We have now the [om-repo-picker](/images/omlx4.1-repo-picker.jpg) aka Software Repository Selector to select additional repositories for more package availability.
 Do not mix the repositories from different release versions/update channels. This means, as an example, **do not use Cooker repositories on a Rock system**. If you use Rock, use Rock repositories only.
-This is explained in more detail in [OpenMandriva Release Plan and Repositories](/doc/release-plan-and-repositories). 
+This is explained in more detail in [OpenMandriva Release Plan and Repositories](/policies/release-plan-and-repositories). 
 **If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install**. After that fresh install do not do this again.
 
 ## How to install new packages
@@ -153,7 +153,7 @@ Major changes:
 - The kernel has been updated to 5.10.14 (5.11-rc7 also available)
 - Qt has been updated to 5.15.2
 - KDE products have been updated: Frameworks 5.78.0, Plasma Desktop 5.20.5, Applications 20.12.2
-- *Read more in* [What's New](/releases/omlx42/new)
+- *Read more in* [What's New](/distribution/releases/omlx42/new)
 
 ### Clang compiled kernel
 OpenMandriva provides a clang compiled kernel. Users can install same version of `kernel-release-desktop` and `kernel-release-desktop-clang` for comparison.
