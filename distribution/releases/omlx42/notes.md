@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2  Release Notes
 description: 
 published: true
-date: 2021-11-23T19:24:05.538Z
+date: 2021-12-08T01:52:11.139Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-27T16:02:09.863Z
@@ -159,7 +159,7 @@ Major changes:
 OpenMandriva provides a clang compiled kernel. Users can install same version of `kernel-release-desktop` and `kernel-release-desktop-clang` for comparison.
 
 # Errata
-See [4.2/Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx42/errata).
+See [4.2/Errata](/distribution/releases/omlx42/errata).
 
 # Helping the project
 ![om-donate.svg](/images/om-donate.svg){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
