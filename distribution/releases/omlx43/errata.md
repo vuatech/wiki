@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-01-02T21:37:26.970Z
+date: 2022-01-02T21:52:42.312Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -111,6 +111,10 @@ Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva
 system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
 we will report in Errata for our OMLx Releases.
+
+**Updating Firefox**
+
+OpenMandriva's stable release aka Rock does not normally get updates to system and tool-chain packages. Because of this and because of how Mozilla develops Firefox sometimes Firefox packages will no longer build for our stable release. For users concerned about not having the latest version of Firefox a workaround is to install from [mozilla.org](https://www.mozilla.org/) the latest version of Firefox RR (Rapid Release) or [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) the latest version of Firefox ESR (Extended Support Release) version which gets all security updates but not feature updates.
 
 **Zypper**
 
