@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-01-02T21:34:40.135Z
+date: 2022-01-02T22:32:48.878Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -214,9 +214,9 @@ Major changes:
 21.12.0
 - Qt 5.15.3 with all patches proposed by KDE
 - Mesa 21.3.3
-- FFMPEG to 4.4
+- FFMPEG to 4.4.1
 Upgraded also some cool stuff not on the ISO but available in our repositories:
--AMDVLK 2021.Q2.1 official AMD Vulkan driver. It is an alternative driver and can be
+-AMDVLK 2021.Q4.3 official AMD Vulkan driver. It is an alternative driver and can be
 installed at same time with RADV. It can be used to improve performance or stability in
 some games on Linux
 -OBS-Studio 27.1.3 software for video recording and live streaming; it finally supports
