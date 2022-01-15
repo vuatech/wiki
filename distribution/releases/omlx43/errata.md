@@ -2,13 +2,13 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-01-02T21:52:42.312Z
+date: 2022-01-15T04:20:26.822Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
 ---
 
-# OpenMandriva Lx 4.3rc Errata - Known Issues
+# OpenMandriva Lx 4.3 Errata - Known Issues
 
 > As with any release, there are still issues and bugs that may not have been resolved. This page documents those that may cause inconvenience and where possible details how they may be worked around.
 {.is-info}
