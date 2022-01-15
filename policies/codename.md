@@ -2,9 +2,9 @@
 title: Codename
 description: 
 published: true
-date: 2020-12-21T23:52:42.499Z
-tags: 
-editor: undefined
+date: 2022-01-15T04:13:02.419Z
+tags: releases
+editor: markdown
 dateCreated: 2020-02-27T19:10:26.091Z
 ---
 
@@ -16,7 +16,7 @@ dateCreated: 2020-02-27T19:10:26.091Z
 - **N**itrogen = OMLx 4.0
 - **M**ercury = OMLx 4.1
 - **A**rgon = OMLx 4.2
-- **N**ickel
+- **N**ickel = OMLx 4.3
 - **D**ysprosium
 - **R**adium
 - **I**odine
