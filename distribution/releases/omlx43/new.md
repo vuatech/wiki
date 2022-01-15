@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 New
 description: 
 published: true
-date: 2022-01-15T04:10:41.923Z
+date: 2022-01-15T04:17:52.228Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:14:24.001Z
@@ -19,9 +19,9 @@ OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codenam
 
 ### KDE
 
-- Frameworks 5.90.0 [*(more information)*](https://www.kde.org/announcements/kde-frameworks-5.90.0.php)
-- Plasma 5.23.5 [*(more information)*](https://www.kde.org/announcements/plasma-5.23.5.php)
-- Applications 21.12.1 [*(more information)*](https://kde.org/announcements/fulllog_releases-21.12.1/)
+- Frameworks 5.90.0 [*(more information)*](https://kde.org/announcements/frameworks/5/5.90.0/)
+- Plasma 5.23.5 [*(more information)*](https://kde.org/announcements/plasma/5/5.23.5/)
+- KDE Gear 21.12.1 [*(more information)*](https://kde.org/announcements/gear/21.12.1/)
 - Qt 5.15.3 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
