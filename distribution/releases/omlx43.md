@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-01-15T20:41:40.060Z
+date: 2022-01-15T20:43:51.190Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -19,7 +19,7 @@ Need new screen-shots here.
 [![omlx.4.2-login.jpg](/images/omlx.4.2-login.jpg =400x)](/images/omlx.4.2-login.jpg) [![omlx.4.2-latte-dock.jpg](/images/omlx.4.2-latte-dock.jpg =400x)](/images/omlx.4.2-latte-dock.jpg)   
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
-You can download it following [this link](https://sourceforge.net/projects/openmandriva/files/release/4.2/).
+You can download it following [this link](https://sourceforge.net/projects/openmandriva/files/release/4.3/).
 
 ## What's New?
 See [4.3/New](/distribution/releases/omlx43/new)
