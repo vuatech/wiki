@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-01-02T22:32:48.878Z
+date: 2022-01-15T03:45:49.301Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -209,11 +209,11 @@ We recommend this because we see a lot of problem reports that beging with "I up
 In order to keep current with latest changes in Linux, computer security issues, and
 computer code writing there are major changes in OMLx 4.3rc.
 Major changes:
-- The kernel has been updated to 5.15.12
-- KDE products have been updated: Frameworks 5.89.0, Plasma Desktop 5.23.4, KDE Gear
-21.12.0
+- The kernel has been updated to 5.16.0
+- KDE products have been updated: Frameworks 5.90.0, Plasma Desktop 5.23.5, KDE Gear
+21.12.1
 - Qt 5.15.3 with all patches proposed by KDE
-- Mesa 21.3.3
+- Mesa 21.3.4
 - FFMPEG to 4.4.1
 Upgraded also some cool stuff not on the ISO but available in our repositories:
 -AMDVLK 2021.Q4.3 official AMD Vulkan driver. It is an alternative driver and can be
@@ -224,8 +224,8 @@ wayland session. It also supports recording h264 with VAAPI (hardware accelerate
 encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 -Blender 3.0.0
 -GIMP 2.10.30
--Audacity 3,0,2
--Firefox 95.0
+-Audacity 3.1.3
+-Firefox 96.0
 -Steam 1.0.0.72
 -LXQt 1.0.0
 
