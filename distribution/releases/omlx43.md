@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-01-15T20:40:24.130Z
+date: 2022-01-15T20:41:40.060Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -11,7 +11,7 @@ dateCreated: 2021-04-24T05:11:53.504Z
 ![header-tr-omlx43.svg](/assets/header-tr-omlx43.svg){.align-abstopright}
 
 # Overview
-OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codename](/en/releases/codename) Nickel.
+OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codename](/en/policies/codename) Nickel.
 
 Need new screen-shots here.
 [![omlx.4.2beta-01202012.jpg](/images/omlx.4.2beta-01202012.jpg =400x)](/images/omlx.4.2beta-01202012.jpg) [![omlx.4.2-om-welc.jpg](/images/omlx.4.2-om-welc.jpg =400x)](/images/omlx.4.2-om-welc.jpg)
