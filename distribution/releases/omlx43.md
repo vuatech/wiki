@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-01-24T23:10:55.259Z
+date: 2022-01-24T23:17:59.999Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -12,17 +12,17 @@ dateCreated: 2021-04-24T05:11:53.504Z
 OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codename](/en/policies/codename) Dysprosium.
 <br>
 
-![omlx-4.3-grub2-menu.jpg](/images/omlx-4.3-grub2-menu.jpg =800x)
+![omlx-43-grub2-menu.jpg](/images/omlx-43-grub2-menu.jpg =800x)
 
-![omlx-4.3-splash.jpg](/images/omlx-4.3-splash.jpg =800x)
+![omlx-43-splash.jpg](/images/omlx-43-splash.jpg =800x)
 
-![omlx-4.3-login.jpg](/images/omlx-4.3-login.jpg =800x)
+![omlx-43-login.jpg](/images/omlx-43-login.jpg =800x)
 
-![omlx-4.3-welcome.jpg](/images/omlx-4.3-welcome.jpg =800x)
+![omlx-43-welcome.jpg](/images/omlx-43-welcome.jpg =800x)
 
-![omlx-4.3-desktop.jpg](/images/omlx-4.3-desktop.jpg =800x)
+![omlx-43-desktop.jpg](/images/omlx-43-desktop.jpg =800x)
 
-![omlx-4.3-app-menu.jpg](/images/omlx-4.3-app-menu.jpg =800x)
+![omlx-43-app-menu.jpg](/images/omlx-43-app-menu.jpg =800x)
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
 You can download it following [this link](https://sourceforge.net/projects/openmandriva/files/release/4.3/).
