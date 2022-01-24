@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-01-24T15:56:33.853Z
+date: 2022-01-24T16:07:43.482Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -31,4 +31,4 @@ See [4.3/Release Notes](/distribution/releases/omlx43/notes)
 ## Errata
 See [4.3/Errata](/distribution/releases/omlx43/errata)
 
-![header-tr-omlx42.svg](/assets/header-tr-omlx42.svg){.align-abstopright}
+![header-tr-omlx43.svg](/assets/header-tr-omlx43.svg){.align-abstopright}
