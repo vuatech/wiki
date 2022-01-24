@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2021-03-10T17:24:02.476Z
+date: 2022-01-24T11:33:08.477Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -11,6 +11,16 @@ dateCreated: 2020-02-27T22:08:23.833Z
 # OpenMandriva Releases
 
 ## Current stable release
+
+### OpenMandriva Lx 4.3
+![omlx4.3-240px.png](/images/omlx4.3-240px.png)
+**Codename Dysprosium**
+Release: dd mm 2022
+,
+,
+,
+,
+<br>
 
 ### OpenMandriva Lx 4.2
 ![omlx4.2-240px.png](/images/omlx4.2-240px.png)
