@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 New
 description: 
 published: true
-date: 2022-01-15T04:17:52.228Z
+date: 2022-01-24T13:56:20.802Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:14:24.001Z
@@ -26,13 +26,13 @@ OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codenam
 
 ### Display subsystem
 
-- Xorg 7.7
+- Xorg 21.1.3
 - Wayland 1.20.0 [*(more information)*](https://wayland.freedesktop.org/releases.html)
 - Mesa 21.3.4 [*(more information)*](http://www.mesa3d.org/)
 
 ### Core
 
-- Kernel 5.16.0 [*(more information)*](https://www.kernel.org/)
+- Kernel 5.16.2 [*(more information)*](https://www.kernel.org/)
 - systemd 249 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 13.0.0 [*(more information)*](http://llvm.org/)
 - binutils 2.37
@@ -51,15 +51,15 @@ OpenMandriva provides a clang compiled kernel. Users can install same version of
 
 - LibreOffice 7.3.0
 - Falkon 3.1
-- Firefox 85
-- Chromium browser stable 96 (and beta 98, dev 99)
+- Firefox 96
+- Chromium browser stable 97 (and beta 98, dev 99)
 - Krita 5.0.2
 - Gimp 2.10.30
 - Calligra Suite 3.2.1
-- Digikam 7.4
+- Digikam 7.5
 - SMPlayer 21.10.0
 - VLC 3.0.16
-- Virtualbox 6.1.30
+- Virtualbox 6.1.32
 - OBS Studio 27.1.3
 
 The port to aarch64 (64-bit ARM processors) is completed, making it possible to build [energy efficient PC replacements for less than $150](https://videos.openmandriva.org/videos/watch/4e135a39-4232-4d85-999c-e349ba8a7bd9).
