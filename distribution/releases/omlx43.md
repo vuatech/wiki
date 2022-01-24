@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-01-24T19:39:43.831Z
+date: 2022-01-24T19:48:44.722Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -15,10 +15,6 @@ OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codenam
 ![omlx.4.3-00.jpg](/images/omlx.4.3-00.jpg =400x) ![omlx.4.3-02.jpg](/images/omlx.4.3-02.jpg =400x)
 
 ![omlx.4.3-03.jpg](/images/omlx.4.3-03.jpg =400x) ![omlx.4.3-07.jpg](/images/omlx.4.3-07.jpg =400x)
-
-![omlx.4.3-14.jpg](/images/omlx.4.3-14.jpg =400x) ![omlx.4.3-15.jpg](/images/omlx.4.3-15.jpg =400x)
-
-![omlx.4.3-17.jpg](/images/omlx.4.3-17.jpg =400x) ![omlx.4.3-16.jpg](/images/omlx.4.3-16.jpg =400x)
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
 You can download it following [this link](https://sourceforge.net/projects/openmandriva/files/release/4.3/).
