@@ -2,9 +2,9 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2020-12-21T23:52:32.628Z
-tags: 
-editor: undefined
+date: 2022-01-24T19:17:08.644Z
+tags: documentation, wiki
+editor: markdown
 dateCreated: 2020-03-07T09:08:09.534Z
 ---
 
@@ -190,7 +190,7 @@ Taken from* [Fedora Project Style Guide](http://Fedoraproject.org/wiki/Docs_Proj
 ----
 ## OpenMandriva wiki specific style guide
 
-Read also [OpenMandriva wiki specific style guide](/en/doc/omawiki-style-guide)
+Read also [OpenMandriva wiki specific style guide](/en/team/workshop/omawiki-style-guide)
 
 
 
