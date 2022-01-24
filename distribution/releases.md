@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2022-01-24T11:33:08.477Z
+date: 2022-01-24T11:34:36.373Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -39,11 +39,6 @@ Release: 12 February 2021
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**
 Release: 02 February 2020
-
-- [Overview](/releases/omlx41)
-- [What's New](/releases/omlx41/new)
-- [Release Notes](/releases/omlx41/notes)
-- [Errata](/releases/omlx41/errata)
 <br>
 
 ### OpenMandriva Lx 4.0
