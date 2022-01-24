@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 New
 description: 
 published: true
-date: 2022-01-24T13:56:20.802Z
+date: 2022-01-24T15:42:11.537Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:14:24.001Z
@@ -13,7 +13,7 @@ dateCreated: 2021-04-24T05:14:24.001Z
 It is recommended that you read the latest [release notes](/distribution/releases/omlx43/notes) on our wiki.
 
 ## What's New in OpenMandriva Lx 4.3?
-OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codename](/policies/codename) Nickel.
+OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codename](/policies/codename) Dysprosium.
 
 ## Main features
 
