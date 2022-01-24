@@ -2,14 +2,14 @@
 title: OpenMandriva wiki specific style guide
 description: 
 published: true
-date: 2020-12-21T23:52:16.864Z
-tags: 
-editor: undefined
+date: 2022-01-24T19:15:22.577Z
+tags: documentation, policies, wiki, howto
+editor: markdown
 dateCreated: 2020-03-13T11:27:11.684Z
 ---
 
 # OpenMandriva wiki specific style guide
-> Read first [general wiki style guide](/en/doc/wiki-style-guide)
+> Read first [general wiki style guide](/en/team/workshop/wiki-style-guide)
 {.is-danger}
 
 ## OpenMandriva wiki specific rules
