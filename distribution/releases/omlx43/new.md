@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 New
 description: 
 published: true
-date: 2022-01-24T15:42:11.537Z
+date: 2022-02-05T06:00:48.812Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:14:24.001Z
@@ -21,18 +21,18 @@ OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codenam
 
 - Frameworks 5.90.0 [*(more information)*](https://kde.org/announcements/frameworks/5/5.90.0/)
 - Plasma 5.23.5 [*(more information)*](https://kde.org/announcements/plasma/5/5.23.5/)
-- KDE Gear 21.12.1 [*(more information)*](https://kde.org/announcements/gear/21.12.1/)
+- KDE Gear 21.12.2 [*(more information)*](https://kde.org/announcements/gear/21.12.1/)
 - Qt 5.15.3 [*(more information)*](https://www.qt.io)
 
 ### Display subsystem
 
 - Xorg 21.1.3
 - Wayland 1.20.0 [*(more information)*](https://wayland.freedesktop.org/releases.html)
-- Mesa 21.3.4 [*(more information)*](http://www.mesa3d.org/)
+- Mesa 21.3.5 [*(more information)*](http://www.mesa3d.org/)
 
 ### Core
 
-- Kernel 5.16.2 [*(more information)*](https://www.kernel.org/)
+- Kernel 5.16.5 [*(more information)*](https://www.kernel.org/)
 - systemd 249 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 13.0.0 [*(more information)*](http://llvm.org/)
 - binutils 2.37
@@ -50,7 +50,7 @@ OpenMandriva provides a clang compiled kernel. Users can install same version of
 ### Applications
 
 - LibreOffice 7.3.0
-- Falkon 3.1
+- Falkon 3.2
 - Firefox 96
 - Chromium browser stable 97 (and beta 98, dev 99)
 - Krita 5.0.2
