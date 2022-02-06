@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-05T06:01:50.020Z
+date: 2022-02-06T01:28:25.386Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -209,7 +209,7 @@ We recommend this because we see a lot of problem reports that beging with "I up
 In order to keep current with latest changes in Linux, computer security issues, and
 computer code writing there are major changes in OMLx 4.3rc.
 Major changes:
-- The kernel has been updated to 5.16.5
+- The kernel has been updated to 5.16.7
 - KDE products have been updated: Frameworks 5.90.0, Plasma Desktop 5.23.5, KDE Gear
 21.12.2
 - Qt 5.15.3 with all patches proposed by KDE
