@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 New
 description: 
 published: true
-date: 2022-02-05T06:01:41.747Z
+date: 2022-02-06T01:29:21.626Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:14:24.001Z
@@ -32,7 +32,7 @@ OpenMandriva Lx 4.3 is a new release from the OpenMandriva Association. [Codenam
 
 ### Core
 
-- Kernel 5.16.5 [*(more information)*](https://www.kernel.org/)
+- Kernel 5.16.7 [*(more information)*](https://www.kernel.org/)
 - systemd 249 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
 - LLVM/clang 13.0.0 [*(more information)*](http://llvm.org/)
 - binutils 2.37
