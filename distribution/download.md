@@ -2,13 +2,15 @@
 title: Download
 description: Get OpenMandriva Lx
 published: true
-date: 2022-02-07T22:21:17.057Z
+date: 2022-02-07T22:23:02.783Z
 tags: guide, installation
 editor: markdown
 dateCreated: 2021-10-05T15:02:19.327Z
 ---
 
 # Download OpenMandriva Lx 4.2
+
+[Download other release](/en/distribution/download)
 
 ## Which version should I download
 
@@ -39,7 +41,7 @@ Torrent releases can be download [from archive.org](https://archive.org/details/
 -   [Rock Pi 4C](https://archive.org/download/openmandriva-lx-4.2-plasma-rock-pi-4c/openmandriva-lx-4.2-plasma-rock-pi-4c_archive.torrent)
 -   [Pinebook Pro](https://archive.org/download/openmandriva-lx-4.2-plasma-pinebook-pro/openmandriva-lx-4.2-plasma-pinebook-pro_archive.torrent)
 
-# Direct Download from our mirrors
+## Direct Download from our mirrors
 
 Latest x86\_64 and znver releases are available on our friend mirrors. The redirector will find the mirror closest to you
 
@@ -49,7 +51,7 @@ Latest x86\_64 and znver releases are available on our friend mirrors. The redir
 -   [znver1](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso) ([checksum](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/checksum.txt) [stats](https://mirror.openmandriva.org/release_current/4.2/OpenMandrivaLx.4.2-plasma.znver1/OpenMandrivaLx.4.2-final-plasma.znver1.iso?stats))
 -   [Pinephone](https://mirror.openmandriva.org/release_current/4.2/Pinephone/pinephone.img) ([stats](https://mirror.openmandriva.org/release_current/4.2/Pinephone/pinephone.img?stats))
 
-# Direct Download from SourceForge
+## Direct Download from SourceForge
 
 ![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
 
