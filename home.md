@@ -2,14 +2,11 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-02-07T23:28:28.483Z
+date: 2022-02-07T23:29:08.987Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
 ---
-
-> The wiki is being reorganized. There may be broken pages. Meanwhile we suggest to find pages through the search engine.
-{.is-warning}
 
 # OpenMandriva Lx
 
