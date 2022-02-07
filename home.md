@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-02-07T11:00:01.727Z
+date: 2022-02-07T23:28:28.483Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -21,7 +21,7 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 ![omlx.4.2-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
 
 - [About *Who are we and what is OpenMandriva Lx*](/distribution)
-- [Download Now *Get OpenMandriva Lx*](/distribution/download/)
+- [Download Now *Get OpenMandriva Lx*](/en/distribution/releases/omlx43/download)
 - [Learn more *about this release, including what's new and the release notes.*](/distribution/releases/omlx43) 
 {.links-list}
 
