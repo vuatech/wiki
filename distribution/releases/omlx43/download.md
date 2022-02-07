@@ -2,7 +2,7 @@
 title: Download OpenMandriva Lx 4.3
 description: Get OpenMandriva Lx
 published: true
-date: 2022-02-07T23:16:57.591Z
+date: 2022-02-07T23:38:30.864Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -23,6 +23,14 @@ Choosing another architecture certainly means that you already know what you’r
   - iso name: OpenMandrivaLx.4.3-plasma.znver1.iso
   - sha1sum: 070e41cb145989a1901bd7841b1b05f2525e2aa5
 
+# Download from SourceForge (mirror download)
+
+![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
+
+- [**GO TO OPENMANDRIVA LX 4.3 SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/4.3/Final/)
+
+Select the release in the list, it should automatically open a download page from a mirror nearby your location.
+
 # Download from archive.org (torrent and direct download) 
 
 
@@ -34,14 +42,6 @@ Click on the desired version to open the details, and download torrent or iso fi
 
 > We also seed the latest releases from own seedbox to guarantee a quick downloads. Previous release downloads may be slower depending on archive.org and other remaining peer seeders.
 {.is-info}
-
-# Download from SourceForge (mirror download)
-
-![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
-
-- [**GO TO OPENMANDRIVA LX 4.3 SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/4.3/Final/)
-
-Select the release in the list, it should automatically open a download page from a mirror nearby your location.
 
 
 
