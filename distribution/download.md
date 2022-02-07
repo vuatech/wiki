@@ -2,19 +2,21 @@
 title: Download
 description: Get OpenMandriva Lx
 published: true
-date: 2021-10-05T15:46:18.472Z
+date: 2022-02-07T22:21:17.057Z
 tags: guide, installation
 editor: markdown
 dateCreated: 2021-10-05T15:02:19.327Z
 ---
 
-# Which version should I download
+# Download OpenMandriva Lx 4.2
+
+## Which version should I download
 
 Currently the most common hardware is 64 bits architectures PC — Intel / AMD — also know as x86\_64. 
 
 Other architectures certainly mean that you already know what you’re doing.
 
-# Torrent (Peer to Peer)
+## Torrent (Peer to Peer)
 
 BitTorrent is a convenient way to download OpenMandriva.
 
