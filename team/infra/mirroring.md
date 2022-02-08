@@ -2,9 +2,9 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-21T23:52:09.347Z
-tags: 
-editor: undefined
+date: 2022-02-08T01:05:43.931Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
 ---
 
@@ -12,10 +12,12 @@ dateCreated: 2020-03-14T19:10:14.516Z
 ## List of mirrors
 
 ### Mirmon (Mirrors manager)
+![Website](https://img.shields.io/website?label=MirMon%20status&url=https%3A%2F%2Fmirmon.openmandriva.org)
 From here you can see if a mirror is regularly up to date
 - https://mirmon.openmandriva.org/
 
-### Mirrorbits
+### Mirrorbits (nearby mirror redirector)
+![Website](https://img.shields.io/website?label=Mirrorbits%20status&url=https%3A%2F%2Fmirror.openmandriva.org%2FREADME.txt%3Fstats)
 You can see where the mirrors are distributed around the world.
 - http://mirror.openmandriva.org?mirrorstats
 
