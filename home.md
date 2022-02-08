@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-02-07T23:29:08.987Z
+date: 2022-02-08T01:00:31.086Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -58,8 +58,9 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 - [:closed_book: Modules *Learn how to create a package.*](/team/dev/packages/)
 {.links-list}
 
-## Translators
-- [:globe_with_meridians: Localization *Improve language and regional settings*](/team/l10n/)
+## Workflow
+- [:globe_with_meridians: mirroring *How are set mirror for fast packages downloading*](/en/team/infra/mirroring)
+- [:symbols: Localization *Improve language and regional settings*](/team/l10n/)
 {.links-list}
 
 ## Contact us
