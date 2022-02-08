@@ -2,7 +2,7 @@
 title: Software management
 description: Install and remove software
 published: true
-date: 2021-10-12T21:04:56.751Z
+date: 2022-02-08T21:40:02.173Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:31:21.417Z
@@ -19,8 +19,8 @@ TODO: Description of different software
 * Graphical interface: DNFDragora
 
 ## Advanced
-* [Command line: DNF](/en/distribution/guides/software-management/DNF)
-* Graphical interface: DNFdrake (beta)
+* Command line: [DNF](/en/distribution/guides/software-management/DNF)
+* Graphical interface: [DnfDrake](/en/distribution/guides/software-management/DnfDrake)
 * Command line: zypper
 
 # Software not provided by OpenMandriva
