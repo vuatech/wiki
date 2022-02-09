@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-09T21:41:52.394Z
+date: 2022-02-09T21:44:33.518Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -250,6 +250,6 @@ to keep the lights on!
 
 **Upgrading OMLx 4.2 system to OMLx 4.3**
 
-See https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338
+See [*(more information)*](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
 
 **Please read also [OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)**.
