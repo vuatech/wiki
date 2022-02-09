@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2022-02-09T21:39:20.348Z
+date: 2022-02-09T21:43:44.134Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:11:53.504Z
@@ -43,4 +43,4 @@ From [4.3/download](/en/distribution/releases/omlx43/download)
 
 ## Upgrading from OM Lx 4.2
 
-See https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338
+See [*(more information)*](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
