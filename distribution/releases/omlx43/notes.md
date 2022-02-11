@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-09T21:44:33.518Z
+date: 2022-02-11T19:22:41.724Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -228,6 +228,12 @@ encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 -Firefox 96.0
 -Steam 1.0.0.72
 -LXQt 1.0.0
+
+**Default sound server switched to Pipewire**
+
+PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time.
+
+[*Pipewire*](https://pipewire.org/)
 
 **Clang compiled kernel**
 
