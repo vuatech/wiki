@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-11T19:22:41.724Z
+date: 2022-02-20T18:19:02.129Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -177,6 +177,10 @@ of the USB drive, i.e. /dev/sdb.
 - SUSE Studio ImageWriter has also been tested and works for burning ISO images to USB
 storage device.
 
+**Booting from DVD**
+
+Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [OM Lx 4.3 Errta](https://wiki.openmandriva.org/e/en/distribution/releases/omlx43/errata) that should enable one to boot from DVD.
+
 **About Repositories**
 
 We have now the om-repo-picker aka Software Repository Selector to select additional
@@ -231,7 +235,8 @@ encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 
 **Default sound server switched to Pipewire**
 
-PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time.
+PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time. See [*OM Lx 4.3 Errata*](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)
+
 
 [*Pipewire*](https://pipewire.org/)
 
