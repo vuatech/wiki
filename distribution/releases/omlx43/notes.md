@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-20T18:19:02.129Z
+date: 2022-02-20T18:24:58.351Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -104,6 +104,10 @@ another /boot/efi with proper flags and installation will result in error with n
 bootloader installed. Do not format you just set the mount point to /boot/efi. One can
 have many different boot loaders for different operating systems in the same /boot/efi
 partition. If there is any need to switch boot loaders that is done in BIOS settings.
+
+**Upgrading OMLx 4.2 system to OMLx 4.3**
+
+See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
 
 **NVME SSDs**
 
@@ -245,6 +249,10 @@ PipeWire has become our default sound server in the current system release, thus
 OpenMandriva provides a clang compiled kernel. Users can install same version of kernel-
 release-desktop and kernel-release-desktop-clang for comparison.
 
+**What to do if I have a problem**
+
+Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+
 **Helping the project**
 
 The OpenMandriva development teams (Cooker & QA) are always looking for new
@@ -258,9 +266,5 @@ New contributors who would like to help with these wide-ranging tasks should see
 for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
 It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate)
 to keep the lights on!
-
-**Upgrading OMLx 4.2 system to OMLx 4.3**
-
-See [*(more information)*](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
 
 **Please read also [OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)**.
