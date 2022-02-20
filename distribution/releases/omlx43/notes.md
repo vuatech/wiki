@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-20T18:24:58.351Z
+date: 2022-02-20T18:56:07.480Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -183,7 +183,7 @@ storage device.
 
 **Booting from DVD**
 
-Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [OM Lx 4.3 Errta](https://wiki.openmandriva.org/e/en/distribution/releases/omlx43/errata) that should enable one to boot from DVD.
+Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD.
 
 **About Repositories**
 
