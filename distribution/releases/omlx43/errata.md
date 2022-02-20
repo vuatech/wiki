@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-01-15T04:20:26.822Z
+date: 2022-02-20T18:09:09.572Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -112,6 +112,12 @@ system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
 we will report in Errata for our OMLx Releases.
 
+**Pipewire sound server**
+
+Some users may experience issues with the new Pipewire sound server. If so user may switch to the older pulseaudio sound server. To do this open Konsole and run the following copy and paste command:
+
+`$ sudo dnf remove pipewire-pulse ; sudo dnf install pulseaudio-server`
+
 **Updating Firefox**
 
 OpenMandriva's stable release aka Rock does not normally get updates to system and tool-chain packages. Because of this and because of how Mozilla develops Firefox sometimes Firefox packages will no longer build for our stable release. For users concerned about not having the latest version of Firefox a workaround is to install from [mozilla.org](https://www.mozilla.org/) the latest version of Firefox RR (Rapid Release) or [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) the latest version of Firefox ESR (Extended Support Release) version which gets all security updates but not feature updates.
@@ -127,6 +133,10 @@ For bluetooth devices user may need to enable systemd bluetooth.service. Open Ko
 and run:
 
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
+
+**What to do if problem persisits**
+
+Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
 **Helping the project**
 
