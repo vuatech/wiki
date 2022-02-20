@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-02-20T18:12:19.769Z
+date: 2022-02-20T18:43:17.636Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -134,7 +134,7 @@ and run:
 
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
 
-**What to do if problem persisits**
+**What to do if I have a problem**
 
 Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
