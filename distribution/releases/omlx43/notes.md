@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-20T18:56:32.689Z
+date: 2022-02-21T19:29:56.637Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -108,6 +108,11 @@ partition. If there is any need to switch boot loaders that is done in BIOS sett
 **Upgrading OMLx 4.2 system to OMLx 4.3**
 
 See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
+
+
+**File system type**
+
+In the Calamares installer for OM Lx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` is also known to work for root partition. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). `btrfs` does not work for root partition on OM Lx 4.3. ***Example***: We expect users installing an OM Lx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
 
 **NVME SSDs**
 
