@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:08:03.148Z
+date: 2022-02-21T20:10:18.424Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -140,6 +140,7 @@ This issue is of course very hardware specific.
 This release of OpenMandriva Lx supports booting and installation with and without UEFI.
 
 *Note that secure boot is NOT supported.*
+*Note it is not recommended to mix MBR and GPT partitions.* 
 
 If you wish to perform an EFI installation on an existing MBR disk it will be necessary to
 convert the disk partition table to the newer GPT partitioning scheme. To do this you need
