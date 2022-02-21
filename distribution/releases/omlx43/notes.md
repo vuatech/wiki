@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:22:39.198Z
+date: 2022-02-21T20:23:42.717Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -15,12 +15,7 @@ The OpenMandriva Lx teams are pleased to announce the availability of **OpenMand
 
 **Available Media**
 
-This release is available as a live media DVD or USB flash drive (memory stick),
-downloadable in ISO format. These are available on our downloads page. USB flash drive
-installation is usually noticeably faster. As always speed depends on many factors.
-Live media means you are able to run OpenMandriva Lx straight from a DVD or memory
-stick (see below) and try it before installing it. You may also install the system to hard disk
-either from the running live image or from the boot manager.
+This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably faster. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 - Available ISO files are:
 •*x86_64 KDE Plasma desktop* full featured (includes the most common used
