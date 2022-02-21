@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T19:42:48.026Z
+date: 2022-02-21T19:44:23.973Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -153,7 +153,7 @@ There is still a need to create an efi partition to contain the boot equipment a
 be created while running the Calamares installer. When the installer reaches the
 partitioning stage the / (root) partition should be removed and a small (330 MB) FAT16 or
 FAT32 partition created at the start of the drive. If diskspace is critical then a smaller
-partition may be used, but be sure to set it as FAT16 or FAT32 in Calamares otherwise the
+partition may be used, but be sure to set it as FAT32 in Calamares otherwise the
 installation will fail.
 If you fail to observe these steps the installation of the boot loader will fail. Subsequently
 partition the disk in the normal way.
