@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:48:02.517Z
+date: 2022-02-21T20:54:47.211Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -124,11 +124,21 @@ Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [Boo
 
 We now have the om-repo-picker aka Software Repository Selector to select additional repositories for more package availability. **Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a Rock system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
 
-**How to install new packages**
+**How to install and remove packages**
 
 While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra software, we strongly suggest to install packages from command line:
 
 `$ sudo dnf --refresh install <package_name>`
+
+To remove a package:
+
+`$ sudo dnf remove <package_name>`
+
+One may in install or remove a string of packages. Example:
+
+`$ sudo dnf --refresh install <package_name_1> <package_name_2> <package_name_3> <package_name_4>`
+
+More about package management with dnf [here](https://dnf.readthedocs.io/en/latest/command_ref.html).
 
 **Recommended update procedure**
 
