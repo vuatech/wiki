@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:45:47.040Z
+date: 2022-02-21T20:46:07.667Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -10,8 +10,7 @@ dateCreated: 2021-04-24T05:18:09.972Z
 
 # OpenMandriva Lx 4.3 Release Notes
 
-The OpenMandriva Lx teams are pleased to announce the availability of **OpenMandriva Lx
-4.3**.
+The OpenMandriva Lx teams are pleased to announce the availability of **OpenMandriva Lx 4.3**.
 
 **Available Media**
 
