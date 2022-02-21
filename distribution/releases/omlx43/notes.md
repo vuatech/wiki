@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:10:36.979Z
+date: 2022-02-21T20:19:34.671Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -93,17 +93,18 @@ or
 `UEFI some DVD optical_device`
 
 You have to choose the UEFI option and boot that. But know also that not all computers
-will do this. Some with more spartan BIOS will offer only the one option and almost always
-it is the correct one. So for instance if on a notebook you don't see the above choice no
-worries.
-If you have multiple storage drives enabled they all need to have the same partition table
-type. They either need to all be gpt or all mbr for everything to work properly.
+will do this. Some with more spartan FIRMWARE or BIOS will offer only the one option 
+and almost always it is the correct one. So for instance if on a notebook you don't see 
+the above choice no worries.
+*If you have multiple storage drives enabled they all need to have the same partition table
+type.* They either need to all be GPT or all MBR for everything to work properly.
 On UEFI computers in multi-boot situation with multiple storage drives if you already have
-an existing /boot/efi partition you should use that. The partitioner will not create
-another /boot/efi with proper flags and installation will result in error with no
-bootloader installed. Do not format you just set the mount point to /boot/efi. One can
-have many different boot loaders for different operating systems in the same /boot/efi
-partition. If there is any need to switch boot loaders that is done in BIOS settings.
+an existing `/boot/efi` partition you should use that. The partitioner will not create
+another `/boot/efi` with proper flags and installation will result in error with no
+bootloader installed. Do not format you just set the mount point to `/boot/efi` and 
+select the `boot` flag. 
+One can have many different boot loaders for different operating systems in the same `/boot/efi`
+partition. If there is any need to switch boot loaders that is done in FIRMWARE or BIOS settings.
 
 **Upgrading OMLx 4.2 system to OMLx 4.3**
 
