@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T19:47:08.119Z
+date: 2022-02-21T20:05:31.525Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -138,7 +138,9 @@ This issue is of course very hardware specific.
 **Installer and EFI Support**
 
 This release of OpenMandriva Lx supports booting and installation with and without UEFI.
-Note that secure boot is NOT supported.
+
+*Note that secure boot is NOT supported.*
+
 If you wish to perform an EFI installation on an existing MBR disk it will be necessary to
 convert the disk partition table to the newer GPT partitioning scheme. To do this you need
 to use the gdisk tool. A typical invocation would be gdisk /dev/sda: the existing
@@ -149,9 +151,9 @@ There may be occasions where the conversion cannot be performed, this will usual
 due to insufficient space at the beginning or end of the disk to write the partition table. It
 may be necessary to delete or resize a partition to create the needed space, gparted is
 your friend in these circumstances.
-There is still a need to create an efi partition to contain the boot equipment and this must
+There is still a need to create a `/boot/efi` partition to contain the boot equipment and this must
 be created while running the Calamares installer. When the installer reaches the
-partitioning stage the / (root) partition should be removed and a small (330 MB) fat32 partition created at the start of the drive. If diskspace is critical then a smaller
+partitioning stage the `/` (root) partition should be removed and a small (300 MB) fat32 partition created at the start of the drive. If diskspace is critical then a smaller
 partition may be used, but be sure to set it as fat32 in Calamares otherwise the
 installation will fail.
 If you fail to observe these steps the installation of the boot loader will fail. Subsequently
