@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:47:10.335Z
+date: 2022-02-21T20:48:02.517Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -46,7 +46,7 @@ Calamares is an installer framework. By design it is very customizable, in order
 
 At this time partitioning LVM and Raid setups with Calamares installer are not supported.
 
-The following applies to all partitioning, all installation on hardware: If you have a UEFI/EFI computer and your BIOS offers a choice when you boot installation media between for example:
+The following applies to all partitioning of all installations on hardware: If you have a UEFI/EFI computer and your BIOS offers a choice when you boot installation media between for example:
 
 `USB some Flash Drive`
 `UEFI USB some Flash Drive`
