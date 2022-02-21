@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T19:40:09.811Z
+date: 2022-02-21T19:40:34.204Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -111,7 +111,7 @@ See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/u
 
 **File system type**
 
-In the Calamares installer for OM Lx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` is also known to work for root partition. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). `btrfs` does not work for root partition on OM Lx 4.3. ***Example***: It is expected that users installing an OM Lx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
+In the Calamares installer for OM Lx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` is also known to work for root partition. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). ***Example***: It is expected that users installing an OM Lx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
 
 No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use whatever you use for your root partition. 
 
