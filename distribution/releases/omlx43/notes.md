@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:40:19.771Z
+date: 2022-02-21T20:45:47.040Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -137,7 +137,7 @@ While we do provide Discover and dnfdragora gui's for package mangement we find 
 
 `$ dnf clean all ; sudo dnf clean all ; sudo dnf upgrade`
 
-We recommend this because we see a lot of problem reports that beging with "I updated my system with Discover updater" or "I updated my system with dnfdragora". 
+We recommend this because we see a lot of problem reports that beginng with "I updated my system with Discover updater" or "I updated my system with dnfdragora". 
 
 
 **New Features and Major Changes**
@@ -153,8 +153,7 @@ In order to keep current with latest changes in Linux, computer security issues,
 - Mesa 21.3.5
 - FFMPEG to 5.0
 Upgraded also some cool stuff not on the ISO but available in our repositories:
--AMDVLK 2022.Q1.2 official AMD Vulkan driver. It is an alternative driver and can be
-installed at same time with RADV. It can be used to improve performance or stability in some games on Linux
+-AMDVLK 2022.Q1.2 official AMD Vulkan driver. It is an alternative driver and can be installed at same time with RADV. It can be used to improve performance or stability in some games on Linux
 -OBS-Studio 27.1.3 software for video recording and live streaming; it finally supports wayland session. It also supports recording h264 with VAAPI (hardware accelerated video encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 -Blender 3.0.1
 -GIMP 2.10.30
@@ -173,27 +172,18 @@ See [*OM Lx 4.3 Errata*](https://wiki.openmandriva.org/en/distribution/releases/
 
 **Clang compiled kernel**
 
-OpenMandriva provides a clang compiled kernel. Users can install same version of kernel-
-release-desktop and kernel-release-desktop-clang for comparison.
+OpenMandriva provides a clang compiled kernel. Users can install same version of kernel-release-desktop and kernel-release-desktop-clang for comparison.
 
 **What to do if I have a problem**
 
-Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and 
-enough of a description and information for someone to be able to help you. If your issue is a 
-serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
 **Helping the project**
 
-The OpenMandriva development teams (Cooker & QA) are always looking for new
-contributors to assist in creating and maintaining packages and to assist bugfixing and
-testing. You are welcome to join us and help us in this work which is not only rewarding but
-also tremendous fun!
-If you feel that your talents do not lie in the realm of software, then the OpenMandriva
-Workshop group, which is made up from the artwork, documentation, translation and
-Communication teams, is always open for the submissions of artwork and translations.
-New contributors who would like to help with these wide-ranging tasks should see the wiki
-for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
-It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate)
-to keep the lights on!
+The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun! If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations. New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
+
+**Donate to the project**
+
+It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
 
 **Please read also [OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)**.
