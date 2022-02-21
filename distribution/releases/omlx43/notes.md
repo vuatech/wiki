@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:54:47.211Z
+date: 2022-02-21T20:58:19.923Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -146,7 +146,7 @@ While we do provide Discover and dnfdragora gui's for package mangement we find 
 
 `$ dnf clean all ; sudo dnf clean all ; sudo dnf upgrade`
 
-We recommend this because we see a lot of problem reports that beginng with "I updated my system with Discover updater" or "I updated my system with dnfdragora". 
+Then press <Enter> key and when prompted enter your root (superuser) password. We recommend this because we see a lot of problem reports that begin with "I updated my system with Discover updater" or "I updated my system with dnfdragora". 
 
 
 **New Features and Major Changes**
