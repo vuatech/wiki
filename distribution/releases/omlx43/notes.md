@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:23:42.717Z
+date: 2022-02-21T20:29:26.053Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -18,66 +18,36 @@ The OpenMandriva Lx teams are pleased to announce the availability of **OpenMand
 This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably faster. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 - Available ISO files are:
-•*x86_64 KDE Plasma desktop* full featured (includes the most common used
-functionalities, multimedia and office software).
-•*znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors
-(Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
-advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
-only, do not install on any other hardware.
+•*x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
+•*znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
 
-Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+,
-Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64
-server boards)
+Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)
 
 **System requirements**
 
-OpenMandriva Lx 4.3 requires at least 2048 MB of memory and at least 10 GB of hard
-drive space (see below for known issues with partitioning).
+OpenMandriva Lx 4.3 requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
 
 *Important Note: Graphics Hardware:*
 
-The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or
-above.
-We recommend using AMD, Intel, Adreno or VC4 graphics chips.
+The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or above. We recommend using AMD, Intel, Adreno or VC4 graphics chips.
 
 **Internet Connection**
 
-Calamares Installer checks if an Internet connection is available, but OpenMandriva Lx will
-install just fine even without. It is perfectly OK to simply install as you normally would and
-proceed to use your new system as normal.
-Updating such a system would require being temporarily connected to the internet or
-downloading the packages elsewhere and transferring them to the installed system and
-installing the updated packages. But as you are not connected to the internet you could
-simply use the system and not update for how ever long you see fit.
+Calamares Installer checks if an Internet connection is available, but OpenMandriva Lx will install just fine even without. It is perfectly OK to simply install as you normally would and proceed to use your new system as normal. Updating such a system would require being temporarily connected to the internet or downloading the packages elsewhere and transferring them to the installed system and installing the updated packages. But as you are not connected to the internet you could simply use the system and not update for how ever long you see fit.
 
 **Virtual Machines**
 
-At this time the only virtualization software that OMLx ISOs are tested on is VirtualBox.
-The same hardware requirements apply when running in virtual machines.
-For VirtualBox you must always have at least 2048 MB of memory or OpenMandriva Lx will
-fail to boot.
-Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to
-an existing one may occasionally fail.
+At this time the only virtualization software that OMLx ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or OpenMandriva Lx will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 
 **Calamares installer**
 
-Calamares is an installer framework.
-By design it is very customizable, in order to satisfy a wide variety of needs and use cases.
-It aims to be easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic.
-Calamares includes an advanced partitioning feature, with support for both manual and
-automated partitioning operations.
-It is the first installer with an automated “Replace Partition” option, which makes it easy to
-reuse a partition over and over for distribution testing.
-Many Linux distros use Calamares installer and each has its own implementation and
-standards. The user may notice some small differences but it does not mean this is a bug.
+Calamares is an installer framework. By design it is very customizable, in order to satisfy a wide variety of needs and use cases. It aims to be easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic. Calamares includes an advanced partitioning feature, with support for both manual and automated partitioning operations. It is the first installer with an automated “Replace Partition” option, which makes it easy to reuse a partition over and over for distribution testing. Many Linux distros use Calamares installer and each has its own implementation and standards. The user may notice some small differences but it does not mean this is a bug.
 
 **Partitioning**
 
 At this time partitioning LVM and Raid setups with Calamares installer are not supported.
 
-This applies to all partitioning, all installation on hardware: If you have a UEFI/EFI
-computer and your BIOS offers a choice when you boot installation media between for
-example:
+This applies to all partitioning, all installation on hardware: If you have a UEFI/EFI computer and your BIOS offers a choice when you boot installation media between for example:
 
 `USB some Flash Drive`
 `UEFI USB some Flash Drive`
@@ -87,19 +57,7 @@ or
 `some DVD optical_device`
 `UEFI some DVD optical_device`
 
-You have to choose the UEFI option and boot that. But know also that not all computers
-will do this. Some with more spartan FIRMWARE or BIOS will offer only the one option 
-and almost always it is the correct one. So for instance if on a notebook you don't see 
-the above choice no worries.
-*If you have multiple storage drives enabled they all need to have the same partition table
-type.* They either need to all be GPT or all MBR for everything to work properly.
-On UEFI computers in multi-boot situation with multiple storage drives if you already have
-an existing `/boot/efi` partition you should use that. The partitioner will not create
-another `/boot/efi` with proper flags and installation will result in error with no
-bootloader installed. Do not format you just set the mount point to `/boot/efi` and 
-select the `boot` flag. 
-One can have many different boot loaders for different operating systems in the same `/boot/efi`
-partition. If there is any need to switch boot loaders that is done in FIRMWARE or BIOS settings.
+You have to choose the UEFI option and boot that. But know also that not all computers will do this. Some with more spartan FIRMWARE or BIOS will offer only the one option and almost always it is the correct one. So for instance if on a notebook you don't see the above choice no worries. *If you have multiple storage drives enabled they all need to have the same partition table type.* They either need to all be GPT or all MBR for everything to work properly. On UEFI computers in multi-boot situation with multiple storage drives if you already have an existing `/boot/efi` partition you should use that. The partitioner will not create another `/boot/efi` with proper flags and installation will result in error with no bootloader installed. Do not format you just set the mount point to `/boot/efi` and  select the `boot` flag. One can have many different boot loaders for different operating systems in the same `/boot/efi` partition. If there is any need to switch boot loaders that is done in FIRMWARE or BIOS settings.
 
 **Upgrading OMLx 4.2 system to OMLx 4.3**
 
