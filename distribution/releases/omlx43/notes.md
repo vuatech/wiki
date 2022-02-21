@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T19:44:23.973Z
+date: 2022-02-21T19:47:08.119Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -113,7 +113,7 @@ See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/u
 
 In the Calamares installer for OM Lx (all branches) the file system list includes 
 all file systems the operating system recognizes for a host of reasons. This does 
-not mean one should use anything in the list for your root partition. `ext4` is the 
+not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the 
 official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` 
 is also known to work for root partition. `f2fs` *should* work for root partition if 
 the user is using a flash storage device (ssd). ***Example***: It is expected that users 
@@ -151,9 +151,8 @@ may be necessary to delete or resize a partition to create the needed space, gpa
 your friend in these circumstances.
 There is still a need to create an efi partition to contain the boot equipment and this must
 be created while running the Calamares installer. When the installer reaches the
-partitioning stage the / (root) partition should be removed and a small (330 MB) FAT16 or
-FAT32 partition created at the start of the drive. If diskspace is critical then a smaller
-partition may be used, but be sure to set it as FAT32 in Calamares otherwise the
+partitioning stage the / (root) partition should be removed and a small (330 MB) fat32 partition created at the start of the drive. If diskspace is critical then a smaller
+partition may be used, but be sure to set it as fat32 in Calamares otherwise the
 installation will fail.
 If you fail to observe these steps the installation of the boot loader will fail. Subsequently
 partition the disk in the normal way.
