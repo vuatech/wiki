@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:05:31.525Z
+date: 2022-02-21T20:08:03.148Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -151,9 +151,11 @@ There may be occasions where the conversion cannot be performed, this will usual
 due to insufficient space at the beginning or end of the disk to write the partition table. It
 may be necessary to delete or resize a partition to create the needed space, gparted is
 your friend in these circumstances.
-There is still a need to create a `/boot/efi` partition to contain the boot equipment and this must
-be created while running the Calamares installer. When the installer reaches the
-partitioning stage the `/` (root) partition should be removed and a small (300 MB) fat32 partition created at the start of the drive. If diskspace is critical then a smaller
+There is still a need to create a `/boot/efi` partition to contain the boot equipment and this 
+must be created while running the Calamares installer. When the installer reaches the
+partitioning stage the `/` (root) partition should be removed and a small (300 MB) fat32 
+partition created at the start of the drive. The partition must be named `/boot/efi` 
+and the `boot` flag set. If diskspace is critical then a smaller
 partition may be used, but be sure to set it as fat32 in Calamares otherwise the
 installation will fail.
 If you fail to observe these steps the installation of the boot loader will fail. Subsequently
