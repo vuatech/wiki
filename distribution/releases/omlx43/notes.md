@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:29:26.053Z
+date: 2022-02-21T20:40:19.771Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -65,29 +65,13 @@ See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/u
 
 **File system type**
 
-In the Calamares installer for OM Lx (all branches) the file system list includes 
-all file systems the operating system recognizes for a host of reasons. This does 
-not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the 
-official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` 
-is also known to work for root partition. `f2fs` *should* work for root partition if 
-the user is using a flash storage device (ssd). ***Example***: It is expected that users 
-installing an OM Lx operating system to realize that you would not choose fat16 or fat32 
-for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
+In the Calamares installer for OM Lx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` is also known to work for root partition. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). ***Example***: It is expected that users installing an OM Lx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
 
-No official recommendation is made at this time for storage partitions or for a 
-seperate `/home` partition. It is expected the users using seperate storage partitions 
-or a seperate `/home` partition know what they are doing. For `/home` the easy way is 
-to use whatever you use for your root partition. 
+No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use whatever you use for your root partition. 
 
 **NVME SSDs**
 
-Some NVME SSDs may not be recognized by OMLx 4.3 Live ISO.
-The Live ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2
-Menu. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for
-most peoples hardware. Problem is known and being worked on by OpenMandriva
-developers and upstream developers. See more in Errata/NVME SSDs.
-Hardware recognition for nvme SSDs is considerably improved for OM Lx 4.3. 
-This issue is of course very hardware specific. 
+Some NVME SSDs may not be recognized by OMLx 4.3 Live ISO. The Live ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in Errata/NVME SSDs. Hardware recognition for nvme SSDs is considerably improved for OM Lx 4.3. This issue is of course very hardware specific. 
 
 **Installer and EFI Support**
 
@@ -96,64 +80,42 @@ This release of OpenMandriva Lx supports booting and installation with and witho
 *Note that secure boot is NOT supported.*
 *Note it is NOT recommended to mix MBR and GPT partitions.* 
 
-If you wish to perform an EFI installation on an existing MBR disk it will be necessary to
-convert the disk partition table to the newer GPT partitioning scheme. To do this you need
-to use the gdisk tool. A typical invocation would be gdisk /dev/sda: the existing
-partition table will be converted in memory to the GPT scheme. Warnings will be issued
-about potential data loss, the disk will not be altered until you write the partition table by
-pressing w. You are advised to back up any important data.
-There may be occasions where the conversion cannot be performed, this will usually be
-due to insufficient space at the beginning or end of the disk to write the partition table. It
-may be necessary to delete or resize a partition to create the needed space, gparted is
-your friend in these circumstances.
-There is still a need to create a `/boot/efi` partition to contain the boot equipment and this 
-must be created while running the Calamares installer. When the installer reaches the
-partitioning stage the `/` (root) partition should be removed and a small (300 MB) fat32 
-partition created at the start of the drive. The partition must be named `/boot/efi` 
-and the `boot` flag set. If diskspace is critical then a smaller
-partition may be used, but be sure to set it as fat32 in Calamares otherwise the
-installation will fail.
-If you fail to observe these steps the installation of the boot loader will fail. Subsequently
-partition the disk in the normal way.
-Please share your experiences on the forums so that we may improve this aspect of the
-installation.
-If you are installing beside Windows 8, 8.1, 10 or similar EFI booted OS as a precaution
-please ensure that you have recovery disks and you have backed up any important data.
-Our testing has been limited with this configuration, but successful installations have been
-performed with no issues.
+If you wish to perform an EFI installation on an existing MBR disk it will be necessary to convert the disk partition table to the newer GPT partitioning scheme. To do this you need to use the gdisk tool. A typical invocation would be gdisk /dev/sda: the existing partition table will be converted in memory to the GPT scheme. Warnings will be issued about potential data loss, the disk will not be altered until you write the partition table by pressing w. You are advised to back up any important data.
+
+There may be occasions where the conversion cannot be performed, this will usually be due to insufficient space at the beginning or end of the disk to write the partition table. It may be necessary to delete or resize a partition to create the needed space, gparted is your friend in these circumstances.
+
+There is still a need to create a `/boot/efi` partition to contain the boot equipment and this must be created while running the Calamares installer. When the installer reaches the partitioning stage the `/` (root) partition should be removed and a small (300 MB) fat32 partition created at the start of the drive. The partition must be named `/boot/efi` and the `boot` flag set. If diskspace is critical then a smaller partition may be used, but be sure to set it as fat32 in Calamares otherwise the installation will fail. If you fail to observe these steps the installation of the boot loader will fail. Subsequently partition the disk in the normal way.
+
+Please share your experiences on the forums so that we may improve this aspect of the installation.
+
+If you are installing beside Windows 8, 8.1, 10 or similar EFI booted OS as a precaution please ensure that you have recovery disks and you have backed up any important data. Our testing has been limited with this configuration, but successful installations have been performed with no issues.
 We would welcome any feedback in this area.
 
 **Changing Partition Type**
 
-Please note that Calamares cannot convert one partition type to another and preserve
-partition data.
-If you run Calamares from the live image it is not possible to change an existing partition
-type. Trying to do this generates an error message.
-In order to do this you must first delete the partition and recreate it as the type that you
-wish.
+Please note that Calamares cannot convert one partition type to another and preserve partition data. If you run Calamares from the live image it is not possible to change an existing partition
+type. Trying to do this generates an error message. In order to do this you must first delete the partition and recreate it as the type that you wish.
 
 **Booting from USB**
 
-It is also possible to boot this release from an USB storage device. To transfer the
-live/installation image you may:
+It is also possible to boot this release from an USB storage device. To transfer the live/installation image you may:
 
-- Use rosa-imagewriter available from our repos
+- Use rosa-imagewriter available from our repos:
+
 `sudo dnf --refresh install rosa-imagewriter`
-Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links
-at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter).
-At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary.
-Note that this will erase everything on your USB!
-Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate
-the volume name. This breaks the boot process.
+
+Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter). At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
+
+Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name. This breaks the boot process.
 
 - Via dd
 You may alternatively dd the image to your USB stick:
-$ sudo dd if=<iso_name> of=<usb_drive> bs=4M
-Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
-of the USB drive, i.e. /dev/sdb.
 
-- SUSE Studio ImageWriter has also been tested and works for burning ISO images to USB
-storage device.
+$ sudo dd if=<iso_name> of=<usb_drive> bs=4M
+
+Replace <iso_name> with the path to the ISO and <usb_drive> with the device node of the USB drive, i.e. /dev/sdb.
+
+- SUSE Studio ImageWriter has also been tested and works for burning ISO images to USB storage device.
 
 **Booting from DVD**
 
@@ -161,19 +123,11 @@ Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [Boo
 
 **About Repositories**
 
-We have now the om-repo-picker aka Software Repository Selector to select additional
-repositories for more package availability.
-Do not mix the repositories from different release versions/update channels. This means,
-as an example, do not use Cooker repositories on a Rock system. If you use Rock, use
-Rock repositories only.
-This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories).
-If you mix different release/update channel repositories and you break your computer
-the solution is to do a fresh install. After that fresh install do not do this again.
+We now have the om-repo-picker aka Software Repository Selector to select additional repositories for more package availability. **Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a Rock system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
 
 **How to install new packages**
 
-While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra
-software, we strongly suggest to install packages from command line:
+While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra software, we strongly suggest to install packages from command line:
 
 `$ sudo dnf --refresh install <package_name>`
 
@@ -188,9 +142,10 @@ We recommend this because we see a lot of problem reports that beging with "I up
 
 **New Features and Major Changes**
 
-In order to keep current with latest changes in Linux, computer security issues, and
-computer code writing there are major changes in OMLx 4.3rc.
-Major changes:
+In order to keep current with latest changes in Linux, computer security issues, and computer code writing there are major changes in OMLx 4.3rc.
+
+*Major changes*:
+
 - The kernel has been updated to 5.16.7
 - KDE products have been updated: Frameworks 5.90.0, Plasma Desktop 5.23.5, KDE Gear
 21.12.2
@@ -199,11 +154,8 @@ Major changes:
 - FFMPEG to 5.0
 Upgraded also some cool stuff not on the ISO but available in our repositories:
 -AMDVLK 2022.Q1.2 official AMD Vulkan driver. It is an alternative driver and can be
-installed at same time with RADV. It can be used to improve performance or stability in
-some games on Linux
--OBS-Studio 27.1.3 software for video recording and live streaming; it finally supports
-wayland session. It also supports recording h264 with VAAPI (hardware accelerated video
-encoding) and we also patched it to support HEVC-x265 with HW VAAPI
+installed at same time with RADV. It can be used to improve performance or stability in some games on Linux
+-OBS-Studio 27.1.3 software for video recording and live streaming; it finally supports wayland session. It also supports recording h264 with VAAPI (hardware accelerated video encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 -Blender 3.0.1
 -GIMP 2.10.30
 -Audacity 3.1.3
@@ -213,8 +165,7 @@ encoding) and we also patched it to support HEVC-x265 with HW VAAPI
 
 **Default sound server switched to Pipewire**
 
-PipeWire has become our default sound server in the current system release, thus replacing
-PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time.
+PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time.
 See [*OM Lx 4.3 Errata*](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)
 
 
