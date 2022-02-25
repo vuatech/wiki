@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-02-20T18:54:02.178Z
+date: 2022-02-25T01:22:20.041Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -83,7 +83,7 @@ using okidata:
 $ sudo dnf install task-printing-okidata
 Now turn printer on again and it should then automatically configure itself (sometimes you
 might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers aka `kcmshell5 kcm_printer_manager`.
-If not seek help here
+If not seek help [here](https://forum.openmandriva.org/c/en/support).
 
 **Discover new software**
 
