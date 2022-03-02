@@ -2,9 +2,9 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2020-12-21T23:52:30.588Z
-tags: 
-editor: undefined
+date: 2022-03-02T03:40:26.848Z
+tags: documentation, dnf, user-guide
+editor: markdown
 dateCreated: 2020-03-06T18:48:34.373Z
 ---
 
@@ -29,8 +29,11 @@ Note: 'dnf search' will work with partial names as well
 - cleanup any files and packages left in cache and to remove repository metadata:
 `$ sudo dnf clean all ; dnf clean all`
 
-- update your system:
+- update your Rock system:
 `$ sudo dnf --refresh upgrade `
+
+- update your Rolling system:
+`$ sudo dnf --refresh distro-sync `
 
 ## Some other common dnf commands
 
@@ -55,6 +58,15 @@ reinstalls the currently installed package
 
 `repolist`
 list enabled repositories
+
+## Some commands may be abbreviated
+
+`dnf in=dnf install`
+`dnf ri=dnf reinstall`
+`dnf dg=dnf downgrade`
+`dnf rm=dnf remove`
+`dnf up=dnf upgrade`
+`dnf dsync=dnf distro-sync`
 
 ## Some common dnf options
 
