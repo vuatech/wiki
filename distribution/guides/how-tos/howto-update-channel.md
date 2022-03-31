@@ -13,8 +13,8 @@ dateCreated: 2020-04-28T08:42:49.215Z
 
 To users new to OpenMandriva Lx we suggest to start with Rock stable release to learn how the system works then, if you wish so, migrate to Rolling.
 
-A 'Rolling' user should be able to use command line and know basics of [dnf](/en/doc/using-dnf) package manager.
-Also the user needs to read and understand [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories).
+A 'Rolling' user should be able to use command line and know basics of [dnf](/en/distribution/guides/software-management/DNF) package manager.
+Also the user needs to read and understand [OpenMandriva Release Plan and Repositories](/en/policies/release-plan-and-repositories).
 
 To upgrade to Rolling:
 
