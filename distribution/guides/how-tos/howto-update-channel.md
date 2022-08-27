@@ -2,7 +2,7 @@
 title: How to update channel
 description: 
 published: true
-date: 2021-02-20T13:17:55.402Z
+date: 2022-03-31T10:46:22.756Z
 tags: documentation, howto, user-guide, advanced
 editor: markdown
 dateCreated: 2020-04-28T08:42:49.215Z
@@ -19,14 +19,18 @@ Also the user needs to read and understand [OpenMandriva Release Plan and Reposi
 To upgrade to Rolling:
 
 - Open Software Repository Selector (`om-repo-picker`) 
-
 Application menu > Software Repository Selector
 
-![om4.2-repopicker-01.jpg](/images/om4.2-repopicker-01.jpg)
+![omlx43.doc.repopicker-01.jpg](/images/omlx43.doc.repopicker-01.jpg)
 
-You can also select OpenMandriva repo-picker in OM Welcome
+or select OpenMandriva repo-picker in OM Welcome
 
-![om4.2-repopicker-02h.jpg](/images/om4.2-repopicker-02h.jpg)
+![omlx43.doc.repopicker-02.jpg](/images/omlx43.doc.repopicker-02.jpg)
+
+or select OpenMandriva repo-picker in OM Control Center
+
+![omlx43.doc.repopicker-03.jpg](/images/omlx43.doc.repopicker-03.jpg)
+
 
 - Go to the very first section 'Update channel'.
 

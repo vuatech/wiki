@@ -4,7 +4,7 @@ description: Voici le Wiki OpenMandriva, un projet de documentation libre que vo
 published: true
 date: 2020-12-22T00:47:57.148Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-22T00:47:55.319Z
 ---
 

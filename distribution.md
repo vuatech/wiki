@@ -2,7 +2,7 @@
 title: OpenMandriva Lx
 description: The OpenMandriva Lx Linux distribution
 published: true
-date: 2021-09-27T11:51:29.474Z
+date: 2021-09-27T11:51:31.655Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T11:51:29.474Z

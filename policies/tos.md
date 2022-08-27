@@ -2,9 +2,9 @@
 title: Terms of services
 description: 
 published: true
-date: 2020-12-21T23:52:28.651Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:19:03.750Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-03-12T14:05:40.967Z
 ---
 

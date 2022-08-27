@@ -2,7 +2,7 @@
 title: How to install Steam in OpenMandriva
 description: 
 published: true
-date: 2021-02-19T00:04:32.410Z
+date: 2022-03-25T10:01:10.512Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2020-03-09T20:59:51.458Z
@@ -13,60 +13,42 @@ dateCreated: 2020-03-09T20:59:51.458Z
 
 ## To install Steam in OpenMandriva Lx please perform the following steps:
 
-### Start Software Repository Selector
-- from Application menu
+### OM Welcome > Applications > Games
 
-![install-steam-01.jpg](/images/install-steam-01.jpg)
-
-- or from OM Welcome
-
-![repositories07.jpg](/images/repositories07.jpg)
-
-### Enable `/main 32bit` repository
-*(This does not apply to 4.2 or newer releases)*
-
-![install-steam-02.jpg](/images/install-steam-02.jpg)
-
-### as well as `/non-free` repository
-
-![install-steam-03.jpg](/images/install-steam-03.jpg)
-
-Click <kbd>OK</kbd> to apply
-
-> You will be asked for root password
-{.is-warning}
+Click on  Steam
 
 
-![install-steam-04.jpg](/images/install-steam-04.jpg)
+![omlx43.doc.steam-01.jpg](/images/omlx43.doc.steam-01.jpg)
 
-### When you are done with your changes, run the following command in console
-```
-$ sudo dnf clean all ; dnf clean all ; dnf repolist
-```
+![omlx43.doc.steam-02.jpg](/images/omlx43.doc.steam-02.jpg)
 
-![install-steam-05.jpg](/images/install-steam-05.jpg)
-
-### Install Steam
-
-```
-$ sudo dnf --refresh install steam
-```
-
-![install-steam-06.jpg](/images/install-steam-06.jpg)
-
-![install-steam-07.jpg](/images/install-steam-07.jpg)
-
-![install-steam-08.jpg](/images/install-steam-08.jpg)
+![omlx43.doc.steam-03.jpg](/images/omlx43.doc.steam-03.jpg)
 
 ### Application Menu > Games > Steam
 
-![install-steam-09.jpg](/images/install-steam-09.jpg)
+![omlx43.doc.steam-04.jpg](/images/omlx43.doc.steam-04.jpg)
 
-![install-steam-10.jpg](/images/install-steam-10.jpg)
+![omlx43.doc.steam-05.jpg](/images/omlx43.doc.steam-05.jpg)
 
-![install-steam-11.jpg](/images/install-steam-11.jpg)
+![omlx43.doc.steam-06.jpg](/images/omlx43.doc.steam-06.jpg)
 
-![install-steam-12.jpg](/images/install-steam-12.jpg)
+![omlx43.doc.steam-07.jpg](/images/omlx43.doc.steam-07.jpg)
 
-![install-steam-13.jpg](/images/install-steam-13.jpg)
+![omlx43.doc.steam-08.jpg](/images/omlx43.doc.steam-08.jpg)
+
+![omlx43.doc.steam-09.jpg](/images/omlx43.doc.steam-09.jpg)
+
+![omlx43.doc.steam-10.jpg](/images/omlx43.doc.steam-10.jpg)
+
+![omlx43.doc.steam-11.jpg](/images/omlx43.doc.steam-11.jpg)
+
+
+
+
+
+
+
+
+
+
 

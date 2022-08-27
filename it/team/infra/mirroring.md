@@ -2,9 +2,9 @@
 title: Mirroring
 description: 
 published: true
-date: 2020-12-21T23:53:33.234Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:37:55.684Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-05-02T21:51:00.325Z
 ---
 

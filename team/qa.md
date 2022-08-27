@@ -2,9 +2,9 @@
 title: OpenMandriva Quality Assurance
 description: 
 published: true
-date: 2020-12-28T14:15:27.401Z
-tags: 
-editor: undefined
+date: 2022-04-01T21:11:04.746Z
+tags: qa
+editor: markdown
 dateCreated: 2020-03-01T20:38:27.627Z
 ---
 
@@ -25,29 +25,29 @@ These are not meant to be perfect statements that dictate our work; rather, guid
 
 ## Joining QA
 We welcome everyone to help us test OpenMandriva Lx.
-You can see our [Getting Started](/dev/qa-getting-started) page for more information about the tools we have at our disposal, and future plans. 
+You can see our [Getting Started](/team/qa/getting-started) page for more information about the tools we have at our disposal, and future plans. 
 
 ## Policies
 QA-Team members need a thorough understanding of:
 
-- [Release Plan and Repositories](/doc/release-plan-and-repositories)
-- [Repository Policies](/dev/repository-policies)
-- [Current and Future Releases](/releases)
+- [Release Plan and Repositories](/policies/release-plan-and-repositories)
+- [Repository Policies](/policies/repository-policies)
+- [Current Releases](/distribution/releases/current)
 
-See also [OpenMandriva Release QA](/dev/release-qa)
+See also [OpenMandriva Release QA](/team/qa/release-qa)
 
 ## Tools
 We use a variety of tools to help us with our work. However, none compare to the actual task of checking by hand and doing it with actual computers, as those are the true use cases.
 We invite everyone to test any OpenMandriva official releases that occur, including development and milestone releases.
 
-- [OpenMandriva Issue Tracker](http://issues.openmandriva.org/)
-- [ABF](https://abf.openmandriva.org/projects)
+- [OpenMandriva Issue Tracker](https://github.com/OpenMandrivaAssociation/distribution/issues)
+- [ABF](https://abf.openmandriva.org)
 - [Github](https://github.com/OpenMandrivaSoftware)
-- [Kahinah](https://kahinah.rxu.tech/)
+- [Kahinah](https://kahinah.tsn.sh)
 - Your Brain
 - Your Computer/Computers
 
-Please read: [How to report a bug](/doc/howto-report-bug)
+Please read: [How to report a bug](/team/qa/report-bug)
 
 ## Communication
 QA Team daily communication takes place on Freenode IRC channel #openmandriva-cooker, but remember that this is also where developers work so mind your IRC manners.

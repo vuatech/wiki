@@ -2,7 +2,7 @@
 title: About
 description: 
 published: true
-date: 2021-09-26T19:00:58.437Z
+date: 2022-04-02T16:14:47.944Z
 tags: documentation, association
 editor: markdown
 dateCreated: 2020-03-12T10:47:36.033Z
@@ -34,7 +34,7 @@ There is much more to OpenMandriva that matters: its people and their expectatio
 
 We would love to see you as part of this large family. So if you want to know a bit more about us please check the following links:
 
-- [Governance](/team/governance)
+- [Governance](/team/association/governance)
 - [How to contribute](/team/get-involved)
 
 

@@ -2,9 +2,9 @@
 title: Codename
 description: Nome in codice
 published: true
-date: 2020-12-21T23:53:48.361Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:17:35.212Z
+tags: releases
+editor: markdown
 dateCreated: 2020-05-10T10:09:40.218Z
 ---
 

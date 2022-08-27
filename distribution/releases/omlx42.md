@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.2
 description: 
 published: true
-date: 2021-12-08T02:11:40.585Z
+date: 2021-12-08T02:11:43.103Z
 tags: 4.2
 editor: markdown
 dateCreated: 2020-02-26T23:18:55.921Z

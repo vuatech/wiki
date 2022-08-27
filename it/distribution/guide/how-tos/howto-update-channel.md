@@ -2,9 +2,9 @@
 title: Come cambiare il canale degli aggiornamenti
 description: 
 published: true
-date: 2020-12-21T23:54:10.640Z
-tags: 
-editor: undefined
+date: 2021-09-26T19:06:24.589Z
+tags: documentation, howto, user-guide, advanced
+editor: markdown
 dateCreated: 2020-05-02T17:24:57.250Z
 ---
 

@@ -2,9 +2,9 @@
 title: Politiche dei Repository
 description: 
 published: true
-date: 2020-12-21T23:53:23.906Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:17:05.607Z
+tags: policies, cooker, qa
+editor: markdown
 dateCreated: 2020-05-06T09:36:21.786Z
 ---
 

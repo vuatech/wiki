@@ -2,9 +2,9 @@
 title: Software release life cycle
 description: 
 published: true
-date: 2020-12-21T23:52:47.915Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:18:54.234Z
+tags: releases, qa
+editor: markdown
 dateCreated: 2020-03-01T20:11:00.112Z
 ---
 

@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-02-21T20:59:07.930Z
+date: 2022-08-06T19:32:18.328Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -14,11 +14,11 @@ The OpenMandriva Lx teams are pleased to announce the availability of **OpenMand
 
 **Available Media**
 
-This release is available as a live media DVD or USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably faster. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a DVD or memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
+This release is available as a live media USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably faster. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 - Available ISO files are:
-•*x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
-•*znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
+\- *x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
+\- *znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
 
 Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)
 
@@ -51,26 +51,24 @@ The following applies to all partitioning of all installations on hardware: If y
 `USB some Flash Drive`
 `UEFI USB some Flash Drive`
 
-or
-
-`some DVD optical_device`
-`UEFI some DVD optical_device`
 
 You have to choose the UEFI option and boot that. But know also that not all computers will do this. Some with more spartan FIRMWARE or BIOS will offer only the one option and almost always it is the correct one. So for instance if on a notebook you don't see the above choice no worries. *If you have multiple storage drives enabled they all need to have the same partition table type.* They either need to all be GPT or all MBR for everything to work properly. On UEFI computers in multi-boot situation with multiple storage drives if you already have an existing `/boot/efi` partition you should use that. The partitioner will not create another `/boot/efi` with proper flags and installation will result in error with no bootloader installed. Do not format you just set the mount point to `/boot/efi` and  select the `boot` flag. One can have many different boot loaders for different operating systems in the same `/boot/efi` partition. If there is any need to switch boot loaders that is done in FIRMWARE or BIOS settings.
 
 **Upgrading OMLx 4.2 system to OMLx 4.3**
 
-See [Upgrading OM Lx 4.2 system to OM Lx 4.3](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
+See [Upgrading OMLx 4.2 system to OMLx 4.3](https://forum.openmandriva.org/t/upgrading-omlx-4-2-system-to-omlx-4-3/4338)
 
 **File system type**
 
-In the Calamares installer for OM Lx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `xfs` is also known to work for root partition. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). ***Example***: It is expected that users installing an OM Lx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition.
+In the Calamares installer for OMLx (all branches) the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `f2fs` *should* work for root partition if the user is using a flash storage device (ssd). ***Example***: It is expected that users installing an OMLx operating system to realize that you would not choose fat16 or fat32 for your root partition. Conversely you would not use ext4 for a `/boot/efi` partition. 
+
+`btrfs` and `xfs` will not work as system (root) partiton for OMLx 4.3. This will be fixed for the next release. We apologize for any inconvienence.
 
 No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use whatever you use for your root partition. 
 
 **NVME SSDs**
 
-Some NVME SSDs may not be recognized by OMLx 4.3 Live ISO. The Live ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in Errata/NVME SSDs. Hardware recognition for nvme SSDs is considerably improved for OM Lx 4.3. This issue is of course very hardware specific. 
+Some NVME SSDs may not be recognized by OMLx 4.3 Live ISO. The Live ISO has 2 different workarounds for this under "Troubleshooting" in the Grub2 Menu. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. Problem is known and being worked on by OpenMandriva developers and upstream developers. See more in Errata/NVME SSDs. Hardware recognition for nvme SSDs is considerably improved for OMLx 4.3. This issue is of course very hardware specific. 
 
 **Installer and EFI Support**
 
@@ -118,7 +116,8 @@ Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
 
 **Booting from DVD**
 
-Booting from DVD is deprecated. For OM Lx 4.3 ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD.
+Booting from DVD is deprecated.
+For OMLx 4.3 ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD.
 
 **About Repositories**
 
@@ -142,9 +141,9 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 
 **Recommended update procedure**
 
-While we do provide Discover and dnfdragora gui's for package mangement we find it best if users update their OM Lx 4.3/Rock system from Konsole (or other terminal). This is very easy, just copy and paste this command:
+While we do provide Discover and dnfdragora gui's for package mangement we find it best if users update their OMLx 4.3/Rock system from Konsole (or other terminal). This is very easy, just copy and paste this command:
 
-`$ dnf clean all ; sudo dnf clean all ; sudo dnf upgrade`
+`$ sudo dnf clean all ; sudo dnf upgrade`
 
 Then press Enter key and when prompted enter your root (superuser) password. We recommend this because we see a lot of problem reports that begin with "I updated my system with Discover updater" or "I updated my system with dnfdragora". 
 
@@ -176,6 +175,7 @@ Upgraded also some cool stuff not on the ISO but available in our repositories:
 PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time.
 See [*OM Lx 4.3 Errata*](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)
 
+Note: The sound test in KDE SystemSettings does not work with Pipewire, it only works with Pulseaudio.
 
 [*Pipewire*](https://pipewire.org/)
 

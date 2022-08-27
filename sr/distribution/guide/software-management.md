@@ -2,9 +2,9 @@
 title: Коришћење dnf-a у OpenMandriva Lx
 description: 
 published: true
-date: 2020-12-22T00:27:25.979Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:21:16.315Z
+tags: dnf, документација, корисничко упуство
+editor: markdown
 dateCreated: 2020-12-22T00:27:24.100Z
 ---
 

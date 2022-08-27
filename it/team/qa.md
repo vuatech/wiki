@@ -2,9 +2,9 @@
 title: OpenMandriva Quality Assurance
 description: Assicurazione di qualità OpenMandriva
 published: true
-date: 2020-12-21T23:53:22.060Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:06:54.270Z
+tags: qa
+editor: markdown
 dateCreated: 2020-05-06T08:16:51.470Z
 ---
 

@@ -2,29 +2,34 @@
 title: Install OpenMandriva Lx 4.3
 description: 
 published: true
-date: 2021-10-12T21:04:03.378Z
+date: 2022-03-24T11:39:30.370Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-02T20:03:48.871Z
 ---
 
-# 1\. Burn a USB flash drive
+# 1\. Transfer the downloaded image to a USB flash drive
 
-TODO
+To transfer the live/installation image to an USB storage device you may use:
+ROSA-imagewriter, KDE isoimagewriter, SUSE Studio ImageWriter, dd command line.
+Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name and will break the boot process. 
 
 # 2\. Boot from USB flash drive
 
-Most computers automatically boot from a USB stick. Simply insert it and turn on your computer or restart it. You should see a meny, prompting you to choose ….
+Most computers automatically boot from a USB stick. Simply insert it and turn on your computer or restart it. You should see a menu, prompting you to choose the different entries.
 
-If your computer doesn’t automatically boot from USB, try holding down the F12 key at first boot or ESC. With most machines, this will allow you to select the USB device from a system-specific boot menu.
+If your computer does not automatically boot from USB, try holding down the F12 key at first boot or ESC. With most machines, this will allow you to select the USB device from a system-specific boot menu.
 
 F12 and ESC are the most common key to bring up your system’s boot menu, but F2 and F10 are common alternatives. If you’re not sure, look for a brief message at your system’s startup - it will often tell you which key to press to bring up the boot menu.
 
-Else try to find the correct key over the web, or don’t hesitate to ask for help at our forum or chat room.
+Else try to find the correct key over the web, or do not hesitate to ask for help at our forum or chat room.
+
+## Boot from DVD
+Boot from DVD is deprecated.
 
 # 3\. Start OpenMandriva Lx live mode
 
-You will first be asked to start live mode. It’ll automatically start after 30 seconds. Live mode can be used for testing the distribution without touching the disk space, or for installing the distribution.
+You will first be asked to start live mode. It will automatically start after 30 seconds. Live mode can be used for testing the distribution without touching the disk space, or for installing the distribution.
 
 ![1](https://forum.openmandriva.org/uploads/default/optimized/2X/8/8c9727b79d2d14b3bbd0855fd324602ed1b3ff8f_2_690x283.jpeg)
 
@@ -57,7 +62,7 @@ Then choose your timezone according to this [list](https://en.wikipedia.org/wiki
 
 ![7](https://forum.openmandriva.org/uploads/default/optimized/2X/b/b012db7a20f89cf37474ab6b36e4476b50e1aa01_2_690x369.jpeg)
 
-You will first be asked to select your keyboard layout. If the installer doesn’t guess the default layout correctly, you can modify it and check with the ‘Test Keyboard Layout’ field.
+You will first be asked to select your keyboard layout. If the installer does not guess the default layout correctly, you can modify it and check with the ‘Test Keyboard Layout’ field.
 
 ![8](https://forum.openmandriva.org/uploads/default/optimized/2X/6/6ffe4b3c63507fb964e06fb3679893997180bf63_2_690x369.png)
 
@@ -102,4 +107,8 @@ Once your computer restart you can enjoy using OpenMandriva Lx.
 
 # Notes
 
-[Original source (forum)](https://forum.openmandriva.org/t/how-to-install-openmandriva-lx-4-3/4223?u=raphael)
+[Original source (forum)](https://forum.openmandriva.org/t/h/4223)
+
+Read also:
+* [How to create root, home and swap partition during installation](/en/distribution/guides/how-tos/howto-root-home-swap)
+* [How to get a list of all packages included in isos](/en/distribution/guides/how-tos/list-packages-iso)

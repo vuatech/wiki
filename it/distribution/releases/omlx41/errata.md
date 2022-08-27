@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2020-05-03T07:26:37.533Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:01:41.269Z
+tags: 4.1
+editor: markdown
 dateCreated: 2020-05-03T07:26:35.867Z
 ---
 

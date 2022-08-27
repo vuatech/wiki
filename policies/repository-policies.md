@@ -2,9 +2,9 @@
 title: Repository Policies
 description: 
 published: true
-date: 2020-12-23T12:39:01.322Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:19:52.402Z
+tags: policies, cooker, qa
+editor: markdown
 dateCreated: 2020-03-01T19:28:40.866Z
 ---
 

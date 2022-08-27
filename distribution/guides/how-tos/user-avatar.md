@@ -2,9 +2,9 @@
 title: How to set the user avatar in OMLx
 description: 
 published: true
-date: 2020-12-21T23:53:10.561Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:36:21.553Z
+tags: documentation, howto, user-guide
+editor: markdown
 dateCreated: 2020-03-09T18:24:08.289Z
 ---
 

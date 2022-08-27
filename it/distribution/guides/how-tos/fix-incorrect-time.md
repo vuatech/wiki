@@ -2,9 +2,9 @@
 title: Come correggere la causa più comune di orario diverso in situazione di dual boot con sistema Windows
 description: 
 published: true
-date: 2020-12-21T23:54:01.434Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:25:37.813Z
+tags: documentation, howto, user-guide, troubleshooting
+editor: markdown
 dateCreated: 2020-05-02T22:15:51.459Z
 ---
 

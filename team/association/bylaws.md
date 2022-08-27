@@ -2,9 +2,9 @@
 title: Bylaws
 description: 
 published: true
-date: 2020-12-21T23:51:56.064Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:11:24.070Z
+tags: documentation, association, legal
+editor: markdown
 dateCreated: 2020-03-02T14:02:26.273Z
 ---
 

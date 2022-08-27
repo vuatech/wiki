@@ -2,7 +2,7 @@
 title: OpenMandriva Lx Rolling Errata
 description: 
 published: true
-date: 2021-04-24T05:57:30.543Z
+date: 2022-04-02T19:15:34.544Z
 tags: rolling
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -15,4 +15,4 @@ dateCreated: 2021-04-24T05:57:30.543Z
 
 <br>
 
-**Please read also [OMLx Rolling Release Notes](/en/releases/omlxrolling/notes)**.
+**Please read also [OMLx Rolling Release Notes](/distribution/releases/omlxrolling/notes)**.

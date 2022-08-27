@@ -2,15 +2,15 @@
 title: How to fix broken bootloader
 description: 
 published: true
-date: 2020-12-21T23:52:53.252Z
-tags: 
-editor: undefined
+date: 2022-04-02T16:07:14.522Z
+tags: documentation, howto, user-guide
+editor: markdown
 dateCreated: 2020-09-10T21:59:11.289Z
 ---
 
 # How to fix broken boot loader
 
-OpenMandriva Lx uses grub2 bootloader, so grub2 commands would work.
+OpenMandriva Lx uses grub2 bootloader, so we use grub2 commands.
 The command to probe computer and write comprehensive grub2 menu is:
 ```
 $ sudo grub2-mkconfig -o /boot/grub2/grub.cfg

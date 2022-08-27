@@ -2,9 +2,9 @@
 title: OpenMandriva Lx 4.2 Alpha Errata
 description: 
 published: true
-date: 2020-07-28T10:30:40.616Z
-tags: 
-editor: undefined
+date: 2021-09-26T20:55:57.359Z
+tags: 4.2
+editor: markdown
 dateCreated: 2020-02-27T16:13:04.324Z
 ---
 

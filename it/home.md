@@ -4,7 +4,7 @@ description: Questo è il wiki di OpenMandriva
 published: true
 date: 2021-02-14T15:20:33.268Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
 ---
 

@@ -2,9 +2,9 @@
 title: Guida allo stile del wiki
 description: 
 published: true
-date: 2020-12-22T08:52:43.219Z
+date: 2021-09-26T22:05:23.890Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-05-04T22:40:16.308Z
 ---
 

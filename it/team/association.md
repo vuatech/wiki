@@ -2,9 +2,9 @@
 title: About
 description: A proposito di Open Mandriva
 published: true
-date: 2020-12-21T23:53:25.737Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:14:48.026Z
+tags: documentation, association
+editor: markdown
 dateCreated: 2020-05-01T22:12:19.728Z
 ---
 

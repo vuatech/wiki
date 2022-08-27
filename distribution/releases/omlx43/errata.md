@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-02-25T01:22:20.041Z
+date: 2022-05-29T19:37:11.619Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -17,7 +17,10 @@ As with any release, there are still issues and bugs that may not have been reso
 This page documents those that may cause inconvenience and where possible details
 how they may be worked around.
 
-**NVIDIA Graphics Cards**
+## Known Issues and workarounds
+<br />
+
+### NVIDIA Graphics Cards
 
 This release includes the reverse engineered nouveau driver, which gives moderately good
 support for most NVIDIA cards. For some dual-screen work it is actually better than
@@ -28,14 +31,13 @@ These can not be supported by OpenMandriva for a number of reasons.
 Installing and maintaining any proprietary nVidia drivers is solely the users option and
 responsibility. 
 There are community supported nvidia drivers available in non-free repository.
-
-**NVME SSDs**
+### NVME SSDs
 
 There is a well known problem with some (especially newer) NVME SSDs and PCIE devices
 where the SSD may not be recognized.
 Problem is known and being worked on by OpenMandriva developers and upstream
 developers.
-Hardware recognition for nvme SSDs is considerably improved for OM Lx 4.3.
+Hardware recognition for nvme SSDs is considerably improved for OMLx 4.3.
 This issue is of course very hardware specific.
 
 On installed system user may wish to add this workaround to /etc/default/grub and
@@ -56,12 +58,11 @@ If (NVME APST=OFF) worked then add instead:
 
 As always users are encouraged to ask questions about anything you do not understand
 on our [forum](https://forum.openmandriva.org/).
-
-**GEOIP**
+### GEOIP
 
 Installer automatic GEOIP setting may not set the timezone correctly.
 
-**How to configure printer**
+### How to configure printer
 
 Turn your printer on and see if it is automatically configured. Pay attention to whether the
 right driver was installed. If printer was auto configured and you have correct driver then
@@ -85,12 +86,12 @@ Now turn printer on again and it should then automatically configure itself (som
 might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers aka `kcmshell5 kcm_printer_manager`.
 If not seek help [here](https://forum.openmandriva.org/c/en/support).
 
-**Discover new software**
+### Discover new software
 
 If you want to explore also additional repositories packages you will need to enable them
 by means of Software Repository Selector and to refresh cache.
 
-**Multiboot**
+### Multiboot
 
 In the 'real world' multiboot works well most of the time but when there are problems
 sometimes the solution is a workaround rather than a fix. These are just realities of
@@ -112,33 +113,33 @@ system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
 we will report in Errata for our OMLx Releases.
 
-**Pipewire sound server**
+### Pipewire sound server
 
 Some users may experience issues with the new Pipewire sound server. If so user may switch to the older pulseaudio sound server. To do this open Konsole and run the following copy and paste command:
 
 `$ sudo dnf remove pipewire-pulse ; sudo dnf install pulseaudio-server`
 
-**Updating Firefox**
+### Updating Firefox
 
 OpenMandriva's stable release aka Rock does not normally get updates to system and tool-chain packages. Because of this and because of how Mozilla develops Firefox sometimes Firefox packages will no longer build for our stable release. For users concerned about not having the latest version of Firefox a workaround is to install from [mozilla.org](https://www.mozilla.org/) the latest version of Firefox RR (Rapid Release) or [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) the latest version of Firefox ESR (Extended Support Release) version which gets all security updates but not feature updates.
 
-**Zypper**
+### Zypper
 
 The package zypper-needs-restarting may conflict with dnf-utils if installed.
 As a workaround remove dnf-utils.
 
-**Bluetooth**
+### Bluetooth
 
 For bluetooth devices user may need to enable systemd bluetooth.service. Open Konsole
 and run:
 
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
 
-**What to do if I have a problem**
+## What to do if I have a problem
 
 Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
-**Helping the project**
+## Helping the project
 
 The OpenMandriva development teams (Cooker & QA) are always looking for new
 contributors to assist in creating and maintaining packages and to assist bugfixing and
@@ -153,4 +154,5 @@ It also costs time and money to keep our servers up and running. If you can, ple
 to keep the lights on!
 
 
-**Please read also [OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes)**.
+## Please read also
+[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes).

@@ -2,7 +2,7 @@
 title: OpenMandriva Welcome
 description: 
 published: true
-date: 2021-03-08T17:33:34.735Z
+date: 2022-03-07T23:10:48.440Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
@@ -17,11 +17,11 @@ dateCreated: 2020-03-04T19:37:44.925Z
 Here is OM Welcome, the application created to show our distribution to the new users.
 At every boot, until we will decide to disable it, we will be greeted by OM Welcome.
 
-![om4.2-omwelcome-00.jpg](/images/om4.2-omwelcome-00.jpg)
+![omlx43.doc.omwelcome-01.jpg](/images/omlx43.doc.omwelcome-01.jpg)
 
 The first screen will introduce the distribution, our Community and the values on which it is based.
 
-All screens are conveniently accessible by direct links in the blue top bar.
+All screens are conveniently accessible by direct links in the top bar.
 
 Here, near the 'Next' button, the user can disable OMA Welcome automatically starting at the system boot.
 
@@ -29,19 +29,19 @@ We will browse through the various screens of the program, each of them providin
 
 Click on <kbd>Next</kbd> to start
 
-![om4.2-omwelcome-01.jpg](/images/om4.2-omwelcome-01.jpg)
+![omlx43.doc.omwelcome-02.jpg](/images/omlx43.doc.omwelcome-02.jpg)
 
 The second screen will show some detailed technical features of OpenMandriva Lx.
 
-Click on <kbd>Next</kbd>
+ <kbd>Next</kbd>
 
-![om4.2-omwelcome-02.jpg](/images/om4.2-omwelcome-02.jpg)
+![omlx43.doc.omwelcome-03.jpg](/images/omlx43.doc.omwelcome-03.jpg)
 
 OM Features will introduce you the OpenMandriva-specific applications
 
-Click on <kbd>Next</kbd>
+ <kbd>Next</kbd>
 
-![om4.2-omwelcome-03.jpg](/images/om4.2-omwelcome-03.jpg)
+![omlx43.doc.omwelcome-04.jpg](/images/omlx43.doc.omwelcome-04.jpg)
 
 This is the first screen where we will be able to configure and customize the system, very useful especially for new OpenMandriva Lx users who will have at their fingertips everything they need to:
 
@@ -50,37 +50,38 @@ This is the first screen where we will be able to configure and customize the sy
 - Configure your printer
 - Desktop Themes
 - Desktop Icons
-- And a direct access to our main Configuration tool OpenMandriva Control Center
+- And a direct access to our main Configuration tool [OpenMandriva Control Center](/distribution/software/om-cc)
 
-Click on <kbd>Next</kbd>
+ <kbd>Next</kbd>
 
-![om4.2-omwelcome-04.jpg](/images/om4.2-omwelcome-04.jpg)
+![omlx43.doc.omwelcome-05.jpg](/images/omlx43.doc.omwelcome-05.jpg)
 
 From this page we will be able to install various applications for different group
 
-> **You may need to [enable the relevant repository](/doc/repositories_tldr)**
-{.is-warning}
 
+![omlx43.doc.omwelcome-06.jpg](/images/omlx43.doc.omwelcome-06.jpg)
 
-![om4.2-omwelcome-05.jpg](/images/om4.2-omwelcome-05.jpg)
+![omlx43.doc.omwelcome-07.jpg](/images/omlx43.doc.omwelcome-07.jpg)
 
-![om4.2-omwelcome-06.jpg](/images/om4.2-omwelcome-06.jpg)
+![omlx43.doc.omwelcome-08.jpg](/images/omlx43.doc.omwelcome-08.jpg)
 
-![om4.2-omwelcome-07.jpg](/images/om4.2-omwelcome-07.jpg)
+![omlx43.doc.omwelcome-09.jpg](/images/omlx43.doc.omwelcome-09.jpg)
 
-![om4.2-omwelcome-08.jpg](/images/om4.2-omwelcome-08.jpg)
+![omlx43.doc.omwelcome-10.jpg](/images/omlx43.doc.omwelcome-10.jpg)
 
-![om4.2-omwelcome-09.jpg](/images/om4.2-omwelcome-09.jpg)
+![omlx43.doc.omwelcome-11.jpg](/images/omlx43.doc.omwelcome-11.jpg)
 
-![om4.2-omwelcome-10.jpg](/images/om4.2-omwelcome-10.jpg)
+![omlx43.doc.omwelcome-12.jpg](/images/omlx43.doc.omwelcome-12.jpg)
 
-by pressing the <kbd>Next</kbd> button again, we get the OpenMandriva links page, from where you can reach all parts of the OMA wide world, and maybe you will find your way to contribute to the project.
+![omlx43.doc.omwelcome-13.jpg](/images/omlx43.doc.omwelcome-13.jpg)
 
-![om4.2-omwelcome-11.jpg](/images/om4.2-omwelcome-11.jpg)
+by pressing <kbd>Next</kbd> again, we get the OpenMandriva links page, from where you can reach all parts of the OMA wide world, and maybe you will find your way to contribute to the project.
 
-Click on <kbd>Next</kbd>
+![omlx43.doc.omwelcome-14.jpg](/images/omlx43.doc.omwelcome-14.jpg)
+
+ <kbd>Next</kbd>
 
 And finally the informations about this OpenMandriva brand-name application
 
-![om4.2-omwelcome-12.jpg](/images/om4.2-omwelcome-12.jpg)
+![omlx43.doc.omwelcome-15.jpg](/images/omlx43.doc.omwelcome-15.jpg)
 

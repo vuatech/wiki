@@ -2,9 +2,9 @@
 title: Governance
 description: 
 published: true
-date: 2020-12-21T23:52:03.471Z
-tags: 
-editor: undefined
+date: 2022-04-01T20:42:46.609Z
+tags: documentation, association
+editor: markdown
 dateCreated: 2020-03-12T10:57:24.936Z
 ---
 
@@ -13,7 +13,7 @@ dateCreated: 2020-03-12T10:57:24.936Z
 The OpenMandriva Association *(OMA)* is comprised of a number of organs: the Council, the Advisory Board, the Technical Committee and the Members Assembly.
 
 The Council outlines the overall purpose, structure, and processes for OMA.
-The [Statutes](/doc/statutes-constitution-fr) & [Bylaws](/doc/bylaws) of OMA document the policies and procedures of the Association as a non-profit organization of 1901 French Law.
+The [Statutes](/team/association/statutes) & [Bylaws](/team/association/bylaws) of OMA document the policies and procedures of the Association as a non-profit organization of 1901 French Law.
 
 ## Council
 The council tends to meet two times every month @ IRC conference (#openmandriva @ freenode) to discuss various topics pertaining to the regular activities of the Association and OpenMandriva Lx distribution.

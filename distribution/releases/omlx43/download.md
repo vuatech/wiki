@@ -2,7 +2,7 @@
 title: Download OpenMandriva Lx 4.3
 description: Get OpenMandriva Lx
 published: true
-date: 2022-02-08T14:16:58.976Z
+date: 2022-02-08T14:17:01.105Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z

@@ -2,9 +2,9 @@
 title: Releases pages creation documentation
 description: 
 published: true
-date: 2020-12-21T23:52:20.803Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:47:46.114Z
+tags: documentation, wiki
+editor: markdown
 dateCreated: 2020-03-07T18:55:42.072Z
 ---
 

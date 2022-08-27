@@ -2,13 +2,13 @@
 title: Requirements
 description: What do you need for OpenMandriva Lx installation
 published: true
-date: 2021-09-30T07:22:59.849Z
+date: 2022-03-24T11:28:12.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-30T07:22:36.791Z
 ---
 
-# Minimum configuration:
+# Minimum configuration
 
 OpenMandriva Lx goal is to take advantage of recent hardware, so you should not consider it as a solution for
 
@@ -31,4 +31,4 @@ While Linux generally needs much less resources than Windows and MacOS X to work
 
 So the easiest is to adapt the hardware you need following the requirements of the software you want to use.
 
-Today (second half of 2021) we can consider to be comfortable with having at least 8 GB
+Today (second half of 2021) we can consider to be comfortable with having at least 8 GB of RAM

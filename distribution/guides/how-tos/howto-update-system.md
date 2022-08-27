@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2021-02-19T15:43:53.051Z
+date: 2021-09-26T21:37:12.101Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z

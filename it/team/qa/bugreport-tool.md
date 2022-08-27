@@ -2,7 +2,7 @@
 title: Strumento Bug report per OpenMandriva Lx
 description: 
 published: true
-date: 2021-03-10T16:47:18.423Z
+date: 2021-09-26T21:49:31.836Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2021-03-10T16:47:18.423Z

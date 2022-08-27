@@ -2,7 +2,7 @@
 title: How to feeling like macOS Mojave (Desktop Presets)
 description: 
 published: true
-date: 2021-03-14T19:25:32.918Z
+date: 2021-09-26T21:30:09.145Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-03-14T19:25:32.918Z

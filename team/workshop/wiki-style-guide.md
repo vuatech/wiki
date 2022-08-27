@@ -2,7 +2,7 @@
 title: Wiki Style Guide
 description: 
 published: true
-date: 2022-01-24T19:17:08.644Z
+date: 2022-01-24T19:17:12.061Z
 tags: documentation, wiki
 editor: markdown
 dateCreated: 2020-03-07T09:08:09.534Z

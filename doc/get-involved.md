@@ -2,10 +2,10 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2020-12-21T23:52:01.556Z
+date: 2022-03-25T10:31:59.542Z
 tags: 
-editor: ru ru
-dateCreated: 2020-03-07T22:20:10.935Z
+editor: markdown
+dateCreated: 2022-03-03T08:54:58.749Z
 ---
 
 # How to contribute to OpenMandriva
@@ -17,7 +17,7 @@ dateCreated: 2020-03-07T22:20:10.935Z
 
 
 ### Development
-Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, [join IRC channels](/doc/chat-faq), and have a look at the [bug-tracking system](http://issues.openmandriva.org/) to get in touch with the developers community and get things done
+Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, [join IRC channels](/team/chat), and have a look at the [bug-tracking system](https://github.com/OpenMandrivaAssociation/distribution/issues) to get in touch with the developers community and get things done
 
 ### Writing
 Help us improve the [documentation](https://wiki.openmandriva.org/t/documentation?sort=title), wiki materials and communication
@@ -29,10 +29,10 @@ Translators, help us [translate](https://www.transifex.com/openmandriva/public/)
 Participate in the [forum](https://forum.openmandriva.org/), write your experience with OMLx, share your knowledge, publish your desktop screenshots, help the users ...or even just chat
 
 ### Issue reporting and Bug triaging
-[Report bugs](http://issues.openmandriva.org/) to the developers or help with the triage
+[Report bugs](https://github.com/OpenMandrivaAssociation/distribution/issues/new/choose) to the developers or help with the triage
 
 ### Quality Assurance
-Join the [QA Team](/dev/om-qa), test new software and report back to the developers so to improve our distribution and make it perfect
+Join the [QA Team](/team/qa/getting-started), test new software and report back to the developers so to improve our distribution and make it perfect
 
 ### Design
 Designers are required for this website, web services, Association, and products just like OpenMandriva Lx
@@ -46,7 +46,7 @@ Want to set up a mirror, donate some servers?
 We need you! Please contact us
 
 ## Spread the Word
-Use our [materials](/doc/artwork) to spread the word, our products and values on your blog, website, social network, etc.
+Use our [materials](/team/artwork) to spread the word, our products and values on your blog, website, social network, etc.
 Develop new materials for the community to spread the word of OpenMandriva and Free Software
 [Follow](/community/portal) and share our activity and products on Social Networks
 Get on the free software promotion and help us in helping all the free software community

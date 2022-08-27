@@ -2,9 +2,9 @@
 title: Bots
 description: 
 published: true
-date: 2020-12-21T23:53:46.589Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:26:26.802Z
+tags: documentation, infra
+editor: markdown
 dateCreated: 2020-05-02T09:00:09.523Z
 ---
 

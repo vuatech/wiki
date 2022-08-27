@@ -2,9 +2,9 @@
 title: Посебни стилски водич OpenMandriva викија
 description: 
 published: true
-date: 2020-12-22T00:27:20.691Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:03:09.572Z
+tags: документација, политика, вики, какода
+editor: markdown
 dateCreated: 2020-12-22T00:27:18.796Z
 ---
 

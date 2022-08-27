@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2022-01-24T11:34:36.373Z
+date: 2022-03-24T09:02:56.651Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -15,22 +15,13 @@ dateCreated: 2020-02-27T22:08:23.833Z
 ### OpenMandriva Lx 4.3
 ![omlx4.3-240px.png](/images/omlx4.3-240px.png)
 **Codename Dysprosium**
-Release: dd mm 2022
-,
-,
-,
-,
+Release: 07 Feb 2022
 <br>
 
 ### OpenMandriva Lx 4.2
 ![omlx4.2-240px.png](/images/omlx4.2-240px.png)
 **Codename Argon**
 Release: 12 February 2021
-
-- [Overview](/releases/omlx42)
-- [What's New](/releases/omlx42/new)
-- [Release Notes](/releases/omlx42/notes)
-- [Errata](/releases/omlx42/errata)
 <br>
 
 ## Previous releases

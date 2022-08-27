@@ -2,20 +2,11 @@
 title: Artwork
 description: 
 published: true
-date: 2020-12-21T23:51:53.968Z
-tags: 
-editor: undefined
+date: 2022-03-25T14:22:48.290Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-03-08T07:52:00.113Z
 ---
-
-<div style="height: 80px; width: 100%; background:#2080BB; text-align:right; min-height:36px;">
-<img src="/assets/header-artwork.png">
-</div>
-<div style="margin: 6px 0; height: 2px; width: 100%; background-color: #E2266E;"></div>
-
-
-# Artwork 
-<br>
 
 ## Logo
 

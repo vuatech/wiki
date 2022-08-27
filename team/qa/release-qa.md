@@ -2,9 +2,9 @@
 title: OpenMandriva Release QA
 description: 
 published: true
-date: 2020-12-21T23:51:48.265Z
-tags: 
-editor: undefined
+date: 2022-03-31T08:02:08.890Z
+tags: releases, policies, qa
+editor: markdown
 dateCreated: 2020-03-02T14:44:03.923Z
 ---
 
@@ -15,52 +15,48 @@ dateCreated: 2020-03-02T14:44:03.923Z
 
 
 ## ISO Install
-#### Installation
+### Installation
 The distribution should boot from the DVD ISO
 The distribution should boot from a basic memory stick created using
 `dd if=”openmandriva iso” of=”dev/sd*” bs=4M`
 
-The graphical and text installs should function as specified.
+The graphical and text installs should function as specified
 
 The install process must work in different languages i.e. no missing translations.
-Alternative keyboard layouts must work.
+Alternative keyboard layouts must work
 
-#### Graphical Install
-The graphical install should occur at the most suitable resolution and colour resolution available from the system a minimum resolution of 1024 x 768 should be supported.
+### Graphical Install
+The graphical install should occur at the most suitable resolution and colour resolution available from the system a minimum resolution of 1024 x 768 should be supported
 
-#### Administration and Artwork
-The name of the release should be the current one.
-The licence agreement should display and be correct in it’s wording.  (sign off docs reqd)
-The release notes should be current for the release in question and should be labelled as such. (sign off docs reqd)
-All artwork must be that approved for the current release. (sign off docs reqd)
+### Administration and Artwork
+The name of the release should be the current one
+The licence agreement should display and be correct in its wording
+The release notes should be current for the release in question and should be labelled as such
+All artwork must be that approved for the current release
 
-#### General Properties
-No installation action requiring user intervention should appear off-screen for the resolution chosen (OK buttons; APPLY buttons, etc).
-Where possible the user should be able to return to the previous step in the installation process. Where this is not possible the user should be warned that there is no reversion or possibility of revision from the next step (i.e. partition formatting).
+### General Properties
+No installation action requiring user intervention should appear off-screen for the resolution chosen (OK buttons; APPLY buttons, etc)
+Where possible the user should be able to return to the previous step in the installation process. Where this is not possible the user should be warned that there is no reversion or possibility of revision from the next step (i.e. partition formatting)
 
-#### Boot Manager
-The boot manager must work for other OS installs
-The boot manager must properly update should an alternative kernel be installed.
+### Hardware
+The release must install on designated hardware platforms
 
-#### Hardware
-The release must install on designated hardware platforms.
-
-#### Network
+### Network
 Both wired and wireless configuration should be achievable with minimal user interaction
 
-#### Repositories
-If network is available the install process should successfully add them to the package manager
+### Repositories
+\-
 
-#### X-Server
+### X-Server
 Automatic set-up of the X-server should function where drivers are not functional for the installed card the X-server should default to the VESA driver to provide a fail-safe option.
 
-#### Window Manager
+### Window Manager
 The chosen window should install without error if this fails an alternative basic window manager should be offered. Automatic start-up of the window manager should be offered during the install.
 
-#### Printing
+### Printing
 The cups server should be installed during the install process.
 
-#### Sound
+### Sound
 The sound server should install automatically audible confirmation for the user should confirm this. If there is no sound card or if sound installation fails an appropriate message should be displayed.
 
 #### User Setup
@@ -69,17 +65,19 @@ The installer should force the creation of at least one user.
 
 
 ## Start Up
-#### Initial Boot
+### Initial Boot
 The boot flash should display properly on the monitor there should be no displacement of the image.
 
+### Boot Manager
+The boot manager must work for other OS installs
+The boot manager must properly update should an alternative kernel be installed
 The boot manager should show the proper options for boot as a minimum:
 
 *Open-Mandriva Linux
 Failsafe boot (boot to single user root terminal)
-Rescue system
-SuperGrub Iso?*
+Rescue system*
 
-#### Graphical Login
+### Graphical Login
 The graphical login manager should display all users (excluding system users).
 The chosen user should be the one that last logged in. In the case of a new installation it it should be the first entry when users are sorted alphabetically (a to z)
 The keyboard cursor should start in the password text entry box.
@@ -87,21 +85,21 @@ If a shutdown/general purpose menu is included all functions must operate correc
 The login manager must not allow access to the window manager without a password.
 It should be possible to start a CLI interface login from the graphical login manager.
  
-#### Window Manager
+### Window Manager
 After login the chosen window manager should startup without error
 Visible indication of USB plugged devices should be easily seen. (including wireless and wired network devices)
 In the case of USB disk/cdrom/memory drives these should all mount cleanly for the following  filesystems ext2, ext3, ext4, fat32, ntfs3g and any encrypted file system drivers that may be included with the operating system.
 
-#### Servers
+### Servers
 As a minimum Samba, Cups, ssh, nfs and ftp servers must function correctly
 
-#### Software Maintenance
-The auto-update system must function correctly when internet access is available.
+### Software Maintenance
+The auto-update system must function correctly when internet access is available
 
-#### Configuration
-The Open Mandriva drakconf system should be fully operational.
+### Configuration
+The Open Mandriva Control Center should be fully operational
 
-#### Graphical Core Applications
+### Graphical Core Applications
 The following list of applications should start without error and have the minimum of bugs.
 
 #### System
@@ -120,18 +118,17 @@ Okular
 Falkon
 Firefox
 Chromium
-Chromium-pepper-flash
 Browser Plugins
 PDF support
 Java
 Kmail
 Mozilla Thunderbird
-Konversation IRC Client
+IRC Client
 
 #### File Management
 Dolphin
 (built in network access must also function)
-Krusader
+Midnight Commander
 
 #### File Editors
 Kwrite
@@ -153,10 +150,10 @@ DigiKam
 ...
 
 #### Utilities
+Open Mandriva Welcome should be fully operational
 ...
 
 #### CLI Core Applications
-
 mc
 vim
 ed
@@ -191,16 +188,16 @@ python
 - All the programs listed above must be functional and able to open, process, close and save a file where appropriate. There must be no outstanding security issues.
 - There must be no bugs that seriously compromise the functionality of the system as far as the user is concerned for the core packages listed above. Bugs in supplementary packages and contrib that do not adversely affect the running for the os may be tolerated. Bugs that will not be tolerated are excessive disk usage, high system resource consumption, memory leaks, window manager lockup and and any form of system freeze.
 - It must be possible to install a different kernel from the OM repository without problems.  The kernel installation script must properly update the boot manager and show the availability of the new kernel in the boot up screen. The original kernel must be renamed in such a manner as to make it clear that this was the original default kernel. The symbolic links which point to the default kernel must be properly updated.
-- It must be possible to use the dkms system to update the drivers available in the default distribution this should include the available proprietary graphics drivers;
 - It must be possible to achieve network connectivity and where available be able to access the Internet. This should be possible for both wireless and wired connections;
 - No commonly used server must fail to start;
 - The system must be able to print from all applications that provide this service;
+- The Software Repository Selector (om-repo-picker) should be fully operational;
 - The packaging system and repos must be operational including OpenMandriva auto update;
 - ISOs submitted for release must be properly named and dated.
 
 
 ## Checklist
-QA Team and testers are encouraged to produce a detailed checklist for ISO with list of detected bugs.<br />
+QA Team and testers are encouraged to produce a detailed [checklist](https://github.com/OpenMandrivaAssociation/distribution/wiki/QA-Checklist-for-QA-and-testers) for ISO with list of detected bugs.<br />
 It should contain typical use cases like:
 
 1. Does iso burns on usb stick

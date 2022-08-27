@@ -2,9 +2,9 @@
 title: Come impostare l'avatar utente su OMLx
 description: 
 published: true
-date: 2020-12-21T23:54:12.555Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:27:24.918Z
+tags: documentation, howto, user-guide
+editor: markdown
 dateCreated: 2020-05-04T11:11:04.498Z
 ---
 

@@ -2,9 +2,9 @@
 title: OpenMandriva TM licence EN
 description: 
 published: true
-date: 2020-12-21T23:52:14.961Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:19:45.015Z
+tags: documentation
+editor: markdown
 dateCreated: 2020-03-01T12:57:55.974Z
 ---
 

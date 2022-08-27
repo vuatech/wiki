@@ -2,7 +2,7 @@
 title: OpenMandriva Lx Rolling Release Notes
 description: 
 published: true
-date: 2021-04-24T05:53:55.903Z
+date: 2021-09-26T22:01:12.355Z
 tags: rolling
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z

@@ -2,7 +2,7 @@
 title: How to feeling like Windows 10 (Desktop Presets)
 description: 
 published: true
-date: 2021-03-14T21:31:51.833Z
+date: 2021-09-26T21:31:07.367Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-03-14T21:03:54.274Z

@@ -2,9 +2,9 @@
 title: How to get a list of the latest updates
 description: 
 published: true
-date: 2020-12-21T23:52:59.249Z
-tags: 
-editor: undefined
+date: 2021-09-26T21:33:27.191Z
+tags: documentation, howto, user-guide
+editor: markdown
 dateCreated: 2020-03-09T19:41:11.057Z
 ---
 

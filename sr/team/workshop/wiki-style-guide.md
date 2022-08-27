@@ -2,9 +2,9 @@
 title: Стилски водич за вики
 description: 
 published: true
-date: 2020-12-22T13:00:25.496Z
-tags: 
-editor: undefined
+date: 2021-09-26T22:02:28.868Z
+tags: документација, вики
+editor: markdown
 dateCreated: 2020-12-22T00:27:26.719Z
 ---
 
