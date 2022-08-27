@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-08-27T22:33:35.261Z
+date: 2022-08-27T23:10:28.103Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -32,18 +32,9 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 
 ## User Guide
 
-<!-- - [The Basics *Learn how to use it.*](/distribution/guide/intro) -->
-<!-- - [Usage *Dive deeper in the environment*](/distribution/guide/structure) -->
 - [Software management *How to add and remove software.*](/distribution/guides/software-management)
 - [How-tos *Convenient list of guides and how-to.*](/distribution/guides/how-tos)
 {.links-list}
-
-<!-- ## Administration
-
-- [:globe_with_meridians: Locales *Manage the languages and units of your environement.*](/distribution/administration/locales)
-- [:busts_in_silhouette: User Groups *Permissions and access rights.*](/distribution/administration/groups)
-- [:wrench: Troubleshooting *Solutions to common issues.*](/distribution/administration/troubleshooting)
-{.links-list} -->
 
 # Join the team
 
@@ -53,14 +44,11 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 
 ## Developers
 
-<!-- [:book: Getting Started *How to join the development team.*](/team/dev)-->
 - [:woman_cook: Cooker *The development environment distribution.*](/team/dev/cooker)
-\-<!-- [:closed_book: Modules *Learn how to create a package.*](/team/dev/packages/)-->
 {.links-list}
 
 ## Workflow
 - [:globe_with_meridians: Mirroring *How are set mirror for fast packages downloading*](/en/team/infra/mirroring)
-\-<!-- [:symbols: Localization *Improve language and regional settings*](/team/l10n/)-->
 {.links-list}
 
 ## Contact us
@@ -69,8 +57,5 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 - [:bulb: Suggest a New Feature *We need your ideas!*](/team/chat)
 - [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://www.openmandriva.org/en/Donate)
 {.links-list}
-
-<!--# Policies -->
-
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
