@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2022-03-24T09:02:56.651Z
+date: 2022-09-07T06:49:43.592Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -10,25 +10,32 @@ dateCreated: 2020-02-27T22:08:23.833Z
 
 # OpenMandriva Releases
 
-## Current stable release
+## Current releases
+<br>
 
-### OpenMandriva Lx 4.3
+### OpenMandriva Lx ROME
+![omlx-rome-240px.jpg](/images/omlx-rome-240px.jpg)
+**Rolling**
+Release: September 2022
+<br>
+
+### [OpenMandriva Lx 4.3](/distribution/releases/omlx43/download)
 ![omlx4.3-240px.png](/images/omlx4.3-240px.png)
 **Codename Dysprosium**
 Release: 07 Feb 2022
 <br>
 
+## Previous releases
+
 ### OpenMandriva Lx 4.2
 ![omlx4.2-240px.png](/images/omlx4.2-240px.png)
-**Codename Argon**
+Codename Argon
 Release: 12 February 2021
 <br>
-
-## Previous releases
  
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
-**Codename Mercury**
+Codename Mercury
 Release: 02 February 2020
 <br>
 
