@@ -2,7 +2,7 @@
 title: Download OpenMandriva Lx 4.2
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-07T06:52:07.106Z
+date: 2022-09-07T06:53:27.622Z
 tags: guide, installation
 editor: markdown
 dateCreated: 2021-10-05T15:02:19.327Z
@@ -10,7 +10,7 @@ dateCreated: 2021-10-05T15:02:19.327Z
 
 # Download OpenMandriva Lx 4.2
 
-[Download other release](/distribution/releases)
+[Download current release](/distribution/releases)
 
 ## Which version should I download
 
