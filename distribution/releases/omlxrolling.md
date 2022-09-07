@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME
 description: OpenMandriva rolling release
 published: true
-date: 2022-09-07T07:00:52.966Z
+date: 2022-09-07T07:03:22.326Z
 tags: rolling
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-24T05:47:33.989Z
 
 # Overview
 
-OpenMandriva Lx Rolling is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
+OpenMandriva Lx ROME is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
 
 
 [![omlx.rolling-login.jpg](/images/omlx.rolling-login.jpg =400x)](/images/omlx.rolling-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
