@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Release Notes
 description: 
 published: true
-date: 2022-09-13T20:36:14.963Z
+date: 2022-09-13T21:01:12.297Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
