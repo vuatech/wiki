@@ -1,19 +1,18 @@
 ---
-title: 
+title: OpenMandriva Lx ROME New
 description: 
 published: true
-date: 2022-09-13T21:04:54.733Z
+date: 2022-09-13T21:07:06.635Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
 ---
 
-# OpenMandriva Lx ROME New
+## What's New in ROME?
+ROME is a new release from the OpenMandriva Association. [Codename](/policies/codename) ROME.
 
 It is recommended that you read the latest [release notes](/distribution/releases/omlxrolling/notes) on our wiki. 
 
-## What's New in ROME?
-ROME is a new release from the OpenMandriva Association. [Codename](/policies/codename) ROME.
 
 ## Main features
 
