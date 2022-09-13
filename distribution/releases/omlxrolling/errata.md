@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Errata
 description: 
 published: true
-date: 2022-09-13T21:10:06.920Z
+date: 2022-09-13T21:28:26.342Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
