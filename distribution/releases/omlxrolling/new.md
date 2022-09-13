@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME New
 description: 
 published: true
-date: 2022-09-13T21:13:28.167Z
+date: 2022-09-13T21:28:14.453Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
@@ -25,7 +25,7 @@ It is recommended that you read the latest [release notes](/distribution/release
 <br />
 
 ### Display subsystem
-- Xorg - Who knows?
+- Xorg - 21.1.4
 - Wayland 1.21.0 [*(more information)*](https://wayland.freedesktop.org/releases.html)
 - Mesa 22.2.0 [*(more information)*](http://www.mesa3d.org/)
 <br />
