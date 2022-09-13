@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-05-29T19:37:11.619Z
+date: 2022-09-13T20:59:15.046Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -16,6 +16,7 @@ dateCreated: 2021-04-24T05:21:24.743Z
 As with any release, there are still issues and bugs that may not have been resolved.
 This page documents those that may cause inconvenience and where possible details
 how they may be worked around.
+<br />
 
 ## Known Issues and workarounds
 <br />
@@ -31,6 +32,7 @@ These can not be supported by OpenMandriva for a number of reasons.
 Installing and maintaining any proprietary nVidia drivers is solely the users option and
 responsibility. 
 There are community supported nvidia drivers available in non-free repository.
+<br />
 ### NVME SSDs
 
 There is a well known problem with some (especially newer) NVME SSDs and PCIE devices
@@ -58,9 +60,12 @@ If (NVME APST=OFF) worked then add instead:
 
 As always users are encouraged to ask questions about anything you do not understand
 on our [forum](https://forum.openmandriva.org/).
+<br />
+
 ### GEOIP
 
 Installer automatic GEOIP setting may not set the timezone correctly.
+<br />
 
 ### How to configure printer
 
@@ -85,11 +90,13 @@ $ sudo dnf install task-printing-okidata
 Now turn printer on again and it should then automatically configure itself (sometimes you
 might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers aka `kcmshell5 kcm_printer_manager`.
 If not seek help [here](https://forum.openmandriva.org/c/en/support).
+<br />
 
 ### Discover new software
 
 If you want to explore also additional repositories packages you will need to enable them
 by means of Software Repository Selector and to refresh cache.
+<br />
 
 ### Multiboot
 
@@ -112,21 +119,25 @@ Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva
 system.
 As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
 we will report in Errata for our OMLx Releases.
+<br />
 
 ### Pipewire sound server
 
 Some users may experience issues with the new Pipewire sound server. If so user may switch to the older pulseaudio sound server. To do this open Konsole and run the following copy and paste command:
 
 `$ sudo dnf remove pipewire-pulse ; sudo dnf install pulseaudio-server`
+<br />
 
 ### Updating Firefox
 
 OpenMandriva's stable release aka Rock does not normally get updates to system and tool-chain packages. Because of this and because of how Mozilla develops Firefox sometimes Firefox packages will no longer build for our stable release. For users concerned about not having the latest version of Firefox a workaround is to install from [mozilla.org](https://www.mozilla.org/) the latest version of Firefox RR (Rapid Release) or [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) the latest version of Firefox ESR (Extended Support Release) version which gets all security updates but not feature updates.
+<br />
 
 ### Zypper
 
 The package zypper-needs-restarting may conflict with dnf-utils if installed.
 As a workaround remove dnf-utils.
+<br />
 
 ### Bluetooth
 
@@ -134,10 +145,12 @@ For bluetooth devices user may need to enable systemd bluetooth.service. Open Ko
 and run:
 
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
+<br />
 
 ## What to do if I have a problem
 
 Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+<br />
 
 ## Helping the project
 
@@ -152,7 +165,8 @@ New contributors who would like to help with these wide-ranging tasks should see
 for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
 It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate)
 to keep the lights on!
-
+<br />
 
 ## Please read also
 [OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes).
+<br />
