@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Errata
 description: 
 published: true
-date: 2022-09-13T20:59:28.761Z
+date: 2022-09-13T21:01:21.121Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -179,5 +179,5 @@ to keep the lights on!
 <br />
 
 ## Please read also
-[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes).
+[ROME Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/notes).
 <br />
