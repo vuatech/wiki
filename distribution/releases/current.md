@@ -2,7 +2,7 @@
 title: Current releases
 description: 
 published: true
-date: 2022-09-13T21:35:57.719Z
+date: 2022-09-13T21:36:37.347Z
 tags: releases
 editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
@@ -12,7 +12,7 @@ dateCreated: 2020-09-08T07:13:51.704Z
 <br>
 
 ## Current stable release
-### ROME (Best for individual users)
+### ROME - Best for individual users
 - [Overview](/distribution/releases/omlxrolling)
 - [What's New](/distribution/releases/omlxrolling/new)
 - [Release Notes](/distribution/releases/omlxrolling/notes)
@@ -20,7 +20,7 @@ dateCreated: 2020-09-08T07:13:51.704Z
 <br>
 
 ## Current stable release
-### RockBest for business, server, and users that do not like change
+### Rock - Best for business, server, and users that do not like change
 
 ### OpenMandriva Lx 4.3 Dysprosium
 - [Overview](/distribution/releases/omlx43)
