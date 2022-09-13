@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Errata
 description: 
 published: true
-date: 2022-09-13T21:28:26.342Z
+date: 2022-09-13T21:29:17.825Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -131,8 +131,8 @@ Some users may experience issues with the new Pipewire sound server. If so user 
 <br />
 
 ### Zypper
-The package zypper-needs-restarting may conflict with dnf-utils if installed.
-As a workaround remove dnf-utils.
+The package `zypper-needs-restarting` may conflict with `dnf-utils` if installed.
+As a workaround remove `dnf-utils`.
 <br />
 
 ### Bluetooth
