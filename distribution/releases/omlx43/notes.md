@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-08-06T19:32:18.328Z
+date: 2022-09-13T18:44:57.556Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -108,7 +108,7 @@ Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) tru
 - Via dd
 You may alternatively dd the image to your USB stick:
 
-$ sudo dd if=<iso_name> of=<usb_drive> bs=4M
+`$ sudo dd if=<iso_name> of=<usb_drive> bs=4M conv=fdatasync status=progress`
 
 Replace <iso_name> with the path to the ISO and <usb_drive> with the device node of the USB drive, i.e. /dev/sdb.
 
