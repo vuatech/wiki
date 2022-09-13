@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Release Notes
 description: 
 published: true
-date: 2022-09-13T19:45:36.921Z
+date: 2022-09-13T20:28:21.497Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -160,7 +160,7 @@ In order to keep current with latest changes in Linux, computer security issues,
 
 - The kernel has been updated to 5.19.8
 - KDE products have been updated: Frameworks 5.98.0, Plasma Desktop 5.25.5, KDE Gear
-21.12.2
+22.08.1
 - Qt 5.15.6 with all patches proposed by KDE
 - Mesa 22.2.0
 - FFMPEG to 5.1
