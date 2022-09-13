@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME Release Notes
 description: 
 published: true
-date: 2022-09-13T20:28:21.497Z
+date: 2022-09-13T20:36:14.963Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -73,7 +73,7 @@ No official recommendation is made at this time for storage partitions or for a 
 
 **NVME SSDs**
 
-Some NVME SSDs are normall recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. See more in Errata/NVME SSDs. This issue is of course very hardware specific. 
+NVME SSDs are normally recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. See more in Errata/NVME SSDs. This issue is of course very hardware specific. 
 
 **Installer and EFI Support**
 
