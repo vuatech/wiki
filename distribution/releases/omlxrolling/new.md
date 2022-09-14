@@ -1,8 +1,8 @@
 ---
-title: OpenMandriva Lx ROME New
+title: OpenMandriva ROME New
 description: 
 published: true
-date: 2022-09-13T21:37:28.452Z
+date: 2022-09-14T06:43:47.217Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
@@ -64,3 +64,4 @@ OpenMandriva provides a clang compiled kernel. Users can install same version of
 The port to aarch64 (64-bit ARM processors) is completed, making it possible to build [energy efficient PC replacements for less than $150](https://videos.openmandriva.org/videos/watch/4e135a39-4232-4d85-999c-e349ba8a7bd9).
 Installable images are available for the PinebookPro, Raspberry Pi 4B and 3B+, Rock Pi 4A, 4B and 4C, Synquacer, Cubox Pulse and generic UEFI compatible devices, such as most aarch64 server boards. More aarch64 hardware support will follow shortly. This port also enables us to target a smartphone for the first time - an image running on the PinePhone is available (but should not yet be considered final quality).
 <br>
+![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
