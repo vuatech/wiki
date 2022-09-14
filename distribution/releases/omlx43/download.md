@@ -2,7 +2,7 @@
 title: Download OpenMandriva Lx 4.3
 description: Get OpenMandriva Lx
 published: true
-date: 2022-02-08T14:17:01.105Z
+date: 2022-09-14T00:43:44.493Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -13,6 +13,20 @@ dateCreated: 2022-02-07T23:16:57.591Z
 Currently the most common hardware is 64 bits architectures PC — Intel / AMD — also know as x86\_64. 
 
 Choosing another architecture certainly means that you already know what you’re doing.
+
+## Available ROME versions are
+
+- **x86_64**
+  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.x86_64.iso
+  - sha1sum: 499ba69520d03d7bb27d14a268e51796f0188a38
+  - For all hardware with x86_64 processor
+- **znver1**
+  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.znver1.iso
+  - sha1sum: a229d370badf56efc54f01b29aa5dd30c2078e20
+  - We have also built a version specifically for current AMD processors
+(Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
+advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
+only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
 ## Available Lx 4.3 versions are
 
