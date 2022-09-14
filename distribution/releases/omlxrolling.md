@@ -2,7 +2,7 @@
 title: OpenMandriva Lx ROME
 description: OpenMandriva rolling release
 published: true
-date: 2022-09-07T09:23:30.777Z
+date: 2022-09-14T01:30:43.590Z
 tags: rolling
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -18,7 +18,7 @@ OpenMandriva Lx ROME is the rolling release published by the OpenMandriva Associ
 
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
-You can download it at these links [Rolling x86_64](https://abf.openmandriva.org/platforms/rolling/products/7) [Rolling znver1](https://abf.openmandriva.org/platforms/rolling/products/9).
+[Download ROME](/distribution/releases/omlx43/download)
 
 ## What's New?
 See [ROME/New](/distribution/releases/omlxrolling/new)
