@@ -1,8 +1,8 @@
 ---
-title: Download OpenMandriva Lx 4.3
+title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-14T00:44:43.591Z
+date: 2022-09-14T00:54:21.498Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -14,7 +14,21 @@ Currently the most common hardware is 64 bits architectures PC — Intel / AMD �
 
 Choosing another architecture certainly means that you already know what you’re doing.
 
-## Available Lx 4.3 versions are
+## Available ROME versions are
+
+- **x86_64**
+  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.x86_64.iso
+  - sha1sum: 499ba69520d03d7bb27d14a268e51796f0188a38
+  - For all hardware with x86_64 processor
+- **znver1**
+  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.znver1.iso
+  - sha1sum: a229d370badf56efc54f01b29aa5dd30c2078e20
+  - We have also built a version specifically for current AMD processors
+(Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
+advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
+only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
+
+## Available Rock (OMLx 4.3) versions are
 
 - **x86_64**
   - iso name: OpenMandrivaLx.4.3-plasma.x86_64.iso
@@ -32,6 +46,8 @@ only, do not install znver1 on any other hardware. Example: Do not install znver
 
 ![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
 
+-  [**GO TO ROME Silver Candidate SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/5.0/ROME-Silver-Candidate/)
+
 - [**GO TO OPENMANDRIVA LX 4.3 SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/4.3/Final/)
 
 Select the release in the list, it should automatically open a download page from a mirror nearby your location.
@@ -47,6 +63,3 @@ Click on the desired version to open the details, and download torrent or iso fi
 
 > We also seed the latest releases from own seedbox to guarantee a quick downloads. Previous release downloads may be slower depending on archive.org and other remaining peer seeders.
 {.is-info}
-
-
-
