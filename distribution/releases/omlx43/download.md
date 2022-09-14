@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-14T00:54:21.498Z
+date: 2022-09-14T00:57:34.322Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -13,6 +13,9 @@ dateCreated: 2022-02-07T23:16:57.591Z
 Currently the most common hardware is 64 bits architectures PC — Intel / AMD — also know as x86\_64. 
 
 Choosing another architecture certainly means that you already know what you’re doing.
+
+ROME is a rolling release designed for individual users. ROME will have more up to date packages including recent security and bug fix upgrades.
+Rock is a stable release more suited for business, server, or those that do not like change. Rock releases get very few package upgrades during the life of each release.
 
 ## Available ROME versions are
 
