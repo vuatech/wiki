@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-09-14T01:01:52.984Z
+date: 2022-09-14T01:19:37.373Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -10,37 +10,26 @@ dateCreated: 2020-03-16T11:07:21.448Z
 
 # ROME
 
-OpenMandriva Lx ROME is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
+> ROME is the rolling release published by the OpenMandriva Association. ROME is designed for indiviual users and will have more up to date software. [Codename](/policies/codename) ROME.
+{.is-success}
 
+Release date:  [Soon](https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released) if not sooner.
+ 
+[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
 
-[![omlx.rolling-login.jpg](/images/omlx.rolling-login.jpg =400x)](/images/omlx.rolling-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![omlx.rolling-om-welc.jpg](/images/omlx.rolling-om-welc.jpg =400x)](/images/omlx.rolling-om-welc.jpg) 
+- [About *Who are we and what is OpenMandriva Lx*](/distribution)
+- [Download Now *Get OpenMandriva Lx*](/distribution/releases/omlx43/download)
+- [Learn more *about this release, including what's new and the release notes.*](/distribution/releases/omlxrolling) 
+{.links-list}
 
+# Rock (OpenMandriva Lx 4.3)
 
-**It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
-You can download latest ROME iso at these links [Rolling x86_64](https://abf.openmandriva.org/platforms/rolling/products/7) [Rolling znver1](https://abf.openmandriva.org/platforms/rolling/products/9).
-
-## What's New?
-See [ROME/New](/distribution/releases/omlxrolling/new)
-
-## Notes
-See [ROME/Release Notes](/distribution/releases/omlxrolling/notes)
-
-## Errata
-See [ROME/Errata](/distribution/releases/omlxrolling/errata)
-
-![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
-
-
-
-# OpenMandriva Lx 4.3
-
->  Latest Release: **OMLx 4.3**
+>  **Rock (OMLx 4.3)** is the business and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Dysprosium
 {.is-success}
 
 Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released)
 
-![omlx.4.2-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
+![omlx.4.3-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
 
 - [About *Who are we and what is OpenMandriva Lx*](/distribution)
 - [Download Now *Get OpenMandriva Lx*](/distribution/releases/omlx43/download)
