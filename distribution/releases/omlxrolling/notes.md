@@ -2,18 +2,18 @@
 title: OpenMandriva Lx ROME Release Notes
 description: 
 published: true
-date: 2022-09-13T21:50:13.678Z
+date: 2022-09-14T06:39:12.160Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
 ---
 
-# OpenMandriva Lx ROME Release Notes
-The OpenMandriva Lx teams are pleased to announce the availability of OpenMandriva Lx ROME.
+# OpenMandriva ROME Release Notes
+The OpenMandriva teams are pleased to announce the availability of OpenMandriva Lx ROME.
 
 ## **This page is currently a Work_In_Progres!** Updated 2022-09-13
 
-The OpenMandriva Lx teams are pleased to announce the availability of **ROME** an OpenMandriva *rolling* release meant for majority of users.
+The OpenMandriva teams are pleased to announce the availability of **ROME** an OpenMandriva *rolling* release meant for majority of users.
 <br>
 
 **Available Media**
