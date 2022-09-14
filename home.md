@@ -2,13 +2,38 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-08-27T23:10:28.103Z
+date: 2022-09-14T01:01:52.984Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
 ---
 
-# OpenMandriva Lx
+# ROME
+
+OpenMandriva Lx ROME is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
+
+
+[![omlx.rolling-login.jpg](/images/omlx.rolling-login.jpg =400x)](/images/omlx.rolling-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
+[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![omlx.rolling-om-welc.jpg](/images/omlx.rolling-om-welc.jpg =400x)](/images/omlx.rolling-om-welc.jpg) 
+
+
+**It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
+You can download latest ROME iso at these links [Rolling x86_64](https://abf.openmandriva.org/platforms/rolling/products/7) [Rolling znver1](https://abf.openmandriva.org/platforms/rolling/products/9).
+
+## What's New?
+See [ROME/New](/distribution/releases/omlxrolling/new)
+
+## Notes
+See [ROME/Release Notes](/distribution/releases/omlxrolling/notes)
+
+## Errata
+See [ROME/Errata](/distribution/releases/omlxrolling/errata)
+
+![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
+
+
+
+# OpenMandriva Lx 4.3
 
 >  Latest Release: **OMLx 4.3**
 {.is-success}
