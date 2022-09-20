@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-20T08:23:05.923Z
+date: 2022-09-20T08:26:39.616Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -14,8 +14,8 @@ Currently the most common hardware is 64 bits architectures PC â€” Intel / AMD â
 
 Choosing another architecture certainly means that you already know what you are doing.
 
-ROME is a rolling release designed for individual users. ROME will have more up to date packages including recent security and bug fix upgrades.
-Rock is a stable release more suited for business, server, or those that do not like change. Rock releases get very few package upgrades during the life of each release.
+**ROME** is a rolling release designed for individual users. ROME will have more up to date packages including recent security and bug fix upgrades.
+**Rock** is a stable release more suited for business, server, or those that do not like change. Rock releases get very few package upgrades during the life of each release.
 
 
 ## ROME
@@ -29,9 +29,7 @@ Rock is a stable release more suited for business, server, or those that do not 
   - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.znver1.iso
   - sha1sum: a229d370badf56efc54f01b29aa5dd30c2078e20
   - We have also built a version specifically for current AMD processors
-(Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
-advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
-only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
+(Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
 ## Rock
 ### Available Rock (OMLx 4.3) versions are
@@ -45,8 +43,7 @@ only, do not install znver1 on any other hardware. Example: Do not install znver
   - sha1sum: 070e41cb145989a1901bd7841b1b05f2525e2aa5
   - We have also built a version specifically for current AMD processors
 (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
-advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
-only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
+advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
 # Mirror download (sourceforge.net)
 
