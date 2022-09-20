@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-14T00:57:34.322Z
+date: 2022-09-20T08:21:31.544Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -10,14 +10,16 @@ dateCreated: 2022-02-07T23:16:57.591Z
 
 # Which version should I download
 
-Currently the most common hardware is 64 bits architectures PC — Intel / AMD — also know as x86\_64. 
+Currently the most common hardware is 64 bits architectures PC — Intel/AMD — also know as x86\_64. 
 
 Choosing another architecture certainly means that you already know what you’re doing.
 
 ROME is a rolling release designed for individual users. ROME will have more up to date packages including recent security and bug fix upgrades.
 Rock is a stable release more suited for business, server, or those that do not like change. Rock releases get very few package upgrades during the life of each release.
 
-## Available ROME versions are
+
+## ROME
+### Available ROME versions are
 
 - **x86_64**
   - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.x86_64.iso
@@ -31,7 +33,8 @@ Rock is a stable release more suited for business, server, or those that do not 
 advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) 
 only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
-## Available Rock (OMLx 4.3) versions are
+## Rock
+### Available Rock (OMLx 4.3) versions are
 
 - **x86_64**
   - iso name: OpenMandrivaLx.4.3-plasma.x86_64.iso
