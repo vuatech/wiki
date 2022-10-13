@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Release Notes
 description: 
 published: true
-date: 2022-09-13T18:44:57.556Z
+date: 2022-10-13T22:22:05.901Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:18:09.972Z
@@ -195,4 +195,5 @@ The OpenMandriva development teams (Cooker & QA) are always looking for new cont
 
 It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
 
-**Please read also [OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)**.
+## Please read also 
+[OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata).
