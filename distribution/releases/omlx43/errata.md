@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 4.3 Errata
 description: 
 published: true
-date: 2022-10-13T22:22:18.960Z
+date: 2022-10-13T22:30:51.371Z
 tags: 4.3
 editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
@@ -167,6 +167,6 @@ It also costs time and money to keep our servers up and running. If you can, ple
 to keep the lights on!
 <br />
 
-## Please read also
-[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes).
-<br />
+**Please read also**
+[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes)
+<br>
