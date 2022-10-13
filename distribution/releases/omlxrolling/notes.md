@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2022-09-14T15:35:10.783Z
+date: 2022-10-13T22:27:33.209Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -216,5 +216,6 @@ The OpenMandriva development teams (Cooker & QA) are always looking for new cont
 
 It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
 
-**Please read also [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)**.
+**Please read also**
+[ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
 <br>
