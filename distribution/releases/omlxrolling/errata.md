@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2022-09-14T15:36:03.483Z
+date: 2022-10-13T22:28:14.397Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -158,6 +158,6 @@ It also costs time and money to keep our servers up and running. If you can, ple
 to keep the lights on!
 <br>
 
-## Please read also
-[ROME Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/notes).
+**Please read also**
+[ROME Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/notes)
 <br>
