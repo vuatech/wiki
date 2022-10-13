@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-09-20T08:28:09.797Z
+date: 2022-10-13T22:27:03.048Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -31,6 +31,11 @@ Choosing another architecture certainly means that you already know what you are
   - We have also built a version specifically for current AMD processors
 (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
+**Please read also**
+[ROME Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/notes)
+[ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
+<br>
+
 ## Rock
 ### Available Rock (OMLx 4.3) versions are
 
@@ -44,6 +49,11 @@ Choosing another architecture certainly means that you already know what you are
   - We have also built a version specifically for current AMD processors
 (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking
 advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
+
+**Please read also**
+[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes)
+[OMLx 4.3 Errata](https://wiki.openmandriva.org/en/distribution/releases/omlx43/errata)
+<br>
 
 # Mirror download (sourceforge.net)
 
