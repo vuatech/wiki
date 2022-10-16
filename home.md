@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2022-10-16T09:56:48.021Z
+date: 2022-10-16T10:00:48.394Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -17,7 +17,7 @@ Release date:  [Soon](https://www.openmandriva.org/91)
  
 [![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
 
-- [About *Who are we and what is OpenMandriva Lx*](/distribution)
+
 - [Download Now *Get ROME*](/distribution/releases/omlx43/download)
 - [Learn more *about this release*](/distribution/releases/omlxrolling) 
 {.links-list}
@@ -31,14 +31,15 @@ Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/o
 
 ![omlx.4.3-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
 
-- [About *Who are we and what is OpenMandriva Lx*](/distribution)
+
 - [Download Now *Get Rock*](/distribution/releases/omlx43/download)
 - [Learn more *about this release*](/distribution/releases/omlx43) 
 {.links-list}
 
 ## Getting Started
 
-- [Release Notes ***Read Release Notes and Errata***](/distribution/install/requirements/)
+- [About *Who are we and what is OpenMandriva Lx*](/distribution)
+- [Release Notes ***Read Release Notes and Errata***](/distribution/releases/current)
 - [Requirements *Hardware prerequisites*](/distribution/install/requirements/)
 - [Installation Guide *Detailed installation instructions*](/distribution/install/)
 - [Post-installation *What to do after your installed OpenMandriva Lx*](/distribution/install/post-install)
