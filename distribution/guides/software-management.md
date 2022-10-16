@@ -2,7 +2,7 @@
 title: Software management
 description: Install and remove software
 published: true
-date: 2022-02-08T22:30:25.837Z
+date: 2022-10-16T10:32:38.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:31:21.417Z
@@ -31,9 +31,9 @@ TODO: Description of different software
 
 ## Advanced
 
-### Flatpak
-### Binary package
+* Flatpak
+* Binary package
 
 ## Expert
-### Java application
-### Software compilation
+* Java application
+* Software compilation
