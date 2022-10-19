@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2022-10-19T07:07:40.020Z
+date: 2022-10-19T07:11:33.467Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -137,7 +137,7 @@ For all OMLx ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](http
 
 ## About Repositories
 
-We have [om-repo-picker](policies/repositories-tldr) aka Software Repository Selector to select additional repositories for more package availability.
+We have [om-repo-picker](/policies/repositories-tldr) aka Software Repository Selector to select additional repositories for more package availability.
 **Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a ROME system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
 <br>
 
