@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2022-10-19T07:11:33.467Z
+date: 2022-10-19T07:15:25.947Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -117,7 +117,8 @@ It is possible to boot this release from a USB storage device. To transfer the l
 
 Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter). At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
 
-Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name. This breaks the boot process.
+> Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name. This breaks the boot process.
+{.is-danger}
 
 - Via dd
 You may alternatively dd the image to your USB stick:
