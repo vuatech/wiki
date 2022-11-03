@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2022-10-13T22:28:14.397Z
+date: 2022-11-03T20:14:38.615Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -51,6 +51,13 @@ on our [forum](https://forum.openmandriva.org/).
 ### GEOIP
 Installer automatic GEOIP setting may not set the timezone correctly.
 <br>
+
+### Add/Remove favorites to Application Launcher
+
+There is a bug with adding and removing favorites from Application Launcher
+Users may choose from 2 workarounds:
+•Add or remove  applications you wish to Favorites column in Application Launcher. Then right click on Application Launcher icon and select "Show Alternatives" and select to switch to one of the other launchers. Then right click on Application Launcher again and switch back.
+•Add or remove  applications you wish to Favorites column in Application Launcher. Then logout and login.
 
 ### How to configure printer
 Turn your printer on and see if it is automatically configured. Pay attention to whether the
