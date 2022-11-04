@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2022-10-13T22:27:03.048Z
+date: 2022-11-04T14:31:19.862Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -22,12 +22,12 @@ Choosing another architecture certainly means that you already know what you are
 ### Available ROME versions are
 
 - **x86_64**
-  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.x86_64.iso
-  - sha1sum: 499ba69520d03d7bb27d14a268e51796f0188a38
+  - iso name: OpenMandriva.rome-gold-candidate-plasma.x86_64.iso
+  - sha1sum: a129769d247bdc1ba10f0286d13efa479a2a186b
   - For all hardware with x86_64 processor
 - **znver1**
-  - iso name: OpenMandrivaLx.rome-silver-candidate-plasma.znver1.iso
-  - sha1sum: a229d370badf56efc54f01b29aa5dd30c2078e20
+  - iso name: OpenMandriva.rome-gold-candidate-plasma.znver1.iso
+  - sha1sum: 07976d66f200da3ae7f362ee7d22767c1f088db1
   - We have also built a version specifically for current AMD processors
 (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC) only, do not install znver1 on any other hardware. Example: Do not install znver1 on hardware with Intel processor. 
 
@@ -59,7 +59,7 @@ advantage of new features in those processors. znver1 is for the listed processo
 
 ![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
 
--  [**GO TO ROME Silver Candidate SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/5.0/ROME-Silver-Candidate/)
+-  [**GO TO ROME Gold Candidate SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/ROME/Gold-Candidate/)
 
 - [**GO TO OPENMANDRIVA LX 4.3 SOURCEFORGE PAGE**](https://sourceforge.net/projects/openmandriva/files/release/4.3/Final/)
 
