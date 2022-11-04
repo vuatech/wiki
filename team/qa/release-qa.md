@@ -2,7 +2,7 @@
 title: OpenMandriva Release QA
 description: 
 published: true
-date: 2022-03-31T08:02:08.890Z
+date: 2022-11-04T17:56:06.695Z
 tags: releases, policies, qa
 editor: markdown
 dateCreated: 2020-03-02T14:44:03.923Z
@@ -16,7 +16,6 @@ dateCreated: 2020-03-02T14:44:03.923Z
 
 ## ISO Install
 ### Installation
-The distribution should boot from the DVD ISO
 The distribution should boot from a basic memory stick created using
 `dd if=”openmandriva iso” of=”dev/sd*” bs=4M`
 
