@@ -2,7 +2,7 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2022-04-02T15:57:01.218Z
+date: 2022-11-10T22:22:22.554Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-02-28T17:02:32.116Z
@@ -44,14 +44,14 @@ Cooker is the development branch. This is where developers do the actual work of
 We aren't saying Cooker *might break* we say quite honestly Cooker *will break*. 
 If you are not used to problem solving on computers at a very high level Cooker is not for you.
 
-- **Rolling**
+- **ROME (Rolling)**
 
-Rolling release is still in development and not officially announced.
-At present entire Rolling release is in testing stage and not yet ready for production use.
+ROME (Rolling) release is still in development and not officially announced.
+At present entire ROME release is in testing stage and not yet ready for production use.
 
-Rolling is where developers take packages when they believe they are ready for use.
-Rolling is, as its name implies, a rolling release and will have the most up to date packages practical.
-It is designed to be a working, usable system. Rolling users need to be able to handle some problem solving on their own as with any "bleeding edge" release. Also Rolling users should be familiar with and able to use the command line or terminal (Konsole) at times.
+Developers take packages to ROME when they believe they are ready for use.
+ROME is a rolling release and will have the most up to date packages practical.
+It is designed to be a working, usable system. ROME users need to be able to handle some problem solving on their own as with any "bleeding edge" release. Also ROME users should be familiar with and able to use the command line or terminal (Konsole) at times.
 
 -   **Rock (Stable)**
 
@@ -67,7 +67,7 @@ And remember the following: On a given system use only one release.
 **Do not mix release/update channels or package conflicts are likely if not guaranteed.**
 
 The packaging workflow now is:
-`Cooker/Unstable > Rolling > Release/Stable`
+`Cooker/Unstable > ROME/Rolling > Release/Stable`
 *Remember Rock is a symlink to Latest Stable Release.*
 
 ## List of Repository files
@@ -105,7 +105,7 @@ Repository files listed alphabetically as they are on users system
 `openmandriva-rock-x86_64.repo`
 `openmandriva-rock-x86_64-source.repo`
 
-- **Rolling ("Bleeding Edge")**
+- **ROME ("Rolling very up to date")**
 
 `openmandriva-rolling-i686.repo`
 `openmandriva-rolling-i686-source.repo`
@@ -177,7 +177,7 @@ Whether to use any or all of Unsupported, Restricted, or Non-Free is user decisi
 Rolling and Cooker differ in that there is no update category for these so one would simply remove the /updates entries from the above list.
 
 For a little more explanation for Release/Stable and Rock one would be enabling either 2, 4, 6, or a maximum of 8 media categories.
-For Rolling or Cooker one would be enabling between 1 and a maximum of 4 media categories. This is in normal circumstances.
+For ROME or Cooker one would be enabling between 1 and a maximum of 4 media categories. This is in normal circumstances. (There are no updates repos for ROME or Cooker.)
 
 
 
