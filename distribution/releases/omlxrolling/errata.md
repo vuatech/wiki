@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2022-12-02T05:10:01.725Z
+date: 2022-12-02T05:12:51.749Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -91,6 +91,8 @@ might need to reboot for auto config to work). If it doesn't you can configure i
 **Alternative method to set up a printer in ROME is to use CUPS (localhost:631 as url in browser)**. *For some hardware this may work better.*
 
 If not seek help [here](https://forum.openmandriva.org/c/en/support).
+
+**Note:** If you have problems setting up a usb connected printer it may help to remove the packages `usbmuxd` and `ipp-usb`. Removing `ipp-usb` means you won’t be able to use driverless driver.
 <br>
 
 ### Discover new software
