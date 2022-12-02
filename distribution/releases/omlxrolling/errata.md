@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2022-12-02T05:12:51.749Z
+date: 2022-12-02T05:15:31.258Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -134,6 +134,7 @@ we will report in Errata for our OMLx Releases.
 ### Sound in OM VirtualBox 7.0.x
 
 Some users report issue with choppy or stuttering sound in OM VirtualBox 7.0.x package. This issue seems to be related to users hardware. Developers are aware of this problem and actively looking for a solution. Users should keep in mind that sound in VirtualBox is an emulation and the process is subject to periodic issues. *Thus using VirtualBox for multimedia is likely to have periodic problems.*
+<br>
 
 ### Pipewire sound server
 Some users may experience issues with the new Pipewire sound server. If so user may switch to the older pulseaudio sound server. To do this open Konsole and run the following copy and paste command:
