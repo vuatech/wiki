@@ -2,17 +2,16 @@
 title: OpenMandriva Lx 5.0 New
 description: 
 published: true
-date: 2022-12-26T18:22:40.448Z
+date: 2022-12-26T18:24:41.141Z
 tags: 5.0
 editor: markdown
 dateCreated: 2022-12-26T18:22:40.448Z
 ---
 
-# OpenMandriva Lx 5.0 New
-It is recommended that you read the latest [release notes](/distribution/releases/omlx50/notes) on our wiki.
-
 ## What's New in OpenMandriva Lx 5.0?
 OpenMandriva Lx 5.0 is a new release from the OpenMandriva Association. [Codename](/policies/codename) Iodine.
+
+It is recommended that you read the latest [release notes](/distribution/releases/omlx50/notes) on our wiki.
 
 ## Main features
 
