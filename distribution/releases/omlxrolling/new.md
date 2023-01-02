@@ -2,7 +2,7 @@
 title: OpenMandriva ROME New
 description: 
 published: true
-date: 2022-09-14T06:43:47.217Z
+date: 2023-01-02T18:43:18.364Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
@@ -18,22 +18,22 @@ It is recommended that you read the latest [release notes](/distribution/release
 
 ### KDE
 
-- Frameworks 5.98.0 [*(more information)*](https://kde.org/announcements/frameworks/5/5.98.0/)
-- Plasma 5.25.5 [*(more information)*](https://kde.org/announcements/plasma/5/5.25.5/)
-- KDE Gear 22.08.1 [*(more information)*](https://kde.org/announcements/gear/22.08.1/)
-- Qt 5.15.6 [*(more information)*](https://www.qt.io)
+- Frameworks 5.101.0 [*(more information)*](https://kde.org/announcements/frameworks/5/5.101.0/)
+- Plasma 5.26.4 [*(more information)*](https://kde.org/announcements/plasma/5/5.26.4/)
+- KDE Gear 22.12.0 [*(more information)*](https://kde.org/announcements/gear/22.12.0/)
+- Qt 5.15.7 [*(more information)*](https://www.qt.io)
 <br>
 
 ### Display subsystem
-- Xorg - 21.1.4
+- Xorg - 21.1.6
 - Wayland 1.21.0 [*(more information)*](https://wayland.freedesktop.org/releases.html)
-- Mesa 22.2.0 [*(more information)*](http://www.mesa3d.org/)
+- Mesa 22.3.2 [*(more information)*](http://www.mesa3d.org/)
 <br>
 
 ### Core
-- Kernel 5.19.8 [*(more information)*](https://www.kernel.org/)
-- systemd 251 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
-- LLVM/clang 15.0.0 [*(more information)*](http://llvm.org/)
+- Kernel 6.1.1 [*(more information)*](https://www.kernel.org/)
+- systemd 252 [*(more information)*](https://www.freedesktop.org/wiki/Software/systemd/)
+- LLVM/clang 15.0.6 [*(more information)*](http://llvm.org/)
 - binutils 2.39
 - gcc 12.2 [*(more information)*](https://gcc.gnu.org/)
 - glibc 2.36 [*(more information)*](http://www.gnu.org/software/libc/)
@@ -48,18 +48,18 @@ OpenMandriva provides a clang compiled kernel. Users can install same version of
 <br>
 
 ### Applications
-- LibreOffice 7.4.1
-- Falkon 22.08.1
+- LibreOffice 7.5.0 beta
+- Falkon 22.12.0
 - Firefox 104
-- Chromium browser stable 105 
-- Krita 5.1.0
+- Chromium browser stable 108 
+- Krita 5.1.4
 - Gimp 2.10.32
 - Calligra Suite 3.2.1
-- Digikam 7.7.0
+- Digikam 7.9.0
 - SMPlayer 22.7.0
-- VLC 3.0.17
-- Virtualbox 6.1.38
-- OBS Studio 28.0.1
+- VLC 3.0.18
+- Virtualbox 7.0.4
+- OBS Studio 28.1.2
 
 The port to aarch64 (64-bit ARM processors) is completed, making it possible to build [energy efficient PC replacements for less than $150](https://videos.openmandriva.org/videos/watch/4e135a39-4232-4d85-999c-e349ba8a7bd9).
 Installable images are available for the PinebookPro, Raspberry Pi 4B and 3B+, Rock Pi 4A, 4B and 4C, Synquacer, Cubox Pulse and generic UEFI compatible devices, such as most aarch64 server boards. More aarch64 hardware support will follow shortly. This port also enables us to target a smartphone for the first time - an image running on the PinePhone is available (but should not yet be considered final quality).
