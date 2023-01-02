@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2022-10-19T07:15:25.947Z
+date: 2023-01-02T18:58:18.403Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -171,28 +171,29 @@ Then press Enter key and when prompted enter your root (superuser) password. We 
 ## New Features and Major Changes
 
 In order to keep current with latest changes in Linux, computer security issues, and computer code writing there are major changes in ROME.
-- The kernel has been updated to 5.19.8
-- KDE Frameworks 5.98.0 
-- KDE Plasma Desktop 5.25.5 
-- KDE Gear 22.08.1
-- Qt 5.15.6 with all patches proposed by KDE
-- Mesa 22.2.0
-- FFMPEG to 5.1
+- The kernel has been updated to 6.1.1
+- KDE Frameworks 5.101.0 
+- KDE Plasma Desktop 5.26.4 
+- KDE Gear 22.12.0
+- Qt 5.15.7 with all patches proposed by KDE
+- Mesa 22.3.2
+- FFMPEG to 5.1.2
+- PipeWire 0.3.63
 
 Upgraded also some cool stuff not on the ISO but available in our repositories
-- AMDVLK 2022.Q3.3 official AMD Vulkan driver. It is an alternative driver and can be installed at same time with RADV. It can be used to improve performance or stability in some games on Linux
-- OBS-Studio 28.0.1 software for video recording and live streaming; it finally supports wayland session. It also supports recording h264 with VAAPI (hardware accelerated video encoding) and we also patched it to support HEVC-x265 with HW VAAPI
-- Blender 3.3.0
+- AMDVLK 2022.Q4.4 official AMD Vulkan driver with RayTracing support. It is an alternative driver and can be installed at same time with RADV. It can be used to improve performance or stability in some games on Linux
+- OBS-Studio 28.1.2 software for video recording and live streaming; it finally supports wayland session. It also supports recording h264 with VAAPI (hardware accelerated video encoding) and with this version we have dropped the patch that adds native support HEVC-x265 with HW VAAPI for separate plugins in the form of obs-gstreamer and obs-vaapi supporting both x264 and x265 encoders with HW VAAPI.
+- Blender 3.4.0
 - GIMP 2.10.32
-- Audacity 3.1.3
-- Firefox 104.0
+- Audacity 3.2.2
+- Firefox 108.0
 - Steam 1.0.0.75
-- LXQt 1.1.0
+- LXQt 1.2.1
 <br>
 
 ## Default sound server switched to Pipewire
 
-PipeWire has become our default sound server in the current system release, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
+PipeWire has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
 
 `sudo dnf rm pipewire-pulse ; sudo dnf in pulseaudio-server`
 
