@@ -2,7 +2,7 @@
 title: OpenMandriva ROME New
 description: 
 published: true
-date: 2023-01-02T18:43:18.364Z
+date: 2023-01-02T18:46:17.973Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
@@ -50,7 +50,7 @@ OpenMandriva provides a clang compiled kernel. Users can install same version of
 ### Applications
 - LibreOffice 7.5.0 beta
 - Falkon 22.12.0
-- Firefox 104
+- Firefox 108
 - Chromium browser stable 108 
 - Krita 5.1.4
 - Gimp 2.10.32
