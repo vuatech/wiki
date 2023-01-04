@@ -2,7 +2,7 @@
 title: OpenMandriva ROME
 description: OpenMandriva rolling release
 published: true
-date: 2022-10-19T07:25:44.848Z
+date: 2023-01-04T17:05:26.545Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -13,8 +13,8 @@ dateCreated: 2021-04-24T05:47:33.989Z
 OpenMandriva ROME is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
 
 
-[![omlx.rolling-login.jpg](/images/omlx.rolling-login.jpg =400x)](/images/omlx.rolling-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![omlx.rolling-om-welc.jpg](/images/omlx.rolling-om-welc.jpg =400x)](/images/omlx.rolling-om-welc.jpg) 
+[![rome-login.jpg](/images/rome-login.jpg =400x)](/images/rome-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
+[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![rome-welc.jpg](/images/rome-welc.jpg =400x)](/images/rome-welc.jpg) 
 
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
