@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2022-12-02T05:15:31.258Z
+date: 2023-01-04T17:13:24.046Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -111,24 +111,13 @@ Or you can use `dnf clean all` like:
 <br>
 
 ### Multiboot
-In the 'real world' multiboot works well most of the time but when there are problems
-sometimes the solution is a workaround rather than a fix. These are just realities of
-multiboot.
-Also it is not currently possible for OpenMandriva QA to test our bootloader with every file
-system type on every Linux distro, or even on "Top 10" Linux distros. The fact is that
-whether multi-booting with Windows or other Linux distros we rely exclusively on user
-reports to know what does and what does not work regarding multi-booting.
-One known problem encountered with OMLx bootloader is that OpenMandriva grub2 does
-not create boot entries for openSUSE systems that use btrfs file system. OMLx grub2 does
-work with openSUSE systems that use ext4 file system.
-This is because openSUSE uses custom syntax for their btrfs patches for openSUSE os-
-prober and grub2 packages that are not compatible with OMLx code. It is not presently
-known if OMLx bootloader does/does not work with openSUSE with any other file system
-types such as XFS or F2FS.
+In the 'real world' multiboot works well most of the time but when there are problems sometimes the solution is a workaround rather than a fix. These are just realities of multiboot.
+Also it is not currently possible for OpenMandriva QA to test our bootloader with every file system type on every Linux distro, or even on "Top 10" Linux distros. The fact is that whether multi-booting with Windows or other Linux distros we rely exclusively on user reports to know what does and what does not work regarding multi-booting.
+One known problem encountered with OMLx bootloader is that OpenMandriva grub2 does not create boot entries for openSUSE systems that use btrfs file system. OMLx grub2 does work with openSUSE systems that use ext4 file system.
+This is because openSUSE uses custom syntax for their btrfs patches for openSUSE os-prober and grub2 packages that are not compatible with OMLx code. It is not presently known if OMLx bootloader does/does not work with openSUSE with any other file system types such as XFS or F2FS.
 The workaround is for users to switch boot-loaders in UEFI firmware settings or BIOS to the openSUSE bootloder.
 
-As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
-we will report in Errata for our OMLx Releases.
+As users report multiboot issues we will fix what we are able to. Issues we are unable to fix we will report in Errata for our OMLx Releases.
 <br>
 
 ### Sound in OM VirtualBox 7.0.x
@@ -159,17 +148,11 @@ Should you have problems please report in the [English Support forum](https://fo
 <br>
 
 ## Helping the project
-The OpenMandriva development teams (Cooker & QA) are always looking for new
-contributors to assist in creating and maintaining packages and to assist bugfixing and
-testing. You are welcome to join us and help us in this work which is not only rewarding but
-also tremendous fun!
-If you feel that your talents do not lie in the realm of software, then the OpenMandriva
-Workshop group, which is made up from the artwork, documentation, translation and
-Communication teams, is always open for the submissions of artwork and translations.
-New contributors who would like to help with these wide-ranging tasks should see the wiki
-for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
-It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate)
-to keep the lights on!
+The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
+If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations.
+New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
+It also costs time and money to keep our servers up and running.
+If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
 <br>
 
 **Please read also**
