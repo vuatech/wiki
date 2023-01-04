@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-02T18:58:18.403Z
+date: 2023-01-04T16:54:20.920Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -16,7 +16,7 @@ The OpenMandriva teams are pleased to announce the availability of **ROME** the 
 
 ## Available Media
 
-This release is available as a live media USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably faster. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
+This release is available as a live media USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably fast. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 **Available ISO files:**
 - *x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
