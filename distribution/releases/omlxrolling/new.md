@@ -2,7 +2,7 @@
 title: OpenMandriva ROME New
 description: 
 published: true
-date: 2023-01-02T18:46:17.973Z
+date: 2023-01-04T16:48:04.645Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
@@ -40,7 +40,7 @@ It is recommended that you read the latest [release notes](/distribution/release
 - Java 20
 - Zstandard - new real-time compression algorithm, providing high compression ratios implemented in our kernel, provides faster boot
 
-OpenMandriva provides a clang compiled kernel. Users can install same version of `kernel-release-desktop` and `kernel-release-desktop-clang` for comparison.
+OpenMandriva provides a clang compiled kernel. Users can install same version of `kernel-desktop` and `kernel-desktop-clang` for comparison.
 <br>
 
 ### Installer
