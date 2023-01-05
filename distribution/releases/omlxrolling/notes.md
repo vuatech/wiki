@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-05T18:11:35.812Z
+date: 2023-01-05T18:25:55.484Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -71,7 +71,7 @@ See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/how-to-
 
 In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, `fat32` is the recommendation for `boot/efi`. 
 
-`btrfs`, `f2fs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. 
+`btrfs`, `f2fs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. To use a file system type other than `ext4` you will need to use "Manual Partitioning" when you install your ROME system. 
 
 **Other files system types in the list are not recommended.**
 
