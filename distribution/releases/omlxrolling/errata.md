@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-05T21:12:02.435Z
+date: 2023-01-05T21:12:35.409Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -34,7 +34,7 @@ If you installed ROME znver1 replace `x86_64` with `znver1`. Known issues:
 
 2. Plymouth boot splash may not work.
 
-3. Virtual terminals may not work due to the framebuffer driver used by nvidia.
+3. Virtual terminals may not work. 
 
 4. Kscreenlocker may not work.
 
