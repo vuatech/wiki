@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-05T20:50:53.557Z
+date: 2023-01-05T21:08:09.371Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -204,6 +204,11 @@ PipeWire has become our default sound server in the current system release toget
 ## Clang compiled kernel
 
 The standard kernel for ROME is clang compiled. Should user want a gcc compiled kernel for their desktop install `kernel-desktop-gcc`. Then find this and boot from it under 'Advanced Options' in the Grub2 Menu.
+
+## Nvidia Graphic hardware
+
+This is discussed in [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
+<br>
 
 ## What to do if I have a problem
 
