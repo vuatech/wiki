@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-05T21:12:35.409Z
+date: 2023-01-05T21:31:19.308Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -167,7 +167,7 @@ Should you have problems please report in the [English Support forum](https://fo
 <br>
 
 ## Helping the project
-The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
+![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun!
 If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations.
 New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
 It also costs time and money to keep our servers up and running.
