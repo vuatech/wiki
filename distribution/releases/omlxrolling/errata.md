@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-05T21:10:40.109Z
+date: 2023-01-05T21:12:02.435Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -38,7 +38,7 @@ If you installed ROME znver1 replace `x86_64` with `znver1`. Known issues:
 
 4. Kscreenlocker may not work.
 
-5. If user uses `kernel-rc-desktop` they will need to install `kernel-rc-desktop-modules`. (Or `kernel-rc-server` then `kernel-rc-server-modules`)
+5. If user uses `kernel-rc-desktop` they will need to install `kernel-rc-desktop-modules`. Or `kernel-rc-server` then `kernel-rc-server-modules`.
 
 <br>
 
