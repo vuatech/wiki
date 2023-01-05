@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-04T17:13:24.046Z
+date: 2023-01-05T20:50:03.716Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -20,7 +20,26 @@ dateCreated: 2021-04-24T05:57:30.543Z
 <br>
 
 ### NVIDIA Graphics Cards
-Information to come. See WIP.
+Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver. `nvidia-legacy` contains the latest legacy driver (currently 4xx version).
+
+To install:
+
+`$ sudo dnf in nvidia --enablerepo rolling-testing-x86_64-non-free`
+or
+`$ sudo dnf in nvidia-legacy --enablerepo rolling-testing-x86_64-non-free`
+
+If you installed ROME znver1 replace `x86_64` with `znver1`. Known issues:
+
+1. The code is closed source. We can not fix anything wrong with the code. Nvida folks have to do that.
+
+2. Plymouth boot splash does not work.
+
+3. Virtual terminals do not work due to the framebuffer driver used by nvidia.
+
+4. Kscreenlocker may not work.
+
+5. If user uses `kernel-rc-desktop` they will need to install `kernel-rc-desktop-modules`. 
+
 <br>
 
 ### NVME SSDs
@@ -144,7 +163,7 @@ and run:
 <br>
 
 ## What to do if I have a problem
-Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough description and information for someone to be able to help you. Or for possible faster results contact us at [OpenMandriva Chat](https://wiki.openmandriva.org/en/team/chat) . If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 <br>
 
 ## Helping the project
