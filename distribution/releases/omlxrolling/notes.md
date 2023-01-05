@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-04T16:54:20.920Z
+date: 2023-01-05T18:04:15.065Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -69,13 +69,13 @@ See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/how-to-
 
 ## File system type
 
-In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. `f2fs` *currently does not work* we hope to fix this in the future.
+In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, fat32 is the recommendation for `boot/efi`. 
 
-`btrfs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. 
+`btrfs`, `fsfs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. 
 
-Other files system types in the list are not recommended. 
+**Other files system types in the list are not recommended.**
 
-No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use whatever you use for your root partition. 
+No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use `ext4` (recommended) or whatever you use for your root partition. 
 <br>
 
 ## NVME SSDs
