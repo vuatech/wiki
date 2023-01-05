@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2022-09-21T08:16:56.469Z
+date: 2023-01-05T21:38:59.326Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -13,13 +13,13 @@ dateCreated: 2020-02-27T22:08:23.833Z
 ## Current releases
 <br>
 
-### OpenMandriva ROME
+### [OpenMandriva ROME](/distribution/releases/omlxrolling)
 ![omlx-rome-240px.jpg](/images/omlx-rome-240px.jpg)
-**OpenMandriva Lx Rolling release**
+**OpenMandriva rolling release**
 Release: September 2022
 <br>
 
-### [OpenMandriva Lx 4.3](/distribution/releases/omlx43/download)
+### [OpenMandriva Lx 4.3](/distribution/releases/omlx43/)
 ![omlx4.3-240px.png](/images/omlx4.3-240px.png)
 **Codename Dysprosium**
 Release: 07 Feb 2022
