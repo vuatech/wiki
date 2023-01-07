@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-05T21:30:12.392Z
+date: 2023-01-07T01:13:08.202Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -15,7 +15,6 @@ The OpenMandriva teams are pleased to announce the availability of **ROME** the 
 <br>
 
 ## Available Media
-
 This release is available as a live media USB flash drive (memory stick), downloadable in ISO format. These are available on our downloads page. USB flash drive installation is usually noticeably fast. As always speed depends on many factors. Live media means you are able to run OpenMandriva Lx straight from a memory stick (see below) and try it before installing it. You may also install the system to hard disk either from the running live image or from the boot manager.
 
 **Available ISO files:**
@@ -26,7 +25,6 @@ Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry 
 <br>
 
 ## System requirements
-
 ROME requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
 
 *Important Note: Graphics Hardware:*
@@ -35,22 +33,18 @@ The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or a
 <br>
 
 ## Internet Connection
-
 Calamares Installer checks if an Internet connection is available, but ROME will install just fine even without. It is perfectly OK to simply install as you normally would and proceed to use your new system as normal. Updating such a system would require being temporarily connected to the internet or downloading the packages elsewhere and transferring them to the installed system and installing the updated packages. But as you are not connected to the internet you could simply use the system and not update for how ever long you see fit.
 <br>
 
 ## Virtual Machines
-
 At this time the only virtualization software that ROME ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or ROME will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 <br>
 
 ## Calamares installer
-
 Calamares is an installer framework. By design it is very customizable in order to satisfy a wide variety of needs and use cases. It aims to be easy, usable, beautiful, pragmatic, inclusive and distribution-agnostic. Calamares includes an advanced partitioning feature, with support for both manual and automated partitioning operations. It is the first installer with an automated “Replace Partition” option, which makes it easy to reuse a partition over and over for distribution testing. Many Linux distros use Calamares installer and each has its own implementation and standards. The user may notice some small differences but it does not mean this is a bug.
 <br>
 
 ## Partitioning
-
 At this time partitioning LVM and Raid setups with Calamares installer are not supported.
 
 The following applies to all partitioning of all installations on hardware: If you have a UEFI/EFI computer and your BIOS offers a choice when you boot installation media between for example:
@@ -63,12 +57,10 @@ You have to choose the UEFI option and boot that. But know also that not all com
 <br>
 
 ## Upgrading OMLx 4.3 system to ROME
-
 See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/how-to-upgrade-rock-omlx-4-3-to-rome-rolling/4470)
 <br>
 
 ## File system type
-
 In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, `fat32` is the recommendation for `boot/efi`. 
 
 `btrfs`, `f2fs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. To use a file system type other than `ext4` you will need to use "Manual Partitioning" when you install your ROME system. 
@@ -79,12 +71,10 @@ No official recommendation is made at this time for storage partitions or for a 
 <br>
 
 ## NVME SSDs
-
 NVME SSDs are normally recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. See more in Errata/NVME SSDs. This issue is of course very hardware specific. 
 <br>
 
 ## Installer and EFI Support
-
 This release of ROME supports booting and installation with and without UEFI.
 
 *Note that secure boot is NOT supported.*
@@ -103,12 +93,10 @@ We would welcome any feedback in this area.
 <br>
 
 ## Changing Partition Type
-
 Please note that Calamares cannot convert one partition type to another and preserve partition data. If you run Calamares to change an existing partition type you must first delete the partition and recreate it as the type that you wish.
 <br>
 
 ## Booting from USB
-
 It is possible to boot this release from a USB storage device. To transfer the live/installation image you may:
 
 - Use rosa-imagewriter available from our repos:
@@ -131,19 +119,16 @@ Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
 <br>
 
 ## Booting from DVD
-
 Booting from DVD is deprecated.
 For all OMLx ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD. Even though the forum post refers to OMLx 4.3 the instructions should work for ROME.
 <br>
 
 ## About Repositories
-
 We have [om-repo-picker](/policies/repositories-tldr) aka Software Repository Selector to select additional repositories for more package availability.
 **Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a ROME system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
 <br>
 
 ## How to install and remove packages
-
 While graphical tools (Discover, dnfdragora, etc.) are useful to find out available extra software, we recommend users to install and remove packages from command line:
 
 `sudo dnf --refresh install <package_name>`
@@ -160,7 +145,6 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 <br>
 
 ## Recommended update procedure
-
 ***Do not use Discover or dnfdragora to upgrade your ROME system***. The command they use is for Rock release and is not correct for ROME. This is very easy, just copy and paste this command string:
 
 `sudo dnf clean all ; sudo dnf dsync`
@@ -169,7 +153,6 @@ Then press Enter key and when prompted enter your root (superuser) password. We 
 <br>
 
 ## New Features and Major Changes
-
 In order to keep current with latest changes in Linux, computer security issues, and computer code writing there are major changes in ROME.
 - The kernel has been updated to 6.1.1
 - KDE Frameworks 5.101.0 
@@ -192,7 +175,6 @@ Upgraded also some cool stuff not on the ISO but available in our repositories
 <br>
 
 ## Default sound server switched to Pipewire
-
 PipeWire has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
 
 `sudo dnf rm pipewire-pulse ; sudo dnf in pulseaudio-server`
@@ -202,29 +184,25 @@ PipeWire has become our default sound server in the current system release toget
 <br>
 
 ## Clang compiled kernel
-
 The standard kernel for ROME is clang compiled. Should user want a gcc compiled kernel for their desktop install `kernel-desktop-gcc`. Then find this and boot from it under 'Advanced Options' in the Grub2 Menu.
 
 ## Nvidia Graphic hardware
-
 This is discussed in [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
 <br>
 
 ## What to do if I have a problem
-
 Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough description and information for someone to be able to help you. Or for possible faster results contact us at [OpenMandriva Chat](https://wiki.openmandriva.org/en/team/chat) . If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
 <br>
 
-## Helping the project
+**Please read also**
+[ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
+<br>
 
+## Helping the project
 ![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}The OpenMandriva development teams (Cooker & QA) are always looking for new contributors to assist in creating and maintaining packages and to assist bugfixing and testing. You are welcome to join us and help us in this work which is not only rewarding but also tremendous fun! If you feel that your talents do not lie in the realm of software, then the OpenMandriva Workshop group, which is made up from the artwork, documentation, translation and Communication teams, is always open for the submissions of artwork and translations. New contributors who would like to help with these wide-ranging tasks should see the wiki for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
 <br>
 
 ## Donate to the project
-
 ![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
-
-**Please read also**
-[ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
 <br>
