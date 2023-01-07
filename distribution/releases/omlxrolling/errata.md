@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-05T21:31:19.308Z
+date: 2023-01-07T01:19:29.634Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -46,9 +46,7 @@ If you installed ROME znver1 replace `x86_64` with `znver1`. Known issues:
 NVME SSDs are normally recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware.
 This issue is of course very hardware specific.
 
-On installed system user may wish to add this workaround to /etc/default/grub and
-run update-grub2 to make workaround global. You would use the one that you found to
-work on the Live ISO.
+On installed system user may wish to add this workaround to /etc/default/grub and run update-grub2 to make workaround global. You would use the one that you found to work on the Live ISO.
 
 If (PCIE ASPM=OFF) worked for you then add:
 `pcie=aspm=off`
@@ -63,8 +61,7 @@ and then run:
 If (NVME APST=OFF) worked then add instead:
 `nvme_core.default_ps_max_latency_us=0`
 
-As always users are encouraged to ask questions about anything you do not understand
-on our [forum](https://forum.openmandriva.org/).
+As always users are encouraged to ask questions about anything you do not understand on our [forum](https://forum.openmandriva.org/).
 <br>
 
 ### GEOIP
@@ -79,9 +76,7 @@ Users may choose from 2 workarounds:
 •Add or remove  applications you wish to Favorites column in Application Launcher. Then logout and login.
 
 ### How to configure printer
-Turn your printer on and see if it is automatically configured. Pay attention to whether the
-right driver was installed. If printer was auto configured and you have correct driver then
-great, you are all set.
+Turn your printer on and see if it is automatically configured. Pay attention to whether the right driver was installed. If printer was auto configured and you have correct driver then great, you are all set.
 If it was not, turn off your printer. Open System Settings>Hardware>Printers or from terminal (Konsole) run:
 
 `kcmshell5 kcm_printer_manager`
@@ -89,21 +84,20 @@ If it was not, turn off your printer. Open System Settings>Hardware>Printers or 
 and remove your printer.
 If the correct driver was not installed by default we will need to add a software package.
 The next step is to determine what software to add for your printer.
-In OpenMandriva Lx this is most likely to be a 'task-printing' package specific to your
-printer brand. The packages are:
+In OpenMandriva Lx this is most likely to be a 'task-printing' package specific to your printer brand. The packages are:
+
 •task-printing-canon
 •task-printing-epson
 •task-printing-hp
 •task-printing-lexmark
 •task-printing-okidata
 •task-printing-misc
-Install the package that matches your brand or the misc package if none do. Example
-using okidata:
+
+Install the package that matches your brand or the misc package if none do. Example using okidata:
 
 `sudo dnf install task-printing-okidata`
 
-Now turn printer on again and it should then automatically configure itself (sometimes you
-might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers or run from terminal (Konsole):
+Now turn printer on again and it should then automatically configure itself (sometimes you might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers or run from terminal (Konsole):
 
 `kcmshell5 kcm_printer_manager`.
 
@@ -115,8 +109,7 @@ If not seek help [here](https://forum.openmandriva.org/c/en/support).
 <br>
 
 ### Discover new software
-If you want to explore also additional repositories packages you will need to enable them
-by means of Software Repository Selector and to refresh cache. To refresh cache you can use `--refresh` option like this:
+If you want to explore also additional repositories packages you will need to enable them by means of Software Repository Selector and to refresh cache. To refresh cache you can use `--refresh` option like this:
 
 `sudo dnf --refresh install foo_package`
 
