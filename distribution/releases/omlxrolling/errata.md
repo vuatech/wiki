@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-07T01:19:29.634Z
+date: 2023-01-08T01:24:44.785Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -20,15 +20,19 @@ dateCreated: 2021-04-24T05:57:30.543Z
 <br>
 
 ### NVIDIA Graphics Cards
-Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver. `nvidia-legacy` contains the latest legacy driver (currently 4xx version).
+Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver. `nvidia-legacy` contains the latest legacy driver (currently 4xx version). *User may install these using the OpenMandriva Control Center module*.
 
-To install:
+To install from Konsole (terminal):
 
 `$ sudo dnf --refresh in nvidia --enablerepo rolling-testing-x86_64-non-free`
 or
 `$ sudo dnf --refresh in nvidia-legacy --enablerepo rolling-testing-x86_64-non-free`
 
-If you installed ROME znver1 replace `x86_64` with `znver1`. Known issues:
+If you installed ROME znver1 replace `x86_64` with `znver1`. 
+
+These packages are kernel specific. At this time they will not install if a newer kernel version is installed on system than the kernel version this software is built for. There is more about that [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
+
+Known issues:
 
 1. The code is closed source. We can not fix anything wrong with the code. Nvidia folks have to do that.
 
