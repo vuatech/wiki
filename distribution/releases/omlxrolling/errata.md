@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-08T01:27:29.652Z
+date: 2023-01-08T01:42:19.449Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -30,7 +30,11 @@ or
 
 If you installed ROME znver1 replace `x86_64` with `znver1`. 
 
-These packages are kernel specific. At this time they will not install if a newer kernel version is installed on system than the kernel version this software is built for. There is more about that [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
+> These packages are kernel specific. At this time they will not install if a newer kernel version is installed on system than the kernel version this software is built for.
+There is more about that [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
+{.is-warning}
+
+
 
 Known issues:
 
