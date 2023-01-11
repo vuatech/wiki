@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Release Notes
 description: 
 published: true
-date: 2023-01-10T15:02:13.545Z
+date: 2023-01-11T01:56:10.772Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:53:55.903Z
@@ -119,8 +119,7 @@ Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
 <br>
 
 ## Booting from DVD
-Booting from DVD is deprecated.
-For all OMLx ISOs there are workarounds in [Booting OM Lx 4.3 ISO from DVD](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD. Even though the forum post refers to OMLx 4.3 the instructions should work for ROME.
+ROME iso's boot from DVD using Legacy or UEFI boot. Should you encounter difficulties there are 2 work arounds [here](https://forum.openmandriva.org/t/booting-om-lx-4-3-iso-from-dvd/4377) that should enable one to boot from DVD. In testing booting ROME from DVD took 5-6 minutes. This may take longer on some hardware. Using a DVD for this purpose is a lot slower than using a USB flash drive.
 <br>
 
 ## About Repositories
