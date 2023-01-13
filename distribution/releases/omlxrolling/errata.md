@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-13T22:39:52.765Z
+date: 2023-01-13T22:53:55.703Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -35,7 +35,6 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 {.is-warning}
 
 
-
 Known issues:
 
 1. The code is closed source. We can not fix anything wrong with the code. Nvidia folks have to do that.
@@ -48,6 +47,7 @@ Known issues:
 
 5. If user uses `kernel-rc-desktop` they will need to install `kernel-rc-desktop-modules`. Or `kernel-rc-server` then `kernel-rc-server-modules`.
 
+If user has an issue with the graphic performance of nvidia proprietary drivers OpenMandriva can not do anything about that. The people to contact are at the [nVidia developers linux forum](https://forums.developer.nvidia.com/c/gpu-graphics/linux/148). OpenMandriva can only deal with issues related to packaging of this 3rd party software and whether it does/does not install.
 <br>
 
 ### NVME SSDs
