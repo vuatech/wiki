@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-13T22:53:55.703Z
+date: 2023-01-15T00:17:48.777Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -20,7 +20,7 @@ dateCreated: 2021-04-24T05:57:30.543Z
 <br>
 
 ### NVIDIA Graphics Cards
-Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver. `nvidia-legacy` contains the latest legacy driver (currently 4xx version). *User may install these using the OpenMandriva Control Center module*.
+Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver. `nvidia-legacy` contains the latest legacy driver (currently 4xx version). *User may install these using the OpenMandriva Control Center module*. Please keep in mind that the people that make these packages available are volunteering their time and knowledge. There may be a lag between and a new kernel and the nvidia packages. 
 
 To install from Konsole (terminal):
 
@@ -34,8 +34,17 @@ If you installed ROME znver1 replace `x86_64` with `znver1`.
 There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-proprietary-driver-software/4770) and [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
 {.is-warning}
 
+Many users may find it more convienient to use the dkms verion of nvidia driver packages. With dkms new kernel modules are built when a new kernel is installed automatically. To install:
 
-Known issues:
+`$ sudo dnf --refresh in nvidia-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
+
+or
+
+`$ sudo dnf --refresh in nvidia-legacy-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
+
+If you installed ROME znver1 replace x86_64 with znver1.
+
+### Known issues (all nvidia packages):
 
 1. The code is closed source. We can not fix anything wrong with the code. Nvidia folks have to do that.
 
