@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-15T00:33:10.890Z
+date: 2023-01-15T00:33:42.118Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -34,7 +34,7 @@ If you installed ROME znver1 replace `x86_64` with `znver1`.
 There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-proprietary-driver-software/4770) and [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
 {.is-warning}
 
-Many users may find it more convienient to use the dkms verion of nvidia driver packages. With dkms new kernel modules are built when a new kernel is installed automatically. Note: The dkms pakages have only been lightly tested. Currently these only install from Konsole (terminal). To install:
+Many users may find it more convienient to use the dkms verion of nvidia driver packages. With dkms new kernel modules are built when a new kernel is installed automatically. *Note: The dkms pakages have only been lightly tested*. Currently these only install from Konsole (terminal). To install:
 
 `$ sudo dnf --refresh in nvidia-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
 or
