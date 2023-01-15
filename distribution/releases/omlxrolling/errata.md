@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-15T00:17:48.777Z
+date: 2023-01-15T00:18:27.570Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -37,9 +37,7 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 Many users may find it more convienient to use the dkms verion of nvidia driver packages. With dkms new kernel modules are built when a new kernel is installed automatically. To install:
 
 `$ sudo dnf --refresh in nvidia-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
-
 or
-
 `$ sudo dnf --refresh in nvidia-legacy-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
 
 If you installed ROME znver1 replace x86_64 with znver1.
