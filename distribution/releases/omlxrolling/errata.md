@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-15T00:18:27.570Z
+date: 2023-01-15T00:19:28.808Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -40,7 +40,7 @@ Many users may find it more convienient to use the dkms verion of nvidia driver 
 or
 `$ sudo dnf --refresh in nvidia-legacy-dkms-kmod kernel-desktop-devel --enablerepo rolling-x86_64-non-free`
 
-If you installed ROME znver1 replace x86_64 with znver1.
+If you installed ROME znver1 replace `x86_64` with `znver1`.
 
 ### Known issues (all nvidia packages):
 
