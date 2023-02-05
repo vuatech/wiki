@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 5.0 Errata
 description: 
 published: true
-date: 2022-12-26T17:59:33.144Z
+date: 2022-12-26T17:59:36.871Z
 tags: 5.0
 editor: markdown
 dateCreated: 2022-12-26T17:59:33.144Z

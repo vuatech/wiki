@@ -3,7 +3,7 @@ title: Software Repository Selector
 description: 
 published: true
 date: 2022-03-07T14:57:36.586Z
-tags: documentation, howto, user-guide, tools
+tags: documentation, user-guide, tools, howto
 editor: markdown
 dateCreated: 2020-03-03T17:34:57.632Z
 ---

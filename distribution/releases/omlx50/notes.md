@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 5.0 Release Notes
 description: 
 published: true
-date: 2022-12-26T18:06:59.978Z
+date: 2022-12-26T18:07:02.661Z
 tags: 5.0
 editor: markdown
 dateCreated: 2022-12-26T18:06:59.977Z

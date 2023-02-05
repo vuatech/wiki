@@ -3,7 +3,7 @@ title: QA/Getting Started
 description: 
 published: true
 date: 2022-03-31T07:32:48.951Z
-tags: documentation, qa
+tags: qa, documentation
 editor: markdown
 dateCreated: 2020-03-02T15:35:06.431Z
 ---

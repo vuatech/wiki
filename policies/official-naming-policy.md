@@ -2,7 +2,7 @@
 title: Official Naming Policy
 description: 
 published: true
-date: 2022-12-06T07:27:08.685Z
+date: 2022-12-06T07:27:12.251Z
 tags: documentation, policies
 editor: markdown
 dateCreated: 2020-03-01T12:32:00.560Z

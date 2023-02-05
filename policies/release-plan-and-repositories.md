@@ -2,7 +2,7 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2022-11-10T22:22:22.554Z
+date: 2022-11-10T22:22:27.032Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-02-28T17:02:32.116Z
