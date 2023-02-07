@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-01-15T14:43:01.715Z
+date: 2023-02-07T10:36:55.406Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
@@ -24,9 +24,9 @@ Community members have made Nvidia proprietary drivers available. The `nvidia` d
 
 To install from Konsole (terminal):
 
-`$ sudo dnf --refresh in nvidia --enablerepo rolling-testing-x86_64-non-free`
+`$ sudo dnf --refresh in nvidia --enablerepo=rolling-x86_64-non-free`
 or
-`$ sudo dnf --refresh in nvidia-legacy --enablerepo rolling-testing-x86_64-non-free`
+`$ sudo dnf --refresh in nvidia-legacy --enablerepo=rolling-x86_64-non-free`
 
 If you installed ROME znver1 replace `x86_64` with `znver1`. 
 
@@ -116,7 +116,7 @@ If not seek help [here](https://forum.openmandriva.org/c/en/support).
 <br>
 
 ### Discover new software
-If you want to explore also additional repositories packages you will need to enable them by means of Software Repository Selector and to refresh cache. To refresh cache you can use `--refresh` option like this:
+If you want to explore also additional repositories packages you will need to enable them by means of [Software Repository Selector](/en/policies/repositories-tldr) and to refresh cache. To refresh cache you can use `--refresh` option like this:
 
 `sudo dnf --refresh install foo_package`
 
