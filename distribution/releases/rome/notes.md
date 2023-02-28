@@ -1,8 +1,8 @@
 ---
 title: OpenMandriva ROME Notes
-description: 
+description: OpenMandriva ROME Notes
 published: true
-date: 2023-02-28T16:08:36.654Z
+date: 2023-02-28T16:08:58.985Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
