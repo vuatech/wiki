@@ -2,8 +2,8 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-02-07T10:36:55.406Z
-tags: rolling, rome
+date: 2023-02-28T15:37:10.721Z
+tags: 
 editor: markdown
 dateCreated: 2021-04-24T05:57:30.543Z
 ---
