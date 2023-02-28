@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: OpenMandriva ROME Notes
 published: true
-date: 2023-02-28T16:11:31.721Z
+date: 2023-02-28T17:12:56.560Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -196,3 +196,5 @@ You may want to have a look at the [latest changes](/distribution/releases/rome/
 ## Donate to the project
 ![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
 <br>
+
+![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
