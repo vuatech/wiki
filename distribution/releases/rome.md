@@ -2,7 +2,7 @@
 title: OpenMandriva ROME
 description: OpenMandriva rolling release
 published: true
-date: 2023-02-28T15:39:43.872Z
+date: 2023-02-28T15:41:16.003Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -21,12 +21,12 @@ OpenMandriva ROME is the rolling release published by the OpenMandriva Associati
 You can download it at [this link](https://sourceforge.net/projects/openmandriva/files/release/ROME/).
 
 ## What's New?
-See [ROME/New](/distribution/releases/omlxrolling/new)
+See [ROME Changelog](/distribution/releases/rome/new)
 
 ## Notes
-See [ROME/Release Notes](/distribution/releases/omlxrolling/notes)
+See [ROME/Notes](/distribution/releases/rome/notes)
 
 ## Errata
-See [ROME/Errata](/distribution/releases/omlxrolling/errata)
+See [ROME/Errata](/distribution/releases/rome/errata)
 
 ![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
