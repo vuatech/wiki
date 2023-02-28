@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: 
 published: true
-date: 2023-02-28T15:58:16.707Z
+date: 2023-02-28T15:59:26.206Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -11,7 +11,7 @@ dateCreated: 2023-02-28T15:04:40.037Z
 # OpenMandriva ROME Notes
 
 
-The OpenMandriva teams are pleased to announce the availability of **ROME** the OpenMandriva *rolling* edition meant for majority of users.
+The OpenMandriva teams are pleased to announce the availability of **ROME** the OpenMandriva rolling edition meant for the majority of users.
 <br>
 
 ## Available Media
