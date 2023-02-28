@@ -2,8 +2,8 @@
 title: OpenMandriva ROME New
 description: 
 published: true
-date: 2023-02-28T15:36:12.833Z
-tags: rolling
+date: 2023-02-28T15:44:22.679Z
+tags: 
 editor: markdown
 dateCreated: 2021-04-24T05:50:45.963Z
 ---
