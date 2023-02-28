@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: 
 published: true
-date: 2023-02-28T15:18:26.632Z
+date: 2023-02-28T15:50:55.562Z
 tags: releases, rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -13,7 +13,7 @@ dateCreated: 2023-02-28T15:18:26.632Z
 > As with any release, there are still issues and bugs that may not have been resolved. This page documents those that may cause inconvenience and where possible details how they may be worked around.
 {.is-info}
 
-**Please read also [ROME Release Notes](/distribution/releases/rome/notes)**.
+**Please read also [ROME Notes](/distribution/releases/rome/notes)**.
 <br>
 
 ## Known Issues and workarounds
