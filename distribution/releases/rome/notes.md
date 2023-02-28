@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: 
 published: true
-date: 2023-02-28T15:54:21.458Z
+date: 2023-02-28T15:58:16.707Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -182,8 +182,12 @@ Should you have problems please report in the [English Support forum](https://fo
 
 <br>
 
-**Please read also**
-[ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
+### Errata
+Please read also [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/rome/errata)
+<br>
+
+### Changelog
+You may want to have a look at the [latest changes](https://wiki.openmandriva.org/en/distribution/releases/rome/new)
 <br>
 
 ## Helping the project
