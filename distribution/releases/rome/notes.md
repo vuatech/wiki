@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: 
 published: true
-date: 2023-02-28T15:59:26.206Z
+date: 2023-02-28T16:08:36.654Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -25,14 +25,13 @@ You may also install the system to hard disk either from the running live image 
 - *x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
 - *znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
 
-Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)
+<!--Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)-->
 <br>
 
 ## System requirements
 ROME requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
 
-*Important Note: Graphics Hardware:*
-
+Graphics Hardware:
 The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or above. We recommend using AMD, Intel, Adreno or VC4 graphics chips.
 <br>
 
@@ -61,7 +60,7 @@ You have to choose the UEFI option and boot that. But know also that not all com
 <br>
 
 ## Upgrading OMLx 4.3 system to ROME
-See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/how-to-upgrade-rock-omlx-4-3-to-rome-rolling/4470)
+See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/4470)
 <br>
 
 ## File system type
@@ -128,7 +127,7 @@ ROME ISOs boot from DVD using Legacy or UEFI boot. Should you encounter difficul
 
 ## About Repositories
 We have [om-repo-picker](/policies/repositories-tldr) aka Software Repository Selector to select additional repositories for more package availability.
-**Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a ROME system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](https://wiki.openmandriva.org/en/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
+**Do not mix the repositories from different release versions/update channels**. This means, as an example, do not use Cooker repositories on a ROME system. If you use Rock, use Rock repositories only. This is explained in more detail in [OpenMandriva Release Plan and Repositories](/policies/release-plan-and-repositories). If you mix different release/update channel repositories and you break your computer the solution is to do a fresh install. After that fresh install do not do this again.
 <br>
 
 ## How to install and remove packages
@@ -174,20 +173,20 @@ The standard kernel for ROME is clang compiled.
 Should user want a gcc compiled kernel for their desktop install `kernel-desktop-gcc`. Then find this and boot from it under 'Advanced Options' in the Grub2 Menu.
 
 ## Nvidia Graphic hardware
-This is discussed in [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/omlxrolling/errata)
+This is discussed in [ROME Errata](/distribution/releases/rome/errata)
 <br>
 
 ## What to do if I have a problem
-Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough description and information for someone to be able to help you. Or for possible faster results contact us at [OpenMandriva Chat](https://wiki.openmandriva.org/en/team/chat) . If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough description and information for someone to be able to help you. Or for possible faster results contact us at [OpenMandriva Chat](/team/chat) . If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 
 <br>
 
 ### Errata
-Please read also [ROME Errata](https://wiki.openmandriva.org/en/distribution/releases/rome/errata)
+Please read also [ROME Errata](/distribution/releases/rome/errata)
 <br>
 
 ### Changelog
-You may want to have a look at the [latest changes](https://wiki.openmandriva.org/en/distribution/releases/rome/new)
+You may want to have a look at the [latest changes](/distribution/releases/rome/new)
 <br>
 
 ## Helping the project
