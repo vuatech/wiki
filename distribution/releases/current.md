@@ -2,7 +2,7 @@
 title: Current releases
 description: 
 published: true
-date: 2022-10-16T10:11:32.790Z
+date: 2023-02-28T15:42:59.429Z
 tags: releases
 editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
@@ -14,10 +14,10 @@ dateCreated: 2020-09-08T07:13:51.704Z
 ## ROME
 #### Best for individual users
 (*The rolling edition*)
-- [Overview](/distribution/releases/omlxrolling)
-- [What's New](/distribution/releases/omlxrolling/new)
-- [Release Notes](/distribution/releases/omlxrolling/notes)
-- [Errata](/distribution/releases/omlxrolling/errata)
+- [Overview](/distribution/releases/rome)
+- [Changelog](/distribution/releases/rome/new)
+- [Release Notes](/distribution/releases/rome/notes)
+- [Errata](/distribution/releases/rome/errata)
 <br>
 
 ## Rock
