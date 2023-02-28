@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: OpenMandriva ROME Notes
 published: true
-date: 2023-02-28T16:08:58.985Z
+date: 2023-02-28T16:11:31.721Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -173,7 +173,7 @@ The standard kernel for ROME is clang compiled.
 Should user want a gcc compiled kernel for their desktop install `kernel-desktop-gcc`. Then find this and boot from it under 'Advanced Options' in the Grub2 Menu.
 
 ## Nvidia Graphic hardware
-This is discussed in [ROME Errata](/distribution/releases/rome/errata)
+This is discussed in ROME Errata page
 <br>
 
 ## What to do if I have a problem
@@ -181,11 +181,11 @@ Should you have problems please report in the [English Support forum](https://fo
 
 <br>
 
-### Errata
+## Errata
 Please read also [ROME Errata](/distribution/releases/rome/errata)
 <br>
 
-### Changelog
+## Changelog
 You may want to have a look at the [latest changes](/distribution/releases/rome/new)
 <br>
 
