@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2023-03-01T12:59:22.007Z
+date: 2023-03-01T13:03:01.256Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -170,7 +170,7 @@ PipeWire has become our default sound server in the current system release toget
 
 ## Clang compiled kernel
 The standard kernel for ROME is clang compiled.
-Should user want a gcc compiled kernel for their desktop install `kernel-desktop-gcc`. Then find this and boot from it under 'Advanced Options' in the Grub2 Menu.
+<br>
 
 ## Nvidia Graphic hardware
 This is discussed in ROME Errata page
