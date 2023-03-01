@@ -2,7 +2,7 @@
 title: Software management
 description: Install and remove software
 published: true
-date: 2022-10-16T10:32:41.500Z
+date: 2023-03-01T01:24:44.856Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:31:21.417Z
@@ -22,7 +22,7 @@ TODO: Description of different software
 * **Command line**: [DNF](/en/distribution/guides/software-management/DNF)
 * **Graphical interface**: [DnfDrake](/en/distribution/guides/software-management/DnfDrake)
 * **Command line**: zypper
-
+* **Flatpak**
 # Software not provided by OpenMandriva
 
 ## Beginner
@@ -31,7 +31,6 @@ TODO: Description of different software
 
 ## Advanced
 
-* Flatpak
 * Binary package
 
 ## Expert
