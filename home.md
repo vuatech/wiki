@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2023-01-08T01:17:24.745Z
+date: 2023-03-01T01:15:48.819Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -19,7 +19,7 @@ Release date:  [06 January 2023](https://www.openmandriva.org/en/news/article/op
 
 
 - [Download Now *Get ROME*](/distribution/releases/download)
-- [Learn more *about this release*](/distribution/releases/omlxrolling) 
+- [Learn more *about this release*](/distribution/releases/rome) 
 {.links-list}
 
 # Rock (OpenMandriva Lx 4.3)
