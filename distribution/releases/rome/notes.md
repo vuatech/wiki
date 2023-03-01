@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2023-03-01T13:06:50.264Z
+date: 2023-03-01T13:07:18.647Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -169,7 +169,7 @@ PipeWire has become our default sound server in the current system release toget
 <br>
 
 ## Clang compiled kernel
-The standard kernel for ROME is clang compiled with the option to install GCC compiled kernel easily from the om-welcome module.
+The standard kernel for ROME is clang compiled, with the option to install GCC compiled kernel easily from the om-welcome module.
 <br>
 
 ## Nvidia Graphic hardware
