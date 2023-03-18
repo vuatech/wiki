@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2022-10-16T10:24:07.523Z
+date: 2023-03-18T16:59:03.456Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
@@ -22,3 +22,16 @@ $ sudo dnf upgrade
 $ sudo dnf clean all ; dnf clean all ; dnf repolist
 $ sudo dnf --allowerasing distro-sync
 ```
+
+- or
+
+![update-menu.png](/images/update-menu.png)
+
+- or
+
+
+![update-omcc.png](/images/update-omcc.png)
+
+- or
+
+![update-dnfdrake.png](/images/update-dnfdrake.png)
