@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2023-03-24T08:42:29.450Z
+date: 2023-03-24T08:54:21.177Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -139,8 +139,8 @@ Some users report issue with choppy or stuttering sound in OM VirtualBox 7.0.x p
 This issue seems to be related to users hardware. Developers are aware of this problem and actively looking for a solution. Users should keep in mind that sound in VirtualBox is an emulation and the process is subject to periodic issues. *Thus using VirtualBox for multimedia is likely to have periodic problems.*
 <br>
 
-### Graphic driver in OM VirtualBox 7.0.x
-The most recent install images may need VMSVGA driver to be set to boot successfully.
+### Graphics Controller in OM VirtualBox 7.0.x
+The most recent install images may need VMSVGA controller to be set to boot successfully.
 <br>
 
 ### Pipewire sound server
