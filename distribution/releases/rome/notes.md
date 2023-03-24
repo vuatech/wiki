@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2023-03-24T07:33:48.741Z
+date: 2023-03-24T08:03:36.895Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -100,13 +100,14 @@ Please note that Calamares cannot convert one partition type to another and pres
 <br>
 
 ## Booting from USB
-It is possible to boot this release from a USB storage device. To transfer the live/installation image you may:
+It is possible to boot this release from a USB storage device. To create the live/installation media you may:
 
 - Use isowriter tool available from our repos:
 
 `sudo dnf --refresh install rosa-imagewriter`
 
-Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter). At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
+Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter).
+At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
 
 > Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name. This breaks the boot process.
 {.is-danger}
@@ -118,11 +119,11 @@ You may alternatively dd the image to your USB stick:
 
 Replace <iso_name> with the path to the ISO and <usb_drive> with the device node of the USB drive, i.e. /dev/sdb.
 
-- SUSE Studio ImageWriter has also been tested and works for burning ISO images to USB storage device.
+- SUSE Studio ImageWriter has also been tested and works to transfer ISO images to USB storage device.
 <br>
 
 ## Booting from DVD
-ROME ISOs boot from DVD using Legacy or UEFI boot. Should you encounter difficulties there are 2 workarounds [here](https://forum.openmandriva.org/t/4377) that should enable one to boot from DVD. In testing booting ROME from DVD took 5-6 minutes. This may take longer on some hardware. Using a DVD for this purpose is a lot slower than using a USB flash drive.
+Booting from DVD is deprecated, still ROME ISOs boot from DVD using Legacy or UEFI boot. Should you encounter difficulties there are 2 workarounds [here](https://forum.openmandriva.org/t/4377) that should enable one to boot from DVD. In testing booting ROME from DVD took 5-6 minutes. This may take longer on some hardware. Using a DVD for this purpose is a lot slower than using a USB flash drive.
 <br>
 
 ## About Repositories
