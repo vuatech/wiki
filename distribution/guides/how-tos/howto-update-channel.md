@@ -2,21 +2,21 @@
 title: How to update channel
 description: 
 published: true
-date: 2022-03-31T10:46:22.756Z
+date: 2023-03-24T07:53:04.362Z
 tags: documentation, howto, user-guide, advanced
 editor: markdown
 dateCreated: 2020-04-28T08:42:49.215Z
 ---
 
 # How to update channel
-## How to upgrade from Rock to Rolling
+## How to upgrade from Rock to ROME (rolling)
 
-To users new to OpenMandriva Lx we suggest to start with Rock stable release to learn how the system works then, if you wish so, migrate to Rolling.
+To users new to OpenMandriva Lx we suggest to start with Rock stable release to learn how the system works then, if you wish so, migrate to ROME, the rolling edition.
 
-A 'Rolling' user should be able to use command line and know basics of [dnf](/en/distribution/guides/software-management/DNF) package manager.
+As a *ROME user* you should be able to use command line and know basics of [dnf](/en/distribution/guides/software-management/DNF) package manager.
 Also the user needs to read and understand [OpenMandriva Release Plan and Repositories](/en/policies/release-plan-and-repositories).
 
-To upgrade to Rolling:
+To upgrade to ROME:
 
 - Open Software Repository Selector (`om-repo-picker`) 
 Application menu > Software Repository Selector
