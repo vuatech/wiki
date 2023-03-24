@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: ROME Changelog
 published: true
-date: 2023-03-13T00:31:25.053Z
+date: 2023-03-24T20:33:04.553Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -13,7 +13,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 
 **KDE**
 \- [Frameworks 5.104.0](https://kde.org/announcements/frameworks/5/5.104.0)
-\- [Plasma 5.27.2](https://kde.org/announcements/plasma/5/5.27.2)
+\- [Plasma 5.27.3](https://kde.org/announcements/plasma/5/5.27.3)
 \- [KDE Gear 22.12.3](https://kde.org/announcements/gear/22.12.3)
 \- [Qt 5.15.8](https://www.qt.io)
 <br>
@@ -25,13 +25,13 @@ dateCreated: 2023-02-28T15:34:33.449Z
 <br>
 
 **Core**
-\- [Kernel 6.2.5](https://www.kernel.org/)
+\- [Kernel 6.2.6](https://www.kernel.org/)
 \- [systemd 253](https://www.freedesktop.org/wiki/Software/systemd/)
 \- [LLVM/clang 15.0.7](http://llvm.org/)
 \- binutils 2.40
 \- [gcc 12.2](https://gcc.gnu.org/)
 \- [glibc 2.37](http://www.gnu.org/software/libc/)
-\- Java 20
+\- Java 21
 <br>
 
 **Installer**
@@ -40,8 +40,8 @@ dateCreated: 2023-02-28T15:34:33.449Z
 
 **Applications**
 \- LibreOffice 7.5.1.2
-\- Falkon 22.12.2
-\- Firefox 110
+\- Falkon 22.12.3
+\- Firefox 111
 \- Chromium browser stable 110
 \- Krita 5.1.5
 \- Gimp 2.10.34
