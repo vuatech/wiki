@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2023-02-28T17:14:57.386Z
+date: 2023-03-24T08:42:29.450Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -35,7 +35,6 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 {.is-warning}
 
 ### Known issues (all nvidia packages):
-
 1. The code is closed source. We can not fix anything wrong with the code. Nvidia folks have to do that.
 
 2. Plymouth boot splash may not work.
@@ -76,7 +75,6 @@ Installer automatic GEOIP setting may not set the timezone correctly.
 <br>
 
 ### Add/Remove favorites to Application Launcher
-
 There is a bug with adding and removing favorites from Application Launcher
 Users may choose from 2 workarounds:
 •Add or remove  applications you wish to Favorites column in Application Launcher. Then right click on Application Launcher icon and select "Show Alternatives" and select to switch to one of the other launchers. Then right click on Application Launcher again and switch back.
@@ -137,9 +135,12 @@ As users report multiboot issues we will fix what we are able to. Issues we are 
 <br>
 
 ### Sound in OM VirtualBox 7.0.x
-
 Some users report issue with choppy or stuttering sound in OM VirtualBox 7.0.x package.
 This issue seems to be related to users hardware. Developers are aware of this problem and actively looking for a solution. Users should keep in mind that sound in VirtualBox is an emulation and the process is subject to periodic issues. *Thus using VirtualBox for multimedia is likely to have periodic problems.*
+<br>
+
+### Graphic driver in OM VirtualBox 7.0.x
+The most recent install images may need VMSVGA driver to be set to boot successfully.
 <br>
 
 ### Pipewire sound server
