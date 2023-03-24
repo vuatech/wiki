@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2023-03-01T13:07:18.647Z
+date: 2023-03-24T07:33:48.741Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -102,7 +102,7 @@ Please note that Calamares cannot convert one partition type to another and pres
 ## Booting from USB
 It is possible to boot this release from a USB storage device. To transfer the live/installation image you may:
 
-- Use rosa-imagewriter available from our repos:
+- Use isowriter tool available from our repos:
 
 `sudo dnf --refresh install rosa-imagewriter`
 
@@ -160,16 +160,15 @@ We recommend it because we see a lot of problem reports that begin with "*I upda
 
 
 ## Default sound server switched to Pipewire
-PipeWire has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio. However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
+[*Pipewire*](https://pipewire.org/) has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio.
+However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
 
 `sudo dnf rm pipewire-pulse ; sudo dnf in pulseaudio-server`
 
-
-[*Pipewire*](https://pipewire.org/)
 <br>
 
 ## Clang compiled kernel
-The standard kernel for ROME is clang compiled, with the option to install GCC compiled kernel easily from the om-welcome module.
+The standard kernel for ROME is clang compiled.
 <br>
 
 ## Nvidia Graphic hardware
