@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2023-03-01T01:18:44.323Z
+date: 2023-03-25T09:33:54.062Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -21,7 +21,7 @@ Choosing another architecture certainly means that you already know what you are
 
 **Please read also:**
 
-[ROME Release Notes](/distribution/releases/rome/notes)
+[ROME Notes](/distribution/releases/rome/notes)
 [ROME Errata](/distribution/releases/rome/errata)
 
 [OMLx 4.3 Release Notes](/distribution/releases/omlx43/notes)
