@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2023-03-01T01:15:48.819Z
+date: 2023-04-02T18:09:08.879Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -13,7 +13,7 @@ dateCreated: 2020-03-16T11:07:21.448Z
 > ROME is the rolling release published by the OpenMandriva Association. ROME is designed for individual users and will have more up to date software. [Codename](/policies/codename) ROME.
 {.is-success}
 
-Release date:  [06 January 2023](https://www.openmandriva.org/en/news/article/openmandriva-rome-the-rolling-release)
+Release date:  [30 March 2023](https://www.openmandriva.org/96)
  
 [![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
 
