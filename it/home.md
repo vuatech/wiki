@@ -1,8 +1,8 @@
 ---
-title: OMA wiki
-description: Questo è il wiki di OpenMandriva
+title: 
+description: Il wiki di OpenMandriva
 published: true
-date: 2021-02-14T15:20:33.268Z
+date: 2023-04-09T08:30:49.977Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
