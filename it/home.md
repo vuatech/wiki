@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T09:43:10.420Z
+date: 2023-04-09T09:47:32.736Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -18,7 +18,7 @@ Data di rilascio:  [30 Marzo 2023](https://www.openmandriva.org/96)
 [![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
 
 
-- [Download *Scarica ROME*](/distribution/releases/download)
+- [Download *Scarica ROME*](/en/distribution/releases/download)
 - [Scopri di più *su questa release*](/distribution/releases/rome) 
 {.links-list}
 
