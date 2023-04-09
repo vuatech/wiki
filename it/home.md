@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T09:47:32.736Z
+date: 2023-04-09T09:52:04.211Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -24,7 +24,7 @@ Data di rilascio:  [30 Marzo 2023](https://www.openmandriva.org/96)
 
 # Rock (OpenMandriva Lx 4.3)
 
->  **Rock (OMLx 4.3)** is the workstation and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Dysprosium
+>  **Rock (OMLx 4.3)** è la versione per workstation e server pubblicata dall'Associazione OpenMandriva. Anche per gli utenti comuni che non amano i cambiamenti. [Codename](/policies/codename) Dysprosium
 {.is-success}
 
 Data di rilascio:  [06 Febbraio 2022](https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released)
