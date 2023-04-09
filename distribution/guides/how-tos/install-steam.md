@@ -2,7 +2,7 @@
 title: How to install Steam in OpenMandriva
 description: 
 published: true
-date: 2022-03-25T10:01:10.512Z
+date: 2023-04-09T18:38:36.386Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2020-03-09T20:59:51.458Z
@@ -42,6 +42,15 @@ Click on  Steam
 
 ![omlx43.doc.steam-11.jpg](/images/omlx43.doc.steam-11.jpg)
 
+If you have nvidia driver, you want to install also the 32bit version of the nvidia driver
+
+
+`$ sudo dnf clean all;dnf clean all;dnf repolist`
+
+then:
+`$ sudo dnf install --enablerepo=rock-x86_64-non-free nvidia-32bit`
+or
+`$ sudo dnf install --enablerepo=rock-x86_64-non-free nvidia-legacy-32bit`
 
 
 
