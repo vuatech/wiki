@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T10:47:37.648Z
+date: 2023-04-09T10:49:07.345Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -50,6 +50,7 @@ Data di rilascio:  [06 Febbraio 2022](https://www.openmandriva.org/en/news/artic
 - [Software management *How to add and remove software*](/en/distribution/guides/software-management)
 - [How-tos *Convenient list of guides and how-to*](/en/distribution/guides/how-tos)
 {.links-list}
+
 .
 ## Che cos'è OpenMandriva?
 OpenMandriva Lx è una distribuzione unica e indipendente, discendente diretta di Mandriva Linux
