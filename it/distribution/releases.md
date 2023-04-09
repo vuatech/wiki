@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2023-04-09T09:01:34.304Z
+date: 2023-04-09T09:04:57.022Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-10T17:42:05.707Z
@@ -27,27 +27,16 @@ Data di rilascio: 07 Feb 2022
 
 
 ## Precedenti rilasci:
-### OpenMandriva Lx 4.2
+#### OpenMandriva Lx 4.2
 ![omlx4.2-240px.png](/images/omlx4.2-240px.png)
 **Codename Argon**
 Data di rilascio: 12 Febbraio 2021
-
-- [Overview](/releases/omlx42)
-- [Novità](/releases/omlx42/new)
-- [Note di rilascio](/en/releases/omlx42/notes)
-- [Errata](/en/releases/omlx42/errata)
 <br>
-
 
 ### OpenMandriva Lx 4.1
 ![omlx4.1-240px.png](/images/omlx4.1-240px.png)
 **Codename Mercury**
 Data di rilascio: 02 Febbraio 2020
-
-- [Overview](/releases/omlx41)
-- [Novità](/releases/omlx41/new)
-- [Note di rilascio](/releases/omlx41/notes)
-- [Errata](/releases/omlx41/errata)
 <br>
 
 ### OpenMandriva Lx 4.0
