@@ -2,14 +2,14 @@
 title: OpenMandriva ROCK
 description: OMLx 4.3
 published: true
-date: 2023-04-09T09:28:53.496Z
+date: 2023-04-09T09:29:51.723Z
 tags: 4.3, rock
 editor: markdown
 dateCreated: 2023-04-09T09:28:53.496Z
 ---
 
 # Overview
-OpenMandriva Lx 4.3 è una nuova release pubblicata dall'Associazione OpenMandriva. [Codename](/releases/codename) Dysprosium.
+OpenMandriva Lx 4.3 è una nuova release pubblicata dall'Associazione OpenMandriva. [Codename](/en/policies/codename) Dysprosium.
 <br>
 
 ![omlx-43-grub2-menu.jpg](/images/omlx-43-grub2-menu.jpg =400x)
