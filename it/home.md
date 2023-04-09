@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T09:52:04.211Z
+date: 2023-04-09T10:47:37.648Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -38,18 +38,17 @@ Data di rilascio:  [06 Febbraio 2022](https://www.openmandriva.org/en/news/artic
 
 ## Getting Started
 
-- [About *Who are we and what is OpenMandriva Lx*](/distribution)
-- [Release Notes ***Read Release Notes and Errata***](/distribution/releases/current)
-- [Requirements *Hardware prerequisites*](/distribution/install/requirements/)
-- [Installation Guide *Detailed installation instructions*](/distribution/install/)
-- [Post-installation *What to do after your installed OpenMandriva Lx*](/distribution/install/post-install)
-
+- [About *Who are we and what is OpenMandriva Lx*](/en/distribution)
+- [Release Notes ***Read Release Notes and Errata***](/en/distribution/releases/current)
+- [Requirements *Hardware prerequisites*](/en/distribution/install/requirements/)
+- [Installation Guide *Detailed installation instructions*](/en/distribution/install/)
+- [Post-installation *What to do after your installed OpenMandriva Lx*](/en/distribution/install/post-install)
 {.links-list}
 
 ## User Guide
 
-- [Software management *How to add and remove software*](/distribution/guides/software-management)
-- [How-tos *Convenient list of guides and how-to*](/distribution/guides/how-tos)
+- [Software management *How to add and remove software*](/en/distribution/guides/software-management)
+- [How-tos *Convenient list of guides and how-to*](/en/distribution/guides/how-tos)
 {.links-list}
 .
 ## Che cos'è OpenMandriva?
