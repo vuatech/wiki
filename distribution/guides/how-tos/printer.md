@@ -2,7 +2,7 @@
 title: How to configure printer in OMLx
 description: 
 published: true
-date: 2021-09-26T21:29:08.114Z
+date: 2023-04-09T07:52:52.618Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2020-03-09T18:43:12.417Z
@@ -37,4 +37,4 @@ $ sudo dnf install task-printing-okidata
 ```
 Now turn printer on again and it should then automatically configure itself (sometimes you might need to reboot for auto config to work).
 
-If not seek help [here](https://forum.openmandriva.org/c/en/support)
+If not seek help [here](https://forum.openmandriva.org/c/support/17)
