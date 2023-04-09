@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2023-04-09T08:57:26.758Z
+date: 2023-04-09T09:01:34.304Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-10T17:42:05.707Z
@@ -19,7 +19,7 @@ dateCreated: 2020-05-10T17:42:05.707Z
 Data di rilascio: 30 Marzo 2023
 <br>
 
-### [OpenMandriva ROCK (OMLx 4.3)](/distribution/releases/omlx43/)
+### [OpenMandriva ROCK (OMLx 4.3)](https://wiki.openmandriva.org/en/distribution/releases/omlx43/)
 ![omlx4.3-240px.png](/images/omlx4.3-240px.png)
 **Codename Dysprosium**
 Data di rilascio: 07 Feb 2022
