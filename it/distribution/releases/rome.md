@@ -1,8 +1,8 @@
 ---
-title: ROME
-description: 
+title: OpenMandriva ROME
+description: OpenMandriva rolling release
 published: true
-date: 2023-04-09T08:19:30.590Z
+date: 2023-04-09T08:20:41.456Z
 tags: releases, rome
 editor: markdown
 dateCreated: 2023-04-09T08:19:30.590Z
