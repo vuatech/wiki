@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T08:43:37.710Z
+date: 2023-04-09T09:43:10.420Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -32,7 +32,7 @@ Data di rilascio:  [06 Febbraio 2022](https://www.openmandriva.org/en/news/artic
 ![omlx.4.3-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
 
 
-- [Download *Scarica Rock*](/distribution/releases/download)
+- [Download *Scarica Rock*](/en/distribution/releases/download)
 - [Scopri di più *su questa release*](/distribution/releases/omlx43) 
 {.links-list}
 
