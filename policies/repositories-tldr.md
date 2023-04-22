@@ -2,8 +2,8 @@
 title: Software Repository Selector
 description: 
 published: true
-date: 2022-03-07T14:57:36.586Z
-tags: documentation, user-guide, tools, howto
+date: 2023-04-22T18:27:06.201Z
+tags: documentation, howto, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-03T17:34:57.632Z
 ---
@@ -72,7 +72,7 @@ When you are done with your changes, run the following command in console
 `$ sudo dnf clean all ; dnf clean all ; dnf repolist`
 
 ## More in depth
-For a detailed explanation read [OpenMandriva Release Plan and Repositories](/policies//release-plan-and-repositories)
+For a detailed explanation read [OpenMandriva Release Plan and Repositories](/policies/release-plan-and-repositories)
 
 \- 
 
