@@ -2,7 +2,7 @@
 title: Community Portal
 description: 
 published: true
-date: 2022-03-24T14:47:32.567Z
+date: 2023-05-25T09:04:32.870Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T08:59:42.790Z
@@ -28,7 +28,7 @@ dateCreated: 2022-03-24T08:59:42.790Z
  [SeenThis](https://seenthis.net/people/openmandriva)
 
 - [ABF](https://abf.openmandriva.org/)
-- [Mirrors](http://mirror.openmandriva.org/README.txt?mirrorlist) - [Mirrors monitor instance](https://mirmon.openmandriva.org/)
+- [Mirrors](http://mirror.openmandriva.org/README.txt?mirrorlist) - Mirrors monitor instance: [Mirrorbits](https://mirror.openmandriva.org/?mirrorstats) [Mirmon](https://mirmon.openmandriva.org/)
 - [Kahinah](https://kahinah.rxu.tech/)
 
 - Sources
