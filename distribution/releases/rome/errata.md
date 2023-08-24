@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2023-03-24T08:54:21.177Z
+date: 2023-08-24T07:09:43.864Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -24,9 +24,9 @@ Community members have made Nvidia proprietary drivers available. The `nvidia` d
 
 To install from Konsole (terminal):
 
-`$ sudo dnf --refresh in nvidia --enablerepo=rolling-x86_64-non-free`
+`$ sudo dnf --refresh install nvidia --enablerepo=rolling-x86_64-non-free`
 or
-`$ sudo dnf --refresh in nvidia-legacy --enablerepo=rolling-x86_64-non-free`
+`$ sudo dnf --refresh install nvidia-legacy --enablerepo=rolling-x86_64-non-free`
 
 If you installed ROME znver1 replace `x86_64` with `znver1`. 
 
@@ -37,11 +37,11 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 ### Known issues (all nvidia packages):
 1. The code is closed source. We can not fix anything wrong with the code. Nvidia folks have to do that.
 
-2. Plymouth boot splash may not work.
+2. Plymouth boot splash may not work,
 
-3. Virtual terminals may not work. 
+3. Virtual terminals may not work,
 
-4. Kscreenlocker may not work.
+4. Kscreenlocker may not work,
 
 5. If user uses `kernel-rc-desktop` they will need to install `kernel-rc-desktop-modules`. Or `kernel-rc-server` then `kernel-rc-server-modules`.
 
@@ -174,6 +174,6 @@ If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lig
 <br>
 
 **Please read also**
-[ROME Release Notes](https://wiki.openmandriva.org/en/distribution/releases/rome/notes)
+[ROME Notes](https://wiki.openmandriva.org/en/distribution/releases/rome/notes)
 <br>
 ![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
