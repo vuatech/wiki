@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2023-08-24T15:27:51.468Z
+date: 2023-08-24T15:28:55.067Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -59,5 +59,4 @@ dateCreated: 2023-02-28T15:34:33.449Z
 ###### Flatpak support
 <br>
 
-![header-tr-omrome.svg]
-(/assets/header-tr-omrome.svg){.align-abstopright}
+![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
