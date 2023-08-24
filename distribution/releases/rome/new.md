@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2023-08-24T15:08:58.256Z
+date: 2023-08-24T15:09:46.277Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -53,7 +53,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 \- SMPlayer 23.6.0
 \- VLC 3.0.18
 \- Virtualbox 7.0.10
-\- OBS Studio 28.1.2
+\- OBS Studio 29.1.3
 <br>
 
 ###### Flatpak support
