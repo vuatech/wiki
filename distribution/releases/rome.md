@@ -2,7 +2,7 @@
 title: OpenMandriva ROME
 description: OpenMandriva rolling release
 published: true
-date: 2023-08-24T16:07:23.515Z
+date: 2023-08-24T16:08:20.237Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -29,4 +29,4 @@ See [ROME/Notes](/distribution/releases/rome/notes)
 ## Errata
 See [ROME/Errata](/distribution/releases/rome/errata)
 
-![header-tr-rome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
+![header-tr-rome.svg](/assets/header-tr-rome.svg){.align-abstopright}
