@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2023-08-24T07:09:43.864Z
+date: 2023-08-24T16:09:58.775Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -176,4 +176,4 @@ If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lig
 **Please read also**
 [ROME Notes](https://wiki.openmandriva.org/en/distribution/releases/rome/notes)
 <br>
-![header-tr-omrome.svg](/assets/header-tr-omrome.svg){.align-abstopright}
+![header-tr-rome.svg](/assets/header-tr-rome.svg){.align-abstopright}
