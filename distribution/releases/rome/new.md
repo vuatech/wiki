@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2023-08-24T15:09:46.277Z
+date: 2023-08-24T15:13:44.357Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -31,7 +31,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 \- [Kernel 6.4.11](https://www.kernel.org/)
 \- [systemd 253](https://www.freedesktop.org/wiki/Software/systemd/)
 \- [LLVM/clang 16.0.6](http://llvm.org/)
-\- binutils 2.40
+\- binutils 2.41
 \- [gcc 13.1](https://gcc.gnu.org/)
 \- [glibc 2.38](http://www.gnu.org/software/libc/)
 \- Java 21
