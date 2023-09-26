@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2023-08-24T16:09:58.775Z
+date: 2023-09-26T13:20:40.520Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -140,7 +140,7 @@ This issue seems to be related to users hardware. Developers are aware of this p
 <br>
 
 ### Graphics Controller in OM VirtualBox 7.0.x
-The most recent install images may need VMSVGA controller to be set to boot successfully.
+The most recent OMLX install images may need VMSVGA controller to be set to boot successfully in Openmandriva VirtualBox 7.0.x.
 <br>
 
 ### Pipewire sound server
