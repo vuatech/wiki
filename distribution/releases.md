@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2023-03-01T01:19:39.146Z
+date: 2023-10-04T11:40:46.723Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -16,7 +16,7 @@ dateCreated: 2020-02-27T22:08:23.833Z
 ### [OpenMandriva ROME](/distribution/releases/rome)
 ![omlx-rome-240px.jpg](/images/omlx-rome-240px.jpg)
 **OpenMandriva rolling release**
-Release: September 2022
+Release: Released 1st time on September 2022
 <br>
 
 ### [OpenMandriva Lx 4.3](/distribution/releases/omlx43/)
