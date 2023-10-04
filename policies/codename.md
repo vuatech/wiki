@@ -2,7 +2,7 @@
 title: Codename
 description: 
 published: true
-date: 2022-02-07T11:09:17.518Z
+date: 2023-10-04T11:37:49.100Z
 tags: releases
 editor: markdown
 dateCreated: 2020-02-27T19:10:26.091Z
@@ -19,6 +19,6 @@ dateCreated: 2020-02-27T19:10:26.091Z
 - **N**ickel = Cooker
 - **D**ysprosium = OMLx 4.3
 - **R**ome = Rolling release
-- **I**odine
+- **I**odine = OMLx 5.0
 - **V**anadium
 - **A**urum
