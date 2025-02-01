@@ -2,7 +2,7 @@
 title: OpenMandriva ROME
 description: OpenMandriva rolling release
 published: true
-date: 2023-04-09T09:12:50.432Z
+date: 2024-07-06T06:19:28.206Z
 tags: releases, rome
 editor: markdown
 dateCreated: 2023-04-09T08:19:30.590Z
@@ -11,8 +11,9 @@ dateCreated: 2023-04-09T08:19:30.590Z
 # Overview
 OpenMandriva ROME è l'edizione rolling pubblicata dall'Associazione OpenMandriva. [Codename](/policies/codename) Rome.
 
-[![rome-login.jpg](/images/rome-login.jpg =400x)](/images/rome-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![rome-welc.jpg](/images/rome-welc.jpg =400x)](/images/rome-welc.jpg) 
+
+[![rome-boot.jpg](/images/rome-boot.jpg =400x)](/images/rome-boot.jpg) [![rome-ksplash.jpg](/images/rome-ksplash.jpg =400x)](/images/rome-ksplash.jpg)   
+[![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) [![rome-index.jpg](/images/rome-index.jpg =400x)](/images/rome-index.jpg) 
 
 **Si raccomanda di leggere le** [Note di rilascio e Errata](/en/distribution/releases/current).
 Puoi scaricare ROME da [questo link](https://sourceforge.net/projects/openmandriva/files/release/ROME/).

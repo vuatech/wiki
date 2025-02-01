@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2023-08-24T16:10:34.885Z
+date: 2025-01-31T21:12:04.021Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -23,15 +23,16 @@ You may also install the system to hard disk either from the running live image 
 
 **Available ISO files:**
 - *x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
-- *znver1 KDE Plasma desktop*: we have also built a version specifically for current AMD processors (Ryzen, ThreadRipper, EPYC) that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
+- *znver1 KDE Plasma desktop*: is for AMD CPUs (newer than 2017), notably for current AMD processors (Ryzen, ThreadRipper, EPYC), that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
 
 <!--Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)-->
 <br>
 
 ## System requirements
-ROME requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning).
+ROME requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning). 20 GB recommended for a Plasma desktop full installation.
 
-Graphics Hardware:
+*Graphics Hardware:*
+
 The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or above. We recommend using AMD, Intel, Adreno or VC4 graphics chips.
 <br>
 
@@ -60,10 +61,6 @@ The following applies to all partitioning of all installations on hardware: If y
 You have to choose the UEFI option and boot that. But know also that not all computers will do this. Some with more spartan FIRMWARE or BIOS will offer only the one option and almost always it is the correct one. So for instance if on a notebook you don't see the above choice no worries. *If you have multiple storage drives enabled they all need to have the same partition table type.* They either need to all be GPT or all MBR for everything to work properly. On UEFI computers in multi-boot situation with multiple storage drives if you already have an existing `/boot/efi` partition you should use that. The partitioner will not create another `/boot/efi` with proper flags and installation will result in error with no bootloader installed. Do not format you just set the mount point to `/boot/efi` and  select the `boot` flag. One can have many different boot loaders for different operating systems in the same `/boot/efi` partition. If there is any need to switch boot loaders that is done in FIRMWARE or BIOS settings.
 <br>
 
-## Upgrading OMLx 4.3 system to ROME
-See [Upgrading OMLx 4.3 system to ROME](https://forum.openmandriva.org/t/4470)
-<br>
-
 ## File system type
 In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, `fat32` is the recommendation for `boot/efi`. 
 
@@ -72,6 +69,15 @@ In the Calamares installer for ROME the file system list includes all file syste
 **Other files system types in the list are not recommended.**
 
 No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use `ext4` (recommended) or whatever you use for your root partition. 
+<br>
+
+## Changing Partition Type
+Please note that Calamares cannot convert one partition type to another and preserve partition data.
+Also, Calamares does not support reading or creating ZFS due to licensing.
+
+> If you run Calamares to change an existing partition type you must first delete the partition and recreate it as the type that you wish.
+{.is-warning}
+
 <br>
 
 ## NVME SSDs
@@ -96,21 +102,19 @@ If you are installing beside Windows 8, 8.1, 10 or similar EFI booted OS as a pr
 We would welcome any feedback in this area.
 <br>
 
-## Changing Partition Type
-Please note that Calamares cannot convert one partition type to another and preserve partition data. If you run Calamares to change an existing partition type you must first delete the partition and recreate it as the type that you wish.
-<br>
-
 ## Booting from USB
 It is possible to boot this release from a USB storage device. To create the live/installation media you may:
 
 - Use isowriter tool available from our repos:
 
-`sudo dnf --refresh install rosa-imagewriter`
+`sudo dnf --refresh install om-imagewriter`
 
 Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter).
 At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
 
-> Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name. This breaks the boot process.
+> **Windows users**:
+If you use other usb-writing tools as some Windows tools (e.g. [Rufus](https://rufus.ie/en)) you must select the '`dd`' mode otherwise it will truncate the volume name and break the boot process.
+Balena Etcher is reported as working fine to transfer OpenMandriva ISO images to USB storage device.
 {.is-danger}
 
 - Via dd
@@ -120,7 +124,25 @@ You may alternatively dd the image to your USB stick:
 
 Replace <iso_name> with the path to the ISO and <usb_drive> with the device node of the USB drive, i.e. /dev/sdb.
 
-- SUSE Studio ImageWriter has also been tested and works to transfer ISO images to USB storage device.
+- SUSE Studio ImageWriter and Balena Etcher have also been tested and work to transfer ISO images to USB storage device.
+
+- Ventoy is not fully supported. Under some circumstances it may or may not work. Please create the live/installation media choosing one among the suggested methods here above. See [ROME Errata](/distribution/releases/rome/errata) for Ventoy workarounds.
+<br>
+
+## Installing from USB
+Once you have created your USB drive turn off the computer, plug it to the USB port and restart.
+
+If your computer supports starting from USB, choose the device from which to boot your computer.
+To do so, you want to interrupt the normal startup process and access the BIOS menu presented by immediately pressing the key which often is mentioned in the message after the computer starts.
+Usually the correct key is `Esc`, `F12`, `F10`, `F8`, or similar.
+
+When you see the menu, select the entry matching your USB drive.
+Among others, you will see entries along the lines of
+
+`USB some Flash Drive`
+`UEFI USB some Flash Drive`
+
+If you have a UEFI/EFI computer be sure to select the one mentioning 'UEFI' and boot that, otherwise the Calamares installer will present only legacy bios options for installation.
 <br>
 
 ## Booting from DVD
@@ -171,6 +193,7 @@ However, PulseAudio is still in our repository and you can return to it at any t
 
 ## Clang compiled kernel
 The standard kernel for ROME is clang compiled.
+There are kernel-desktop-gcc and kernel-server-gcc versions available in the rare instance they are needed.
 <br>
 
 ## Nvidia Graphic hardware

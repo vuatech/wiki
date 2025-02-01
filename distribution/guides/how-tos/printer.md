@@ -2,7 +2,7 @@
 title: How to configure printer in OMLx
 description: 
 published: true
-date: 2023-04-09T07:52:52.618Z
+date: 2025-01-14T13:18:00.942Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2020-03-09T18:43:12.417Z
@@ -27,6 +27,7 @@ The packages are:
 - task-printing-hp
 - task-printing-lexmark
 - task-printing-okidata
+- brlaser (for Brother printers)
 - task-printing-misc
 
 Install the package that matches your brand or the misc package if none do.

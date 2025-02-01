@@ -2,7 +2,7 @@
 title: Download OpenMandriva ROME or Rock
 description: Get OpenMandriva Lx
 published: true
-date: 2023-03-25T09:33:54.062Z
+date: 2025-01-08T10:33:18.847Z
 tags: iso, torrent, archive.org, download
 editor: markdown
 dateCreated: 2022-02-07T23:16:57.591Z
@@ -24,20 +24,21 @@ Choosing another architecture certainly means that you already know what you are
 [ROME Notes](/distribution/releases/rome/notes)
 [ROME Errata](/distribution/releases/rome/errata)
 
-[OMLx 4.3 Release Notes](/distribution/releases/omlx43/notes)
-[OMLx 4.3 Errata](/distribution/releases/omlx43/errata)
+[OMLx 5.0 Release Notes](/distribution/releases/omlx50/notes)
+[OMLx 5.0 Errata](/distribution/releases/omlx50/errata)
 <br>
-
-
 
 
 ## Mirror download (sourceforge.net)
 
-![Website](https://img.shields.io/website?label=SourceForge%20Status&url=https%3A%2F%2Fsourceforge.net)
+**If in doubt, go with the Default Download at SourceForge:**
 
--  [**Go to ROME sourceforge page**](https://sourceforge.net/projects/openmandriva/files/release/ROME/)
+[![Download OpenMandriva Lx](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/openmandriva/files/latest/download)
 
-- [**Go to OMLx sourceforge page**](https://sourceforge.net/projects/openmandriva/files/release/4.3/Final/)
+or:
+-  [**Go to ROME SourceForge page**](https://sourceforge.net/projects/openmandriva/files/release/ROME/)
+
+- [**Go to OMLx SourceForge page**](https://sourceforge.net/projects/openmandriva/files/release/5.0/)
 
 Select the release in the list, it should automatically open a download page from a mirror nearby your location.
 <br>

@@ -2,7 +2,7 @@
 title: How to contribute to OpenMandriva
 description: 
 published: true
-date: 2022-03-24T14:44:38.108Z
+date: 2025-01-27T21:51:01.119Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T08:54:57.934Z
@@ -68,6 +68,6 @@ If needed any counseling, legal or other
 Supporting other free software organizations that support us with their software
 Participation in events promoting Free Software
 
-[Donate](https://www.openmandriva.org/donate/) to OpenMandriva Association: there is no minimum donation, all the help is welcome
+[Donate](https://www.openmandriva.org/donate) to OpenMandriva Association: there is no minimum donation, all the help is welcome
 
 For more information please Contact us

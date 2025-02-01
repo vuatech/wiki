@@ -2,7 +2,7 @@
 title: Post Install how-to
 description: 
 published: true
-date: 2022-03-24T09:41:12.883Z
+date: 2024-08-20T10:38:40.190Z
 tags: user-guide, troubleshooting, guide
 editor: markdown
 dateCreated: 2022-03-24T09:32:43.677Z
@@ -11,14 +11,14 @@ dateCreated: 2022-03-24T09:32:43.677Z
 # Beginner
 
 ## Software
+* [**How to update system**](/en/distribution/guides/how-tos/howto-update-system)
 * [How to have a list of latest updates](/en/distribution/guides/how-tos/latest-updates)
 * [How to install Steam](/en/distribution/guides/how-tos/install-steam)
-* [How to update system](/en/distribution/guides/how-tos/howto-update-system)
 
 ## Settings
-* [How to set user avatar](/en/distribution/guides/how-tos/user-avatar)
 * [How to solve the most common cause of incorrect time in dual boot with windows systems](/en/distribution/guides/how-tos/incorrect-time)
 * [How to upgrade from Rock to Rolling](/en/distribution/guides/how-tos/howto-update-channel)
+* [How to set user avatar](/en/distribution/guides/how-tos/user-avatar)
 
 ## Hardware
 * [How to configure printer in OMLx](/en/distribution/guides/how-tos/printer)

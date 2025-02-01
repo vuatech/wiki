@@ -2,7 +2,7 @@
 title: Software management
 description: Install and remove software
 published: true
-date: 2023-03-01T01:24:44.856Z
+date: 2023-03-01T01:24:46.949Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:31:21.417Z

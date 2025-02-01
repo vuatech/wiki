@@ -2,7 +2,7 @@
 title: Current releases
 description: 
 published: true
-date: 2023-02-28T15:42:59.429Z
+date: 2023-11-25T01:02:06.367Z
 tags: releases
 editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
@@ -22,12 +22,12 @@ dateCreated: 2020-09-08T07:13:51.704Z
 
 ## Rock
 #### Best for business, server, and users that do not like change
-(*OpenMandriva Lx 4.3 Dysprosium*)
+(*OpenMandriva Lx 5.0 Iodine*)
 
-- [Overview](/distribution/releases/omlx43)
-- [What's New](/distribution/releases/omlx43/new)
-- [Release Notes](/distribution/releases/omlx43/notes)
-- [Errata](/distribution/releases/omlx43/errata)
+- [Overview](/distribution/releases/omlx50)
+- [What's New](/distribution/releases/omlx50/new)
+- [Release Notes](/distribution/releases/omlx50/notes)
+- [Errata](/distribution/releases/omlx50/errata)
 <br>
 
 

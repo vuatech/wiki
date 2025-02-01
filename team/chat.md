@@ -2,7 +2,7 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2023-09-11T23:49:10.674Z
+date: 2023-11-20T18:07:02.750Z
 tags: documentation, chat
 editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
@@ -33,5 +33,5 @@ There are several protocols which you can use to chat with OpenMandriva team. As
   - IRC: #openmandriva-cooker @libera.chat (We are working on a solution.)
   
 ### Note about Libera Chat
-  - Due to factors not under the control of OpenMandriva the libera.chat bridge is not currently working. We are working on a solution.
+  - Due to factors not under the control of OpenMandriva ([1](https://libera.chat/news/temporarily-disabling-the-matrix-bridge), [2](https://libera.chat/news/matrix-bridge-disabled-retrospective)) the libera.chat bridge is not currently working. We are working on a solution.
   

@@ -2,7 +2,7 @@
 title: Repository Policies
 description: 
 published: true
-date: 2021-09-26T22:19:52.402Z
+date: 2025-01-29T10:22:06.940Z
 tags: policies, cooker, qa
 editor: markdown
 dateCreated: 2020-03-01T19:28:40.866Z
@@ -18,7 +18,7 @@ Most things are ok to do here, including updating to a beta version or even a gi
 To make sure you do not "surprise" other developers by breaking everything for them, major changes need to be coordinated by either:
 - bringing them up in a TC meeting
 - sending a pull request on the repository and waiting for others to accept it
-- sending an email to the cooker ML and waiting for others' positive reply
+- join the [cooker development channel](https://wiki.openmandriva.org/en/team/chat#develoment-cooker-discussions) and waiting for others' positive reply
 
 Changes that need coordination include, but are not limited to:
 - switching out a major system component for something else (e.g. Xorg with wayland, Qt 5 with Qt 6, wpa_supplicant with iwd, systemd with any other init system, ...); any such change should be tested in a personal repository first.

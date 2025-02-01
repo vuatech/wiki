@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 5.0 Errata
 description: 
 published: true
-date: 2022-12-26T17:59:36.871Z
+date: 2023-11-15T14:41:16.127Z
 tags: 5.0
 editor: markdown
 dateCreated: 2022-12-26T17:59:33.144Z
@@ -39,3 +39,5 @@ There is a well known problem with some (especially newer) NVME SSDs and PCIE de
 where the SSD may not be recognized.
 Problem is known and being worked on by OpenMandriva developers and upstream
 developers.
+
+![header-tr-50.svg](/assets/header-tr-50.svg){.align-abstopright}

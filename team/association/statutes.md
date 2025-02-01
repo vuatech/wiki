@@ -2,7 +2,7 @@
 title: Statutes constitution English
 description: 
 published: true
-date: 2021-09-26T21:10:41.501Z
+date: 2024-09-24T21:34:37.949Z
 tags: documentation, association, legal
 editor: markdown
 dateCreated: 2020-03-01T22:32:34.011Z
@@ -11,7 +11,7 @@ dateCreated: 2020-03-01T22:32:34.011Z
 # Statutes constitution English
 
 
-> This is the translation of the [French statutes](/doc/statutes-constitution-fr), for convenience. French version is however the only legal document.
+> This is the translation of the [French statutes](/fr/team/association/statutes), for convenience. French version is however the only legal document.
 {.is-info}
 
 

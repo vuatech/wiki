@@ -2,7 +2,7 @@
 title: OpenMandriva ROME
 description: OpenMandriva rolling release
 published: true
-date: 2023-08-24T16:08:20.237Z
+date: 2024-03-12T09:57:16.977Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2021-04-24T05:47:33.989Z
@@ -13,8 +13,8 @@ dateCreated: 2021-04-24T05:47:33.989Z
 OpenMandriva ROME is the rolling release published by the OpenMandriva Association. [Codename](/policies/codename) Rome.
 
 
-[![rome-login.jpg](/images/rome-login.jpg =400x)](/images/rome-login.jpg) [![omlx.rolling-ksplash.jpg](/images/omlx.rolling-ksplash.jpg =400x)](/images/omlx.rolling-ksplash.jpg)   
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) [![rome-welc.jpg](/images/rome-welc.jpg =400x)](/images/rome-welc.jpg) 
+[![rome-boot.jpg](/images/rome-boot.jpg =400x)](/images/rome-boot.jpg) [![rome-ksplash.jpg](/images/rome-ksplash.jpg =400x)](/images/rome-ksplash.jpg)   
+[![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) [![rome-index.jpg](/images/rome-index.jpg =400x)](/images/rome-index.jpg) 
 
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).

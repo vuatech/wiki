@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2023-08-24T16:09:15.409Z
+date: 2024-12-11T15:39:34.571Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -11,49 +11,51 @@ dateCreated: 2023-02-28T15:34:33.449Z
 ### What's New in ROME
 <br>
 
-##### Changelog 23.08
+##### Changelog 24.12
 <br>
 
 ###### KDE
-\- [Frameworks 5.109.0](https://kde.org/announcements/frameworks/5/5.109.0)
-\- [Plasma 5.27.7](https://kde.org/announcements/plasma/5/5.27.7)
-\- [KDE Gear 23.04.3](https://kde.org/announcements/gear/23.04.3)
-\- [Qt 5.15.10](https://www.qt.io)
+\- [Plasma Desktop 6.2.4](https://kde.org/announcements/plasma/6/6.2.4) - ([and 5.27.11](https://kde.org/announcements/plasma/5/5.27.11))
+\- [Frameworks 6.8.0](https://kde.org/announcements/frameworks/6/6.8.0) - ([and 5.116](https://kde.org/announcements/frameworks/5/5.116))
+\- [KDE Applications 24.08.3](https://kde.org/announcements/gear/24.08.3) - ([and 23.08.5](https://kde.org/announcements/gear/23.08.5))
+\- [Qt 6.8.0 - (and 5.15.15)](https://www.qt.io)
 <br>
 
 ###### Display subsystem
-\- Xorg - 21.1.8
-\- [Wayland 1.22.0](https://wayland.freedesktop.org/releases.html)
-\- [Mesa 23.2.0](http://www.mesa3d.org/)
+\- [Xorg  21.1.14](https://www.x.org/)
+\- [Wayland 1.23.1](https://wayland.freedesktop.org/releases.html)
+\- [Mesa 24.3.0](http://www.mesa3d.org/)
 <br>
 
 ###### Core
-\- [Kernel 6.4.11](https://www.kernel.org/)
-\- [systemd 253](https://www.freedesktop.org/wiki/Software/systemd/)
-\- [LLVM/clang 16.0.6](http://llvm.org/)
-\- binutils 2.41
-\- [gcc 13.1](https://gcc.gnu.org/)
-\- [glibc 2.38](http://www.gnu.org/software/libc/)
-\- Java 21
+\- [Kernel](https://www.kernel.org/) 6.12.1 (and 6.13.0-rc1) built with clang. GCC compiled versions also available
+\- [systemd 256.9](https://www.freedesktop.org/wiki/Software/systemd/)
+\- [LLVM/clang 19.1.4](http://llvm.org/)
+\- binutils 2.43.1
+\- [gcc 14.2.0](https://gcc.gnu.org/)
+\- [glibc 2.40](http://www.gnu.org/software/libc/)
+\- Java 24
 <br>
 
 ###### Installer
-\- [Calamares 3.2.62](https://calamares.io)
+\- [Calamares 3.3.9](https://calamares.io)
 <br>
 
 ###### Applications
-\- LibreOffice 7.6.0.3
-\- Falkon 23.04.3
-\- Firefox 116
-\- Chromium browser stable 116
-\- Krita 5.1.5
-\- Gimp 2.10.34
-\- Calligra Suite 3.3.0
-\- Digikam 8.1.0
-\- SMPlayer 23.6.0
-\- VLC 3.0.18
-\- Virtualbox 7.0.10
-\- OBS Studio 29.1.3
+\- LibreOffice Suite 24.8.3 with Qt 6 and Plasma 6 integration
+\- Falkon 24.08.3
+\- Firefox 133.0 patched with spyware disabled
+\- Chromium 131.0.6778.86 patched with Google spyware disabled and JPEG-XL support re-enabled
+\- QMPlay2 24.06.16
+\- Telegram Desktop 5.8.5
+\- Krita 5.2.7
+\- Gimp 3.0.0-0.rc1
+\- Digikam 8.5.0
+\- SMPlayer 24.5.0
+\- VLC 3.0.21
+\- Virtualbox 7.1.4
+\- VokoscreenNG 4.3.0
+\- OBS Studio 31.0.0
 <br>
 
 ###### Flatpak support

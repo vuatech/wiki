@@ -2,7 +2,7 @@
 title: How to update channel
 description: 
 published: true
-date: 2023-03-24T07:53:04.362Z
+date: 2023-03-24T07:53:06.917Z
 tags: documentation, howto, user-guide, advanced
 editor: markdown
 dateCreated: 2020-04-28T08:42:49.215Z

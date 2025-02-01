@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2023-03-18T16:59:03.456Z
+date: 2024-07-09T19:38:37.991Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
@@ -30,7 +30,7 @@ $ sudo dnf --allowerasing distro-sync
 - or
 
 
-![update-omcc.png](/images/update-omcc.png)
+![update-omwelc.jpg](/images/update-omwelc.jpg)
 
 - or
 

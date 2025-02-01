@@ -1,12 +1,14 @@
 ---
-title: Install OpenMandriva Lx 4.3
+title: Install OpenMandriva Lx
 description: 
 published: true
-date: 2022-03-24T11:39:30.370Z
+date: 2024-08-20T10:30:18.197Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-02T20:03:48.871Z
 ---
+
+***If you have any questions prior to installing OpenMandriva Lx please ask us at [OpenMandriva Chat](https://wiki.openmandriva.org/en/team/chat) or on the [OpenMandriva Support Forum](https://forum.openmandriva.org/c/support/17).*** People may be in different time zone so please give us time to answer.
 
 # 1\. Transfer the downloaded image to a USB flash drive
 
@@ -72,7 +74,7 @@ Some automated options :
 
 -   Shrink an existing partition and install OpenMandriva Lx alongside any other OS already available on your system. If you have a Windows partition, this is the option you may want to choose to keep this operating system. (recommended for beginners)
 -   Use an existing partition and it will replace all files and/or OS on that partition with a new install of OpenMandriva Lx. (advanced users)
--   Use the entire disk and will create one partition where all will be installed under root, all other partitions will be removed. (beginners)
+-   Use the entire disk and will create one partition where all will be installed under root (administrator or super user), all other partitions will be removed. (beginners)
 
 And manual option:
 

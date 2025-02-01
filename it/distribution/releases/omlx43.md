@@ -2,7 +2,7 @@
 title: OpenMandriva ROCK
 description: OMLx 4.3
 published: true
-date: 2023-04-09T09:40:03.357Z
+date: 2023-04-09T09:40:05.682Z
 tags: 4.3, rock
 editor: markdown
 dateCreated: 2023-04-09T09:28:53.496Z

@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2023-08-28T05:34:18.581Z
+date: 2024-12-11T15:20:20.919Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -13,27 +13,26 @@ dateCreated: 2020-03-16T11:07:21.448Z
 > ROME is the rolling release published by the OpenMandriva Association. ROME is designed for individual users and will have more up to date software. [Codename](/policies/codename) ROME.
 {.is-success}
 
-Release date:  [24 August 2023](https://www.openmandriva.org/99)
+Release date:  [11 December 2024](https://www.openmandriva.org/107)
  
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
+[![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) 
 
 
 - [Download Now *Get ROME*](/distribution/releases/download)
 - [Learn more *about this release*](/distribution/releases/rome) 
 {.links-list}
 
-# Rock (OpenMandriva Lx 4.3)
+# Rock (OpenMandriva Lx 5.0)
 
->  **Rock (OMLx 4.3)** is the workstation and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Dysprosium
+>  **Rock (OMLx 5.0)** is the workstation and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Iodine
 {.is-success}
 
-Release date:  [06 February 2022](https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released)
+Release date:  [25 November 2023](https://www.openmandriva.org/101)
 
-![omlx.4.3-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
-
+![omlx.5.0-deskt.jpg](/images/omlx.5.0-deskt.jpg =400x)
 
 - [Download Now *Get Rock*](/distribution/releases/download)
-- [Learn more *about this release*](/distribution/releases/omlx43) 
+- [Learn more *about this release*](/distribution/releases/omlx50) 
 {.links-list}
 
 ## Getting Started

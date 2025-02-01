@@ -2,7 +2,7 @@
 title: OpenMandriva Release Plan and Repositories
 description: 
 published: true
-date: 2022-11-10T22:22:27.032Z
+date: 2025-01-07T00:10:11.182Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-02-28T17:02:32.116Z
@@ -137,9 +137,9 @@ With in each repository file listed above we have these four basic "Media" sourc
 
 `/main` is the core packages maintained by the OpenMandriva Lx team. This includes anything included in the install images as well as many more applications considered important. /main/release repository should always be enabled. If your system is using Release or Rock repo file then /main/release/updates should also always be enabled.
 
-- **unsupported**
+- **extra**
 
-`/unsupported` represents ''community maintained'' packages. These are not supported by the core OpenMandriva Lx team, and depend on package maintainers to update it. There are many packages in unsupported that will not install and others that install but do not work properly. Users are welcome to use whatever they find in this repository that is working. 
+`/extra` represents ''community maintained'' packages. These are not supported by the core OpenMandriva Lx team, and depend on package maintainers to update it. There are many packages in extra that will not install and others that install but do not work properly. Users are welcome to use whatever they find in this repository that is working. 
 
 - **restricted**
 
@@ -163,10 +163,10 @@ As a practical matter for any of the Release categories chosen one should enable
 
 *znver1 users will see znver1 instead of x86_64*
 
-Whether to use any or all of Unsupported, Restricted, or Non-Free is user decision but if one chooses to do so one would also enable the /release and /updates for each. 
+Whether to use any or all of Extra, Restricted, or Non-Free is user decision but if one chooses to do so one would also enable the /release and /updates for each. 
 
-`/x86_64/unsupported/release/`
-`/x86_64/unsupported/updates/`
+`/x86_64/extra/release/`
+`/x86_64/extra/updates/`
 `/x86_64/restricted/release/`
 `/x86_64/restricted/updates/`
 `/x86_64/non-free/release/`

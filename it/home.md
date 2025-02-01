@@ -2,7 +2,7 @@
 title: 
 description: Il wiki di OpenMandriva
 published: true
-date: 2023-04-09T10:49:07.345Z
+date: 2024-07-06T08:01:15.322Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-02T13:11:33.417Z
@@ -13,27 +13,27 @@ dateCreated: 2020-05-02T13:11:33.417Z
 > **ROME** è l'edizione rolling pubblicata dall'Associazione OpenMandriva. ROME è dedicata agli utenti per un uso giornaliero ma è concepita per ricevere più aggiornamenti software. [Codename](/policies/codename) ROME.
 {.is-success}
 
-Data di rilascio:  [30 Marzo 2023](https://www.openmandriva.org/96)
+Data di rilascio (RC): [03 Luglio 2024](https://www.openmandriva.org/105)
  
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
+[![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) 
 
 
 - [Download *Scarica ROME*](/en/distribution/releases/download)
 - [Scopri di più *su questa release*](/distribution/releases/rome) 
 {.links-list}
 
-# Rock (OpenMandriva Lx 4.3)
+# Rock (OpenMandriva Lx 5.0)
 
->  **Rock (OMLx 4.3)** è la versione per workstation e server pubblicata dall'Associazione OpenMandriva. Anche per gli utenti comuni che non amano i cambiamenti. [Codename](/policies/codename) Dysprosium
+>  **Rock (OMLx 5.0)** è la versione per workstation e server pubblicata dall'Associazione OpenMandriva. Anche per gli utenti comuni che non amano i cambiamenti. [Codename](/policies/codename) Dysprosium
 {.is-success}
 
-Data di rilascio:  [06 Febbraio 2022](https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released)
+Data di rilascio: [25 Novembre 2023](https://www.openmandriva.org/101)
 
-![omlx.4.3-latte-dock](/images/omlx.4.3-latte-dock.jpg =400x)
+![omlx.5.0-deskt.jpg](/images/omlx.5.0-deskt.jpg =400x)
 
 
 - [Download *Scarica Rock*](/en/distribution/releases/download)
-- [Scopri di più *su questa release*](/distribution/releases/omlx43) 
+- [Scopri di più *su questa release*](/en/distribution/releases/omlx50) 
 {.links-list}
 
 ## Getting Started
