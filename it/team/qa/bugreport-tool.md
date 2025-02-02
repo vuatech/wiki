@@ -2,10 +2,10 @@
 title: Strumento Bug report per OpenMandriva Lx
 description: 
 published: true
-date: 2021-09-26T21:49:31.836Z
+date: 2022-03-24T11:20:30.941Z
 tags: documentation, user-guide, tools
 editor: markdown
-dateCreated: 2021-03-10T16:47:18.423Z
+dateCreated: 2021-03-08T17:17:16.207Z
 ---
 
 # Strumento Bug report per OpenMandriva Lx
@@ -45,11 +45,8 @@ Quindi verrà creato un archivio omv-bug-report.log.zst contenente tutti i dati 
 
 Ciò aiuta e velocizza il lavoro di correzione dei bug e semplifica il lavoro della persona che segnala il bug fornendo informazioni dettagliate.
 
-## Leggere il contenuto del file
-Il file è compresso con zst. E' possibile estrarre l'archivio e leggere il suo contenuto mediante il comando `unzstd`
-```
-$ unzstd omv-bug-report.log.zst
-```
+Leggere il contenuto del file
 
-\- 
+Il file è compresso con zst. E' possibile estrarre l'archivio e leggere il suo contenuto mediante il comando `unzstd`
+
 
