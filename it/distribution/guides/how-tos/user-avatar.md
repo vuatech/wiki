@@ -2,10 +2,10 @@
 title: Come impostare l'avatar utente su OMLx
 description: 
 published: true
-date: 2021-09-26T21:27:24.918Z
+date: 2021-09-26T21:36:21.553Z
 tags: documentation, howto, user-guide
 editor: markdown
-dateCreated: 2020-05-04T11:11:04.498Z
+dateCreated: 2020-03-09T18:24:08.289Z
 ---
 
 # Come impostare l'avatar utente su OMLx
@@ -90,4 +90,5 @@ System Settings > Account Details > User Account
 Goditi il tuo avatar personalizzato
 
 ![om-user-manager-17.jpg](/images/om-user-manager-17.jpg)
+
 
