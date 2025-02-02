@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-01-31T16:23:23.919Z
+date: 2025-02-02T18:38:24.826Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -64,7 +64,7 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 If user has an issue with the graphic performance of nvidia proprietary drivers OpenMandriva can not do anything about that. The people to contact are at the [nVidia developers linux forum](https://forums.developer.nvidia.com/c/gpu-graphics/linux/148). OpenMandriva can only deal with issues related to packaging of this 3rd party software and whether it does/does not install.
 <br>
 
-### How to install X11 Plasma6 Wayland system
+### How to install X11 on Plasma6 Wayland system
 
 
 #### For Plasms6 user:
