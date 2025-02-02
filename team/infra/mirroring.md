@@ -2,7 +2,7 @@
 title: Mirroring
 description: 
 published: true
-date: 2022-02-08T01:05:49.191Z
+date: 2025-02-02T13:22:41.627Z
 tags: documentation
 editor: markdown
 dateCreated: 2020-03-14T19:10:14.516Z
@@ -69,5 +69,5 @@ Its content can be explored with this address:
 - http://abf.openmandriva.org
 
 Mirrorbits will always redirect to ABF if a file doesn't exist in any mirror. For instance: 
-- http://mirror.openmandriva.org:8080/release_current/README.txt 
-- http://mirror.openmandriva.org:8080/release_current/README.txt?mirrorlist
+- http://mirror.openmandriva.org/release_current/README.txt 
+- http://mirror.openmandriva.org/release_current/README.txt?mirrorlist
