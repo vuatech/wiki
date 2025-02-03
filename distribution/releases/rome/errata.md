@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-02-02T18:38:27.586Z
+date: 2025-02-03T20:41:57.450Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -65,17 +65,14 @@ If user has an issue with the graphic performance of nvidia proprietary drivers 
 <br>
 
 ### How to install X11 on Plasma6 Wayland system
-
-
-#### For Plasms6 user:
+#### For Plasma6 user:
 
 `sudo dnf in task-plasma6-x11 --refresh`
 
 This gives user an option to compare X11 to Wayland. It is known that there are some problems with Wayland in Plasma6. This is a useful way to determine if the issue is in fact related to Wayland or not. Essential for support requests in OM Forum and Bug Reports. Also useful if for some reason Wayland does not work for user.
 
 ### How to install Wayland on Plasma6 X11 system
-
-#### For Plasms6 user:
+#### For Plasma6 user:
 
 `sudo dnf in task-plasma6-wayland --refresh`
 
