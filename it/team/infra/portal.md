@@ -2,10 +2,10 @@
 title: Portale Comunità
 description: 
 published: true
-date: 2021-09-26T22:14:00.991Z
+date: 2021-09-26T22:11:46.402Z
 tags: 
 editor: markdown
-dateCreated: 2020-05-10T18:02:19.542Z
+dateCreated: 2020-03-16T15:25:48.972Z
 ---
 
 # Risorse & link utili

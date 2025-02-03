@@ -2,10 +2,10 @@
 title: Schermata di Benvenuto OpenMandriva Welcome
 description: 
 published: true
-date: 2021-09-26T22:14:30.334Z
+date: 2022-03-07T23:10:48.440Z
 tags: documentation, user-guide
 editor: markdown
-dateCreated: 2020-05-04T10:44:31.388Z
+dateCreated: 2020-03-04T19:37:44.925Z
 ---
 
 # OpenMandriva Welcome - Schermata di Benvenuto
@@ -52,15 +52,15 @@ Questa è la prima schermata dove saremo in grado di configurare e personalizzar
 - Icone del Desktop
 - Un accesso diretto al nostro principale strumento di configurazione OpenMandriva Control Center 
 
-Clicca su <kbd>Prossimo</kbd>
+ Clicca su <kbd>Prossimo</kbd>
 
 ![om4.1-welcome-05.jpg](/images/om4.1-welcome-05.jpg)
 
 Da questa pagina potrai installare varie applicazioni per gruppi differenti
 
+
 > **Potrebbe essere necessario [abilitare specifici repository](/doc/repositories_tldr)**
 {.is-warning}
-
 
 ![om4.1-welcome-06.jpg](/images/om4.1-welcome-06.jpg)
 
@@ -85,3 +85,4 @@ Infine le informazioni riguardanti questa applicazione esclusiva di OpenMandriva
 ![om4.1-welcome-13.jpg](/images/om4.1-welcome-13.jpg)
 
 \-
+
