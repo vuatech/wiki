@@ -35,7 +35,7 @@ Se intendi scegliere una architettura diversa dovresti sapere bene che cosa stai
 
 [![Download OpenMandriva Lx](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/openmandriva/files/latest/download)
 
-oppure
+oppure:
 -  [**Visita la directory ROME a SourceForge**](https://sourceforge.net/projects/openmandriva/files/release/ROME/)
 
 - [**Visita la directory 5.0 a SourceForge**](https://sourceforge.net/projects/openmandriva/files/release/5.0/)
