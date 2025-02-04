@@ -10,7 +10,7 @@ dateCreated: 2020-03-16T11:07:21.448Z
 
 # ROME
 
-> ROME es la versión de lanzamiento continuo publicada por la Asociación OpenMandriva. ROME está diseñada para usuarios individuales y tendrá versiones de software más recientes. [Codename](/policies/codename) ROME.
+> ROME es la versión de lanzamiento continuo publicada por la Asociación OpenMandriva. ROME está diseñada para usuarios individuales y tendrá versiones de software más recientes. [Nombre en clave](/policies/codename) ROME.
 {.is-success}
 
 Fecha de lanzamiento: [11 de diciembre de 2024](https://www.openmandriva.org/107)
