@@ -24,7 +24,7 @@ Fecha de lanzamiento: [11 de diciembre de 2024](https://www.openmandriva.org/107
 
 # Rock (OpenMandriva Lx 5.0)
 
->  **Rock (OMLx 5.0)** esta dirigida a estaciones de trabajo y servidores, publicada por la Asociación OpenMandriva. También para aquellos usuarios particulares a los que no les gustan los cambios. [Codename](/policies/codename) Iodine
+>  **Rock (OMLx 5.0)** esta dirigida a estaciones de trabajo y servidores, publicada por la Asociación OpenMandriva. También para aquellos usuarios particulares a los que no les gustan los cambios. [Nombre en clave](/policies/codename) Iodine
 {.is-success}
 
 Fecha de lanzamiento: [25 de noviembre de 2023](https://www.openmandriva.org/101)
