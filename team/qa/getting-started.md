@@ -2,8 +2,8 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2022-03-31T07:32:48.951Z
-tags: qa, documentation
+date: 2025-02-11T09:37:44.685Z
+tags: documentation, qa
 editor: markdown
 dateCreated: 2020-03-02T15:35:06.431Z
 ---
@@ -14,10 +14,10 @@ We have compiled this document to help you get started in helping us test OpenMa
 
 You will need to use the command line to test more often than not. Make sure you have an account at [ABF](https://abf.openmandriva.org/) and [Github](https://github.com/OpenMandrivaAssociation).
 
-QA Team daily communication takes place on Libera Chat IRC @ #openmandriva-cooker but remember that this is also where developers work so mind your IRC manners. Currently OpenMandriva contributor group is small enough that developers and QA work together on IRC. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
+QA Team daily communication takes place on Matrix Chat `#openmandriva-cooker:matrix.org` but remember that this is also where developers work so mind your IRC netiquette manners. Currently OpenMandriva contributor group is small enough that developers and QA work together on Matrix rooms. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
-QA Team members are encouraged to actively attend weekly TC meetings or if unable to attend to read the [meeting logs](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/) to keep up with what is happening. They are announced [here](https://forum.openmandriva.org/t/2735).
-TC meetings take place on Libera Chat IRC @ #openmandriva-cooker.
+QA Team members are encouraged to actively attend weekly (if at all possible) TC meetings.
+</br>
 
 ### Setting up your OpenMandriva Lx system
 Because you will probably be working with untested (with our OS at least) software, we strongly urge you to use a dedicated or virtual machine for testing. For QA work on hardware (recommended if at all possible) it is recommended to have Rolling installed on a separate partition so you have a 'stable' system on another partition in case something breaks during testing.
@@ -49,20 +49,22 @@ Rolling system:
 `sudo dnf config-manager --enable rolling-testing-$ARCH rolling-testing-$ARCH-unsupported rolling-testing-$ARCH-restricted rolling-testing-$ARCH-non-free`
 
 To disable simply replace `--enable` with `--disable`.
+</br>
 
 ### Package Testing with Kahinah
 Now that your system is set up, it's time to vote for the packages. Do they work? Are there really bad issues?
 
 We use a system called [Kahinah](https://kahinah.tsn.sh/), which uses voting to determine which packages to push to the stable repository or not.
-
 Login to Kahinah. Use your Github login.
-
 You can see what packages are waiting to be tested in 'Recent Builds'. Give it a thumbs up or thumbs down, and let us know why.
 
 The current procedure is that packages require 3 'Accept' votes to move forward, unless there are any 'Reject' votes. If there is even one 'Reject' vote it should be questioned and discussed before moving packages. Also packages that get stuck in Kahinah with no votes for over 7 days can be moved due to QA inaction. Discussion about this takes place on Libera.Chat IRC channel #openmandriva-cooker.
+</br>
 
 ### Testing new Alpha/Beta/RC ISOs
 This is discussed [here](/team/qa/release-qa).
+</br>
 
-### Triaging New Bugs with Bugzilla
+### Triaging New Bugs in Issue Tracker
+https://github.com/OpenMandrivaAssociation/distribution/issues
 This process is in development at this time. (We need to implement something for triaging bug reports.) 
