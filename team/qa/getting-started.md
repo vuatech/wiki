@@ -2,7 +2,7 @@
 title: QA/Getting Started
 description: 
 published: true
-date: 2025-02-11T09:37:44.685Z
+date: 2025-02-11T09:38:30.981Z
 tags: documentation, qa
 editor: markdown
 dateCreated: 2020-03-02T15:35:06.431Z
@@ -14,7 +14,8 @@ We have compiled this document to help you get started in helping us test OpenMa
 
 You will need to use the command line to test more often than not. Make sure you have an account at [ABF](https://abf.openmandriva.org/) and [Github](https://github.com/OpenMandrivaAssociation).
 
-QA Team daily communication takes place on Matrix Chat `#openmandriva-cooker:matrix.org` but remember that this is also where developers work so mind your IRC netiquette manners. Currently OpenMandriva contributor group is small enough that developers and QA work together on Matrix rooms. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
+QA Team daily communication takes place on Matrix Chat `#openmandriva-cooker:matrix.org` but remember that this is also where developers work so mind your IRC netiquette manners. 
+Currently OpenMandriva contributor group is small enough that developers and QA work together on Matrix rooms. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
 QA Team members are encouraged to actively attend weekly (if at all possible) TC meetings.
 </br>
