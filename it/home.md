@@ -1,69 +1,76 @@
 ---
-title: 
-description: Il wiki di OpenMandriva
+title: OMA Wiki
+description: 
 published: true
-date: 2024-07-06T08:01:15.322Z
+date: 2024-12-11T15:20:20.919Z
 tags: 
 editor: markdown
-dateCreated: 2020-05-02T13:11:33.417Z
+dateCreated: 2020-03-16T11:07:21.448Z
 ---
 
 # ROME
 
-> **ROME** è l'edizione rolling pubblicata dall'Associazione OpenMandriva. ROME è dedicata agli utenti per un uso giornaliero ma è concepita per ricevere più aggiornamenti software. [Codename](/policies/codename) ROME.
+> ROME è l'edizione rolling release pubblicata dall'Associazione OpenMandriva. ROME è progettata per gli utenti singoli e contiene software più aggiornato. [Codename](/policies/codename) ROME.
 {.is-success}
 
-Data di rilascio (RC): [03 Luglio 2024](https://www.openmandriva.org/105)
- 
+Data di rilascio:  [11 Decembre 2024](https://www.openmandriva.org/107)
+
 [![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) 
 
 
-- [Download *Scarica ROME*](/en/distribution/releases/download)
+- [Scarica adesso *Ottieni ROME*](/distribution/releases/download)
 - [Scopri di più *su questa release*](/distribution/releases/rome) 
 {.links-list}
 
 # Rock (OpenMandriva Lx 5.0)
 
->  **Rock (OMLx 5.0)** è la versione per workstation e server pubblicata dall'Associazione OpenMandriva. Anche per gli utenti comuni che non amano i cambiamenti. [Codename](/policies/codename) Dysprosium
+>  **Rock (OMLx 5.0)** è l'edizione workstation e server publicata dall'Associazione OpenMandriva. Adatta anche agli utenti comuni che non gradiscono frequenti modifiche. [Codename](/policies/codename) Iodine
 {.is-success}
 
-Data di rilascio: [25 Novembre 2023](https://www.openmandriva.org/101)
+Data di rilascio:  [25 Novembre 2023](https://www.openmandriva.org/101)
 
 ![omlx.5.0-deskt.jpg](/images/omlx.5.0-deskt.jpg =400x)
 
-
-- [Download *Scarica Rock*](/en/distribution/releases/download)
-- [Scopri di più *su questa release*](/en/distribution/releases/omlx50) 
+- [Scarica adesso *Ottieni Rock*](/distribution/releases/download)
+- [Scopri di più *su questa release*](/distribution/releases/omlx50) 
 {.links-list}
 
-## Getting Started
+## Inizio
 
-- [About *Who are we and what is OpenMandriva Lx*](/en/distribution)
-- [Release Notes ***Read Release Notes and Errata***](/en/distribution/releases/current)
-- [Requirements *Hardware prerequisites*](/en/distribution/install/requirements/)
-- [Installation Guide *Detailed installation instructions*](/en/distribution/install/)
-- [Post-installation *What to do after your installed OpenMandriva Lx*](/en/distribution/install/post-install)
+- [About *Chi siamo e che cosa è OpenMandriva Lx*](/distribution)
+- [Note di rilascio ***Note di rilascio e Errata***](/distribution/releases/current)
+- [Requisiti *Prerequisiti hardware*](/distribution/install/requirements/)
+- [Guida all'installazione *Istruzioni dettagliate*](/distribution/install/)
+- [Post-installazione *Che cosa è utile fare dopo aver installato OpenMandriva Lx*](/distribution/install/post-install)
+
 {.links-list}
 
-## User Guide
+## Guide Utenti
 
-- [Software management *How to add and remove software*](/en/distribution/guides/software-management)
-- [How-tos *Convenient list of guides and how-to*](/en/distribution/guides/how-tos)
+- [Software management *Come installare e rimuovere software*](/distribution/guides/software-management)
+- [How-tos *Utile lista di guide e tutorial*](/distribution/guides/how-tos)
 {.links-list}
 
-.
-## Che cos'è OpenMandriva?
-OpenMandriva Lx è una distribuzione unica e indipendente, discendente diretta di Mandriva Linux
+# Unisciti al team
 
-Un sistema operativo desktop gratuito che mira a stimolare e interessare sia gli utenti principianti che quelli avanzati.
+## L'Associazione OpenMandriva
+- [:book: The Association *Chi siamo e che cosa facciamo*](/team/association)
+{.links-list}
 
-OpenMandriva è anche il nome di una comunità globale di persone che sono appassionate di [free software](http://en.wikipedia.org/wiki/Free_software) e vogliono condurre nella creazione e nella diffusione di codice e contenuti liberi lavorando assieme.
+## Sviluppatori
 
-# L' Associazione
-L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 come French NGO, [Association de loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901). 
+- [:woman_cook: Cooker *L'ambiente di sviluppo della distribuzione*](/team/dev/cooker)
+{.links-list}
 
-Rappresenta la Comunità di OpenMandriva, promuove e supporta la realizzazione della distribuzione OpenMandriva Lx.
+## Il flusso di lavoro
+- [:globe_with_meridians: Mirroring *Come sono impostati i mirror per un download rapido dei pacchetti*](/en/team/infra/mirroring)
+{.links-list}
+
+## Contattaci
+- [:question: Domande, commenti, o solo quattro chiacchiere *Non siamo lontani*](/team/chat)
+- [:fire: Segnala un problema *Aiutaci a migliorare la distribuzione e i siti web*](/team/qa/report-bug)
+- [:bulb: Suggerisci una nuova funzionalità *Abbiamo bisogno delle tue idee!*](/team/chat)
+- [:moneybag: Donate *Fai una piccola donazione o diventa uno sponsor di questo meraviglioso progetto*](https://www.openmandriva.org/donate)
+{.links-list}
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
-
-\.
