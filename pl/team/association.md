@@ -29,7 +29,7 @@ Wartości te odzwierciedlają to, w co wierzymy i są główną tożsamością n
 
 Wszyscy jako społeczność wierzymy, że osiągniemy nasze cele i pomożemy w tworzeniu produktów, które są dobre dla wszystkich.
 
-# Sprawy, które są dla nas ważne
+# Co jest dla nas ważne
 W Stowarzyszeniu OpenMandriva liczy się znacznie więcej: ludzie i ich oczekiwania.
 
 Chcielibyśmy, abyś stał się częścią tej wielkiej rodziny. Jeśli chcesz dowiedzieć się o nas nieco więcej, zapoznaj się z poniższymi linkami:
