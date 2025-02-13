@@ -2,10 +2,10 @@
 title: OpenMandriva Lx 4.1 Novità
 description: 
 published: true
-date: 2021-09-26T21:02:34.597Z
+date: 2021-09-26T21:01:59.386Z
 tags: 4.1
 editor: markdown
-dateCreated: 2020-05-06T06:27:45.028Z
+dateCreated: 2020-02-28T12:14:46.918Z
 ---
 
 # OpenMandriva Lx 4.1 Novità
@@ -55,4 +55,4 @@ OpenMandriva Lx 4.1 è una nuova release da parte della Associatione OpenMandriv
 - Digikam 7.0
 - SMPlayer 19.10.2
 - VLC 3.0.8
-  
+
