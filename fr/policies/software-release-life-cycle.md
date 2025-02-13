@@ -2,10 +2,10 @@
 title: Cycle de vie d'une version de logiciel
 description: 
 published: true
-date: 2025-02-03T06:22:45.233Z
-tags: qa, versions
+date: 2021-09-26T22:18:54.234Z
+tags: versions, qa
 editor: markdown
-dateCreated: 2025-02-03T06:22:42.964Z
+dateCreated: 2020-03-01T20:11:00.112Z
 ---
 
 # Cycle de vie d'une version de logiciel
