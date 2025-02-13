@@ -2,10 +2,10 @@
 title: Comment contribuer à OpenMandriva
 description: 
 published: true
-date: 2022-03-25T10:31:59.542Z
+date: 2025-02-03T06:22:35.104Z
 tags: 
-editor: Démarque
-dateCreated: 2022-03-03T08:54:58.749Z
+editor: markdown
+dateCreated: 2025-02-03T06:22:32.750Z
 ---
 
 # Comment contribuer à OpenMandriva

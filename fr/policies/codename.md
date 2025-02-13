@@ -2,10 +2,10 @@
 title: Nom de code
 description: 
 published: true
-date: 2023-10-04T11:37:52.633Z
-tags: Publications
+date: 2025-02-03T06:22:38.504Z
+tags: publications
 editor: markdown
-dateCreated: 2020-02-27T19:10:26.091Z
+dateCreated: 2025-02-03T06:22:36.204Z
 ---
 
 ### Voici la liste des noms de code proposés pour les versions d'OpenMandriva à partir de la version 2013.0 :

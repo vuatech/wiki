@@ -2,10 +2,10 @@
 title: Scarica OpenMandriva ROME o Rock
 description: Ottieni OpenMandriva Lx
 published: true
-date: 2025-01-08T10:33:18.847Z
+date: 2025-02-04T10:59:49.686Z
 tags: iso, torrent, archive.org, download
 editor: markdown
-dateCreated: 2022-02-07T23:16:57.591Z
+dateCreated: 2025-02-04T10:59:47.418Z
 ---
 
 # Quale versione dovrei scaricare

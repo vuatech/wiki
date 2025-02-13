@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-02-03T20:41:57.450Z
+date: 2025-02-03T20:42:00.008Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z

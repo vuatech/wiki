@@ -2,10 +2,10 @@
 title: OpenMandriva Lx 4.1 Errata
 description: 
 published: true
-date: 2021-09-26T21:01:23.321Z
+date: 2021-09-26T21:01:41.269Z
 tags: 4.1
 editor: markdown
-dateCreated: 2020-02-28T12:20:51.425Z
+dateCreated: 2020-05-03T07:26:35.867Z
 ---
 
 # OpenMandriva Lx 4.1 Errata -  Problemi Conosciuti
@@ -93,10 +93,4 @@ Ciò è dovuto al fatto che openSUSE usa una sintassi personalizzata nelle loro 
 L'espediente per gli utenti è di cambiare bootloader nelle impostazioni firmware del BIOS o UEFI.
 Un'alternativa può essere quella di usare il bootloader di OpenSUSE se quest'ultimo riconosce il tuo sistema OpenMandriva.
 Finchè i nostri utenti riferiscono problemi con il multiboot noi aggiusteremo quello che possiamo. I problemi che non siamo in grado di risolvere verrano riportati nei documenti Errata delle nostre release.
-
-
-
-
-
-
 

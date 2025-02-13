@@ -2,7 +2,7 @@
 title: Wiki OMA
 description: Voici le Wiki OpenMandriva, un projet de documentation libre que vous pouvez améliorer
 published: true
-date: 2025-01-29T11:01:06.576Z
+date: 2025-02-03T06:22:39.609Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T00:47:55.319Z

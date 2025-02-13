@@ -2,10 +2,10 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2024-12-11T15:39:34.571Z
+date: 2025-02-13T11:54:46.187Z
 tags: rolling, rome
 editor: markdown
-dateCreated: 2023-02-28T15:34:33.449Z
+dateCreated: 2025-02-13T11:54:43.901Z
 ---
 
 ### Novità in ROME

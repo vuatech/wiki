@@ -2,10 +2,10 @@
 title: Politique d'appellation officielle
 description: 
 published: true
-date: 2022-12-06T07:27:12.251Z
+date: 2025-02-03T06:22:41.828Z
 tags: documentation, politiques
 editor: markdown
-dateCreated: 2020-03-01T12:32:00.560Z
+dateCreated: 2025-02-03T06:22:39.626Z
 ---
 
 ![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}

@@ -2,10 +2,10 @@
 title: Cooker
 description: 
 published: true
-date: 2022-04-02T16:19:42.983Z
+date: 2025-02-03T06:23:02.863Z
 tags: cooker
 editor: markdown
-dateCreated: 2020-02-26T22:33:18.166Z
+dateCreated: 2020-05-10T09:09:16.700Z
 ---
 
 # Cooker
