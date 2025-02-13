@@ -2,10 +2,10 @@
 title: O nas
 description: 
 published: true
-date: 2025-02-12T21:51:50.696Z
+date: 2022-04-02T16:14:47.944Z
 tags: dokumentacja, stowarzyszenie
 editor: markdown
-dateCreated: 2025-02-12T21:51:48.280Z
+dateCreated: 2020-03-12T10:47:36.033Z
 ---
 
 # Czym jest OpenMandriva?

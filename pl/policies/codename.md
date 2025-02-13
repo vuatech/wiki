@@ -2,10 +2,10 @@
 title: Nazwa kodowa
 description: 
 published: true
-date: 2025-02-12T21:51:47.230Z
+date: 2023-10-04T11:37:52.633Z
 tags: wydania
 editor: markdown
-dateCreated: 2025-02-12T21:51:45.062Z
+dateCreated: 2020-02-27T19:10:26.091Z
 ---
 
 ### Oto lista proponowanych nazw kodowych dla wydań OpenMandriva, zaczynając od 2013.0:
