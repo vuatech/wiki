@@ -2,10 +2,10 @@
 title: OpenMandriva Lx 4.1 Note di rilascio
 description: 
 published: true
-date: 2021-09-26T21:02:17.147Z
+date: 2021-09-26T21:02:54.401Z
 tags: 4.1
 editor: markdown
-dateCreated: 2020-05-01T14:56:41.443Z
+dateCreated: 2020-02-28T12:18:34.424Z
 ---
 
 # OpenMandriva Lx 4.1 Note di rilascio
@@ -110,27 +110,27 @@ Oppure, se non hai ancora OpenMandriva Lx, puoi trovare i link per il download d
 La capacità minima consigliata è di 4 GB. La memoria persistente non è necessaria.
 Si noti che ciò **cancellerà** tutto il contenuto della vostra USB.
 
-> Per favore non utilizzare altri strumenti per la scrittura di USB come ad esempio alcuni tool di Windows (ad esempio Rufus) perchè troncano il nome del volume. Questo guasterebbe il processo di boot.
+### > Per favore non utilizzare altri strumenti per la scrittura di USB come ad esempio alcuni tool di Windows (ad esempio Rufus) perchè troncano il nome del volume. Questo guasterebbe il processo di boot.
 {.is-danger}
 
-### - Via dd
+- Via dd
 
 In alternativa puoi scrivere l'immagine nella tua USB usando dd:
 `$ sudo dd if=<iso_name> of=<usb_drive> bs=4M`
 
 Sostituisci `<iso_name>` con il percorso per l'ISO e `<usb_drive>` con la partizione del dispositivo USB, ad esempio `/dev/sdb`.
 
-SUSE Studio ImageWriter è stato testato e funziona per scrivere le immagini ISO su unità di memoria USB.
+## SUSE Studio ImageWriter è stato testato e funziona per scrivere le immagini ISO su unità di memoria USB.
 
-## Avvio da file ISO
-
+Avvio da file ISO
 Grub2 entry da aggiungere in `/boot/grub2/grub.cfg`
-```
+
+## ```
 submenu "OpenMandriva (64 bit)" {
         set isofile=/home/user/OpenMandrivaLx.4.1-plasma.x86_64.iso
         set isoname=OpenMandrivaLx_4.1
         loopback loop $isofile
-        
+
         menuentry "OpenMandriva" {
                 linux (loop)/boot/vmlinuz0 root=live:LABEL=${isoname} iso-scan/filename=${isofile} rd.live.image toram --
                 initrd (loop)/boot/liveinitrd.img
@@ -138,15 +138,15 @@ submenu "OpenMandriva (64 bit)" {
 }
 ```
 
-## A proposito dei repository
+A proposito dei repository
 
 Adesso abbiamo [om-repo-picker](/en/doc/repositories-tldr) aka Software Repository Selector per selezionare repository aggiuntive per avere una più ampia varietà di pacchetti disponibili.
 
-Non mischiare le repositories da release versioni o canali di aggiornamento diversi. Per esempio **non usare le repository Cooker su un sistema Rock**. Se usi Rock usa solo le repository Rock.
+## Non mischiare le repositories da release versioni o canali di aggiornamento diversi. Per esempio **non usare le repository Cooker su un sistema Rock**. Se usi Rock usa solo le repository Rock.
 Ciò è spiegato nel dettaglio in [OpenMandriva Release Plan and Repositories](/en/doc/release-plan-and-repositories). 
 Se mischi relese/repositories per i canali di aggiornamento e guasti il sistema l'unica soluzione sarà di reinstallare il sistema operativo da zero. Dopo aver reinstallato, non commettere più lo stesso errore.
 
-## Repository di OpenMandriva e disponibilità di software
+Repository di OpenMandriva e disponibilità di software
 
 Il sistema OMLx quando installato ha la repository `main` abilitata di default.
 
@@ -154,46 +154,44 @@ Ci sono anche repository supplementari chiamate `unsupported`, `restricted` e `n
 Per avere la massima disponibilità di software gli utenti dovranno abilitare queste repo.
 Trovi la spiegazione dei differenti repository [qui](/en/doc/release-plan-and-repositories)
 
-Gli utenti possono usare l'utility grafica Software Repository Selector per selezionare e deselezionare ciò che desiderano utilizzare.
+## Gli utenti possono usare l'utility grafica Software Repository Selector per selezionare e deselezionare ciò che desiderano utilizzare.
 
-## Nuove Features e Cambiamenti Importanti
+Nuove Features e Cambiamenti Importanti
 
 In modo da tenere il passo con gli ultimi cambiamenti per quanto riguarda la sicurezza e la scrittura di codice informatico su Linux ci sono stati dei cambiamenti importanti in OMLx4.1.
-
-Cambiamenti Importanti:
+- Cambiamenti Importanti:
 - Il kernel è stato aggiornato alla versione 5.5.0
 - Qt è stato aggiornato alla versione 5.14.1
 - Plasma è stato aggiornato: Frameworks 5.66, Desktop Plasma 5.17.5, Applicazioni 19.12.1
 - Zypper è stato introdotto come gestore di pacchetti alternativo
-- Sono disponibili altri desktop alternativi
 
-Applicazioni di brand-name OpenMandriva:
+Sono disponibili altri desktop alternativi
+- Applicazioni di brand-name OpenMandriva:
 - Desktop Presets (om-feeling-like): Strumento per personalizzare l'aspetto del tuo desktop Plasma OpenMandriva in modo che tu possa renderlo più simile ad altri sistemi che sei abituato a utilizzare.
-- Update Configuration (om-update-config): Strumento per configurare aggiornamenti automatici.
 
-## Aggiornamento da una versione precedente
+## Update Configuration (om-update-config): Strumento per configurare aggiornamenti automatici.
+Aggiornamento da una versione precedente
+
 Attualmente si consiglia una nuova installazione.
 Se vuoi tentare comunque l'aggiornamento, assicurati di avere un backup di tutti i tuoi dati.
 
+
 > Si prega di notare: Gli strumenti grafici come Discover e dnfdragora non aggiorneranno OMLx 4.0 a OMLx 4.1. **Se lo farai, il sistema si guasterà**.
 {.is-danger}
-
 Nessuno di questi gestori di pacchetti GUI è in grado di fare questo tipo di aggiornamento chiamato "aggiornamento della distribuzione".
 E' necessario un `dnf --allowerasing disto-sync` non un `dnf upgrade`. Inoltre ci sono problemi di dipendenze che richiedono che venga digitato un comando unico da console come segue:
+
  ```
 $ sudo dnf remove java-12-openjdk && sudo dnf --refresh --best --allowerasing distro-sync
 ```
 
-Più dettagli [qui](https://forum.openmandriva.org/t/3313)
 
-# Errata
-Vedi [4.1/Errata](/releases/omlx41/errata).
+# Più dettagli [qui](https://forum.openmandriva.org/t/3313)
+Errata
 
-# Aiuta il progetto
+# Vedi [4.1/Errata](/releases/omlx41/errata).
+Aiuta il progetto
+
 ![om-donate.svg](/images/om-donate.svg){.align-left}I team di sviluppo di OpenMandriva (Cooker & QA) cercano sempre nuovi contributori che assistano nella creazione e nel mantenimento di pacchetti e per assistere nella correzione dei bug e nel testing. Sei il benvenuto se vuoi entrare e aiutarci in questo lavoro che non è solo soddisfacente ma è anche tremendamente divertente!
 
 I team di sviluppo di OpenMandriva (Cooker & QA) cercano sempre nuovi contributori che assistano nella creazione e nel mantenimento di pacchetti e per assistere nella correzione dei bug e nel testing. Sei il benvenuto se vuoi entrare e aiutarci in questo lavoro che non è solo soddisfacente ma è anche tremendamente divertente!
-
-Se senti che il tuo talento non risiede nel campo del software, allora il gruppo Workshop, che è composto dai Team Artwork, Documentazione, Traduzione, e Comunicazione, è sempre aperto per il ricevimento di lavori artistici e traduzioni. I nuovi contributori che desiderano aiutare con questi compiti ad ampio raggio dovrebbero visitare la wiki per ricevere più dettagli e imparare come entrare! In via alternativa puoi usare il nostro [Forum](http://forum.openmandriva.org/).
-
-Inoltre mantenere i nostri server online e funzionanti costa tempo e denaro. Se puoi, per favore dona per tenere le luci accese.
