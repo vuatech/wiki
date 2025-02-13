@@ -2,10 +2,10 @@
 title: Constitution et statuts
 description: 
 published: true
-date: 2025-02-03T06:22:48.780Z
+date: 2024-09-24T21:34:37.949Z
 tags: documentation, association, legal
 editor: markdown
-dateCreated: 2020-03-01T22:58:03.239Z
+dateCreated: 2020-03-01T22:32:34.011Z
 ---
 
 # Article 1 – Constitution
