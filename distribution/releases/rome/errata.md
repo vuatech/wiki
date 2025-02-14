@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-02-03T20:42:00.008Z
+date: 2025-02-14T10:28:09.362Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -62,6 +62,12 @@ There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-pr
 5. If user uses `kernel-rc-desktop` they will need to install `nvidia-kmod-rc-desktop`. Or `kernel-rc-server` then `nvidia-kmod-rc-server`.
 
 If user has an issue with the graphic performance of nvidia proprietary drivers OpenMandriva can not do anything about that. The people to contact are at the [nVidia developers linux forum](https://forums.developer.nvidia.com/c/gpu-graphics/linux/148). OpenMandriva can only deal with issues related to packaging of this 3rd party software and whether it does/does not install.
+<br>
+
+6. Probably also related to nvidia graphic cards:
+> You may need to disconnect/unplug any secondary monitors to be able to reach the login screen.
+{.is-warning}
+
 <br>
 
 ### How to install X11 on Plasma6 Wayland system
