@@ -35,7 +35,7 @@ C'è molto di più che è importante per OpenMandriva: le sue persone e le loro 
 Noi ameremmo vedere te come parte di questa grande famiglia. Quindi se vuoi saperne di più su di noi per favore dai un'occhiata a questi link:
 
 - [Governance](/team/association/governance)
-- Come contribuire a OpenMandriva
+- [Come contribuire](/team/get-involved)
 
 
 ![header-tr-asso.png](/assets/header-tr-asso.png){.align-abstopright}
