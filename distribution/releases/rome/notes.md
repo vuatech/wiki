@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-01-31T21:12:04.021Z
+date: 2025-02-14T10:03:45.907Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -131,6 +131,10 @@ Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
 
 ## Installing from USB
 Once you have created your USB drive turn off the computer, plug it to the USB port and restart.
+
+> You may need to disconnect/unplug any secondary monitors to be able to reach the login screen.
+{.is-warning}
+
 
 If your computer supports starting from USB, choose the device from which to boot your computer.
 To do so, you want to interrupt the normal startup process and access the BIOS menu presented by immediately pressing the key which often is mentioned in the message after the computer starts.
