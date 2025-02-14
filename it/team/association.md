@@ -11,7 +11,7 @@ dateCreated: 2020-03-12T10:47:36.033Z
 # Che cos'è OpenMandriva?
 L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 sotto la legge francese 1901.
 
-L''Associazione gestisce alcuni progetti tra cui OpenMandriva Lx, un sistema operativo GNU/Linux, che è un'alternativa gratuita ai celeberrimi Microsoft Windows e Apple MacOS.
+L'Associazione gestisce alcuni progetti tra cui OpenMandriva Lx, un sistema operativo GNU/Linux, che è un'alternativa gratuita ai celeberrimi Microsoft Windows e Apple MacOS.
 
 Che cos'è OpenMandriva?
 
