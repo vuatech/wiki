@@ -23,7 +23,7 @@ Noi combattiamo per proteggere questi valori e promuovere soluzioni che chiunque
 OpenMandriva rappresenta il paradigma: dalla community per la community, con passione, divertimento e dedizione.
 
 # I valori di OpenMandriva
-Noi combattiamo per proteggere questi valori e promuovere soluzioni che chiunque possa utilizzare, modificare e distribuire. OpenMandriva crede nel creare, migliorare, promuovere e distribuire software libero in generale e i suoi progetti in particolare. Noi desideriamo anche promuovere il libero scambio di conoscenza, e pari opportunità nell'accesso e sviluppo di software, così come nell'educazione, nella scienza e nella ricerca. I nostri prodotti sono sviluppati con passione dalla comunità e puntano ad esere flessibili nell'utilizzo da parte di tutti.
+I valori fondanti di OpenMandriva sono lo sviluppo, l'uguaglianza, la cooperazione, l'apertura, la libertà, la realizzazione di gruppo, l'indipendenza e la solidarietà.
 
 OpenMandriva rappresenta il paradigma: dalla community per la community, con passione, divertimento e dedizione.
 
