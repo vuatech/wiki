@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-02-14T10:03:45.907Z
+date: 2025-02-14T10:16:32.645Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -138,7 +138,8 @@ Once you have created your USB drive turn off the computer, plug it to the USB p
 
 If your computer supports starting from USB, choose the device from which to boot your computer.
 To do so, you want to interrupt the normal startup process and access the BIOS menu presented by immediately pressing the key which often is mentioned in the message after the computer starts.
-Usually the correct key is `Esc`, `F12`, `F10`, `F8`, or similar.
+Usually the correct key is `Esc`, `Del`, `F12`, `F10`, `F9` `F8`, or similar.
+If you are uncertain do an internet search for what your hardware will require.
 
 When you see the menu, select the entry matching your USB drive.
 Among others, you will see entries along the lines of
