@@ -9,7 +9,7 @@ dateCreated: 2020-03-12T10:47:36.033Z
 ---
 
 # Che cos'è OpenMandriva?
-About
+L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 sotto la legge francese 1901.
 
 *A proposito di Open Mandriva*
 
