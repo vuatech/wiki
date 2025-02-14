@@ -15,7 +15,7 @@ L'Associazione gestisce alcuni progetti tra cui OpenMandriva Lx, un sistema oper
 
 OpenMandriva è anche il nome di una community globale di persone che sono appassionate di [free software](http://en.wikipedia.org/wiki/Free_software) e vogliono condurre nella creazione e nella diffusione di codice e contenuti liberi lavorando insieme come una community.
 
-# L' Associazione OpenMandriva è stata fondata il 12 Dicembre 2012 sotto la legge francese 1901.
+# Perchè OpenMandriva?
 Questa associazione gestisce alcuni progetti tra cui OpenMandriva Lx, un sistema operativo GNU/Linux, che è un'alternativa gratuita ai celeberrimi Microsoft Windows e Apple MacOS.
 
 OpenMandriva è anche il nome di una community globale di persone che sono appassionate di [free software](http://en.wikipedia.org/wiki/Free_software)  e vogliono condurre nella creazione e nella diffusione di codice e contenuti liberi lavorando insieme come una community.
