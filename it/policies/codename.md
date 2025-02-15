@@ -1,14 +1,14 @@
 ---
 title: Codename
-description: Nome in codice
+description: 
 published: true
-date: 2021-09-26T22:17:35.212Z
+date: 2023-10-04T11:37:52.633Z
 tags: releases
 editor: markdown
-dateCreated: 2020-05-10T10:09:40.218Z
+dateCreated: 2020-02-27T19:10:26.091Z
 ---
 
-### Questa è la lista dei nomi in codice proposti per OpenMandriva Lx partendo da 2013.0:
+### Ecco la lista dei nomi in codice proposti per le release di OpenMandriva a cominciare dalla 2013.0:
 
 - **O**xygen = OMLx 2013.0
 - **P**hosphorus = OMLx 2014.0
@@ -16,9 +16,9 @@ dateCreated: 2020-05-10T10:09:40.218Z
 - **N**itrogen = OMLx 4.0
 - **M**ercury = OMLx 4.1
 - **A**rgon = OMLx 4.2
-- **N**ickel
-- **D**ysprosium
-- **R**adium
-- **I**odine
+- **N**ickel = Cooker
+- **D**ysprosium = OMLx 4.3
+- **R**ome = Rolling release
+- **I**odine = OMLx 5.0
 - **V**anadium
 - **A**urum
