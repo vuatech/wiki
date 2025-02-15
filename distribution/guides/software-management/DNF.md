@@ -2,7 +2,7 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2022-03-02T03:40:30.651Z
+date: 2025-02-15T11:00:42.718Z
 tags: documentation, dnf, user-guide
 editor: markdown
 dateCreated: 2020-03-06T18:48:34.373Z
@@ -103,7 +103,7 @@ Automatically answer yes for all questions
 ## More
 `$ dnf --help`
 and
-`$ man dnf`
+`$ man dnf4` or `$ man dnf5` 
 
 The help menu takes about a minute to a minute and a half to read. The man page takes about 3-5 minutes.
 Both are meant to be available for users to refer to as they use their system and need to find quickly how to do something.
