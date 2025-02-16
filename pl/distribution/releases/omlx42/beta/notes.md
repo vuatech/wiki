@@ -103,7 +103,7 @@ Zalecane jest użycie pamięći flash o pojemności co najmniej 4 GB. Pamięć t
 > Nie używaj innych narzędzi do zapisu na USB, ponieważ niektóre narzędzia Windows (np. Rufus) obcinają nazwę woluminu. Powoduje to przerwanie procesu rozruchu.
 {.is-danger}
 
-### - Via dd
+### - użycie dd
 
 Można użyć dd do utworzenia obrazu na USB:
 `$ sudo dd if=<iso_name> of=<usb_drive> bs=4M status=progress conf=fsync`
