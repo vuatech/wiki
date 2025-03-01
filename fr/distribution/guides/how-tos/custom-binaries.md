@@ -41,6 +41,6 @@ Voici un exemple de commande make personnalisée
 make CC=clang CXX=clang++ LD=ld.lld AR=llvm-ar NM=llvm-nm OBJCOPY=llvm-objcopy OBJSIZE=llvm-size STRIP=llvm-strip -C ...
 ```
 
-## Mise en paquet
+## Empaquetage
 
 Si vous souhaitez aller plus loin, vous êtes invité à rejoindre notre groupe de travail chargé de l'empaquetage des logiciels. 
