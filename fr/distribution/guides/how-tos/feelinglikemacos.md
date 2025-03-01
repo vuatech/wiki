@@ -1,5 +1,5 @@
 ---
-title: Comment se rapprocher de l'apparence macOS Mojave (préréglages du bureau)
+title: Comment avoir le visuel de macOS Mojave (préréglages du bureau)
 description: 
 published: true
 date: 2021-09-26T21:30:09.145Z
