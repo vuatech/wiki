@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-03-14T19:25:32.918Z
 ---
 
-# Comment se rapprocher de l'apparence macOS Mojave (préréglages du bureau)
+# Comment avoir le visuel de macOS Mojave (préréglages du bureau)
 > Desktop Presets (om-feeling-like) est un outil permettant de personnaliser l'apparence de votre bureau OpenMandriva Plasma afin qu'il ressemble à d'autres systèmes auxquels vous êtes habitué.
 {.is-info}
 
