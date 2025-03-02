@@ -2,7 +2,7 @@
 title: Codename
 description: 
 published: true
-date: 2023-10-04T11:37:52.633Z
+date: 2025-03-02T23:01:43.616Z
 tags: releases
 editor: markdown
 dateCreated: 2020-02-27T19:10:26.091Z
@@ -20,5 +20,5 @@ dateCreated: 2020-02-27T19:10:26.091Z
 - **D**ysprosium = OMLx 4.3
 - **R**ome = Rolling release
 - **I**odine = OMLx 5.0
-- **V**anadium
+- **V**anadium = OMLx 6.0
 - **A**urum
