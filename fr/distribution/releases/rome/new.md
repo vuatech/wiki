@@ -45,7 +45,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 \- Suite LibreOffice 24.8.3 avec intégration Qt 6 et Plasma 6
 \- Falkon 24.08.3
 \- Firefox 133.0 patché - espions désactivés
-\- Chromium 131.0.6778.86 patchés - Espions Google désactivés et le support JPEG-XL réactivé
+\- Chromium 131.0.6778.86 patché - Espions Google désactivés et le support JPEG-XL réactivé
 \- QMPlay2 24.06.16
 \- Telegram Desktop 5.8.5
 \- Krita 5.2.7
