@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-03-10T19:26:54.118Z
+date: 2025-03-10T19:30:53.035Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-10T19:02:54.601Z
 
 # OpenMandriva Lx 6.0 Release Notes
 
-The OpenMandriva teams are pleased to announce the availability of **OMLx 6.0** the OpenMandriva rolling edition meant for the majority of users.
+The OpenMandriva teams are pleased to announce the availability of **OpenMandriva Lx 6.0 Rock** edition.
 <br>
 
 ## Available Media
