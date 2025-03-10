@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-02-14T10:28:09.362Z
+date: 2025-03-10T20:57:11.641Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -112,8 +112,9 @@ As always users are encouraged to ask questions about anything you do not unders
 <br>
 
 ### Installing from Ventoy
+**This issue should be fixed at time of writing.**
 
-One workaround is:
+Previous workaround if at all needed:
 
 Copy your desired OMLx .iso file to the Ventoy partiton on the Ventoy flash drive. Boot that.
 
