@@ -2,7 +2,7 @@
 title: How to update channel
 description: 
 published: true
-date: 2023-03-24T07:53:06.917Z
+date: 2025-03-10T18:03:06.852Z
 tags: documentation, howto, user-guide, advanced
 editor: markdown
 dateCreated: 2020-04-28T08:42:49.215Z
@@ -27,10 +27,6 @@ or select OpenMandriva repo-picker in OM Welcome
 
 ![omlx43.doc.repopicker-02.jpg](/images/omlx43.doc.repopicker-02.jpg)
 
-or select OpenMandriva repo-picker in OM Control Center
-
-![omlx43.doc.repopicker-03.jpg](/images/omlx43.doc.repopicker-03.jpg)
-
 
 - Go to the very first section 'Update channel'.
 
@@ -40,7 +36,7 @@ or select OpenMandriva repo-picker in OM Control Center
 
 ![om4.2-repopicker-04.jpg](/images/om4.2-repopicker-04.jpg)
 
-confirm by click on OK and when prompted enter your root password. This will take a while so be patient.
+confirm by click on OK and when prompted enter your root password. This will take a while and the program window may become momentarily invisible so be patient.
 
 By this action you have now changed the repositories from Rock to Rolling so you want to perform a system upgrade (`distro-sync`).
 
