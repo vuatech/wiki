@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-03-10T20:57:11.641Z
+date: 2025-03-10T21:02:03.993Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -31,19 +31,9 @@ The second and all subsequent launches will work.
 Community members have made Nvidia proprietary drivers available. The `nvidia` driver contains the latest production driver.
 Please read also [NVIDIA driver package version support](https://forum.openmandriva.org/t/5217)
 
-<!--`nvidia-legacy` contains the latest legacy driver (currently 4xx version).-->
 User can install the driver from OpenMandriva Welcome module.
 Please keep in mind that the people that make these packages available are volunteering their time and knowledge. There might be a lag between a new kernel and the relevant nvidia packages builds. 
-<!--
-To install from Konsole (terminal):
 
-`$ sudo dnf --refresh install nvidia --enablerepo=rolling-x86_64-non-free`
-or
-`$ sudo dnf --refresh install nvidia-legacy --enablerepo=rolling-x86_64-non-free`
-
-If you installed ROME znver1 replace `x86_64` with `znver1`. 
-
--->
 > These packages are kernel specific. At this time they will not install if a newer kernel version is installed on system than the kernel version this software is built for.
 There is more about that [here](https://forum.openmandriva.org/t/about-nvidia-proprietary-driver-software/4770) and [here](https://forum.openmandriva.org/t/installing-nvidia-proprietary-drivers-in-rome/4742).
 {.is-warning}
@@ -203,6 +193,7 @@ Or you can use `dnf clean all` like:
 <br>
 
 ### Mesa and VirtualBox
+**This issue should now be fixed**
 
 VirtualBox running Plasma x11 ISO does not handle mesa 24.2.x very well ([upstream bugtracker report](https://gitlab.freedesktop.org/mesa/mesa/-/issues/11818)).
 You may notice some glitches like missing shadows or other artifacts.
@@ -266,7 +257,4 @@ It also costs time and money to keep our servers up and running.
 If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lights on!
 <br>
 
-**Please read also**
-[ROME Notes](https://wiki.openmandriva.org/en/distribution/releases/rome/notes)
-<br>
 ![header-tr-rome.svg](/assets/header-tr-rome.svg){.align-abstopright}
