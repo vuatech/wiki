@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-03-10T19:19:08.435Z
+date: 2025-03-10T19:26:54.118Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -205,12 +205,12 @@ This is discussed in OpenMandriva 6.0 Errata page
 Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/support/17) with a descriptive title and enough description and information for someone to be able to help you. Or for possible faster results contact us at [OpenMandriva Chat](/team/chat) . If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
 <br>
 
-## Errata
-Please read also [OMLx 6.0 Errata](/distribution/releases/omlx60/errata)
+## What's New
+See [OMLx 6.0 New](/distribution/releases/omlx60/new)
 <br>
 
-## Changelog
-You may want to have a look at the [OMLx 6.0 Release Notes](/distribution/releases/omlx60/new)
+## Errata
+See [OMLx 6.0 Errata](/distribution/releases/omlx60/errata)
 <br>
 
 ## Helping the project
@@ -221,4 +221,4 @@ You may want to have a look at the [OMLx 6.0 Release Notes](/distribution/releas
 ![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lights on!
 <br>
 
-![header-tr-50.svg](/assets/header-tr-50.svg){.align-abstopright}
+![header-tr-60.svg](/assets/header-tr-60.svg){.align-abstopright}
