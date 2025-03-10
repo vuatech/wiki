@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-02-14T10:16:32.645Z
+date: 2025-03-10T19:05:15.091Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -109,7 +109,6 @@ It is possible to boot this release from a USB storage device. To create the liv
 
 `sudo dnf --refresh install om-imagewriter`
 
-Or, if you do not have OpenMandriva Lx yet, you can get rosa-imagewriter download links at [this page](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter).
 At least 4 GB of flash drive capacity is recommended. Persistent storage is not necessary. Note that this will erase everything on your USB!
 
 > **Windows users**:
