@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-03-10T19:02:54.601Z
+date: 2025-03-10T19:19:08.435Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -40,7 +40,7 @@ Calamares Installer checks if an Internet connection is available, but OpenMandr
 <br>
 
 ## Virtual Machines
-At this time the only virtualization software that OpenMandriva 6.0 ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or OpenMandriva 6.0 will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
+At this time the only virtualization software that OpenMandriva 6.0 ISOs are tested on is qemu and VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or OpenMandriva 6.0 will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 The most recent install images may need setting VMSVGA graphics controller to display correctly and properly boot in VirtualBox.
 <br>
 
@@ -124,7 +124,7 @@ Replace <iso_name> with the path to the ISO and <usb_drive> with the device node
 
 - SUSE Studio ImageWriter and Balena Etcher have also been tested and work to transfer ISO images to USB storage device.
 
-- Ventoy is not fully supported. Under some circumstances it may or may not work. Please create the live/installation media choosing one among the suggested methods here above. See [6.0 Errata](/distribution/releases/6.0/errata) for Ventoy workarounds.
+- Ventoy is not fully supported. Under some circumstances it may or may not work. Please create the live/installation media choosing one among the suggested methods here above. See [OMLx 6.0 Errata](/distribution/releases/omlx60/errata) for Ventoy workarounds.
 <br>
 
 ## Installing from USB
@@ -177,7 +177,7 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 
 This is very easy, just copy and paste this command string:
 
-`sudo dnf clean all ; sudo dnf --allowerasing distro-sync`
+`sudo dnf clean all ; dnf clean all ; sudo dnf distro-sync --allowerasing --refresh`
 
 Then press Enter key and when prompted enter your root (superuser) password.
 We recommend it because we see a lot of problem reports that begin with "*I updated my system with Discover updater*" or "I *updated my system with dnfdragora*". 
@@ -206,11 +206,11 @@ Should you have problems please report in the [English Support forum](https://fo
 <br>
 
 ## Errata
-Please read also [6.0 Errata](/distribution/releases/60/errata)
+Please read also [OMLx 6.0 Errata](/distribution/releases/omlx60/errata)
 <br>
 
 ## Changelog
-You may want to have a look at the [latest changes](/distribution/releases/60/new)
+You may want to have a look at the [OMLx 6.0 Release Notes](/distribution/releases/omlx60/new)
 <br>
 
 ## Helping the project
@@ -218,7 +218,7 @@ You may want to have a look at the [latest changes](/distribution/releases/60/ne
 <br>
 
 ## Donate to the project
-![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate) to keep the lights on!
+![om-donate-32px.png](/assets/om-donate-32px.png){.align-left}It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lights on!
 <br>
 
 ![header-tr-50.svg](/assets/header-tr-50.svg){.align-abstopright}
