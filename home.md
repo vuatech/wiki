@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2024-12-11T15:20:20.919Z
+date: 2025-03-10T18:17:32.317Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -70,7 +70,7 @@ Release date:  [25 November 2023](https://www.openmandriva.org/101)
 - [:question: Question, comments or just chat *We're not far away*](/team/chat)
 - [:fire: Report an issue *Help us improve the distribution and websites*](/team/qa/report-bug)
 - [:bulb: Suggest a New Feature *We need your ideas!*](/team/chat)
-- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://www.openmandriva.org/en/Donate)
+- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://www.openmandriva.org/donate)
 {.links-list}
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
