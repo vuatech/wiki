@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-03-10T19:05:15.091Z
+date: 2025-03-10T21:04:11.802Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -41,7 +41,7 @@ Calamares Installer checks if an Internet connection is available, but ROME will
 <br>
 
 ## Virtual Machines
-At this time the only virtualization software that ROME ISOs are tested on is VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or ROME will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
+At this time the only virtualization software that OpenMandriva 6.0 ISOs are tested on is qemu and VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or ROME will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 The most recent install images may need setting VMSVGA graphics controller to display correctly and properly boot in VirtualBox.
 <br>
 
