@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 New
 description: 
 published: true
-date: 2025-03-10T18:36:16.131Z
+date: 2025-03-14T11:15:02.883Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T18:36:16.131Z
@@ -59,10 +59,9 @@ It is recommended that you read the latest [release notes](/distribution/release
 ### Alternative desktops
 The system repositories also include Mate 1.26.2, xfce 4.18.5, Cinnamon 5.8.0, icewm, i3, sway, hyprland, hypr, wayfire, budgie and others.
 <br>
-
+-->
 ### Flatpak support
 Flatpak support included
 <br>
 
 ![header-tr-60.svg](/assets/header-tr-60.svg){.align-abstopright}
--->
