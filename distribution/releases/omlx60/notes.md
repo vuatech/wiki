@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-03-10T19:30:53.035Z
+date: 2025-03-14T11:26:15.121Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -31,7 +31,6 @@ You may also install the system to hard disk either from the running live image 
 OpenMandriva 6.0 requires at least 2048 MB of memory and at least 10 GB of hard drive space (see below for known issues with partitioning). 20 GB recommended for a Plasma desktop full installation.
 
 *Graphics Hardware:*
-
 The KDE Plasma Desktop requires a 3D graphics card that supports OpenGL 2.0 or above. We recommend using AMD, Intel, Adreno or VC4 graphics chips.
 <br>
 
@@ -75,7 +74,7 @@ Please note that Calamares cannot convert one partition type to another and pres
 Also, Calamares does not support reading or creating ZFS due to licensing.
 
 > If you run Calamares to change an existing partition type you must first delete the partition and recreate it as the type that you wish.
-{.is-warning}
+{.is-danger}
 
 <br>
 
