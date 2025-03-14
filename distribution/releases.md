@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2024-08-29T08:19:17.851Z
+date: 2025-03-14T12:24:56.856Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -20,14 +20,20 @@ Release: Released 1st time on September 2022
 <br>
 
 
+### [OpenMandriva Lx 6.0](/distribution/releases/omlx60/)
+![omlx6.0-240px.png](/images/omlx6.0-240px.png)
+**Codename Vanadium**
+Release: ?? Mar 2025
+***Coming Soon***
+<br>
+
+## Previous releases
+
 ### [OpenMandriva Lx 5.0](/distribution/releases/omlx50/)
 ![omlx5.0-240px.png](/images/omlx5.0-240px.png)
 **Codename Iodine**
 Release: 25 Nov 2023
 <br>
-
-## Previous releases
-
 
 ### [OpenMandriva Lx 4.3](/distribution/releases/omlx43/)
 ![omlx4.3-240px.png](/images/omlx4.3-240px.png)
