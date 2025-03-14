@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Errata
 description: OpenMandriva Lx 6.0 Errata
 published: true
-date: 2025-03-10T20:01:31.755Z
+date: 2025-03-14T11:19:37.227Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T20:01:31.755Z
@@ -183,14 +183,6 @@ Or you can use `dnf clean all` like:
 
 <br>
 
-### Mesa and VirtualBox
-VirtualBox running Plasma x11 ISO does not handle mesa 24.2.x very well ([upstream bugtracker report](https://gitlab.freedesktop.org/mesa/mesa/-/issues/11818)).
-You may notice some glitches like missing shadows or other artifacts.
-In real hardware or qemu (or any virtualization software that emulates a proper GPU) graphics is displayed correctly.
-With the Plasma wayland ISO the issue does not appear.
-Possible workaround for VirtualBox users:  downgrade to mesa 24.1.7.
-<br>
-
 ### Graphics Controller in VirtualBox 7.0.x
 The most recent OMLX install images may need VMSVGA controller to be set to boot successfully in VirtualBox 7.0.x.
 <br>
@@ -246,4 +238,4 @@ It also costs time and money to keep our servers up and running.
 If you can, please [donate](https://www.openmandriva.org/Donate) to keep the lights on!
 <br>
 
-<!-- ![header-tr-rome.svg](/assets/header-tr-rome.svg){.align-abstopright} -->
+![header-tr-60.svg](/assets/header-tr-60.svg){.align-abstopright}
