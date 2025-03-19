@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-03-10T21:02:03.993Z
+date: 2025-03-19T09:02:05.240Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -60,6 +60,15 @@ If user has an issue with the graphic performance of nvidia proprietary drivers 
 
 <br>
 
+#### Nvidia Open kernel module
+If your card is new enough (compatibility list link in the forum relevant topic) you may want to test [the open driver](https://forum.openmandriva.org/t/6038):
+
+Please [enable the non-free repository](/policies/repositories-tldr#non-free) and run command:
+`sudo dnf install nvidia nvidia-kmod-open-desktop --refresh`
+
+If you have already installed the proprietary driver from [OM Welcome](/distribution/software/om-welcome) module, you may just be able to perform the same command minus the lone nvidia package name. Regardless of either case, you will need to reboot after install.
+<br>
+
 ### How to install X11 on Plasma6 Wayland system
 #### For Plasma6 user:
 
@@ -73,7 +82,7 @@ This gives user an option to compare X11 to Wayland. It is known that there are 
 `sudo dnf in task-plasma6-wayland --refresh`
 
 This gives users an option to compare Wayland to X11.
-
+<br>
 
 ### NVME SSDs
 NVME SSDs are normally recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most people's hardware.
@@ -102,7 +111,7 @@ As always users are encouraged to ask questions about anything you do not unders
 <br>
 
 ### Installing from Ventoy
-**This issue should be fixed at time of writing.**
+***This issue should now be fixed***
 
 Previous workaround if at all needed:
 
@@ -147,8 +156,10 @@ If it detects your timezone incorrectly, simply select the correct timezone manu
 Users may choose from 2 workarounds:
 •Add or remove  applications you wish to Favorites column in Application Launcher. Then right click on Application Launcher icon and select "Show Alternatives" and select to switch to one of the other launchers. Then right click on Application Launcher again and switch back.
 •Add or remove  applications you wish to Favorites column in Application Launcher. Then logout and login.
+<br>
 
 ### How to configure printer
+[*Read also: printer*](/en/distribution/guides/how-tos/printer)
 Turn your printer on and see if it is automatically configured. Pay attention to whether the right driver was installed. If printer was auto configured and you have correct driver then great, you are all set.
 If it was not, turn off your printer. Open System Settings>Hardware>Printers or from terminal (Konsole) run:
 
@@ -164,6 +175,7 @@ In OpenMandriva Lx this is most likely to be a 'task-printing' package specific 
 •task-printing-hp
 •task-printing-lexmark
 •task-printing-okidata
+•brlaser (for Brother printers)
 •task-printing-misc
 
 Install the package that matches your brand or the misc package if none do. Example using okidata:
@@ -182,18 +194,17 @@ If not seek help [here](https://forum.openmandriva.org/c/en/support).
 <br>
 
 ### Discover new software
-If you want to explore also additional repositories packages you will need to enable them by means of [Software Repository Selector](/en/policies/repositories-tldr) and to refresh cache. To refresh cache you can use `--refresh` option like this:
+If you want to explore also additional repositories packages you will need to enable them by means of [Software Repository Selector](/policies/repositories-tldr) and to refresh cache. To refresh cache you can use `--refresh` option like this:
 
 `sudo dnf --refresh install foo_package`
 
 Or you can use `dnf clean all` like:
 
 `sudo dnf clean all ; sudo dnf install foo_package`
-
 <br>
 
 ### Mesa and VirtualBox
-**This issue should now be fixed**
+***This issue should now be fixed***
 
 VirtualBox running Plasma x11 ISO does not handle mesa 24.2.x very well ([upstream bugtracker report](https://gitlab.freedesktop.org/mesa/mesa/-/issues/11818)).
 You may notice some glitches like missing shadows or other artifacts.
@@ -210,7 +221,6 @@ The most recent OMLX install images may need VMSVGA controller to be set to boot
 Some users report issue with choppy or stuttering sound in OM VirtualBox 7.0.x package.
 This issue seems to be related to users hardware. Developers are aware of this problem and actively looking for a solution. Users should keep in mind that sound in VirtualBox is an emulation and the process is subject to periodic issues. *Thus using VirtualBox for multimedia is likely to have periodic problems.*
 <br>
-
 
 ### Multiboot
 In the 'real world' multiboot works well most of the time but when there are problems sometimes the solution is a workaround rather than a fix. These are just realities of multiboot.
@@ -241,6 +251,7 @@ and run:
 <br>
 
 ### SystemSettings
+***This issue should now be fixed***
 Some modules in SystemSettings may not display correctly at first launch.
 They will do at next login.
 <br>
