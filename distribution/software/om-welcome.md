@@ -2,7 +2,7 @@
 title: OpenMandriva Welcome
 description: The powerful Startup and Configuration Tool for KDE Plasma
 published: true
-date: 2025-03-19T13:13:39.624Z
+date: 2025-03-19T13:15:42.563Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
@@ -29,7 +29,7 @@ At every boot, until we will decide to disable it, we will be greeted by OM Welc
 
 The first screen will introduce the distribution, our Community and the values on which it is based.
 All screens are conveniently accessible by direct links in the top bar.
-Here, near to the bottom, the user can disable OMA Welcome automatically starting at the system boot.
+Here, near to the bottom, the user can disable OM Welcome automatically starting at the system boot.
 
 We will browse through the various screens of the application, each of them providing some different goals.
 
