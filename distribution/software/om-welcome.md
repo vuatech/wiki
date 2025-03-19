@@ -1,8 +1,8 @@
 ---
 title: OpenMandriva Welcome
-description: 
+description: The powerful Startup and Configuration Tool for KDE Plasma
 published: true
-date: 2022-03-07T23:10:48.440Z
+date: 2025-03-19T09:37:18.511Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
@@ -10,12 +10,20 @@ dateCreated: 2020-03-04T19:37:44.925Z
 
 # OpenMandriva Welcome
 
-> Some bits of history:
-> Since OpenMandriva Lx 2014, at the first boot of the system we will be greeted by OMA Welcome, a program aiming to disclose the distribution, its features, and to guide us - by mean of specific choices - on configuring the system and to install several programs and utilities.
+> Please note: OM-Welcome **is not** just a plain *"Welcome to distribution"* screen.
+> OM-Welcome is the powerful Startup and Configuration Tool specifically designed for OpenMandriva KDE Plasma desktop environment.
+{.is-info}
 
+<br>
 
-Here is OM Welcome, the application created to show our distribution to the new users.
+*Some bits of history:
+Since OpenMandriva Lx 2014, at the first boot of the system we will be greeted by OM Welcome, a program aiming to disclose the distribution, its features, and to guide us on configuring the system and to install several applications and utilities.*
+<br>
+
 At every boot, until we will decide to disable it, we will be greeted by OM Welcome.
+<br>
+
+### Welcome
 
 ![omlx43.doc.omwelcome-01.jpg](/images/omlx43.doc.omwelcome-01.jpg)
 
@@ -28,18 +36,18 @@ Here, near the 'Next' button, the user can disable OMA Welcome automatically sta
 We will browse through the various screens of the program, each of them providing some different goals.
 
 Click on <kbd>Next</kbd> to start
+<br>
+
+### Features
 
 ![omlx43.doc.omwelcome-02.jpg](/images/omlx43.doc.omwelcome-02.jpg)
 
-The second screen will show some detailed technical features of OpenMandriva Lx.
+The second screen will show some detailed technical features of OpenMandriva Lx as well as introducing you the OpenMandriva-specific applications.
 
  <kbd>Next</kbd>
-
-![omlx43.doc.omwelcome-03.jpg](/images/omlx43.doc.omwelcome-03.jpg)
-
-OM Features will introduce you the OpenMandriva-specific applications
-
- <kbd>Next</kbd>
+ <br>
+ 
+ ### Configure
 
 ![omlx43.doc.omwelcome-04.jpg](/images/omlx43.doc.omwelcome-04.jpg)
 
@@ -50,14 +58,15 @@ This is the first screen where we will be able to configure and customize the sy
 - Configure your printer
 - Desktop Themes
 - Desktop Icons
-- And a direct access to our main Configuration tool [OpenMandriva Control Center](/distribution/software/om-cc)
 
  <kbd>Next</kbd>
+ <br>
+ 
+ ### Applications
 
 ![omlx43.doc.omwelcome-05.jpg](/images/omlx43.doc.omwelcome-05.jpg)
 
 From this page we will be able to install various applications for different group
-
 
 ![omlx43.doc.omwelcome-06.jpg](/images/omlx43.doc.omwelcome-06.jpg)
 
@@ -75,13 +84,14 @@ From this page we will be able to install various applications for different gro
 
 ![omlx43.doc.omwelcome-13.jpg](/images/omlx43.doc.omwelcome-13.jpg)
 
-by pressing <kbd>Next</kbd> again, we get the OpenMandriva links page, from where you can reach all parts of the OMA wide world, and maybe you will find your way to contribute to the project.
+ <kbd>Next</kbd>
+ <br>
+
+### Contribute
+
+And finally we get the OpenMandriva links page, from where you can reach all parts of the OMA wide world, and maybe you will find your way to contribute to the project.
 
 ![omlx43.doc.omwelcome-14.jpg](/images/omlx43.doc.omwelcome-14.jpg)
 
- <kbd>Next</kbd>
 
-And finally the informations about this OpenMandriva brand-name application
-
-![omlx43.doc.omwelcome-15.jpg](/images/omlx43.doc.omwelcome-15.jpg)
 
