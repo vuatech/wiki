@@ -2,7 +2,7 @@
 title: OpenMandriva Welcome
 description: The powerful Startup and Configuration Tool for KDE Plasma
 published: true
-date: 2025-03-19T13:15:42.563Z
+date: 2025-03-20T15:31:59.291Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
@@ -12,7 +12,7 @@ dateCreated: 2020-03-04T19:37:44.925Z
 
 > Please note: OM-Welcome **is not** just a plain *"Welcome to distribution"* screen.
 > OM-Welcome is the powerful Startup and Configuration Tool specifically designed for OpenMandriva KDE Plasma desktop environment.
-{.is-info}
+{.is-success}
 
 <br>
 
