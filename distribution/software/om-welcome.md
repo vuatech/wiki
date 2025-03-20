@@ -2,7 +2,7 @@
 title: OpenMandriva Welcome
 description: The powerful Startup and Configuration Tool for KDE Plasma
 published: true
-date: 2025-03-20T15:31:59.291Z
+date: 2025-03-20T18:35:39.526Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
@@ -45,7 +45,7 @@ The second screen will show some detailed technical features of OpenMandriva Lx 
  <kbd>Next</kbd>
  <br>
  
- ### Configure
+### Configure
 
 ![omlx60.doc.omwelcome-03.jpg](/images/omlx60.doc.omwelcome-03.jpg)
 
@@ -68,7 +68,7 @@ Here we will be able to configure and customize the system, very useful especial
  <kbd>Next</kbd>
  <br>
  
- ### Applications
+### Applications
  
  Here we will be able to install various applications for different group
  
