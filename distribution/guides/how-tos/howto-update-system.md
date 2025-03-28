@@ -2,13 +2,20 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2025-03-27T23:53:06.420Z
+date: 2025-03-28T07:34:32.807Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
 ---
 
 # How to update system
+
+> OpenMandriva policy on system upgrade is different.
+> **Do not** use Discover for system upgrade. Never.
+{.is-danger}
+
+<br>
+
 ## How to update Rock
 - To update your Rock system open Konsole and run the commands:
 ```
