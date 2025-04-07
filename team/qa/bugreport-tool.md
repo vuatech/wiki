@@ -2,7 +2,7 @@
 title: Bug report tool for OpenMandriva Lx
 description: 
 published: true
-date: 2022-03-24T11:20:30.941Z
+date: 2025-04-07T23:57:30.827Z
 tags: documentation, user-guide, tools
 editor: markdown
 dateCreated: 2021-03-08T17:17:16.207Z
@@ -16,9 +16,6 @@ The simple tool is called om-bug-report.
 
 ![om43-bugreportwelc.jpg](/images/om43-bugreportwelc.jpg)
 
-### or open OpenMandriva Control Center and navigate to System > *Bug report tool*
-
-![om43-bugreportomcc.jpg](/images/om43-bugreportomcc.jpg)
 
 ## Informations collected
 The tool will gather useful informations from:
