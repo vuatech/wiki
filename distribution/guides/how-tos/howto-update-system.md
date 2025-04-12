@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2025-03-28T07:34:32.807Z
+date: 2025-04-12T08:14:45.677Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
@@ -22,6 +22,13 @@ dateCreated: 2021-02-19T15:43:53.051Z
 $ sudo dnf clean all ; dnf clean all ; dnf repolist
 $ sudo dnf upgrade
 ```
+
+or
+
+![update-60-taskmanager01.jpg](/images/update-60-taskmanager01.jpg)
+
+![update-60-taskmanager02.jpg](/images/update-60-taskmanager02.jpg)
+
 <br>
 
 ## How to update ROME
