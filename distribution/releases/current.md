@@ -2,7 +2,7 @@
 title: Current releases
 description: 
 published: true
-date: 2023-11-25T01:02:06.367Z
+date: 2025-04-12T08:31:20.392Z
 tags: releases
 editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
@@ -16,7 +16,7 @@ dateCreated: 2020-09-08T07:13:51.704Z
 (*The rolling edition*)
 - [Overview](/distribution/releases/rome)
 - [Changelog](/distribution/releases/rome/new)
-- [Release Notes](/distribution/releases/rome/notes)
+- [Notes](/distribution/releases/rome/notes)
 - [Errata](/distribution/releases/rome/errata)
 <br>
 
