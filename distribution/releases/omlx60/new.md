@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 New
 description: 
 published: true
-date: 2025-03-14T11:15:02.883Z
+date: 2025-04-17T18:41:24.083Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T18:36:16.131Z
@@ -13,53 +13,55 @@ OpenMandriva Lx 6.0 is a new release from the OpenMandriva Association. [Codenam
 It is recommended that you read the latest [release notes](/distribution/releases/omlx60/notes) on our wiki.
 <br>
 **Main features**
-<!--
-### KDE
-\- [Plasma 5.27.9](https://kde.org/announcements/plasma/5/5.27.9/)
-\- [Frameworks 5.112](https://kde.org/announcements/frameworks/5/5.112.0/)
-\- [KDE Gear 23.08.3](https://kde.org/announcements/gear/23.08.3/)
-\- [Qt 5.15.11](https://www.qt.io)
+
+###### KDE
+\- [Plasma Desktop 6.3.4](https://kde.org/announcements/plasma/6/6.3.4) - ([and 5.27.12](https://kde.org/announcements/plasma/5/5.27.12))
+\- [Frameworks 6.13.0](https://kde.org/announcements/frameworks/6/6.13.0) - ([and 5.116](https://kde.org/announcements/frameworks/5/5.116))
+\- [KDE Applications 25.04.0](https://kde.org/announcements/gear/25.04.0) - ([and 23.08.5](https://kde.org/announcements/gear/23.08.5))
+\- [Qt 6.9.0 - (and 5.15.15)](https://www.qt.io)
 <br>
 
-### Display subsystem
-\- Xorg 21.1.9
-\- [Wayland 23.2.2](https://wayland.freedesktop.org/releases.html)
-\- [Mesa 23.3.0 rc4.3](http://www.mesa3d.org/)
+###### Display subsystem
+\- [Xorg  21.1.16](https://www.x.org/)
+\- [Wayland 1.23.1](https://wayland.freedesktop.org/releases.html)
+\- [Mesa 25.0.4](http://www.mesa3d.org/)
 <br>
 
-### Core
-\- [Kernel 6.6.2](https://www.kernel.org/)
-\- [systemd 254.5](https://www.freedesktop.org/wiki/Software/systemd/)
-\- [LLVM/clang 17.0.5](http://llvm.org/)
-\- [gcc 13.1](https://gcc.gnu.org/)
-\- [glibc 2.38](http://www.gnu.org/software/libc/)
-\- binutils 2.41
-\- Java 
+###### Core
+\- [Kernel](https://www.kernel.org/) 6.14.2 (and 6.15.0-rc2) built with clang. GCC compiled versions also available
+\- [systemd 257.5](https://www.freedesktop.org/wiki/Software/systemd/)
+\- [LLVM/clang 19.1.7](http://llvm.org/)
+\- binutils 2.44
+\- [gcc 14.2.1](https://gcc.gnu.org/)
+\- [glibc 2.41](http://www.gnu.org/software/libc/)
+\- Java 24
 <br>
 
-### Installer
-\- [Calamares 3.2.62](https://calamares.io)
+###### Installer
+\- [Calamares 3.3.13](https://calamares.io)
 <br>
 
-### Applications
-\- LibreOffice 7.6.3.2
-\- Falkon 23.08.3
-\- Firefox 120
-\- Chromium browser stable 119
-\- Krita 5.2.1
-\- GIMP 2.10.36
-\- Calligra Suite 3.3.0
-\- Digikam 8.1.0
-\- SMPlayer 23.6.0
-\- VLC 3.0.18
-\- Virtualbox 7.0.12a
-\- OBS Studio 30.0.0
+###### Some key applications
+\- LibreOffice Suite 25.2.3 with Qt 6 and Plasma 6 integration
+\- Falkon 25.04.0
+\- Chromium 135.0.7049.84 patched with Google spyware disabled and JPEG-XL support re-enabled
+\- Firefox 137.0.2 patched with spyware disabled
+\- QMPlay2 25.01.19
+\- Telegram Desktop 5.13.1
+\- Krita 5.2.9
+\- Gimp 3.0.2
+\- Digikam 8.6.0
+\- SMPlayer 24.5.0
+\- VLC 3.0.21
+\- Virtualbox 7.1.6
+\- VokoscreenNG 4.5.0
+\- OBS Studio 31.0.3
 <br>
 
 ### Alternative desktops
 The system repositories also include Mate 1.26.2, xfce 4.18.5, Cinnamon 5.8.0, icewm, i3, sway, hyprland, hypr, wayfire, budgie and others.
 <br>
--->
+
 ### Flatpak support
 Flatpak support included
 <br>
