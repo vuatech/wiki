@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2025-04-17T18:32:55.813Z
+date: 2025-04-17T18:33:14.439Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -38,7 +38,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 <br>
 
 ###### Installer
-\- [Calamares 3.3.9](https://calamares.io)
+\- [Calamares 3.3.13](https://calamares.io)
 <br>
 
 ###### Some key applications
