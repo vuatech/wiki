@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2024-12-11T15:39:34.571Z
+date: 2025-04-17T18:32:55.813Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -11,29 +11,29 @@ dateCreated: 2023-02-28T15:34:33.449Z
 ### What's New in ROME
 <br>
 
-##### Changelog 24.12
+##### Changelog 25.04
 <br>
 
 ###### KDE
-\- [Plasma Desktop 6.2.4](https://kde.org/announcements/plasma/6/6.2.4) - ([and 5.27.11](https://kde.org/announcements/plasma/5/5.27.11))
-\- [Frameworks 6.8.0](https://kde.org/announcements/frameworks/6/6.8.0) - ([and 5.116](https://kde.org/announcements/frameworks/5/5.116))
-\- [KDE Applications 24.08.3](https://kde.org/announcements/gear/24.08.3) - ([and 23.08.5](https://kde.org/announcements/gear/23.08.5))
-\- [Qt 6.8.0 - (and 5.15.15)](https://www.qt.io)
+\- [Plasma Desktop 6.3.4](https://kde.org/announcements/plasma/6/6.3.4) - ([and 5.27.12](https://kde.org/announcements/plasma/5/5.27.12))
+\- [Frameworks 6.13.0](https://kde.org/announcements/frameworks/6/6.13.0) - ([and 5.116](https://kde.org/announcements/frameworks/5/5.116))
+\- [KDE Applications 25.04.0](https://kde.org/announcements/gear/25.04.0) - ([and 23.08.5](https://kde.org/announcements/gear/23.08.5))
+\- [Qt 6.9.0 - (and 5.15.15)](https://www.qt.io)
 <br>
 
 ###### Display subsystem
-\- [Xorg  21.1.14](https://www.x.org/)
+\- [Xorg  21.1.16](https://www.x.org/)
 \- [Wayland 1.23.1](https://wayland.freedesktop.org/releases.html)
-\- [Mesa 24.3.0](http://www.mesa3d.org/)
+\- [Mesa 25.0.4](http://www.mesa3d.org/)
 <br>
 
 ###### Core
-\- [Kernel](https://www.kernel.org/) 6.12.1 (and 6.13.0-rc1) built with clang. GCC compiled versions also available
-\- [systemd 256.9](https://www.freedesktop.org/wiki/Software/systemd/)
-\- [LLVM/clang 19.1.4](http://llvm.org/)
-\- binutils 2.43.1
-\- [gcc 14.2.0](https://gcc.gnu.org/)
-\- [glibc 2.40](http://www.gnu.org/software/libc/)
+\- [Kernel](https://www.kernel.org/) 6.14.2 (and 6.15.0-rc2) built with clang. GCC compiled versions also available
+\- [systemd 257.5](https://www.freedesktop.org/wiki/Software/systemd/)
+\- [LLVM/clang 19.1.7](http://llvm.org/)
+\- binutils 2.44
+\- [gcc 14.2.1](https://gcc.gnu.org/)
+\- [glibc 2.41](http://www.gnu.org/software/libc/)
 \- Java 24
 <br>
 
@@ -41,21 +41,21 @@ dateCreated: 2023-02-28T15:34:33.449Z
 \- [Calamares 3.3.9](https://calamares.io)
 <br>
 
-###### Applications
-\- LibreOffice Suite 24.8.3 with Qt 6 and Plasma 6 integration
-\- Falkon 24.08.3
-\- Firefox 133.0 patched with spyware disabled
-\- Chromium 131.0.6778.86 patched with Google spyware disabled and JPEG-XL support re-enabled
-\- QMPlay2 24.06.16
-\- Telegram Desktop 5.8.5
-\- Krita 5.2.7
-\- Gimp 3.0.0-0.rc1
-\- Digikam 8.5.0
+###### Some key applications
+\- LibreOffice Suite 25.2.3 with Qt 6 and Plasma 6 integration
+\- Falkon 25.04.0
+\- Chromium 135.0.7049.84 patched with Google spyware disabled and JPEG-XL support re-enabled
+\- Firefox 137.0.2 patched with spyware disabled
+\- QMPlay2 25.01.19
+\- Telegram Desktop 5.13.1
+\- Krita 5.2.9
+\- Gimp 3.0.2
+\- Digikam 8.6.0
 \- SMPlayer 24.5.0
 \- VLC 3.0.21
-\- Virtualbox 7.1.4
-\- VokoscreenNG 4.3.0
-\- OBS Studio 31.0.0
+\- Virtualbox 7.1.6
+\- VokoscreenNG 4.5.0
+\- OBS Studio 31.0.3
 <br>
 
 ###### Flatpak support
