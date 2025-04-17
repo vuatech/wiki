@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Changelog
 description: 
 published: true
-date: 2025-04-17T18:33:14.439Z
+date: 2025-04-17T18:47:44.971Z
 tags: rolling, rome
 editor: markdown
 dateCreated: 2023-02-28T15:34:33.449Z
@@ -56,6 +56,10 @@ dateCreated: 2023-02-28T15:34:33.449Z
 \- Virtualbox 7.1.6
 \- VokoscreenNG 4.5.0
 \- OBS Studio 31.0.3
+<br>
+
+### Alternative desktops
+The system repositories also include Gnome 48.1, Mate 1.28, xfce 4.20.1, Cinnamon, icewm, i3, sway, hyprland, hypr, wayfire, budgie and others.
 <br>
 
 ###### Flatpak support
