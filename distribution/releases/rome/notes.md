@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-03-10T21:04:11.802Z
+date: 2025-04-19T20:23:04.117Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -25,6 +25,14 @@ You may also install the system to hard disk either from the running live image 
 - *x86_64 KDE Plasma desktop* full featured (includes the most common used functionalities, multimedia and office software).
 - *znver1 KDE Plasma desktop*: is for AMD CPUs (newer than 2017), notably for current AMD processors (Ryzen, ThreadRipper, EPYC), that outperforms the generic (x86_64) version by taking advantage of new features in those processors. znver1 is for the listed processors (Ryzen, ThreadRipper, EPYC)  only, do not install on any other hardware.
 
+**Available Server images:**
+Unlike the desktop ISO files, the server images are command line driven only, and are provided as disk images rather than ISO images: This way, they can be used in virtualization stacks (e.g. OpenStack, qemu/kvm, ...) without installation.
+They can also be installed directly on hardware: For this use case, use `dd` to transfer the image to a USB storage device, boot from the storage device, and use the text installer that can be found in the user `omv`'s home directory.
+The server image is preconfigured with user `omv` with password `omv`. `cloud-init` is supported to run initializations in cloud environments.
+- *x86_64 minimal server* Minimal, CLI only, image for server installations. Runs on any x86_64 device
+- *znver1 minimal server* Minimal, CLI only, image for server installations, specifically optimized for AMD Zen series processors (EPYC, Threadripper, Ryzen)
+- *aarch64 minimal server* Minimal, CLI only, image for server installations. Runs on any aarch64 (ARM64) device that supports UEFI booting. (Images using different boot loaders can be built with `os-image-builder`).
+
 <!--Installable images are offered for the Pinebook Pro, Raspberry Pi 4B, Raspberry Pi 3B+, Synquacer, Cubox Pulse and generic UEFI compatible devices (such as most aarch64 server boards)-->
 <br>
 
@@ -41,8 +49,9 @@ Calamares Installer checks if an Internet connection is available, but ROME will
 <br>
 
 ## Virtual Machines
-At this time the only virtualization software that OpenMandriva 6.0 ISOs are tested on is qemu and VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or ROME will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
+At this time the only virtualization software that OpenMandriva desktop ISOs are tested on is qemu and VirtualBox. The same hardware requirements apply when running in virtual machines. For VirtualBox you must always have at least 2048 MB of memory or ROME will fail to boot. Also for VirtualBox it is advisable to install to a fresh virtual machine, as trying to install to an existing one may occasionally fail.
 The most recent install images may need setting VMSVGA graphics controller to display correctly and properly boot in VirtualBox.
+Server images have been tested on real hardware and in OpenStack and in various cloud providers.
 <br>
 
 ## Calamares installer
@@ -62,13 +71,14 @@ You have to choose the UEFI option and boot that. But know also that not all com
 <br>
 
 ## File system type
-In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` is the official recommendation for root, `fat32` is the recommendation for `boot/efi`. 
+In the Calamares installer for ROME the file system list includes all file systems the operating system recognizes for a host of reasons. This does not mean one should use anything in the list for your root ( `/` ) partition. `ext4` or `btrfs` are the official recommendations for root and home (`/home`), `fat32` is the recommendation for `boot/efi`. 
 
-`btrfs`, `f2fs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this. Based on recent testing `btrfs` is not a good choice for multi-boot scenario.
+`f2fs` and `xfs` are working in recent tests but these are much less often tested. We rely on user feedback for this.
+`ext4` is still the fastest file system for most typical use cases, but is missing some of the features of `btrfs` (in particular snapshotting). Since bootloader support for it is limited, `btrfs` may not be good choice for some multi-boot scenarios.
 
 **Other files system types in the list are not recommended.**
 
-No official recommendation is made at this time for storage partitions or for a seperate `/home` partition. It is expected the users using seperate storage partitions or a seperate `/home` partition know what they are doing. For `/home` the easy way is to use `ext4` (recommended) or whatever you use for your root partition. 
+It is recommended to use a seperate `/home` partition so user data can be preserved even when reinstalling or upgrading to a new major version by reinstalling. `ext4` and `btrfs` are good choices for this.
 <br>
 
 ## Changing Partition Type
@@ -84,7 +94,7 @@ Also, Calamares does not support reading or creating ZFS due to licensing.
 NVME SSDs are normally recognized by ROME Live ISO. If for some reason they are not we have couple of workarounds under 'Troubleshooting' in the ISO Grub2 Menu that may work. They are (PCIE ASPM=OFF) and (NVME APST=OFF). We hope this works for most peoples hardware. See more in Errata/NVME SSDs. This issue is of course very hardware specific. 
 <br>
 
-## Installer and EFI Support
+## Installer and (U)EFI Support
 This release of ROME supports booting and installation with and without UEFI.
 
 *Note that secure boot is NOT supported.*
@@ -175,15 +185,19 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 <br>
 
 ## Recommended update procedure
-> **Do not use Discover or dnfdragora to upgrade your ROME system**. The command they use is for Rock release and is not correct for ROME.
+> **Do not use dnfdragora to upgrade your ROME system**. The command it uses is for Rock releases and is not correct for ROME.
+**Discover** has been modified to upgrade using dnf directly, bypassing its usual PackageKit backend. This is a new feature and still considered experimental.
 {.is-danger}
 
-This is very easy, just copy and paste this command string:
+The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string:
 
 `sudo dnf clean all ; sudo dnf --allowerasing distro-sync`
 
 Then press Enter key and when prompted enter your root (superuser) password.
 We recommend it because we see a lot of problem reports that begin with "*I updated my system with Discover updater*" or "I *updated my system with dnfdragora*". 
+
+Another way to keep your system up to date is letting the OS do it for you: Use `om-update-config` to set up automated nightly updates. If you would like to use automated nightly updates without a graphical tool (e.g. on a headless server), make sure the `system-update` package is installed and use `systemctl enable system-update.timer`
+Note that by default, the auto-update process automatically reboots your system if the update includes a new kernel. If you wish to use automatic updates and avoid automatic reboots, add a line saying `NO_REBOOT_ON_KERNEL_UPDATE=1` to `/etc/sysconfig/system-update` (create the file if necessary).
 <br>
 
 
@@ -202,6 +216,20 @@ There are kernel-desktop-gcc and kernel-server-gcc versions available in the rar
 
 ## Nvidia Graphic hardware
 This is discussed in ROME Errata page
+<br>
+
+## Server installation
+OpenMandriva takes a very different approach to desktops and servers: While the desktop versions are meant to be easy enough for a newcomer to handle, the server versions assume some experience with handling the command line, since on a typical server, a graphical user interface only wastes space and gets in the way.
+
+The server images are command line driven only, and are provided as disk images rather than ISO images: This way, they can be used in virtualization stacks (e.g. OpenStack, qemu/kvm, ...) without installation.
+
+They can also be installed directly on hardware: For this use case, use `dd` to transfer the image to a USB storage device, boot from the storage device, and use the text installer that can be found in the user `omv`'s home directory.
+
+The server image is preconfigured with user `omv` with password `omv`. `cloud-init` is supported to run initializations in cloud environments.
+
+Inside `omv`'s home directory, you can find a script called `install-openmandriva` - this script installs the server image to another disk (e.g. if you booted on a USB device on real hardware, and want to install to permanent storage). This is a 
+
+It comes only with basic services and an ssh server already running - as a server admin, you are expected to know which tools you need and prefer. Most typical server software, be it `nginx` or `apache`, `powerdns` or `bind`, `postgresql` or `mariadb` is available in the repositories - the idea is to `dnf install` what you need.
 <br>
 
 ## What to do if I have a problem
