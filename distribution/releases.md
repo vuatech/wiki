@@ -2,7 +2,7 @@
 title: Releases
 description: 
 published: true
-date: 2025-04-12T08:32:55.068Z
+date: 2025-04-20T09:14:29.228Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-27T22:08:23.833Z
@@ -24,7 +24,6 @@ Release: Released 1st time on September 2022
 ![omlx6.0-240px.png](/images/omlx6.0-240px.png)
 **Codename Vanadium**
 Release: Apr 2025
-***Coming Soon***
 <br>
 
 ## Previous releases
