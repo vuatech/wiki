@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 New
 description: 
 published: true
-date: 2025-04-17T18:46:21.305Z
+date: 2025-04-20T09:42:50.458Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T18:36:16.131Z
@@ -38,7 +38,7 @@ It is recommended that you read the latest [release notes](/distribution/release
 <br>
 
 ###### Installer
-\- [Calamares 3.3.13](https://calamares.io)
+\- [Calamares 3.3.14](https://calamares.io)
 <br>
 
 ###### Some key applications
@@ -53,7 +53,7 @@ It is recommended that you read the latest [release notes](/distribution/release
 \- Digikam 8.6.0
 \- SMPlayer 24.5.0
 \- VLC 3.0.21
-\- Virtualbox 7.1.6
+\- Virtualbox 7.1.8
 \- VokoscreenNG 4.5.0
 \- OBS Studio 31.0.3
 <br>
