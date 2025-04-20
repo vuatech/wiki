@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0
 description: 
 published: true
-date: 2025-03-14T11:13:37.968Z
+date: 2025-04-20T16:27:15.057Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T18:29:59.676Z
@@ -12,10 +12,10 @@ dateCreated: 2025-03-10T18:29:59.676Z
 
 OpenMandriva Lx 6.0 is a new release from the OpenMandriva Association. [Codename](/policies/codename) Vanadium.
 
-<!--
-[![omlx50-login.jpg](/images/omlx50-login.jpg =400x)](/images/omlx50-login.jpg) [![omlx50-ksplash.jpg](/images/omlx50-ksplash.jpg =400x)](/images/omlx50-ksplash.jpg)   
-[![omlx50-desktop..jpg](/images/omlx50-desktop.jpg =400x)](/images/omlx50-desktop.jpg) [![omlx50-welc.jpg](/images/omlx50-welc.jpg =400x)](/images/omlx50-welc.jpg) 
--->
+
+[![omlx60-login.jpg](/images/omlx60-login.jpg =400x)](/images/omlx60-login.jpg) [![omlx60-ksplash.jpg](/images/omlx60-ksplash.jpg =400x)](/images/omlx60-ksplash.jpg)   
+[![omlx.6.0-deskt.jpg](/images/omlx.6.0-deskt.jpg =400x)](/images/omlx.6.0-deskt.jpg) [![omlx60-welc.jpg](/images/omlx60-welc.jpg =400x)](/images/omlx60-welc.jpg) 
+
 
 **It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
 You can download it at [this link](https://sourceforge.net/projects/openmandriva/files/release/6.0/).
