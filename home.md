@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2025-03-10T18:17:32.317Z
+date: 2025-04-20T16:13:36.015Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -22,14 +22,14 @@ Release date:  [11 December 2024](https://www.openmandriva.org/107)
 - [Learn more *about this release*](/distribution/releases/rome) 
 {.links-list}
 
-# Rock (OpenMandriva Lx 5.0)
+# Rock (OpenMandriva Lx 6.0)
 
->  **Rock (OMLx 5.0)** is the workstation and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Iodine
+>  **Rock (OMLx 6.0)** is the workstation and server release published by the OpenMandriva Association. Also for individual users that do not like change. [Codename](/policies/codename) Vanadium
 {.is-success}
 
-Release date:  [25 November 2023](https://www.openmandriva.org/101)
+Release date:  [20 April 2025](https://www.openmandriva.org/100)
 
-![omlx.5.0-deskt.jpg](/images/omlx.5.0-deskt.jpg =400x)
+![omlx.6.0-deskt.jpg](/images/omlx.6.0-deskt.jpg =400x)
 
 - [Download Now *Get Rock*](/distribution/releases/download)
 - [Learn more *about this release*](/distribution/releases/omlx50) 
