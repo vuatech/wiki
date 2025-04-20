@@ -2,7 +2,7 @@
 title: OMA Wiki
 description: 
 published: true
-date: 2025-04-20T16:13:36.015Z
+date: 2025-04-20T16:14:14.914Z
 tags: 
 editor: markdown
 dateCreated: 2020-03-16T11:07:21.448Z
@@ -32,7 +32,7 @@ Release date:  [20 April 2025](https://www.openmandriva.org/100)
 ![omlx.6.0-deskt.jpg](/images/omlx.6.0-deskt.jpg =400x)
 
 - [Download Now *Get Rock*](/distribution/releases/download)
-- [Learn more *about this release*](/distribution/releases/omlx50) 
+- [Learn more *about this release*](/distribution/releases/omlx60) 
 {.links-list}
 
 ## Getting Started
