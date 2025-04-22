@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2025-04-22T21:44:35.176Z
+date: 2025-04-22T21:45:09.294Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
@@ -11,7 +11,7 @@ dateCreated: 2021-02-19T15:43:53.051Z
 # How to update system
 
 > OpenMandriva policy on system upgrade is different.
-> **Do not** use Discover for system upgrade. Never.
+> **Do not** use Discover for system upgrade.
 {.is-danger}
 
 <br>
