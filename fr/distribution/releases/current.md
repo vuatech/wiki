@@ -2,7 +2,7 @@
 title: Versions actuelles
 description: 
 published: true
-date: 2023-11-25T01:02:06.367Z
+date: 2025-04-20T09:13:39.812Z
 tags: Versions
 editor: markdown
 dateCreated: 2020-09-08T07:13:51.704Z
@@ -16,18 +16,18 @@ dateCreated: 2020-09-08T07:13:51.704Z
 (*L'édition en publication continue*)
 - [Vue d'ensemble](/distribution/releases/rome)
 - [Nouveautés](/distribution/releases/rome/new)
-- [Notes de version](/distribution/releases/rome/notes)
+- [Notes](/distribution/releases/rome/notes)
 - [Errata](/distribution/releases/rome/errata)
 <br>
 
 ## Rock
 #### La meilleure pour les entreprises, les serveurs et utilisateurs qui n'aiment pas le changement
-(*OpenMandriva Lx 5.0 Iodine*)
+(*OpenMandriva Lx 6.0 Vanadium*)
 
-- [Vue d'ensemble](/distribution/releases/omlx50)
-- [Nouveautés](/distribution/releases/omlx50/new)
-- [Notes de versions](/distribution/releases/omlx50/notes)
-- [Errata](/distribution/releases/omlx50/errata)
+- [Vue d'ensemble](/distribution/releases/omlx60)
+- [Nouveautés](/distribution/releases/omlx60/new)
+- [Notes de version](/distribution/releases/omlx60/notes)
+- [Errata](/distribution/releases/omlx60/errata)
 <br>
 
 
