@@ -1,83 +1,76 @@
 ---
-title: Wiki OMA
-description: Voici le Wiki OpenMandriva, un projet de documentation libre que vous pouvez améliorer
+title: OMA Wiki
+description: 
 published: true
-date: 2025-02-03T06:22:39.609Z
+date: 2025-04-20T16:14:14.914Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T00:47:55.319Z
+dateCreated: 2020-03-16T11:07:21.448Z
 ---
-
-
-OpenMandriva est un système d'exploitation de bureau gratuit et passionnant qui vise à stimuler et à intéresser aussi bien les nouveaux utilisateurs que les utilisateurs avancés. Il a les capacités d'un système avancé, mais il est conçu pour être simple et facile à utiliser.
 
 # ROME
 
-> ROME est la version *rolling* publiée par l'association OpenMandriva. ROME a été conçue pour les particuliers qui souhaitent avoir des mises à jour fréquentes de leurs logiciels. [Nom de code](/policies/codename) ROME.
+> ROME est une distribution Linux en publication continue diffusée par OpenMandriva Association. ROME est conçue pour les utilisateurs individuels et procurera les logiciels les plus récents disponibles . [Nom de code](/policies/codename) ROME.
 {.is-success}
 
-Date de publication:  [24 août 2023](https://www.openmandriva.org/99)
- 
-[![omlx.rolling-latte-dock.jpg](/images/omlx.rolling-latte-dock.jpg =400x)](/images/omlx.rolling-latte-dock.jpg) 
+Date de parution :  [11 décembre 2024](https://www.openmandriva.org/107)
+
+[![rome-desktop.jpg](/images/rome-desktop.jpg =400x)](/images/rome-desktop.jpg) 
 
 
 - [Télécharger maintenant *Obtenir ROME*](/distribution/releases/download)
-- [En savoir plus *À propos ce cette version*](/distribution/releases/rome) 
+- [En savoir plus *A propos de cette version*](/distribution/releases/rome) 
 {.links-list}
 
-# Rock (OpenMandriva Lx 5.0)
+# Rock (OpenMandriva Lx 6.0)
 
->  **Rock (OMLx 5.0)** est la version publiée par l'association OpenMandriva pour les ordinateurs de bureaux et les serveurs. Idéal pour les professionnels comme pour particuliers qui ne souhaitent pas de bousculements par les mises à jours. [Nom de code](/policies/codename) Iodine
+>  **Rock (OMLx 6.0)** est la version station de travail et serveur diffusée par OpenMandriva Association. Également pour les utilisateurs individuels qui n'aiment pas le changement. [Nom de code](/policies/codename) Vanadium
 {.is-success}
 
-Date de publication:  [25 november 2023](https://www.openmandriva.org/101)
+Date de parution : [20 avril 2025](https://www.openmandriva.org/100)
 
-![omlx.5.0-deskt.jpg](/images/omlx.5.0-deskt.jpg =400x)
+![omlx.6.0-deskt.jpg](/images/omlx.6.0-deskt.jpg =400x)
 
 - [Télécharger maintenant *Obtenir Rock*](/distribution/releases/download)
-- [En savoir plus *À propos de cette version*](/distribution/releases/omlx50) 
+- [En savoir plus *A propos de cette version*](/distribution/releases/omlx60) 
 {.links-list}
 
-## Démarrage
+## Pour commencer
 
-- [About *Who are we and what is OpenMandriva Lx*](/distribution)
-- [Release Notes ***Read Release Notes and Errata***](/distribution/releases/current)
-- [Requirements *Hardware prerequisites*](/distribution/install/requirements/)
-- [Installation Guide *Detailed installation instructions*](/distribution/install/)
-- [Post-installation *What to do after your installed OpenMandriva Lx*](/distribution/install/post-install)
+- [A propos *Qui sommes nous et qu'est ce qu'OpenMandriva Lx*](/distribution)
+- [Notes de versions ***Lire les notes de versions et Errata***](/distribution/releases/current)
+- [Prérequis *Conditions matérielles préalables*](/distribution/install/requirements/)
+- [Guide d'installation *Instructions détaillées pour l'installation*](/distribution/install/)
+- [Post-installation *Que faire après avoir installé OpenMandriva Lx*](/distribution/install/post-install)
 
 {.links-list}
 
-## Guide utilisateur
+## Guide de l'utilisateur
 
-- [Software management *How to add and remove software*](/distribution/guides/software-management)
-- [How-tos *Convenient list of guides and how-to*](/distribution/guides/how-tos)
+- [Gestion des logiciels *Comment ajouter ou supprimer un logiciel*](/distribution/guides/software-management)
+- [Modes d'emploi *Liste pratique de guides et de modes d'emploi*](/distribution/guides/how-tos)
 {.links-list}
 
 # Rejoindre l'équipe
 
-## The OpenMandriva Association
-L'association OpenMandriva sponsorise et facilite la maintenance et la distribution de la distribution OpenMandriva. En tant qu'[Association de loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901) française, elle est chargée de représenter la communauté OpenMandriva et de canaliser et d'attirer des ressources et des contributeurs.
-
-- [:book: The Association *Who we are and what we do*](/team/association)
+## L'association OpenMandriva
+- [:book: l'Association *Qui sommes nous et que faisons nous*](/team/association)
 {.links-list}
 
-## Developers
+## Développeurs
 
-- [:woman_cook: Cooker *The development environment distribution*](/team/dev/cooker)
+- [:woman_cook: Cooker *L'environnement de développement de la distribution*](/team/dev/cooker)
 {.links-list}
 
-## Workflow
-- [:globe_with_meridians: Mirroring *How are set mirror for fast packages downloading*](/en/team/infra/mirroring)
+## Flux de travail
+- [:globe_with_meridians: Mise en miroir *Comment sont configurés les miroirs pour un téléchargement rapide des paquets ?*](/en/team/infra/mirroring)
 {.links-list}
 
-## Contact us
-- [:question: Question, comments or just chat *We're not far away*](/team/chat)
-- [:fire: Report an issue *Help us improve the distribution and websites*](/team/qa/report-bug)
-- [:bulb: Suggest a New Feature *We need your ideas!*](/team/chat)
-- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://www.openmandriva.org/en/Donate)
+## Nous contacter
+- [:question: Questions, commentaires ou simplement discuter *Nous ne sommes jamais bien loin*](/team/chat)
+- [:fire: Signaler un dysfonctionnement *Aidez-nous à améliorer la distribution et les sites web*](/team/qa/report-bug)
+- [:bulb: Suggérer une nouvelle fonctionnalité *Nous avons besoin de vos idées !*](/team/chat)
+- [:moneybag: Faire un don *Faites un petit don ou devenez un sponsor de ce merveilleux projet !*](https://www.openmandriva.org/donate)
 {.links-list}
 
 ![openmandriva-wiki.svg](/logo/openmandriva-wiki.svg){.align-abstopright}
-
-
