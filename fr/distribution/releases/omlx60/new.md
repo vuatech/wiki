@@ -1,18 +1,18 @@
 ---
-title: OpenMandriva ROME - Nouveautés
+title: Nouveautés d'OpenMandriva Lx 6.0
 description: 
 published: true
-date: 2025-04-20T09:41:38.909Z
-tags: rolling, rome
+date: 2025-04-20T09:42:50.458Z
+tags: 6.0
 editor: markdown
-dateCreated: 2023-02-28T15:34:33.449Z
+dateCreated: 2025-03-10T18:36:16.131Z
 ---
 
-### Quelles sont les nouveautés dans ROME
+## Quelles sont les nouveautés d'OpenMandriva Lx 6.0 ?
+OpenMandriva Lx 6.0 est une nouvelle version de l'association OpenMandriva. [Nom de code](/policies/codename) Vanadium.
+Il est recommandé de lire les dernières [notes de version] (/distribution/releases/omlx60/notes) sur notre wiki.
 <br>
-
-##### Journal des modifications 25.04
-<br>
+**Fonctionnalité principale**
 
 ###### KDE
 \- [Bureau Plasma 6.3.4](https://kde.org/announcements/plasma/6/6.3.4) - ([et 5.27.12](https://kde.org/announcements/plasma/5/5.27.12))
@@ -28,7 +28,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 <br>
 
 ###### Cœur
-\- [Noyau](https://www.kernel.org/) 6.14.2 (and 6.15.0-rc2) construit avec clang. Versions compilées avec GCC également disponibles
+\- [Noyau](https://www.kernel.org/) 6.14.2 (et 6.15.0-rc2) construit avec clang. Versions compilées avec GCC également disponibles
 \- [systemd 257.5](https://www.freedesktop.org/wiki/Software/systemd/)
 \- [LLVM/clang 19.1.7](http://llvm.org/)
 \- binutils 2.44
@@ -59,10 +59,11 @@ dateCreated: 2023-02-28T15:34:33.449Z
 <br>
 
 ### Bureaux alternatifs
-Les dépôts système comprennent également LXQt 2.2, Gnome 48.1, Mate 1.28, xfce 4.20.1, Cinnamon, icewm, i3, sway, hyprland, hypr, wayfire, budgie et d'autres.
+Les dépôts système comprennent également Gnome 48.1, Mate 1.28, xfce 4.20.1, Cinnamon, icewm, i3, sway, hyprland, hypr, wayfire, budgie et d'autres.
 <br>
 
-###### Prise en charge de Flatpak
+### Prise en charge de Flatpak
+Prise en charge de Flatpak inclus
 <br>
 
-![header-tr-rome.svg](/assets/header-tr-rome.svg){.align-abstopright}
+![header-tr-60.svg](/assets/header-tr-60.svg){.align-abstopright}
