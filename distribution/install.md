@@ -2,7 +2,7 @@
 title: Install OpenMandriva Lx
 description: 
 published: true
-date: 2024-08-20T10:30:18.197Z
+date: 2025-04-30T09:48:16.196Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-02T20:03:48.871Z
@@ -13,8 +13,11 @@ dateCreated: 2021-10-02T20:03:48.871Z
 # 1\. Transfer the downloaded image to a USB flash drive
 
 To transfer the live/installation image to an USB storage device you may use:
-ROSA-imagewriter, KDE isoimagewriter, SUSE Studio ImageWriter, dd command line.
-Please do not use other usb-writing tools as some Windows tools (e.g. Rufus) truncate the volume name and will break the boot process. 
+om-imagewriter, KDE isoimagewriter, SUSE Studio ImageWriter, dd command line.
+
+*Windows users:*
+If you use other usb-writing tools as some Windows tools (e.g. Rufus) you must select the `dd` mode otherwise it will truncate the volume name and break the boot process.
+Balena Etcher is reported as working fine to transfer OpenMandriva ISO images to USB storage device.
 
 # 2\. Boot from USB flash drive
 
