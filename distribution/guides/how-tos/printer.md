@@ -2,7 +2,7 @@
 title: How to configure printer in OMLx
 description: 
 published: true
-date: 2025-01-14T13:18:00.942Z
+date: 2025-05-03T15:56:07.005Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2020-03-09T18:43:12.417Z
@@ -15,7 +15,7 @@ If printer was auto configured and you have correct driver you are all set.
 
 If it was not, turn off your printer.
 
-Open *Printer Settings* aka `system-config-printer` and remove your printer.
+Open *Printer Settings* aka `kcmshell6 kcm_printer_manager` (if you're using Plasma 5, use `kcmshell5` instead of `kcmshell6`) and remove your printer.
 If the correct driver was not installed by default we will need to add a software package.
 
 The next step is to determine what software to add for your printer.
