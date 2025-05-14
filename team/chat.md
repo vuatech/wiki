@@ -2,7 +2,7 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2025-05-03T08:21:59.280Z
+date: 2025-05-14T16:31:15.054Z
 tags: documentation, chat
 editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
@@ -16,14 +16,20 @@ The quickest way to get in touch with OpenMandriva is to join our [Matrix space]
 <br />
 ### OpenMandriva newcomers welcome room
   - Matrix: `#openmandriva-hello:matrix.org`
+  
+  This channel is for new users especially with problems installing or booting OMLx ROME or Rock.
 <br />
 ### Generic discussions
   - Matrix: `#openmandriva:matrix.org`
   - Telegram: https://t.me/openmandriva
+  
+  This channel is for off topic and general chat for OM enthusiasts. 
 <br />
 ### Develoment (Cooker) discussions  
   - Matrix: `#openmandriva-cooker:matrix.org`
   - Telegram: https://t.me/openmandrivaCooker
+  
+  This channel is for work and technical discussions with OM developers. Please respect that this is where OM developers work.
 <br />
 
 #### Note about Libera Chat
