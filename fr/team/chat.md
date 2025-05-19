@@ -23,7 +23,7 @@ Le moyen le plus rapide d'entrer en contact avec OpenMandriva est de rejoindre n
   - Matrix: `#openmandriva:matrix.org`
   - Telegram: https://t.me/openmandriva
 
-  Ce canal est destiné aux discussions hors sujet et générales
+  Bien que ce canal soit destiné à la discussion générale et hors sujet, et que nous ne censurions aucune opinion personnelle, cela ne signifie pas qu'il n'est pas soumis à des règles de bon sens pour que tout le monde y trouve son plaisir. Cela signifie (liste non exhaustive) qu'aucun lien inapproprié ou discussion susceptible de blesser des mineurs n'est admis.
 <br />
 ### Discussions sur le développement (Cooker)
   - Matrix: `#openmandriva-cooker:matrix.org`
