@@ -23,7 +23,7 @@ Il modo più veloce per contattare il team di OpenMandriva è quello di collegar
   - Matrix: `#openmandriva:matrix.org`
   - Telegram: https://t.me/openmandriva
 
-  Questo canale è dedicato a discussioni e chiacchierate OffTopic per gli appassionati di OpenMandriva.
+  Sebbene questo canale sia destinato a discussioni fuori tema e alle chiacchiere generali, e per nostra scelta non censuriamo alcuna opinione personale, ciò non significa che non sia soggetto a regole di buon senso per la piacevole convivenza di tutti. Ciò significa (ma non è un elenco esaustivo) che non sono ammessi link non appropriati o discussioni che possano danneggiare i minori.
 <br />
 ### Sviluppo (Cooker)
   - Matrix: `#openmandriva-cooker:matrix.org`
