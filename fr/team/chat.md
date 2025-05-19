@@ -2,7 +2,7 @@
 title: Tchatter avec OpenMandriva
 description: Guide et FAQ concernant le tchat
 published: true
-date: 2025-02-15T11:23:26.159Z
+date: 2025-05-14T16:31:15.054Z
 tags: documentation, tchat
 editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
@@ -14,13 +14,22 @@ Avec n'importe quel type de chat ou d'IRC, les gens se trouvent dans des fuseaux
 
 Le moyen le plus rapide d'entrer en contact avec OpenMandriva est de rejoindre notre [espace Matrix] (https://matrix.to/#/#openmandriva-space:matrix.org).
 <br />
-### Discussions générales
+### Salle d'accueil des nouveaux arrivants d'OpenMandriva
+  - Matrix: `#openmandriva-hello:matrix.org`
+
+  Ce canal est destiné aux nouveaux utilisateurs qui ont des problèmes d'installation ou de démarrage d'OMLx ROME ou Rock.
+<br />
+### Discussions génériques
   - Matrix: `#openmandriva:matrix.org`
   - Telegram: https://t.me/openmandriva
+
+  Bien que ce canal soit destiné à la discussion générale et hors sujet, et que nous ne censurions aucune opinion personnelle, cela ne signifie pas qu'il n'est pas soumis à des règles de bon sens pour que tout le monde y trouve son plaisir. Cela signifie (liste non exhaustive) qu'aucun lien inapproprié ou discussion susceptible de blesser des mineurs n'est admis.
 <br />
-### Développement (Cooker) discussions  
+### Discussions sur le développement (Cooker)
   - Matrix: `#openmandriva-cooker:matrix.org`
   - Telegram: https://t.me/openmandrivaCooker
+
+  Ce canal est destiné au travail et aux discussions techniques avec les développeurs de l'OM. Veuillez respecter le fait que c'est ici que les développeurs d'OM travaillent.
 <br />
 
 #### Note sur le tchat de Libera
