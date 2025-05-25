@@ -2,7 +2,7 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2025-05-19T13:16:46.911Z
+date: 2025-05-25T21:36:38.393Z
 tags: documentation, chat
 editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
@@ -15,13 +15,12 @@ With any type of Chat or IRC people are in different time zones, or otherwise ma
 The quickest way to get in touch with OpenMandriva is to join our [Matrix space](https://matrix.to/#/#openmandriva-space:matrix.org)
 <br />
 ### OpenMandriva newcomers welcome room
-  - Matrix: `#openmandriva-hello:matrix.org`
-  
-This channel is for new users especially with problems installing or booting OMLx ROME or Rock.
-<br />
-### Generic OffTopic discussions
   - Matrix: `#openmandriva:matrix.org`
-  - Telegram: https://t.me/openmandriva
+  
+This channel is for quick Q&A support, also for new users especially with problems installing or booting OMLx ROME or Rock.
+<br />
+### Generic chat offtopic discussions
+  - Matrix: `#openmandriva-chat:matrix.org`
   
 While this channel is for off topic and general chat, and we by design don't censor any personal opinion, that does not mean it's not subject to common sense rules for everyone's enjoying to stay there. That means (but not exhaustive list) no unappropriate links or discussions which may hurt minors are admitted.
 <br />
