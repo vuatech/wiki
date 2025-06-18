@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-03-14T11:26:15.121Z
+date: 2025-06-18T20:52:09.904Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
