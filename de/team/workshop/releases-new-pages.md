@@ -73,5 +73,5 @@ Pfade dürfen die folgenden Zeichen nicht enthalten:
 - Punkt (reserviert für Dateierweiterungen)
 - Unsichere URL-Zeichen (wie Interpunktionszeichen, Anführungszeichen, mathematische Symbole etc.)
 
-Da wir oft Release-Versionsnummern (4.0, 4.1, 4.2 etc.) schreiben müssen, wandeln wir sie bei der Erstellung neuer Seiten einfach in `40`, `41`, `42` usw. um, indem wir den Punkt im Pfad weglassen.
+Da wir oft Release-Versionsnummern (4.0, 4.1, 4.2 etc.) schreiben müssen, wandeln wir sie bei der Erstellung neuer Seiten einfach in `40`, `41`, `42` usw. um, indem wir den Punkt in dem Pfad weglassen.
 
