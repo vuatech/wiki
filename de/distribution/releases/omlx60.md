@@ -17,7 +17,7 @@ OpenMandriva Lx 6.0 ist ein neues Release von der OpenMandriva Association. [Cod
 [![omlx.6.0-deskt.jpg](/images/omlx.6.0-deskt.jpg =400x)](/images/omlx.6.0-deskt.jpg) [![omlx60-welc.jpg](/images/omlx60-welc.jpg =400x)](/images/omlx60-welc.jpg) 
 
 
-**It is recommended that you read the** [latest Release notes and Errata](https://wiki.openmandriva.org/distribution/releases/current).
+**Es wird empfohlen, dass Sie lesen die** [latest Release notes and Errata]  (https://wiki.openmandriva.org/distribution/releases/current).
 Sie können es herunterladen unter [this link](https://sourceforge.net/projects/openmandriva/files/release/6.0/).
 
 ## Was ist neu?
