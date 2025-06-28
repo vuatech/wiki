@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-03-19T09:02:05.240Z
+date: 2025-06-28T07:43:27.483Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -247,7 +247,7 @@ As a workaround remove `dnf-utils`.
 For bluetooth devices user may need to enable systemd bluetooth.service. Open Konsole
 and run:
 
-`$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
+`$ sudo systemctl enable --now bluetooth`
 <br>
 
 ### SystemSettings
