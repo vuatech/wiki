@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Errata
 description: OpenMandriva Lx 6.0 Errata
 published: true
-date: 2025-03-14T11:19:37.227Z
+date: 2025-06-28T07:44:52.517Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T20:01:31.755Z
@@ -217,7 +217,7 @@ As a workaround remove `dnf-utils`.
 For bluetooth devices user may need to enable systemd bluetooth.service. Open Konsole
 and run:
 
-`$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
+`$ sudo systemctl enable --now bluetooth`
 <br>
 
 ### SystemSettings
