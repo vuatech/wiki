@@ -2,7 +2,7 @@
 title: Cooker
 description: 
 published: true
-date: 2022-04-02T16:19:42.983Z
+date: 2025-07-31T16:48:06.433Z
 tags: cooker
 editor: markdown
 dateCreated: 2020-02-26T22:33:18.166Z
@@ -24,8 +24,8 @@ You are invited to help in both fields and will find the guidelines and rules at
 ## Using Cooker
 Advanced users feeling skilled enough to play and experiment with unstable releases, or developers for testing purpose, can download the latest cooker snapshot ISO files here:
 
-- [x86_64 iso](https://abf.openmandriva.org/platforms/cooker/products/4)
-- [znver1 iso](https://abf.openmandriva.org/platforms/cooker/products/6)
+- [x86_64 iso](https://abf.openmandriva.org/platforms/cooker/products/71)
+- [znver1 iso](https://abf.openmandriva.org/platforms/cooker/products/69)
 
 Please be aware that we cannot support systems on Cooker due to its nature.
 
