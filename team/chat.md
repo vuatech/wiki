@@ -2,7 +2,7 @@
 title: Chat with OpenMandriva
 description: Guide and FAQ related to chat
 published: true
-date: 2025-05-25T21:36:38.393Z
+date: 2025-07-31T06:34:26.808Z
 tags: documentation, chat
 editor: markdown
 dateCreated: 2020-03-12T11:50:57.466Z
@@ -24,7 +24,7 @@ This channel is for quick Q&A support, also for new users especially with proble
   
 While this channel is for off topic and general chat, and we by design don't censor any personal opinion, that does not mean it's not subject to common sense rules for everyone's enjoying to stay there. That means (but not exhaustive list) no unappropriate links or discussions which may hurt minors are admitted.
 <br />
-### Develoment (Cooker) discussions  
+### Development (Cooker) discussions  
   - Matrix: `#openmandriva-cooker:matrix.org`
   - Telegram: https://t.me/openmandrivaCooker
   
