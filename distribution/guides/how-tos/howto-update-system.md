@@ -2,7 +2,7 @@
 title: How to update system
 description: How to update your Rock or Rolling system
 published: true
-date: 2025-04-22T21:45:09.294Z
+date: 2025-08-02T19:12:19.690Z
 tags: documentation, howto, user-guide
 editor: markdown
 dateCreated: 2021-02-19T15:43:53.051Z
@@ -16,22 +16,11 @@ dateCreated: 2021-02-19T15:43:53.051Z
 
 <br>
 
-## How to update Rock
-- To update your Rock system open Konsole and run the commands:
+
+Open Konsole and run the commands:
 ```
 $ sudo dnf clean all ; dnf clean all ; dnf repolist
-$ sudo dnf upgrade
-```
-
-
-
-<br>
-
-## How to update ROME
-- To update ROME, your rolling system, open Konsole and run the commands:
-```
-$ sudo dnf clean all ; dnf clean all ; dnf repolist
-$ sudo dnf distro-sync --allowerasing
+$ sudo dnf distro-sync --refresh --allowerasing
 ```
 
 - or
