@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-06-28T07:43:27.483Z
+date: 2025-08-06T05:36:55.105Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -58,6 +58,7 @@ If user has an issue with the graphic performance of nvidia proprietary drivers 
 > You may need to disconnect/unplug any secondary monitors to be able to reach the login screen.
 {.is-warning}
 
+See also [#2072](https://github.com/sddm/sddm/issues/)
 <br>
 
 #### Nvidia Open kernel module
