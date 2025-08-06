@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Errata
 description: OpenMandriva Lx 6.0 Errata
 published: true
-date: 2025-06-28T07:44:52.517Z
+date: 2025-08-06T05:38:25.995Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T20:01:31.755Z
@@ -57,6 +57,9 @@ If user has an issue with the graphic performance of nvidia proprietary drivers 
 6. Probably also related to nvidia graphic cards:
 > You may need to disconnect/unplug any secondary monitors to be able to reach the login screen.
 {.is-warning}
+
+See also [#2072](https://github.com/sddm/sddm/issues/)
+<br>
 
 <br>
 
