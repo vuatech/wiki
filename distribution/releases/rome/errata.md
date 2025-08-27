@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Errata
 description: ROME Errata
 published: true
-date: 2025-08-06T05:36:55.105Z
+date: 2025-08-27T20:00:22.397Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:18:26.632Z
@@ -190,6 +190,8 @@ Now turn printer on again and it should then automatically configure itself (som
 **Alternative method to set up a printer in ROME is to use CUPS (https://localhost:631/ as url in browser)**. *For some hardware this may work better.*
 
 If not seek help [here](https://forum.openmandriva.org/c/en/support).
+
+**Note:** You may need to install `system-config-printer-gui`
 
 **Note:** If you have problems setting up a usb connected printer it may help to remove the packages `usbmuxd` and `ipp-usb`. Removing `ipp-usb` means you won’t be able to use "driverless" driver.
 <br>
