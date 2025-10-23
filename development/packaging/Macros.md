@@ -1,7 +1,7 @@
 ---
-title: Create, maintain and update packages
-description: How to work on OpenMandriva packages
-published: true
+title: Macros
+description: Information on macros
+published: false
 date: 2025-02-15T18:53:13.547Z
 tags: cooker, development, guide, packaging
 editor: markdown
