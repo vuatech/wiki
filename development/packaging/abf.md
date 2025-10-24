@@ -47,4 +47,4 @@ Above shows the build logs for walker. You can see the ABF executed the %build p
 Including the package that contains the cargo command will resolve the issue. For more information on how to include packages, please refer to example entry.
 
 ### Tests failed
-This error happens when installing the package. The most common cause is a missing required package or the package is older or the same version as the package previously built. The test log will contain all the information required to troubleshoot this issue. For more information please refer to example entry.
+This error happens when installing the package. The most common cause is a missing required package or the package is older or the same version as the package previously built. The test log will contain all the information required to troubleshoot this issue. For more information please refer to the example entry.
