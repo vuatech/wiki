@@ -31,6 +31,7 @@ In this macro file you can see the defined macro with % prefixing the name and t
 
 ## List of common macros.
 ### General RPM Spec macros
+```
 %{buildroot} = %{_buildrootdir}/%{name}-%{version}-%{release}.%{_arch}
 %{_topdir} = %{getenv:HOME}/rpmbuild
 %{_builddir} = %{_topdir}/BUILD
@@ -39,12 +40,15 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %{_specdir} = %{_topdir}/SPECS
 %{_srcrpmdir} =%{_topdir}/SRPMS
 %{_buildrootdir} = %{_topdir}/BUILDROOT
-
+```
 ### %build related macos
-
+```
+```
 ### %install related macros
-
+```
+```
 ### %file related macros
+```
 %{_sysconfdir} = /etc
 %{_rundir} = /run
 %{_prefix} = /usr
@@ -65,3 +69,4 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %{_datadir}/bash-completions/completions/
 %{_datadir}/fish-completions/completions/
 %{_datadir}/zsh-completions/completions/
+```
