@@ -10,7 +10,7 @@ dateCreated: 2025-10-23T23:43:56Z
 
 # Information on ABF(Automated Build Farm)
 ## What is the ABF
-The ABF is, as the name describes, an autmoted build farm that handles the building, testing, and publishing of packages and ISO.
+The ABF stands for autmoted build farm. The ABF handles the building, testing, and publishing of packages and ISO.
 
 ### How does the ABF work
 The ABF uses a spec and a .abf.yml file to build a package in an semi(?)-airgapped (connection to the internet is not allowed) network.
