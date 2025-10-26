@@ -70,3 +70,7 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %{_datadir}/fish-completions/completions/
 %{_datadir}/zsh-completions/completions/
 ```
+## Build system macros
+```
+
+```
