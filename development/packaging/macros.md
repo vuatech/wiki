@@ -40,12 +40,47 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %{_specdir} = %{_topdir}/SPECS
 %{_srcrpmdir} =%{_topdir}/SRPMS
 %{_buildrootdir} = %{_topdir}/BUILDROOT
+%{pyver} = current python version
 ```
 ### %build related macos
 ```
+%configure
+%cmake
+%cmake_build
+%make_build
+%py_build
+%gobuild
+%meson
+%meson_build
 ```
 ### %install related macros
 ```
+%cmake_install
+%make_install
+%py_build
+%goinstall
+%meson_install
+```
+### %check related macros
+```
+%gotest
+%meson_test
+```
+### Misc related macros
+These macros are usually post transaction/install/remove. systemd related to systemd services. Pre is before package is installed, post is after, and user is for user services. There are also %pretrans and %posttrans but these are rare to use. 
+```
+%systemd_pre
+%systemd_preun
+%systemd_post
+%systemd_postun
+%systemd_user_pre
+%systemd_user_preun
+%systemd_user_post
+%systemd_user_postun
+%pretrans
+%posttrans
+%preun
+%postun
 ```
 ### %file related macros
 ```
@@ -69,8 +104,17 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %{_datadir}/bash-completions/completions/
 %{_datadir}/fish-completions/completions/
 %{_datadir}/zsh-completions/completions/
+%{_rpmmacrodir} = /usr/lib/rpm/macros.d
 ```
 ## Build system macros
+Build system macros combines the %build and %install macros to streamline the process. This is the recommended way to build packages as it makes the spec file slim and carries less debt when changes are made. Please refer to examples for more information.
 ```
-
+BuildSystem: cmake
+BuildSystem: meson
+BuildSystem: python
+```
+## Build System Options
+BuildOption is used to passed extra options to the build system macros. These options can given in a chain like normal options or be listed as seperate build options. Please refer to examples for more information.
+```
+BuildOption: (insert options)
 ```
