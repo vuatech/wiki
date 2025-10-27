@@ -66,7 +66,7 @@ In this macro file you can see the defined macro with % prefixing the name and t
 %gotest
 %meson_test
 ```
-### Misc related macros
+### Misc related macros (Review)
 These macros are usually post transaction/install/remove. systemd related to systemd services. Pre is before package is installed, post is after, and user is for user services. There are also %pretrans and %posttrans but these are rare to use. 
 ```
 %systemd_pre
@@ -77,6 +77,7 @@ These macros are usually post transaction/install/remove. systemd related to sys
 %systemd_user_preun
 %systemd_user_post
 %systemd_user_postun
+Above are depreciated and are pending removal
 %pretrans
 %posttrans
 %preun
