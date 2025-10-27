@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-10-23T23:43:56Z
 ---
 # What is vendoring
-Vendoring is a practice of generating/installing dependencies required for a package to be compiled and installed. This can be done by packaging the software and calling on it through the BuildRequires: tag or in the case of 
+Vendoring is a practice of generating/installing dependencies required for a package to be compiled and installed. This can be done by packaging the software and calling on it through the BuildRequires: tag or by archiving the vendors and extracting them during the build process.
 ## The purpose of vendoring
 As described in the ABF entry, the ABF works in an airgapped environment. When a project is vendored, it allows the project to be built without any external internet connection. Cargo and Go are the most common default online compilers with mostly easy to use built in vendoring capability.
 ### Vendoring standard project
