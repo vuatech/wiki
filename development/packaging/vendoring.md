@@ -96,3 +96,4 @@ install -Dpm644 completions/swww.fish %{buildroot}/%{_datadir}/fish-completions/
 %{_datadir}/bash-completions/completions/%{name}
 ```
 ### Vendoring go
+Go has a builtin vendoring utility. Running ```go mod vendor``` will start the download of dependencies to the vendor folder in the root of the go project folder. Once the download is complete the vendor folder will need to be archived and added as a source to be extracted in a similar way to cargo. Unlike cargo, go does not need any files to be modified to be used. In some cases the repositories containing the depedencies may be private or archived in a way that is not accessible. Using ```export GOPROXY=https://proxy.golang.org,direct``` before running ```go mod vendor``` should allow those dependencies to be downloaded. When this is required please include the export command as a comment in the spec file for other users.
