@@ -43,3 +43,5 @@ Requires:
 %license
 %doc
 ```
+Good example for cargo toml
+https://github.com/OpenMandrivaAssociation/typst
