@@ -17,5 +17,5 @@ While OSI is the golden rule there are some license that are not listed but are 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
 ```
 If a license falls into this category ask the developers for their opinion before packaging.
-### List of license: entries for Spec files
+## List of license: entries for Spec files
 The rpmlint package contains a list of license in the file of /etc/xdg/rpmlint/license.toml. These entries are valid ```license:``` entries for RPM spec files to abide by RPMlint check. For best practice please check and use the appropriate license listed. Failure to do so will result in an RPMlint error, if RPMLint has an error threshold it will fail on the ABF. As of 10/31/2025 there is not a error limit.
