@@ -97,3 +97,38 @@ install -Dpm644 completions/swww.fish %{buildroot}/%{_datadir}/fish-completions/
 ```
 ### Vendoring go
 Go has a builtin vendoring utility. Running ```go mod vendor``` will start the download of dependencies to the vendor folder in the root of the go project folder. Once the download is complete the vendor folder will need to be archived and added as a source to be extracted in a similar way to cargo. Unlike cargo, go does not need any files to be modified to be used. In some cases the repositories containing the depedencies may be private or archived in a way that is not accessible. Using ```export GOPROXY=https://proxy.golang.org,direct``` before running ```go mod vendor``` should allow those dependencies to be downloaded. When this is required please include the export command as a comment in the spec file for other users.
+### Vendoring nodejs using pnpm
+Nodejs vendoring is strange and very not straight forward. Below is a script used to package hyprpanel and aylurs-gtk-shell. Changing the (folder) to the folder of the software extracted from the source tarball. Once this script is ran from the directory above the source folder the output will be named pnpm-offline-cache.tar.gz. This archive will need to be extracted during the %prep phase. In rare cases nodejs will use symlinks which will need to be manually copied like the situation in (hyprpanel)[https://github.com/OpenMandrivaAssociation/hyprpanel/blob/master/hyprpanel.spec].
+```
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Change folder to correct name
+cd (folder)
+
+cat > .npmrc <<'EOF'
+node-linker=hoisted
+store-dir=.pnpm-store
+cache-dir=.pnpm-cache
+virtual-store-dir=.pnpm
+EOF
+
+pnpm install --lockfile-only
+pnpm fetch
+pnpm install --offline --frozen-lockfile
+
+ARCHIVE_NAME="pnpm-offline-cache.tar.gz"
+tar --mtime='2025-01-01' \
+    --owner=0 --group=0 --numeric-owner \
+    -czf "../$ARCHIVE_NAME" \
+    package.json \
+    pnpm-lock.yaml \
+    .npmrc \
+    .pnpm-store \
+    .pnpm-cache \
+    .pnpm \
+    node_modules
+
+echo "Archive created: ../$ARCHIVE_NAME"
+echo "Size: $(du -h ../$ARCHIVE_NAME | cut -f1)"
+```
