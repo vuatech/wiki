@@ -7,8 +7,9 @@ tags: cooker, development, guide, packaging
 editor: markdown
 dateCreated: 2025-16T23:43:56Z
 ---
+#Cargo
+This script should vendor and archive the dependencies. Source will need to be added to spec file along with the correct ```%prep``` needs to point cargo to the vendor folder.
 ```
-
 #!/bin/sh
 ################################################################################
 # Source of this script: https://gitlab.com/-/snippets/4827226
