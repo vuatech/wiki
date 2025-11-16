@@ -89,4 +89,4 @@ Problem 1: problem with installed package
 You can try to add to command line:
   --skip-broken to skip uninstallable packages
 ```
-
+You will see the output above from time to time in cooker. If this appears in rome or rolling while using ```sudo dnf dsync``` then please report the issue.
